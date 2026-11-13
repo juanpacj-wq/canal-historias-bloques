@@ -1,0 +1,331 @@
+ 1010 95126 tc2.txt
+GenerationMode-The edit mode must match the source animation)Expected a new or upscale generation mode
+newYGenerates new R15+ animations from a prompt, or upscales an existing R6 animation to R15.bUse this tool whenever the user wants to create an animation, motion, or movement for a character.hPass a 'textPrompt' to create a new animation, or an 'inputAssetId' to upscale an existing R6 animation.
+Full Studio path to the rig Model to animate, e.g. "Workspace.Rig1", preferably from inspect_instance. Only pass this if the user specifies a rig. Otherwise omit it, and the tool will use the rig selected in Studio, or insert a default rig if none is selected.
+Set the required 'generationMode' parameter to 'new' with a 'textPrompt' to create a new animation, or to 'upscale' with an 'inputAssetId' to upscale an existing R6 animation.
+Editing is only supported for animations created with 'new', and only after this tool has successfully generated one in the current chat thread:^- 'editNew': edits an animation created with 'new'. Pass a 'textPrompt' describing the change.
+Full Studio path to the rig Model to animate for 'new' and 'upscale', e.g. "Workspace.Rig1", preferably from inspect_instance. Only pass this if the user specifies a rig. Otherwise omit it, and the tool will use the rig selected in Studio, or insert a default rig if none is selected. Edits will ignore this and reuse the rig the source animation is currently playing on.
+setName
+description/FFlagAssistantAnimationGenForwardPromptVerbatimgThe animation description exactly as provided by the user. Do not paraphrase, summarize, or add detail.5The text prompt describing the animation to generate.
+addOptionalArgument
+Length of the animation in seconds (%d to %d). Only pass this if the user asks for a specific duration; otherwise the best duration is chosen automatically.1FIntAssistantAnimationGenPluginMinDurationSeconds1FIntAssistantAnimationGenPluginMaxDurationSeconds5Asset id of an existing R6 animation clip to upscale.
+enumLWhether to generate, upscale, or continue editing the most recent animation.
+addArgument
+generate_animation
+string+AskInput submitted without a Values payload
+table.AskInput Values payload was not decodable JSON
+Missing fields$At least one input field is required FFlagAssistantUseNewDMNetworking
+InvokeAsync	dismissed%The user cancelled the input request.
+validateFieldValues(Submitted values had the wrong type: %*.
+summarizeFailures6Submitted values did not satisfy the requirements: %*.
+setName
+Presents a form to the user and returns the values they enter. Provide one field per value you need; the call blocks until the user submits or cancels.
+- A downstream action needs specific, typed inputs the user must supply or confirm (a name, a count, a picked instance, an uploaded image).Q- You want the user to review and adjust prefilled values before you act on them.
+- You are resolving an ambiguous request (which approach? what scope? which target?) - use `%*` instead; it is built for bounded, one-per-ambiguity questions.
+QuestionAnswer>- A reasonable default exists - proceed, then offer to adjust.
+## Validating inputBPut static, single-field limits on the FIELD, not in `validation`:8- Must be filled in -> set the field's `required: true`.L- A number's range, or an array's item count -> set the field's `min`/`max`.:- One of a fixed set -> use inputType='%*' with 'options'.
+For example, a required count from 1 to 10 is just `{ "name": "count", "inputType": "number", "required": true, "min": 1, "max": 10 }` - do NOT write a `validation` rule for this.
+Use the top-level `validation` argument ONLY for requirements that span more than one field (e.g. "a prompt is required, but only when mode = text"). Field limits and `validation` rules are all enforced together (combined with 'all'), so if a rule and a field's sugar constrain the same field the stricter of the two wins.	## Result
+On submit, returns `values`: a map of each field's `name` to the entered value (e.g. `{ "prompt": "a castle", "count": 3 }`). On cancel, returns `dismissed: true` and no values.
+Client-managed identifier selecting a known form's presentation (heading, labels, wizard). Set by slash-command flows; leave unset when authoring a form directly.
+addOptionalArgument
+The fields to collect, in display order. A field only describes one input; cross-field requirements go in the top-level `validation` argument, never inside a field.
+options;Identifier for this field; returned with the entered value.
+enum+What the field collects: '%*', '%*', '%*', 
+Boolean;'%*' (a list of strings), '%*' (exactly one of 'options'), 
+Array('%*', '%*' (a picked instance), or '%*' 
+Vector30(an object with numeric x, y, and z components).,Optional starting value, matching inputType.
+If true, the field must have a value in the results (a non-empty string, a picked instance, at least one array item, a vector3 with numeric x/y/z components, or -- for a boolean -- either true or false). For a requirement that depends on another field's value, use the top-level `validation` argument instead.
+number8For inputType='%*': inclusive lower bound on the value. (For inputType='%*': minimum item count. 
+Ignored for other types.8For inputType='%*': inclusive upper bound on the value. (For inputType='%*': maximum item count. ?Required when inputType='%*': the ids to choose exactly one of.
+addArgument
+Top-level argument, a sibling of `fields` (NOT a property of any field). For cross-field requirements ONLY - static single-field limits belong on the field via `required`/`min`/`max` (see the tool description's 'Validating input' section). Optional rule the entered values must satisfy before the form can be submitted; the tool also re-checks it on submit and errors if unmet. A rule is an object with a `kind`. Leaf rules inspect one field: 'nonEmpty' (`field` is filled in - a non-empty string/array, or a checked boolean), 'exists' (`field` has any value, including a boolean false), 'equals' (`field` == `value`), 'range' (a number `field` within `min`/`max`, or an array `field` whose item count is within `min`/`max`; both bounds inclusive and optional). Combinators nest other rules: 'all'/'any' take a `rules` array, 'not' takes a single `rule`, 'branch' reads `field` and applies the matching rule in `cases` (with optional `default`). Constants: 'always' / 'never'. Example - require a prompt only in text mode: { "kind": "branch", "field": "promptMode", "cases": { "text": { "kind": "nonE
+RangeCFor nonEmpty/exists/equals/range/branch: the field name to inspect.)For equals: the value `field` must equal.]For range: inclusive lower bound on the number, or on an array field's item count (optional).]For range: inclusive upper bound on the number, or on an array field's item count (optional).)For all/any: the nested rules to combine.,For not: the nested rule that must NOT pass.?For branch: map from the branch field's value to a nested rule.9For branch: the nested rule applied when no case matches.
+insertAssetAsync FFlagAssistantUseNewDMNetworking
+bridge-[AssetInsertTool] insertAssetAsync: ERROR: %*
+setStructuredContent$Insert an asset into the scene by ID
+setName
+Inserts an asset into the game by its numeric Roblox asset ID.
+Use this tool when you have a specific asset ID to insert directly, rather than searching the Creator Store.
+The asset will be loaded, validated, and placed in the scene.
+Always provide assetName when you know the name of the asset (e.g. from search results or user request). The inserted instance will be named using assetName 
+ if omitted, it defaults to a generic name.
+Supports models, meshes, images/decals, audio, video, animations, and packages.
+description"Numeric Roblox asset ID to insert.
+addArgument
+Name for the inserted instance in the game tree. Always provide this when you know the asset name (e.g. from search_asset results). If omitted, defaults to a generic name.
+addOptionalArgument
+Asset type hint. If provided, skips the metadata API lookup and uses this type directly. Use when the caller already knows the asset type (e.g. from inventory search results). 'Image' and 'Decal' both insert as a Decal instance.
+Video	Animation^DataModel path to parent the asset under (e.g. game.Workspace.Folder1). Defaults to workspace.
+insert_asset
+pcall@[AssetSearchTool] getUserGroups: fetch failed for surface=%*: %*
+table@[AssetSearchTool] getUserGroups: unexpected shape for surface=%*
+tryFetchD[AssetSearchTool] getUserGroups: returning cached groups (userId=%*)V[AssetSearchTool] getUserGroups: both surfaces failed; returning empty without cachingA[AssetSearchTool] getUserGroups: resolved %* groups for userId=%*
+error.Provide either groupId or groupName, not both.	nextSteps(Drop one of the two arguments and retry.BgroupId/groupName only apply when scope is "group"; scope is "%*".ZSet scope='group' to search the specified group, or remove the groupId/groupName argument.
+tonumber0groupId "%*" is not a valid positive numeric ID.FPass a positive numeric group ID, or use groupName to look up by name.'groupId "%*" is not one of your groups.FUse one of the listed group ids, or pass groupName to look up by name./rawGroupName must be set when rawGroupId is nil
+lower0groupName "%*" did not match any of your groups.EUse one of the listed group names exactly, or pass a numeric groupId.
+audioSearchFilters4[AssetSearchTool] fetchCreatorStoreAssets: FAILED %*
+creatorG[AssetSearchTool] fetchCreatorStoreAssets: parsed %* results, %* facets
+fetchCreatorStoreAssets.[AssetSearchTool] parseInventory: nil response
+success+[AssetSearchTool] parseInventory: error: %*
+creatorInventoryItems4[AssetSearchTool] parseInventory: found %* raw items	assetItem	isPackage
+userg[AssetSearchTool] parseInventory item: id=%* name="%*" type=%* isPackage=%* creatorId=%* creatorName=%*
+effectiveGroupId*[AssetSearchTool] group search: groupId=%**[AssetSearchTool] group search: FAILED: %*,[AssetSearchTool] group search: got %* items
+Universe5[AssetSearchTool] searchInventory: request FAILED: %**[AssetSearchTool] searchInventory: SUCCESS
+excludeSourcesU[AssetSearchTool] === SEARCH START === query="%*" scope=%* maxResults=%* assetType=%*OInvalid scope: "%*". Must be one of: auto, creator_store, user, group, universeMUse one of the valid scope values: auto, creator_store, user, group, universe
+JSONEncode5Cannot provide both includeSources and excludeSources5Use either includeSources OR excludeSources, not bothTincludeSources and excludeSources only apply when scope is "auto", but scope is "%*"?Remove includeSources/excludeSources, or change scope to 'auto'([AssetSearchTool] Discovering context...+[AssetSearchTool] discoverContext threw: %*!Failed to discover Studio contextORetry the search. If this persists, the Studio session may need to be restarted=[AssetSearchTool] Context: userId=%* universeId=%* groupId=%*%[AssetSearchTool] effectiveGroupId=%*
+isPublished0[AssetSearchTool] Auto waterfall sourceOrder: %*
+, <[AssetSearchTool] Waterfall: reached maxResults=%*, stoppingL[AssetSearchTool] Waterfall: skipping "group" (universe has no owning group)%this universe is not owned by a group@[AssetSearchTool] Waterfall: skipping "universe" (no universeId)
+game is not publishedN[AssetSearchTool] Waterfall: querying source="%*" remaining=%* requestLimit=%*
+audioMaxDuration<[AssetSearchTool] Waterfall: source="%*" returned %* results
+contextMThis universe is not owned by a group, and no groupId/groupName was supplied.MPass scope='group' with groupId or groupName from the listed groups to retry.PUse scope='auto' or scope='user' instead 
+ you are not a member of any groups.Xscope='universe' is unavailable because this game is not yet published (no universe ID).cUse scope='auto' or scope='user' to search the user's personal inventory and Creator Store instead.VThe game must be published to Roblox before its universe inventory becomes searchable.%[AssetSearchTool] Explicit scope="%*";[AssetSearchTool] Explicit creator_store: parsed %* results-[AssetSearchTool] Explicit %*: got %* results4[AssetSearchTool] Total: %* results from sources: %*
+getCreatorHubUrlC[AssetSearchTool] === SEARCH COMPLETE === resultCount=%* sources=%*
+,M[AssetSearchTool]   result[%*]: id=%* name="%*" type=%* source=%* location=%*
+Review the results and choose the best asset for the user's request. Prefer inventory results (source='inventory') as these are already owned and always insertable.tFor free/owned assets: call insert_asset with assetId, assetType, and assetName from the chosen result to insert it.
+For paid assets (isFree=false): show the user the creatorStoreUrl link and priceLabel so they can purchase it. Do not attempt to insert paid assets 
+Some Creator Store assets may be restricted or moderated and fail to insert. If insert_asset fails, try the next result from the list rather than retrying the same asset.
+argumentDescription4Search for models, audio, packages, and other assets
+environment#FFlagAssistantToolSkillDescriptionsTRead the rbx-search-asset skill to learn the details of this tool before calling it.
+Searches for assets across Creator Store (public marketplace) and Creator Inventory (user/group/universe).
+Use this tool to find assets by keyword before inserting them with {ToolNames.AssetInsert}.
+Returns a list of matching assets with metadata (name, type, source, price).
+Scope controls where to search:
+- 'auto' (default): waterfalls through universe inventory 
+ Creator Store. Best for general "find me an X" requests.
+- 'creator_store': searches only the marketplace. Use this when the user wants marketplace assets, paid assets, or when using price/creator filters.
+- 'user': searches the user's personal inventory only.
+- 'group': searches the universe's owning group by default. Pass groupId or groupName to search a different group instead. If the universe has no owning group and you don't pass a groupId, the response lists the user's groups so you can retry.
+- 'universe': searches the current universe's inventory only.
+Targeting a specific group: when the user names a particular group ("in my group X" / "in group 12345"), set scope='group' AND pass groupId or groupName to constrain to that one group. groupId/groupName are only valid with scope='group'; combining with any other scope (including 'auto') is rejected.
+Result attribution: each inventory result includes `creatorId` (string, the group or user ID that owns the asset) and `creatorName` (the group/user name when known). `creatorId` semantics depend on `source`: for source='inventory' coming from a group, it's the group ID.
+Every scope='group' or scope='auto' response includes a `groups` field listing { id, name } for each of the user's groups (when the user has any). Use these to make a follow-up scope='group' + groupId call when the default (the universe's owning group, or the first relevant group) doesn't match what the user wants.
+Every response also includes a `context` field describing the current Studio session: { userId, universeId, isPublished, creatorType ('User'/'Group' when published), creatorId, creatorName }. Use this to ground answers about which place is being edited and to disambiguate "in my group" requests.
+Cross-owner inserts caution: when an inventory result's creatorId differs from context.creatorId (the place's owner), inserting it brings another owner's asset into this place. The user may have access to view the asset but might not intend or have the authority to share it across owners. Before calling insert_asset on a cross-owner result, name the source (the asset's creatorName) and the destination (context.creatorName or universe), and ask the user for explicit consent.
+When to use price filters: If the user asks for paid/premium assets or specifies a price range, set scope='creator_store' and use priceFilter, minPriceCents, and/or maxPriceCents. These filters only apply to Creator Store searches.
+When to use asset type: If the user asks for a specific asset type (audio, decals, meshes, packages, etc.), set assetType to filter results. The inventory API requires exactly one assetType per call and defaults to 'Model' when omitted, so cross-type discovery requires explicit assetType=Image / Audio / etc. Packages are stored as Models with a Package subtype 
+ set assetType='Package' to find them (do not search for the word "package" as a query).
+Inventory results (source='inventory') are always insertable. Creator Store results may occasionally be restricted 
+ if insert fails, try the next result.
+Each result includes a thumbnailUrl (Roblox Thumbnails API). Fetch it to get JSON with data[0].imageUrl pointing to a CDN image of the asset 
+ useful for visually comparing assets before inserting.
+setName
+Search term. Can be empty when filtering by assetType alone (e.g. to list all packages). Supports multi-term search with '+' (e.g. 'red+car') and exact phrase with quotes (e.g. '"red+car"').
+addOptionalArgument
+creator_store
+universeyWhere to search. 'auto' (default) waterfalls through all available sources. Use explicit scope to target a single source.
+arrayNWith scope='auto': only search these sources (e.g. ['user', 'creator_store']).9With scope='auto': skip these sources from the waterfall.
+Numeric group ID to constrain group inventory searches to a single group. Only valid with scope='group'. Mutually exclusive with groupName.
+Group name to constrain group inventory searches to a single group. Matched case-insensitively against the user's groups. Only valid with scope='group'. If the name doesn't match any of the user's groups, the response includes a `groups` field listing valid options. Mutually exclusive with groupId.
+Filter by asset type. Use 'Image' for user-uploaded images (most decals/textures uploaded today are stored as Image, not Decal). Use 'Package' when the user asks about packages 
+ packages are Models with a Package subtype, so a keyword search for 'package' won't find them..Number of results to return (1-20, default 5).
+Price filter. Requires scope='creator_store'. 'free' returns only free assets, 'paid' returns only paid assets, 'all' (default) returns both.
+Minimum price in cents. Requires scope='creator_store'. Use with maxPriceCents for a price range (e.g. minPriceCents=100, maxPriceCents=5000).aMaximum price in cents. Requires scope='creator_store'. Use with minPriceCents for a price range.
+boolean@Only return results from verified creators (Creator Store only).@Minimum audio duration in seconds (only when assetType='Audio').@Maximum audio duration in seconds (only when assetType='Audio').
+Additional keywords to refine the search (Creator Store only, ignored for inventory scopes). Facets narrow results by related concepts 
+ e.g. for a 'lion' search: 'mane', 'safari', 'realistic', 'animated'. Available facets depend on the query.
+Tags to filter by (Creator Store only, ignored for inventory scopes). Tags are category labels like 'Vehicle', 'Airplane', 'Fantasy'.
+search_asset
+errorBcould not resolve the picked Model "%*"; it may have been deleted.
+instance_path
+findInstanceByPathacould not resolve instance_path "%*"; the Model must be under Workspace, e.g. "Workspace.Goblin".=requires a Model; instance_path "%*" resolved to a %* ("%*").	ClassName
+getVneeds either an instance_path argument or exactly one selected Model; got %* selected.1requires a Model; selected instance "%*" is a %*.
+setup_type
+align_front_angle
+decal_to_dynamic_head
+reduce_triangles
+sourcePhraseG%* Classification is left to the engine. Cancel to change this in chat.
+Cancel to change this in chat.
+handleCancelAutoSetup FFlagAssistantUseNewDMNetworking
+string(AvatarAutoSetupTool requires meta.toolId
+Once'Auto-setup canceled before it finished.
+build/Auto-setup complete: input "%*" -> output "%*".	inputType
+invoke AvatarAutoSetupTool.runAutoSetup#AvatarAutoSetupTool.cancelAutoSetup)AvatarAutoSetupTool.getClassificationPlan
+networkingOLD AvatarAutoSetupTool_runAutoSetup
+setName
+Rig a static Workspace Model as an R15 avatar and place the result beside it.
+Pass `instance_path` whenever the Model is known; omit it only to use the
+user's single selected Model. Do not set Selection with execute_luau.
+Workspace path to the input Model, preferably from inspect_instance. Pass it whenever known; omit only for the user's single selected Model.
+addOptionalArgument
+enum{"Platform" (default) creates marketplace-compatible avatars. "Development" creates experience-only characters such as NPCs.
+boolean_Add optional upper-torso, neck, hand, and foot joints for more articulation. Defaults to false.
+Fix the front to negative Z. Defaults to false, which lets the engine infer it. Use true for ambiguous models that already face negative Z.ICreate a dynamic head from a 2D face Decal or texture. Defaults to false.QAlign the head cage to facial features for a better makeup fit. Defaults to true.sDevelopment only: reduce triangles for validation. Defaults to false. Omit for Platform, which always reduces them.
+Labels for Models and BaseParts under the input. A Model covers every BasePart inside it. Omit to let the engine decide. Unlisted parts become Body; an R15 body with a Humanoid is skipped.
+Path under the input Model, such as "Acc.Staff_Rigid", or the full path from inspect_instance. A Model covers every BasePart inside it.WuniqueId from inspect_instance. Required only when path matches more than one instance.
+Body is the avatar itself. Layered is layered clothing, including shoes. EyeLayered is eyelashes or eyebrows. Rigid is a fixed accessory like a hat.
+Destroy FFlagAssistantUseNewDMNetworking
+"AvatarGenTool requires meta.toolId
+^%s*(.-)%s*$&textPrompt must be a non-empty string.
+Modesty pipelineName must be one of: %*.
+Once.Avatar generation canceled before it finished.
+Generated avatar "%*" at %*.
+setName
+Generate a new rigged, animatable R15 avatar (body, head, and clothing) from a text prompt using Roblox's avatar creation pipeline,Ythen upload it as a persistent asset and insert it into Workspace in front of the camera.hUse this when the user asks to create, generate, or design a new avatar or character from a description.@To rig a Model that already exists in the place, use %* instead.
+AvatarAutoSetupnLong-running (usually several minutes): prefer setting '%*' to true and only call %* when you need the result.	ASYNC_ARG
+descriptionWDescription of the avatar to generate, e.g. 'a knight in silver armor with a red cape'.
+addArgument
+npc generates the avatar with clothing baked in. modesty generates the body only, with a modesty layer. Omit to use the default.
+addOptionalArgument
+setAnnotationsuShort name for the avatar in Workspace, two to four words, e.g. 'Silver Knight'. Omit to use a numbered default name.
+booleanbtrue generates a dynamic (facially animatable) head, false a static head. Omit to use the default.
+true generates an R15+ avatar with a HumanoidRigDescription and DigitsRigDescriptions, false a standard R15 avatar. Omit to use the default.
+error-no plugin GUI is listed with plugin_gui_id %*
+plugin_gui_id
+(plugin_gui_id must be a non-empty string(FIntAssistantCapturePluginGuiDelayFrames	Heartbeat
+print*[CapturePluginGuiTool] Not retrying %*: %*
+Plugin GUI capture failed: %*
+Destroy FFlagAssistantUseNewDMNetworking
+Capture a screenshot of a plugin by plugin_gui_id and return the image data. Obtain plugin_gui_id from {ToolNames.ListPluginGuis}.
+Capture a screenshot of a specific open plugin GUI (widget/window) by its plugin_gui_id, and return the image data. Obtain the plugin_gui_id from the {ToolNames.ListPluginGuis} tool.
+ Only GUIs that are currently visible on screen can be captured; {ToolNames.ListPluginGuis} also reports GUIs that exist but are hidden, and capturing those fails.-EngineFeatureStudioPluginCaptureFromOwnWindow
+ Studio itself must also be visible on the monitor: if it is occluded or minimized, the capture will return whatever is on screen at the widget/window's position instead of the plugin GUI.
+setName
+descriptioncThe plugin_gui_id of the plugin GUI to capture, as returned by the {ToolNames.ListPluginGuis} tool.
+addArgument
+InvokeAsync FFlagAssistantUseNewDMNetworking
+warn3[Assistant] Failed to stop character navigation: %*
+setName:Navigate the character to the given position, or instance.
+descriptionUThe x coordinate to move the character to. Required if instance_path is not provided.
+addOptionalArgument
+yUThe y coordinate to move the character to. Required if instance_path is not provided.
+zUThe z coordinate to move the character to. Required if instance_path is not provided.
+instance_path
+The instance path that the character should be moved to. for example: "game.Workspace.Part","game.Workspace.Model". The path should start with game, LocalPlayer, or Workspace.
+speed_multiplierjspeed multiplier, default is 1.0, 0.5 is half speed, 2.0 is double speed. minimum is 0.1, maximum is 10.0.
+table/CompleteTodoItemsTool requires an indices array
+assert1CompleteTodoItemsTool requires at least one index
+number2CompleteTodoItemsTool: each index must be a number
+Marked todo #%* as completed.
+already_in_state
+Todo #%* was already completed.
+index_out_of_range/Index %*: must be a positive integer (1-based).
+no_active_plan
+setName
+Marks one or more persistent plan todo items as completed by their 1-based indices.
+Use this while executing an approved plan to keep progress in sync.
+description*1-based todo indices to mark as completed.
+addArgument
+skill_name
+skill_description
+skill_body
+Error: skill_name is required.
+build%Error: skill_description is required.
+Error: skill_body is required.
+rbx-IError: skill names cannot start with 'rbx-' (reserved for Roblox skills).
+matchMError: skill_name can only contain letters, numbers, underscores, and dashes.
+formatVSkill "%*" created successfully. It is now available in the Skills tab under Personal.
+setNamebCreate a new custom skill. The skill will be published and immediately available to the assistant.
+descriptionjUnique name for the skill. Lowercase letters, numbers, underscores, dashes only. Cannot start with 'rbx-'.
+addArgumentXOne-line description of what the skill does and when to use it. Written in third person.WThe markdown body content 
+ instructions the agent follows when the skill is invoked.
+skill_name
+Error: skill_name is required.
+new_name
+new_description
+new_skill_bodyPError: at least one of new_name, new_description, or new_skill_body is required.
+format Skill "%*" updated successfully.	skillName
+setNamesEdit an existing user skill. Can update the name, description, and/or body. Only user-created skills can be edited.
+description&The current name of the skill to edit.
+addArgument
+New name for the skill. Lowercase letters, numbers, underscores, dashes only. Cannot start with 'rbx-'. Omit to keep current name.
+addOptionalArgumentINew one-line description for the skill. Omit to keep current description.bNew markdown body content for the skill. This replaces the entire body. Omit to keep current body.
+l'FFlagAssistantHintMultiEditOverExecLuau~Executes Luau code in Roblox Studio. Returns the result of the executed code or an error message if the code fails to execute.
+Code runs on Studio's main thread; until it yields, Studio is frozen, the script can't be stopped, and %s. For heavy work (bulk instance creation or edits, procedural or terrain generation, large loops), split it into logical chunks (e.g. per region, or batches of ~1000 items) and call `task.wait()` once per chunk, not per item. When creating many instances, build each chunk in a container outside the DataModel and parent it before that chunk's `task.wait()`. The cost of a .Parent write into the DataModel scales with the total size of the subtree being inserted (all descendants), so parenting one large container is itself a single unyielding operation that can freeze Studio or drop the connection, no matter how incrementally the container was built. Keeping each flushed subtree small (one chunk's worth) bounds the cost of every .Parent write. A loop that waits for state to change (e.g. `while not ready do`) must call `task.wait()` inside it.
+isThirdPartyRequest FFlagAssistantUseNewDMNetworking
+datamodel_type
+setName
+description\The Luau code to execute. Must NOT be used to edit script source -- use multi_edit for that.
+addArgument
+Executes a Luau snippet in Roblox Studio (like the command bar / a REPL) and returns the value of the last expression, or an error message if execution fails.
+Use this for one-off runtime queries or data model mutations that DO NOT involve editing script source code -- for example: counting or inspecting instances, reading or setting properties, moving / inserting / deleting instances, or running ad-hoc computations against the place.
+DO NOT use this tool to edit, create, rename, or refactor the source of any Script, LocalScript, or ModuleScript. For ANY change to script source code -- including creating a new script, inserting or replacing code, renaming identifiers, or applying multiple edits across a file -- use the {ToolNames.MultiEdit} tool instead. {ToolNames.MultiEdit} preserves script identity, supports atomic multi-edit diffs reviewable by the user, and is the only correct tool for source-code authoring. Setting `script.Source = ...` from this tool is NOT a valid substitute and must not be done.
+Name: %* | Type: %* | Path: %*
+text%No matches found for the given query.
+Destroy FFlagAssistantUseNewDMNetworking
+setName
+Fast script search based on fuzzy matching against script names.
+Use if you know part of the script name but don't know where it's located exactly.
+Response will be capped to 10 results.
+Make your query more specific if need to filter results further.
+Note: Pattern matching is not supported such as asterisk (*) or question mark (?) wildcards.
+descriptionjThe comma-separated keywords string to search for in the game's scripts. Each keyword is case-insensitive.
+addArgument
+ToolResult	ToolNames:... Search stopped after reaching the limit of %* matches.
+plan1FinalizePlanTool requires a plan object, got "%*"
+title.FinalizePlanTool requires plan.title, got "%*"
+summary0FinalizePlanTool requires plan.summary, got "%*"
+completeDescription<FinalizePlanTool requires plan.completeDescription, got "%*"
+todo-FinalizePlanTool requires plan.todo, got "%*"<FinalizePlanTool requires todo items to be strings, got "%*"
+name(FinalizePlanTool requires name, got "%*"	createdAt
+<FinalizePlanTool requires toolUseId for synchronous decision FFlagAssistantUseNewDMNetworking
+InvokeAsyncFFinalizePlanTool requires the decision waiter for synchronous decision
+setName
+Create a NEW structured plan with markdown details and todos.
+Use this tool only when creating a brand-new plan. If updating an existing plan, use update_plan instead.
+The tool renders the plan UI and then BLOCKS until the user chooses Build or Reject.
+The tool result is JSON: {"status":"decided","planId":"...","name":"...","decision":"built"|"rejected"}.
+On "built" the plan is approved; on "rejected" ask the user what they would like to do instead.
+Ensure that all content is human-readable and editable by the user.
+descriptionlA short human-readable name for this plan, used to distinguish it from other plans in the same conversation.
+addArgument
+required%Markdown describing all plan details.
+arraytA list of todo items for the plan. This should be succint and to the point. Try to keep the list under 5 items long.
+Todo text.#A one sentence summary of the plan.'A short 2 to 6 word title for the plan.
+acpSessionIdCNo compacted history available. Context has not been compacted yet.
+key"Unknown type '%*'. Valid types: %*2No historical entry found for type='%*', key='%*'.
+ content is %d chars. Use the original tool (%s) to read the full content if needed.]	truncated
+setName
+Retrieve previously read content from compacted conversation history.
+Use this when you need to recall script content, grep results, instance properties,
+game tree structure, or plan content that were examined earlier in the conversation
+but are no longer in the active context.
+NOTE: Script content may be stale if it was modified after the original reading.
+The type of data to retrieve: "{ToolNames.ReadFile}" (previously read script content), "{ToolNames.GrepSearch}" (previous grep/search results), "{ToolNames.InspectInstance}" (previous instance inspection), "{ToolNames.GameTree}" (previously explored game hierarchy), or "plan_mode" (previously created plan content).
+addArgument
+The key to look up: script path (for {ToolNames.ReadFile}/{ToolNames.InspectInstance}), search query (for {ToolNames.GrepSearch}), root path like "game" or "Workspace" (for {ToolNames.GameTree}), or plan ID (for plan_mode).
+instance_type
+head_limit
+findInstance$Could not find instance at path '%*'
+text	Error: %*-startInstance should not be nil if err is nil
+No instances found matching %*
+count4Note: Output limited to %* nodes (results truncated)+Note: Max depth capped at %* (requested %*)
+targetDataModel FFlagAssistantUseNewDMNetworking	forTarget
+setName
+Explore the Roblox game hierarchy tree with flat JSON output.
+Returns an array of JSON objects representing instances in the Data Model, showing names, paths, and relationships.
+Use optional filters to narrow down results by path, instance type, or keywords.
+For detailed inspection of a specific instance's properties and attributes, use the Inspect Instance tool.
+  "fullPath": "Workspace.Folder.InstanceName",
+  "childSummary": "5 children (3 Part, 2 Script)",  // Present if depth limit reached and children exist
+  "unexploredChildCount": 5  // Present if depth limit reached with matching children
+- Default max_depth: D levels from start point (absolute traversal depth)
+- max_depth limits how deep into the hierarchy we traverse, regardless of filters
+- Beyond max_depth, children are summarized with counts by class type
+- Nodes at depth limit show: "unexploredChildCount" and "childSummary"
+EXAMPLES (every call must pass datamodel_type: use "Edit" in edit mode, or "Client"/"Server" during a playtest -- "Edit" is rejected while playing):
+ levels): search_game_tree(datamodel_type: "Edit")
+- Workspace only: search_game_tree(datamodel_type: "Edit", path: "Workspace")
+- ServerScriptService: search_game_tree(datamodel_type: "Edit", path: "ServerScriptService")
+- All base scripts: search_game_tree(datamodel_type: "Edit", instance_type: "BaseScript")
+- All parts: search_game_tree(datamodel_type: "Edit", instance_type: "Part")
+- By keywords: search_game_tree(datamodel_type: "Edit", keywords: "player, character")
+- Deep exploration: search_game_tree(datamodel_type: "Edit", max_depth: 6)
+- Combined filters: search_game_tree(datamodel_type: "Edit", path: "Workspace", instance_type: "Part", keywords: "red")
+- Client tree during a playtest: search_game_tree(datamodel_type: "Client", path: "Players")
+- Server tree during a playtest: search_game_tree(datamodel_type: "Server", path: "Workspace")
+description{Start exploration from this path. Examples: 'Workspace', 'ServerScriptService', 'Workspace.Models'. Path is case-sensitive.
+addOptionalArgumentzFilter by ClassName using IsA() check. Examples: 'BasePart', 'BaseScript', 'GuiObject', 'Model', 'Folder'. Case sensitive.
+Filter by instance name keywords (case-insensitive). Separate multiple keywords with commas or spaces. Instance name must contain at least one keyword. Examples: 'player', 'red, blue', 'button door'
+Maximum absolute depth to traverse from start point. Default: %*, Absolute max: %*. Limits how deep we explore in the hierarchy regardless of filters. Beyond this depth, children are summarized instead of expanded._Maximum number of results to return. Default: %*. Prevents overwhelming output for large trees.	Game Tree
+finishSceneBoxAsync FFlagAssistantUseNewDMNetworking
+&GenerateSceneTool requires meta.toolId)FFlagAssistantGenerateLayoutCalloutCancel
+addOptionalArgument
+setName
+Generates a scene of models and parts from a text prompt and/or reference images, placed within an optional bounding box, and runs the generated script in the DataModel.
+setDescriptionNText description of the desired scene. Either this or images must be provided.
+Reference images that guide the scene. Each is an image content object ({ type = "image", data = <base64>, mimeType = <e.g. "image/png"> }) or the URI of an attached image. Either this or textPrompt must be provided.5Size (in studs) of the area to generate the scene in.:World-space position of the area to generate the scene in.?Whether to generate meshes for scene objects. Defaults to true.
+enum7Generation quality; higher is slower. Defaults to '%*'.
+generate_scene
+[TRUNCATED DUE TO LENGTH LIMIT]
+setName2Get the console output from the Studio output log.

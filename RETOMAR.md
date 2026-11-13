@@ -56,6 +56,11 @@ Si algo de esto falla, la tabla de problemas está al final de
 5. `studio/README.md`: la biblioteca de Studio y su guion de primera prueba.
 6. Solo si necesitas el detalle de una decisión: `contexto/conversacion.md`
    (la conversación completa, larga; búscala por palabra, no la leas entera).
+7. Último recurso: `contexto/transcripcion-cruda/`, los archivos de sesión
+   tal como los guardó Claude Code, con los de cada subagente. Pesan 60 MB:
+   nunca los abras enteros; busca en ellos con una herramienta de búsqueda.
+8. `Tiktok tips/`: las nueve capturas de consejos que el usuario trajo al
+   principio. Sus tres ideas útiles ya están en `docs/05` y `docs/06`.
 
 ### El estado, en una frase
 
@@ -112,8 +117,6 @@ abre).
 | Qué | Por qué | Cómo se recupera |
 |---|---|---|
 | El entorno de Python (`herramientas/.venv`) | Pesa 350 MB y depende del equipo | `preparar-equipo.ps1` lo crea |
-| La transcripción cruda de la sesión | Trae datos personales y del primer equipo | `contexto/conversacion.md` es la versión legible y saneada |
-| La carpeta de consejos de TikTok que el usuario tenía | Son capturas de un tercero | Sus tres ideas útiles están integradas en `docs/05` y `docs/06` |
 | El video de referencia descargado y sus cuadros | Es contenido de otro canal | El enlace y el análisis están en `docs/01` |
 | Música y efectos | Hay que descargarlos leyendo la licencia vigente | `docs/09` y `audio/README.md` |
 | Lugares de Studio (`.rbxl`) | Todavía no existe ninguno | Se crean en este equipo |

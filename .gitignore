@@ -2,9 +2,6 @@
 herramientas/.venv/
 **/__pycache__/
 
-# Capturas de un tercero: no son de este proyecto y no se publican
-Tiktok tips/
-
 # Material pesado de cada video (se respalda aparte, no en git)
 videos/*/voz/*.wav
 videos/*/voz/*.mp3
