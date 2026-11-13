@@ -1,0 +1,716 @@
+{
+ "video": "020-nobody-opens-after-the-third-knock",
+ "duracion": 118.036,
+ "planos": [
+  {
+   "n": 1,
+   "inicio": 0.0,
+   "fin": 1.72,
+   "texto": "In this town, nobody opens the door...",
+   "escenario": "Calle de noche",
+   "en_pantalla": "Puerta cerrada con luz de porche",
+   "cara": "(sin personaje)",
+   "camara": "M"
+  },
+  {
+   "n": 2,
+   "inicio": 1.72,
+   "fin": 2.86,
+   "texto": "after the third knock.",
+   "escenario": "Sala de noche",
+   "en_pantalla": "Familia quieta mirando la puerta",
+   "cara": "Susto",
+   "camara": "G"
+  },
+  {
+   "n": 3,
+   "inicio": 2.86,
+   "fin": 3.88,
+   "texto": "Two knocks is a neighbor.",
+   "escenario": "Pueblo de día",
+   "en_pantalla": "Vecina toca dos veces y le abren",
+   "cara": "Felices",
+   "camara": "M"
+  },
+  {
+   "n": 4,
+   "inicio": 3.88,
+   "fin": 5.3,
+   "texto": "Three knocks is something else.",
+   "escenario": "Calle de noche",
+   "en_pantalla": "Puerta sola, tres ondas de sonido",
+   "cara": "(sin personaje)",
+   "camara": "C"
+  },
+  {
+   "n": 5,
+   "inicio": 5.3,
+   "fin": 8.64,
+   "texto": "Nobody knows what, because nobody has opened in sixty-one years.",
+   "escenario": "Pueblo de día",
+   "en_pantalla": "Cerradura con telarañas y un \"61\" pintado",
+   "cara": "(sin personaje)",
+   "camara": "C"
+  },
+  {
+   "n": 6,
+   "inicio": 8.64,
+   "fin": 10.3,
+   "texto": "So everybody here knocks twice.",
+   "escenario": "Pueblo de día",
+   "en_pantalla": "Fila de vecinos tocando puertas",
+   "cara": "Neutras",
+   "camara": "G"
+  },
+  {
+   "n": 7,
+   "inicio": 10.3,
+   "fin": 11.08,
+   "texto": "The mailman.",
+   "escenario": "Pueblo de día",
+   "en_pantalla": "Cartero cuenta dos con los dedos",
+   "cara": "Concentrado",
+   "camara": "M"
+  },
+  {
+   "n": 8,
+   "inicio": 11.08,
+   "fin": 11.9,
+   "texto": "The pizza guy.",
+   "escenario": "Pueblo de día",
+   "en_pantalla": "Repartidor con caja, toca con cuidado",
+   "cara": "Nervioso",
+   "camara": "M"
+  },
+  {
+   "n": 9,
+   "inicio": 11.9,
+   "fin": 13.22,
+   "texto": "A woodpecker got a ticket.",
+   "escenario": "Parque",
+   "en_pantalla": "Pájaro carpintero con una multa en el pico",
+   "cara": "Policía serio",
+   "camara": "C"
+  },
+  {
+   "n": 10,
+   "inicio": 13.22,
+   "fin": 15.38,
+   "texto": "The thing that knocks three times picks one house.",
+   "escenario": "Calle de noche",
+   "en_pantalla": "Una casa iluminada entre casas oscuras",
+   "cara": "(sin personaje)",
+   "camara": "G"
+  },
+  {
+   "n": 11,
+   "inicio": 15.38,
+   "fin": 17.04,
+   "texto": "Always the newest family in town.",
+   "escenario": "Calle de día",
+   "en_pantalla": "Casa con letrero SOLD y camión de mudanza",
+   "cara": "Familia feliz",
+   "camara": "M"
+  },
+  {
+   "n": 12,
+   "inicio": 17.04,
+   "fin": 19.24,
+   "texto": "Then it comes back every night at 9:14.",
+   "escenario": "Sala de noche",
+   "en_pantalla": "Reloj de pared en 9:14",
+   "cara": "(sin personaje)",
+   "camara": "C"
+  },
+  {
+   "n": 13,
+   "inicio": 19.24,
+   "fin": 21.04,
+   "texto": "And nobody visits a house that's got it.",
+   "escenario": "Calle de día",
+   "en_pantalla": "Vecinos cruzan a la otra acera",
+   "cara": "Miedo",
+   "camara": "G"
+  },
+  {
+   "n": 14,
+   "inicio": 21.04,
+   "fin": 22.62,
+   "texto": "The Pruitts had it for six years.",
+   "escenario": "Sala",
+   "en_pantalla": "Familia Pruitt con ojeras en el sofá",
+   "cara": "Agotados",
+   "camara": "M"
+  },
+  {
+   "n": 15,
+   "inicio": 22.62,
+   "fin": 23.62,
+   "texto": "They finally moved.",
+   "escenario": "Calle de día",
+   "en_pantalla": "Camión de mudanza alejándose",
+   "cara": "Alivio",
+   "camara": "G"
+  },
+  {
+   "n": 16,
+   "inicio": 23.62,
+   "fin": 25.02,
+   "texto": "It knocked on the moving truck.",
+   "escenario": "Calle de día",
+   "en_pantalla": "Puerta trasera del camión con tres ondas",
+   "cara": "Pánico",
+   "camara": "C"
+  },
+  {
+   "n": 17,
+   "inicio": 25.02,
+   "fin": 26.26,
+   "texto": "We moved here in June.",
+   "escenario": "Calle de día",
+   "en_pantalla": "Narrador con una caja frente a la casa",
+   "cara": "Neutro",
+   "camara": "M"
+  },
+  {
+   "n": 18,
+   "inicio": 26.26,
+   "fin": 27.86,
+   "texto": "My fifth town in six years.",
+   "escenario": "Cuarto",
+   "en_pantalla": "Caja con cuatro nombres de pueblos tachados",
+   "cara": "Cansado",
+   "camara": "C"
+  },
+  {
+   "n": 19,
+   "inicio": 27.86,
+   "fin": 29.58,
+   "texto": "New families here always get a welcome pie.",
+   "escenario": "Pueblo de día",
+   "en_pantalla": "Vecina entrega un pie a otra familia",
+   "cara": "Felices",
+   "camara": "M"
+  },
+  {
+   "n": 20,
+   "inicio": 29.58,
+   "fin": 30.44,
+   "texto": "We got nothing.",
+   "escenario": "Calle de día",
+   "en_pantalla": "Porche vacío, solo el tapete",
+   "cara": "Triste",
+   "camara": "M"
+  },
+  {
+   "n": 21,
+   "inicio": 30.44,
+   "fin": 33.62,
+   "texto": "Because on our first night, at 9:14...",
+   "escenario": "Sala de noche",
+   "en_pantalla": "Familia entre cajas mira la puerta",
+   "cara": "Susto",
+   "camara": "G"
+  },
+  {
+   "n": 22,
+   "inicio": 33.62,
+   "fin": 35.16,
+   "texto": "Knock. Knock. Knock.",
+   "escenario": "Sala de noche",
+   "en_pantalla": "Puerta, tres ondas",
+   "cara": "(sin personaje)",
+   "camara": "C"
+  },
+  {
+   "n": 23,
+   "inicio": 35.16,
+   "fin": 37.32,
+   "texto": "The third one is always softer...",
+   "escenario": "Sala de noche",
+   "en_pantalla": "Tercera onda más pequeña",
+   "cara": "Narrador curioso",
+   "camara": "C"
+  },
+  {
+   "n": 24,
+   "inicio": 37.32,
+   "fin": 38.2,
+   "texto": "Like it's sorry.",
+   "escenario": "Sala de noche",
+   "en_pantalla": "Narrador con la oreja en la puerta",
+   "cara": "Pensativo",
+   "camara": "C"
+  },
+  {
+   "n": 25,
+   "inicio": 38.2,
+   "fin": 41.22,
+   "texto": "Four months later, my little brother Otis sleeps in the bathtub.",
+   "escenario": "Baño",
+   "en_pantalla": "Otis en la tina con almohada y cobija",
+   "cara": "Dormido",
+   "camara": "M"
+  },
+  {
+   "n": 26,
+   "inicio": 41.22,
+   "fin": 43.14,
+   "texto": "It's the farthest spot from the front door.",
+   "escenario": "Sala",
+   "en_pantalla": "Pasillo largo, la puerta al fondo",
+   "cara": "(sin personaje)",
+   "camara": "G"
+  },
+  {
+   "n": 27,
+   "inicio": 43.14,
+   "fin": 44.86,
+   "texto": "Then Mom started taping up boxes.",
+   "escenario": "Sala",
+   "en_pantalla": "Mamá con cinta y cajas",
+   "cara": "Cansada",
+   "camara": "M"
+  },
+  {
+   "n": 28,
+   "inicio": 44.86,
+   "fin": 46.66,
+   "texto": "\"We leave Friday,\" she said.",
+   "escenario": "Sala",
+   "en_pantalla": "Mamá",
+   "cara": "Seria",
+   "camara": "C"
+  },
+  {
+   "n": 29,
+   "inicio": 46.66,
+   "fin": 48.42,
+   "texto": "I had just unpacked my last one.",
+   "escenario": "Cuarto",
+   "en_pantalla": "Narrador con una caja vacía en las manos",
+   "cara": "Golpe de realidad",
+   "camara": "M"
+  },
+  {
+   "n": 30,
+   "inicio": 48.42,
+   "fin": 50.58,
+   "texto": "I was not going to be the new kid a sixth time.",
+   "escenario": "Colegio, salón (recuerdo)",
+   "en_pantalla": "Narrador de pie frente a todo el salón",
+   "cara": "Incómodo",
+   "camara": "G"
+  },
+  {
+   "n": 31,
+   "inicio": 50.58,
+   "fin": 52.14,
+   "texto": "So I tried to make it stop.",
+   "escenario": "Cuarto",
+   "en_pantalla": "Narrador",
+   "cara": "Decidido",
+   "camara": "C"
+  },
+  {
+   "n": 32,
+   "inicio": 52.14,
+   "fin": 54.08,
+   "texto": "Monday, I taped a sign on the door.",
+   "escenario": "Calle de día",
+   "en_pantalla": "Narrador pega un letrero en la puerta",
+   "cara": "Decidido",
+   "camara": "M"
+  },
+  {
+   "n": 33,
+   "inicio": 54.08,
+   "fin": 54.9,
+   "texto": "NOBODY HOME.",
+   "escenario": "Calle de día",
+   "en_pantalla": "Letrero",
+   "cara": "(sin personaje)",
+   "camara": "C"
+  },
+  {
+   "n": 34,
+   "inicio": 54.9,
+   "fin": 56.54,
+   "texto": "It knocked three times on the sign.",
+   "escenario": "Calle de noche",
+   "en_pantalla": "Letrero con tres ondas encima",
+   "cara": "(sin personaje)",
+   "camara": "C"
+  },
+  {
+   "n": 35,
+   "inicio": 56.54,
+   "fin": 59.08,
+   "texto": "Tuesday, I slept with two pillows over my head.",
+   "escenario": "Cuarto de noche",
+   "en_pantalla": "Narrador en la cama con dos almohadas",
+   "cara": "Ojos apretados",
+   "camara": "M"
+  },
+  {
+   "n": 36,
+   "inicio": 59.08,
+   "fin": 60.18,
+   "texto": "It knocked on my window.",
+   "escenario": "Cuarto de noche",
+   "en_pantalla": "Ventana con tres ondas",
+   "cara": "Susto",
+   "camara": "C"
+  },
+  {
+   "n": 37,
+   "inicio": 60.18,
+   "fin": 61.72,
+   "texto": "My room is on the second floor.",
+   "escenario": "Calle de noche",
+   "en_pantalla": "Fachada: ventana alta, nadie abajo",
+   "cara": "(sin personaje)",
+   "camara": "G"
+  },
+  {
+   "n": 38,
+   "inicio": 61.72,
+   "fin": 63.48,
+   "texto": "Wednesday, I yelled through the door.",
+   "escenario": "Sala de noche",
+   "en_pantalla": "Narrador frente a la puerta",
+   "cara": "Furia",
+   "camara": "M"
+  },
+  {
+   "n": 39,
+   "inicio": 63.48,
+   "fin": 65.36,
+   "texto": "\"Go away! Nobody wants you here!\"",
+   "escenario": "Sala de noche",
+   "en_pantalla": "Narrador",
+   "cara": "Grito",
+   "camara": "C"
+  },
+  {
+   "n": 40,
+   "inicio": 65.36,
+   "fin": 66.56,
+   "texto": "Ten seconds of nothing.",
+   "escenario": "Sala de noche",
+   "en_pantalla": "Puerta quieta",
+   "cara": "(sin personaje)",
+   "camara": "C"
+  },
+  {
+   "n": 41,
+   "inicio": 66.56,
+   "fin": 69.2,
+   "texto": "Then three knocks, so quiet I almost missed them.",
+   "escenario": "Sala de noche",
+   "en_pantalla": "Tres ondas diminutas",
+   "cara": "(sin personaje)",
+   "camara": "C"
+  },
+  {
+   "n": 42,
+   "inicio": 69.2,
+   "fin": 70.72,
+   "texto": "Somehow that was the worst one.",
+   "escenario": "Sala de noche",
+   "en_pantalla": "Narrador",
+   "cara": "Culpa",
+   "camara": "C"
+  },
+  {
+   "n": 43,
+   "inicio": 70.72,
+   "fin": 73.64,
+   "texto": "Thursday night, I sat on the floor...",
+   "escenario": "Sala de noche",
+   "en_pantalla": "Narrador sentado, espalda contra la puerta",
+   "cara": "Cansado",
+   "camara": "M"
+  },
+  {
+   "n": 44,
+   "inicio": 73.64,
+   "fin": 76.58,
+   "texto": "9:14. Knock. Knock. Knock.",
+   "escenario": "Sala de noche",
+   "en_pantalla": "Reloj en 9:14 y la puerta con ondas",
+   "cara": "(sin personaje)",
+   "camara": "C"
+  },
+  {
+   "n": 45,
+   "inicio": 76.58,
+   "fin": 77.7,
+   "texto": "\"I'm sorry I yelled.\"",
+   "escenario": "Sala de noche",
+   "en_pantalla": "Narrador",
+   "cara": "Triste",
+   "camara": "C"
+  },
+  {
+   "n": 46,
+   "inicio": 77.7,
+   "fin": 79.24,
+   "texto": "\"I've been the new kid five times.\"",
+   "escenario": "Colegio, pasillo (recuerdo)",
+   "en_pantalla": "Narrador solo frente a cinco puertas de salón",
+   "cara": "Triste",
+   "camara": "G"
+  },
+  {
+   "n": 47,
+   "inicio": 79.24,
+   "fin": 81.94,
+   "texto": "\"I know what it's like to stand outside...\"",
+   "escenario": "Patio (recuerdo)",
+   "en_pantalla": "Narrador aparte de un grupo que juega",
+   "cara": "Triste",
+   "camara": "G"
+  },
+  {
+   "n": 48,
+   "inicio": 81.94,
+   "fin": 82.26,
+   "texto": "Nothing.",
+   "escenario": "Sala de noche",
+   "en_pantalla": "Puerta quieta",
+   "cara": "(sin personaje)",
+   "camara": "C"
+  },
+  {
+   "n": 49,
+   "inicio": 82.26,
+   "fin": 84.48,
+   "texto": "So I did the one thing you never do in this town.",
+   "escenario": "Sala de noche",
+   "en_pantalla": "Mano del narrador hacia la perilla",
+   "cara": "Miedo decidido",
+   "camara": "C"
+  },
+  {
+   "n": 50,
+   "inicio": 84.48,
+   "fin": 85.48,
+   "texto": "I opened the door.",
+   "escenario": "Sala de noche",
+   "en_pantalla": "Puerta abriéndose, entra niebla",
+   "cara": "(sin personaje)",
+   "camara": "G"
+  },
+  {
+   "n": 51,
+   "inicio": 85.48,
+   "fin": 86.78,
+   "texto": "It was nine feet tall.",
+   "escenario": "Calle de noche",
+   "en_pantalla": "Figura enorme frente al narrador pequeño",
+   "cara": "Susto",
+   "camara": "G"
+  },
+  {
+   "n": 52,
+   "inicio": 86.78,
+   "fin": 89.02,
+   "texto": "A long gray raincoat with nothing inside but fog.",
+   "escenario": "Calle de noche",
+   "en_pantalla": "Impermeable gris, niebla saliendo de las mangas",
+   "cara": "(sin cara)",
+   "camara": "M"
+  },
+  {
+   "n": 53,
+   "inicio": 89.02,
+   "fin": 89.76,
+   "texto": "No face.",
+   "escenario": "Calle de noche",
+   "en_pantalla": "Capucha vacía",
+   "cara": "(sin cara)",
+   "camara": "C"
+  },
+  {
+   "n": 54,
+   "inicio": 89.76,
+   "fin": 91.02,
+   "texto": "And it was holding a pie.",
+   "escenario": "Calle de noche",
+   "en_pantalla": "Pie en dos manos de niebla",
+   "cara": "Narrador confundido",
+   "camara": "C"
+  },
+  {
+   "n": 55,
+   "inicio": 91.02,
+   "fin": 92.78,
+   "texto": "Its hands shook so hard the tin rattled.",
+   "escenario": "Calle de noche",
+   "en_pantalla": "Molde vibrando",
+   "cara": "(sin personaje)",
+   "camara": "C"
+  },
+  {
+   "n": 56,
+   "inicio": 92.78,
+   "fin": 94.1,
+   "texto": "There was a card on top.",
+   "escenario": "Calle de noche",
+   "en_pantalla": "Tarjeta amarillenta sobre el pie",
+   "cara": "(sin personaje)",
+   "camara": "C"
+  },
+  {
+   "n": 57,
+   "inicio": 94.1,
+   "fin": 94.92,
+   "texto": "WELCOME TO TOWN,",
+   "escenario": "Calle de noche",
+   "en_pantalla": "La tarjeta de cerca: WELCOME TO TOWN",
+   "cara": "(sin personaje)",
+   "camara": "C"
+  },
+  {
+   "n": 58,
+   "inicio": 94.92,
+   "fin": 96.98,
+   "texto": "in handwriting from sixty-one years ago.",
+   "escenario": "Calle de noche",
+   "en_pantalla": "Letra antigua y tinta desteñida; una telaraña en la esquina",
+   "cara": "(sin personaje)",
+   "camara": "C"
+  },
+  {
+   "n": 59,
+   "inicio": 96.98,
+   "fin": 98.6,
+   "texto": "I asked, \"Why three knocks?\"",
+   "escenario": "Calle de noche",
+   "en_pantalla": "Narrador mirando hacia arriba",
+   "cara": "Curioso",
+   "camara": "M"
+  },
+  {
+   "n": 60,
+   "inicio": 98.6,
+   "fin": 100.46,
+   "texto": "It looked down at where its feet should be.",
+   "escenario": "Calle de noche",
+   "en_pantalla": "Borde del impermeable flotando sobre el tapete",
+   "cara": "(sin cara)",
+   "camara": "C"
+  },
+  {
+   "n": 61,
+   "inicio": 100.46,
+   "fin": 102.2,
+   "texto": "Its voice sounded like an old hinge.",
+   "escenario": "Calle de noche",
+   "en_pantalla": "Capucha inclinada",
+   "cara": "(sin cara)",
+   "camara": "C"
+  },
+  {
+   "n": 62,
+   "inicio": 102.2,
+   "fin": 103.1,
+   "texto": "\"Two is for neighbors.\"",
+   "escenario": "Calle de noche",
+   "en_pantalla": "Capucha, la niebla tiembla",
+   "cara": "(sin cara)",
+   "camara": "C"
+  },
+  {
+   "n": 63,
+   "inicio": 103.1,
+   "fin": 104.9,
+   "texto": "It didn't think it was one.",
+   "escenario": "Calle de noche",
+   "en_pantalla": "La figura sola; detrás, todas las casas con luz",
+   "cara": "(sin cara)",
+   "camara": "G"
+  },
+  {
+   "n": 64,
+   "inicio": 104.9,
+   "fin": 107.34,
+   "texto": "\"You've lived here longer than anybody. Knock twice.\"",
+   "escenario": "Calle de noche",
+   "en_pantalla": "Narrador",
+   "cara": "Sonrisa con lágrima",
+   "camara": "C"
+  },
+  {
+   "n": 65,
+   "inicio": 107.34,
+   "fin": 108.66,
+   "texto": "We unpacked the boxes.",
+   "escenario": "Sala",
+   "en_pantalla": "Familia sacando cosas de las cajas",
+   "cara": "Felices",
+   "camara": "M"
+  },
+  {
+   "n": 66,
+   "inicio": 108.66,
+   "fin": 110.12,
+   "texto": "Otis sleeps in a bed again.",
+   "escenario": "Cuarto de noche",
+   "en_pantalla": "Otis en su cama",
+   "cara": "Dormido",
+   "camara": "M"
+  },
+  {
+   "n": 67,
+   "inicio": 110.12,
+   "fin": 111.32,
+   "texto": "We did not eat the pie.",
+   "escenario": "Cocina",
+   "en_pantalla": "Pie en una repisa alta, familia mirándolo",
+   "cara": "Asco",
+   "camara": "M"
+  },
+  {
+   "n": 68,
+   "inicio": 111.32,
+   "fin": 112.96,
+   "texto": "That pie is older than my grandpa.",
+   "escenario": "Cocina",
+   "en_pantalla": "Abuelo al lado del pie",
+   "cara": "Ofendido",
+   "camara": "C"
+  },
+  {
+   "n": 69,
+   "inicio": 112.96,
+   "fin": 114.48,
+   "texto": "But every night at 9:14...",
+   "escenario": "Sala de noche",
+   "en_pantalla": "Reloj en 9:14",
+   "cara": "(sin personaje)",
+   "camara": "C"
+  },
+  {
+   "n": 70,
+   "inicio": 114.48,
+   "fin": 116.2,
+   "texto": "there are two knocks on our door.",
+   "escenario": "Sala de noche",
+   "en_pantalla": "Puerta, dos ondas",
+   "cara": "(sin personaje)",
+   "camara": "C"
+  },
+  {
+   "n": 71,
+   "inicio": 116.2,
+   "fin": 118.036,
+   "texto": "And somebody always opens.",
+   "escenario": "Sala de noche",
+   "en_pantalla": "Puerta abierta, narrador y la figura, luz cálida",
+   "cara": "Sonrisa",
+   "camara": "G"
+  }
+ ]
+}

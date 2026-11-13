@@ -1,0 +1,60 @@
+VIDEO 020
+Internal name: 020-nobody-opens-after-the-third-knock
+Scheduled: día 2 del calendario (videos/CALENDARIO.md), 15:00 Bogota (20:00 UTC)
+Notas internas (no van a YouTube):
+El título principal tiene 48 caracteres y pasa de los 45 que pide la plantilla; se deja el del guion (no pasa de 10 palabras). Si quieres cumplir los 45, usa el título alterno 2.
+No uses de portada los planos 51 a 63 (la figura del impermeable): destripan el final.
+
+TITLE (max 45 characters, Title Case, no hashtags, no ALL CAPS)
+In This Town, Nobody Opens After the Third Knock
+
+ALT TITLE 1 (the object, 1 to 3 words)
+The Third Knock
+
+ALT TITLE 2 (the rule without the opener)
+Nobody Opens After the Third Knock
+
+DESCRIPTION (1 or 2 sentences, then credits, then hashtags)
+In this town, nobody opens the door after the third knock. Two knocks is a neighbor. Three is something else, and it picked our house.
+An original work of fiction, written and animated by Almostville.
+#roblox #robloxstory #spooky
+
+HASHTAGS (already in the description; 3 at most; no #shorts needed)
+#roblox #robloxstory #spooky
+
+PINNED COMMENT (needs advanced features; a question the story raises)
+Three knocks at 9:14. Do you open the door? Be honest.
+
+PLAYLIST
+In This Town: Spooky
+
+SERIES (only if the Shorts series feature is available)
+In This Town, Season 1, Episode 02
+
+COVER FRAME
+Timecode: por definir al montar; es el inicio del plano 2 en tiempos/planos.json
+What is in it: plano 2 de la lista de planos del guion: la familia quieta, con susto, mirando la puerta cerrada. Sin subtítulo encima. Alterno: plano 24 (el narrador con la oreja pegada a la puerta).
+
+RELATED VIDEO
+018 The Echo (día 7, lista In This Town: Spooky)
+Ese video sale después (día 7). Mientras tanto pon el del día anterior y cámbialo cuando salga.
+Pega aquí la URL cuando exista. Cuando haya un video largo de esta familia, reemplázalo por ese.
+
+AUDIENCE: No, it's not made for kids
+VIDEO LANGUAGE: English (United States)
+CATEGORY: Film & Animation (la predeterminada del canal según docs/07, sección 2.5; la otra opción allí es Entertainment)
+ALTERED CONTENT: No
+Nota (docs/07, sección 3.3): animación de ficción claramente irreal y guion asistido no se declaran. Con voz propia la respuesta es No sin duda. Con voz sintética genérica también es No, pero por interpretación: la ayuda de YouTube no menciona voces sintéticas (sin verificar con texto literal). Nunca una voz clonada de otra persona ni música generada con IA.
+
+CHECK BEFORE PUBLISHING
+[ ] Copyright check finished with no claims
+[ ] Title has no hashtag and no word in ALL CAPS
+[ ] First spoken sentence is the rule and matches the title
+[ ] Cover frame chosen in the mobile app
+[ ] Added to playlist; related video set
+
+PARA EL CANAL EN ESPAÑOL
+Título:
+NADIE ABRE AL TERCER GOLPE
+Descripción:
+En este pueblo nadie abre la puerta después del tercer golpe: dos golpes es un vecino, tres es otra cosa, y escogió nuestra casa.

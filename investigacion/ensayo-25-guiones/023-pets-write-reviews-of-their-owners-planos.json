@@ -1,0 +1,656 @@
+{
+ "video": "023-pets-write-reviews-of-their-owners",
+ "duracion": 101.081,
+ "planos": [
+  {
+   "n": 1,
+   "inicio": 0.0,
+   "fin": 2.5,
+   "texto": "In this world, every pet writes a review of its owner,",
+   "escenario": "Sala",
+   "en_pantalla": "Gato con un lápiz frente a una hoja",
+   "cara": "Gato serio",
+   "camara": "C"
+  },
+  {
+   "n": 2,
+   "inicio": 2.5,
+   "fin": 4.3,
+   "texto": "and it gets posted on your front door.",
+   "escenario": "Calle de día",
+   "en_pantalla": "Puerta con una hoja y estrellas; dueño mirándola",
+   "cara": "Nervioso",
+   "camara": "M"
+  },
+  {
+   "n": 3,
+   "inicio": 4.3,
+   "fin": 5.34,
+   "texto": "Every Saturday.",
+   "escenario": "Calle de día",
+   "en_pantalla": "Calle entera, una hoja en cada puerta",
+   "cara": "(sin personaje)",
+   "camara": "G"
+  },
+  {
+   "n": 4,
+   "inicio": 5.34,
+   "fin": 6.26,
+   "texto": "Stars and everything.",
+   "escenario": "Calle de día",
+   "en_pantalla": "Cinco estrellas amarillas en una hoja",
+   "cara": "(sin personaje)",
+   "camara": "C"
+  },
+  {
+   "n": 5,
+   "inicio": 6.26,
+   "fin": 8.56,
+   "texto": "The dog next door gives five stars every week.",
+   "escenario": "Calle de día",
+   "en_pantalla": "Perro moviendo la cola junto a su reseña",
+   "cara": "Perro feliz",
+   "camara": "M"
+  },
+  {
+   "n": 6,
+   "inicio": 8.56,
+   "fin": 10.6,
+   "texto": "\"He dropped a meatball in 2021.\"",
+   "escenario": "Cocina (recuerdo)",
+   "en_pantalla": "Albóndiga cayendo al piso en cámara lenta",
+   "cara": "Perro en éxtasis",
+   "camara": "C"
+  },
+  {
+   "n": 7,
+   "inicio": 10.6,
+   "fin": 11.48,
+   "texto": "\"I think about it daily.\"",
+   "escenario": "Calle de día",
+   "en_pantalla": "Perro mirando al cielo; albóndiga en globo de pensamiento",
+   "cara": "Soñador",
+   "camara": "C"
+  },
+  {
+   "n": 8,
+   "inicio": 11.48,
+   "fin": 13.62,
+   "texto": "My cousin's goldfish wrote, \"Three stars.\"",
+   "escenario": "Cuarto",
+   "en_pantalla": "Pecera con una hoja diminuta pegada",
+   "cara": "Pez neutro",
+   "camara": "C"
+  },
+  {
+   "n": 9,
+   "inicio": 13.62,
+   "fin": 14.26,
+   "texto": "\"Who is this guy.\"",
+   "escenario": "Cuarto",
+   "en_pantalla": "Pez mira al primo; el primo saluda",
+   "cara": "Pez confundido, primo dolido",
+   "camara": "M"
+  },
+  {
+   "n": 10,
+   "inicio": 14.26,
+   "fin": 16.46,
+   "texto": "My aunt's parrot just posted her phone password.",
+   "escenario": "Calle de día",
+   "en_pantalla": "Reseña con cuatro números gigantes; loro al lado",
+   "cara": "Tía con pánico",
+   "camara": "M"
+  },
+  {
+   "n": 11,
+   "inicio": 16.46,
+   "fin": 18.02,
+   "texto": "But five stars has a price.",
+   "escenario": "Calle de día",
+   "en_pantalla": "Reseña de cinco estrellas con brillo",
+   "cara": "(sin personaje)",
+   "camara": "C"
+  },
+  {
+   "n": 12,
+   "inicio": 18.02,
+   "fin": 20.08,
+   "texto": "Mrs. Garza got five stars once.",
+   "escenario": "Calle de día",
+   "en_pantalla": "Señora Garza orgullosa en su puerta",
+   "cara": "Orgullosa",
+   "camara": "M"
+  },
+  {
+   "n": 13,
+   "inicio": 20.08,
+   "fin": 21.54,
+   "texto": "Now she has twenty-three cats,",
+   "escenario": "Calle de día",
+   "en_pantalla": "Su casa cubierta de gatos, techo incluido",
+   "cara": "Agotada",
+   "camara": "G"
+  },
+  {
+   "n": 14,
+   "inicio": 21.54,
+   "fin": 21.94,
+   "texto": "a goat,",
+   "escenario": "Calle de día",
+   "en_pantalla": "Cabra sobre el buzón",
+   "cara": "Cabra neutra",
+   "camara": "C"
+  },
+  {
+   "n": 15,
+   "inicio": 21.94,
+   "fin": 22.92,
+   "texto": "and a waiting list.",
+   "escenario": "Calle de día",
+   "en_pantalla": "Fila de perros, un conejo y una tortuga con turnos",
+   "cara": "Pacientes",
+   "camara": "G"
+  },
+  {
+   "n": 16,
+   "inicio": 22.92,
+   "fin": 24.28,
+   "texto": "My cat is named Dennis.",
+   "escenario": "Sala",
+   "en_pantalla": "Gato gris con cara de pocos amigos",
+   "cara": "Gato serio",
+   "camara": "C"
+  },
+  {
+   "n": 17,
+   "inicio": 24.28,
+   "fin": 26.64,
+   "texto": "Dennis has given me one star eight Saturdays in a row.",
+   "escenario": "Calle de día",
+   "en_pantalla": "Puerta del narrador con ocho hojas de una estrella",
+   "cara": "Narrador derrotado",
+   "camara": "M"
+  },
+  {
+   "n": 18,
+   "inicio": 26.64,
+   "fin": 28.44,
+   "texto": "\"One star. He sings in the shower.\"",
+   "escenario": "Baño",
+   "en_pantalla": "Narrador cantando con un cepillo; Dennis con las orejas atrás",
+   "cara": "Feliz, gato ofendido",
+   "camara": "M"
+  },
+  {
+   "n": 19,
+   "inicio": 28.44,
+   "fin": 30.58,
+   "texto": "\"One star. Touched my belly in 2022.\"",
+   "escenario": "Sala (recuerdo)",
+   "en_pantalla": "Mano del narrador hacia la barriga del gato",
+   "cara": "Gato con horror",
+   "camara": "C"
+  },
+  {
+   "n": 20,
+   "inicio": 30.58,
+   "fin": 31.4,
+   "texto": "\"I remember.\"",
+   "escenario": "Sala",
+   "en_pantalla": "Dennis entrecierra los ojos",
+   "cara": "Rencor",
+   "camara": "C"
+  },
+  {
+   "n": 21,
+   "inicio": 31.4,
+   "fin": 33.54,
+   "texto": "\"One star. Gets home at 3:42.\"",
+   "escenario": "Calle de día",
+   "en_pantalla": "Narrador llega con morral; reloj 3:42",
+   "cara": "Neutro",
+   "camara": "M"
+  },
+  {
+   "n": 22,
+   "inicio": 33.54,
+   "fin": 35.054,
+   "texto": "\"I wait at the window from 3:30.\"",
+   "escenario": "Sala",
+   "en_pantalla": "Dennis en la ventana; reloj 3:30",
+   "cara": "Gato serio",
+   "camara": "M"
+  },
+  {
+   "n": 23,
+   "inicio": 35.054,
+   "fin": 35.9,
+   "texto": "\"For nothing.\"",
+   "escenario": "Sala",
+   "en_pantalla": "Dennis en la ventana, visto desde afuera",
+   "cara": "Gato serio",
+   "camara": "C"
+  },
+  {
+   "n": 24,
+   "inicio": 35.9,
+   "fin": 36.98,
+   "texto": "Here's the problem.",
+   "escenario": "Cuarto",
+   "en_pantalla": "Narrador",
+   "cara": "Preocupado",
+   "camara": "C"
+  },
+  {
+   "n": 25,
+   "inicio": 36.98,
+   "fin": 39.68,
+   "texto": "Twelve one-star reviews in a row, and you lose your pet.",
+   "escenario": "Calle de día",
+   "en_pantalla": "Doce casillas en un cartel; ocho tachadas",
+   "cara": "(sin personaje)",
+   "camara": "C"
+  },
+  {
+   "n": 26,
+   "inicio": 39.68,
+   "fin": 41.5,
+   "texto": "The Pet Office moves it to a better home.",
+   "escenario": "Calle de día",
+   "en_pantalla": "Funcionaria con planilla y una jaula de transporte vacía",
+   "cara": "Seria",
+   "camara": "M"
+  },
+  {
+   "n": 27,
+   "inicio": 41.5,
+   "fin": 43.0,
+   "texto": "I had four Saturdays left.",
+   "escenario": "Cuarto",
+   "en_pantalla": "Calendario con cuatro sábados encerrados en rojo",
+   "cara": "Susto",
+   "camara": "C"
+  },
+  {
+   "n": 28,
+   "inicio": 43.0,
+   "fin": 44.54,
+   "texto": "So I tried to buy a star.",
+   "escenario": "Cuarto",
+   "en_pantalla": "Narrador rompe su alcancía",
+   "cara": "Decidido",
+   "camara": "M"
+  },
+  {
+   "n": 29,
+   "inicio": 44.54,
+   "fin": 47.38,
+   "texto": "Week nine, I got the fancy salmon in the tiny gold can.",
+   "escenario": "Cocina",
+   "en_pantalla": "Lata dorada diminuta en un plato",
+   "cara": "Esperanzado",
+   "camara": "C"
+  },
+  {
+   "n": 30,
+   "inicio": 47.38,
+   "fin": 48.06,
+   "texto": "Fourteen dollars.",
+   "escenario": "Cocina",
+   "en_pantalla": "Etiqueta $14; billetera vacía",
+   "cara": "Dolor",
+   "camara": "C"
+  },
+  {
+   "n": 31,
+   "inicio": 48.06,
+   "fin": 50.2,
+   "texto": "\"One star. Salmon was fine.\"",
+   "escenario": "Cocina",
+   "en_pantalla": "Dennis lamiéndose, plato limpio",
+   "cara": "Gato satisfecho",
+   "camara": "M"
+  },
+  {
+   "n": 32,
+   "inicio": 50.2,
+   "fin": 51.12,
+   "texto": "\"Service was slow.\"",
+   "escenario": "Calle de día",
+   "en_pantalla": "Reseña de una estrella",
+   "cara": "Narrador indignado",
+   "camara": "C"
+  },
+  {
+   "n": 33,
+   "inicio": 51.12,
+   "fin": 53.02,
+   "texto": "Week ten, I built a six-foot cat tower",
+   "escenario": "Sala",
+   "en_pantalla": "Torre altísima; narrador con martillo",
+   "cara": "Orgulloso",
+   "camara": "G"
+  },
+  {
+   "n": 34,
+   "inicio": 53.02,
+   "fin": 53.74,
+   "texto": "with four floors.",
+   "escenario": "Sala",
+   "en_pantalla": "Los cuatro pisos, vacíos",
+   "cara": "(sin personaje)",
+   "camara": "M"
+  },
+  {
+   "n": 35,
+   "inicio": 53.74,
+   "fin": 55.7,
+   "texto": "\"One star. I slept in the box.\"",
+   "escenario": "Sala",
+   "en_pantalla": "Dennis dormido en la caja de cartón, al lado de la torre",
+   "cara": "Gato dormido",
+   "camara": "M"
+  },
+  {
+   "n": 36,
+   "inicio": 55.7,
+   "fin": 56.78,
+   "texto": "\"The box is drafty.\"",
+   "escenario": "Calle de día",
+   "en_pantalla": "Reseña de una estrella",
+   "cara": "Narrador con tic en el ojo",
+   "camara": "C"
+  },
+  {
+   "n": 37,
+   "inicio": 56.78,
+   "fin": 58.48,
+   "texto": "Week eleven, I gave him my whole bed.",
+   "escenario": "Cuarto de noche",
+   "en_pantalla": "Dennis en el centro de la cama, estirado",
+   "cara": "Gato rey",
+   "camara": "M"
+  },
+  {
+   "n": 38,
+   "inicio": 58.48,
+   "fin": 60.32,
+   "texto": "I slept on the floor for seven nights.",
+   "escenario": "Cuarto de noche",
+   "en_pantalla": "Narrador en el piso con una cobija pequeña",
+   "cara": "Ojeras",
+   "camara": "G"
+  },
+  {
+   "n": 39,
+   "inicio": 60.32,
+   "fin": 61.14,
+   "texto": "\"Half a star.\"",
+   "escenario": "Calle de día",
+   "en_pantalla": "Reseña con media estrella",
+   "cara": "(sin personaje)",
+   "camara": "C"
+  },
+  {
+   "n": 40,
+   "inicio": 61.14,
+   "fin": 62.38,
+   "texto": "\"He snores down there too.\"",
+   "escenario": "Cuarto de noche",
+   "en_pantalla": "Narrador roncando; Dennis lo mira desde la cama",
+   "cara": "Gato harto",
+   "camara": "M"
+  },
+  {
+   "n": 41,
+   "inicio": 62.38,
+   "fin": 63.84,
+   "texto": "I didn't know half a star existed.",
+   "escenario": "Calle de día",
+   "en_pantalla": "Narrador mira la media estrella de cerca",
+   "cara": "Incrédulo",
+   "camara": "C"
+  },
+  {
+   "n": 42,
+   "inicio": 63.84,
+   "fin": 64.92,
+   "texto": "Dennis found a way.",
+   "escenario": "Sala",
+   "en_pantalla": "Dennis con tijeras junto a media estrella de papel",
+   "cara": "Gato satisfecho",
+   "camara": "C"
+  },
+  {
+   "n": 43,
+   "inicio": 64.92,
+   "fin": 66.18,
+   "texto": "Friday night, I quit.",
+   "escenario": "Cuarto de noche",
+   "en_pantalla": "Narrador sentado en la cama",
+   "cara": "Derrotado",
+   "camara": "M"
+  },
+  {
+   "n": 44,
+   "inicio": 66.18,
+   "fin": 67.76,
+   "texto": "No salmon. No tower.",
+   "escenario": "Cuarto de noche",
+   "en_pantalla": "Manos vacías",
+   "cara": "(sin personaje)",
+   "camara": "C"
+  },
+  {
+   "n": 45,
+   "inicio": 67.76,
+   "fin": 69.7,
+   "texto": "I sat on the floor next to his box.",
+   "escenario": "Sala de noche",
+   "en_pantalla": "Narrador en el piso; Dennis en la caja",
+   "cara": "Triste, gato serio",
+   "camara": "M"
+  },
+  {
+   "n": 46,
+   "inicio": 69.7,
+   "fin": 70.72,
+   "texto": "\"Okay. You win.\"",
+   "escenario": "Sala de noche",
+   "en_pantalla": "Narrador",
+   "cara": "Triste",
+   "camara": "C"
+  },
+  {
+   "n": 47,
+   "inicio": 70.72,
+   "fin": 73.54,
+   "texto": "\"If you want a better home, I'll carry your box there myself.\"",
+   "escenario": "Sala de noche",
+   "en_pantalla": "Narrador con la mano en el borde de la caja",
+   "cara": "Vulnerable",
+   "camara": "M"
+  },
+  {
+   "n": 48,
+   "inicio": 73.54,
+   "fin": 75.9,
+   "texto": "\"But you're the first thing I look for when I open the door.\"",
+   "escenario": "Sala (recuerdo)",
+   "en_pantalla": "Narrador abre la puerta y busca con la mirada",
+   "cara": "Ilusionado",
+   "camara": "M"
+  },
+  {
+   "n": 49,
+   "inicio": 75.9,
+   "fin": 76.82,
+   "texto": "\"Every single day.\"",
+   "escenario": "Sala de noche",
+   "en_pantalla": "Dennis mirándolo fijo",
+   "cara": "Gato serio",
+   "camara": "C"
+  },
+  {
+   "n": 50,
+   "inicio": 76.82,
+   "fin": 77.94,
+   "texto": "Then I cried on him a little.",
+   "escenario": "Sala de noche",
+   "en_pantalla": "Lágrima cae sobre la cabeza de Dennis",
+   "cara": "Llanto",
+   "camara": "C"
+  },
+  {
+   "n": 51,
+   "inicio": 77.94,
+   "fin": 79.44,
+   "texto": "He allowed it for four seconds.",
+   "escenario": "Sala de noche",
+   "en_pantalla": "Dennis rígido; contador 1, 2, 3, 4; se va",
+   "cara": "Gato incómodo",
+   "camara": "M"
+  },
+  {
+   "n": 52,
+   "inicio": 79.44,
+   "fin": 81.78,
+   "texto": "Saturday morning, the review was on the door.",
+   "escenario": "Calle de día",
+   "en_pantalla": "Hoja nueva en la puerta",
+   "cara": "(sin personaje)",
+   "camara": "M"
+  },
+  {
+   "n": 53,
+   "inicio": 81.78,
+   "fin": 83.0,
+   "texto": "I read it with one eye closed.",
+   "escenario": "Calle de día",
+   "en_pantalla": "Narrador con un ojo cerrado",
+   "cara": "Miedo",
+   "camara": "C"
+  },
+  {
+   "n": 54,
+   "inicio": 83.0,
+   "fin": 83.86,
+   "texto": "\"Two stars.\"",
+   "escenario": "Calle de día",
+   "en_pantalla": "Dos estrellas",
+   "cara": "(sin personaje)",
+   "camara": "C"
+  },
+  {
+   "n": 55,
+   "inicio": 83.86,
+   "fin": 85.44,
+   "texto": "\"He cried on me. Disgusting.\"",
+   "escenario": "Sala",
+   "en_pantalla": "Dennis lamiéndose la cabeza con asco",
+   "cara": "Gato ofendido",
+   "camara": "C"
+  },
+  {
+   "n": 56,
+   "inicio": 85.44,
+   "fin": 86.42,
+   "texto": "\"I'm staying.\"",
+   "escenario": "Sala",
+   "en_pantalla": "Dennis sentado en la caja, firme",
+   "cara": "Gato serio",
+   "camara": "M"
+  },
+  {
+   "n": 57,
+   "inicio": 86.42,
+   "fin": 89.08,
+   "texto": "\"To every pet reading this door: he is TAKEN.\"",
+   "escenario": "Calle de día",
+   "en_pantalla": "La palabra TAKEN en mayúsculas en la hoja",
+   "cara": "(sin personaje)",
+   "camara": "C"
+  },
+  {
+   "n": 58,
+   "inicio": 89.08,
+   "fin": 90.86,
+   "texto": "\"Why do you think I kept him at one star?\"",
+   "escenario": "Sala",
+   "en_pantalla": "Dennis en la ventana, mirando hacia la calle",
+   "cara": "Gato vigilante",
+   "camara": "C"
+  },
+  {
+   "n": 59,
+   "inicio": 90.86,
+   "fin": 91.94,
+   "texto": "I looked across the street.",
+   "escenario": "Calle de día",
+   "en_pantalla": "Narrador gira la cabeza",
+   "cara": "Golpe de realidad",
+   "camara": "C"
+  },
+  {
+   "n": 60,
+   "inicio": 91.94,
+   "fin": 94.3,
+   "texto": "Twenty-three cats and a goat were staring at my door.",
+   "escenario": "Calle de día",
+   "en_pantalla": "Casa de la señora Garza; todos mirando a cámara",
+   "cara": "Ojos fijos",
+   "camara": "G"
+  },
+  {
+   "n": 61,
+   "inicio": 94.3,
+   "fin": 96.2,
+   "texto": "Sunday, the goat was on my porch.",
+   "escenario": "Calle de día",
+   "en_pantalla": "Cabra en el tapete con una maleta pequeña",
+   "cara": "Cabra esperanzada",
+   "camara": "M"
+  },
+  {
+   "n": 62,
+   "inicio": 96.2,
+   "fin": 97.2,
+   "texto": "Dennis handled it.",
+   "escenario": "Calle de día",
+   "en_pantalla": "Dennis erizado en la puerta; la cabra huye",
+   "cara": "Gato furia, cabra pánico",
+   "camara": "G"
+  },
+  {
+   "n": 63,
+   "inicio": 97.2,
+   "fin": 98.6,
+   "texto": "Then he posted a second review.",
+   "escenario": "Calle de día",
+   "en_pantalla": "Dennis pega otra hoja con la pata",
+   "cara": "Gato serio",
+   "camara": "M"
+  },
+  {
+   "n": 64,
+   "inicio": 98.6,
+   "fin": 99.48,
+   "texto": "About the goat.",
+   "escenario": "Calle de día",
+   "en_pantalla": "Hoja con un dibujo de cabra",
+   "cara": "(sin personaje)",
+   "camara": "C"
+  },
+  {
+   "n": 65,
+   "inicio": 99.48,
+   "fin": 101.081,
+   "texto": "Zero stars.",
+   "escenario": "Calle de día",
+   "en_pantalla": "Cinco estrellas vacías; narrador carga a Dennis",
+   "cara": "Sonrisa, gato resignado",
+   "camara": "M"
+  }
+ ]
+}

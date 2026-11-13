@@ -1,0 +1,12 @@
+# Dependencias de Python de la caja de herramientas.
+# Instalación recomendada, en un entorno virtual dentro de esta carpeta:
+#   python -m venv herramientas\.venv
+#   herramientas\.venv\Scripts\python.exe -m pip install -r herramientas\requirements.txt
+#
+# Además hace falta ffmpeg (con ffprobe) en el PATH. No es un paquete de Python.
+
+# transcribir.py: tiempos por palabra en CPU. Trae consigo ctranslate2, numpy y tokenizers.
+faster-whisper>=1.1
+
+# hoja_contactos.py (obligatorio) y subtitulos.py (para medir el ancho real del texto).
+Pillow>=10.0

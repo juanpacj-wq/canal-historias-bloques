@@ -1,0 +1,666 @@
+{
+ "video": "024-you-can-only-lie-on-tuesdays",
+ "duracion": 100.557,
+ "planos": [
+  {
+   "n": 1,
+   "inicio": 0.0,
+   "fin": 2.36,
+   "texto": "In this town, you can only lie on Tuesdays.",
+   "escenario": "Pueblo de día",
+   "en_pantalla": "Calendario gigante en la plaza, el martes en rojo",
+   "cara": "Gente celebrando",
+   "camara": "G"
+  },
+  {
+   "n": 2,
+   "inicio": 2.36,
+   "fin": 4.8,
+   "texto": "The other six days, only the truth comes out.",
+   "escenario": "Pueblo de día",
+   "en_pantalla": "Vecino se tapa la boca; igual se le escapa un globo de texto",
+   "cara": "Pánico",
+   "camara": "C"
+  },
+  {
+   "n": 3,
+   "inicio": 4.8,
+   "fin": 7.3,
+   "texto": "On Monday my teacher said we're her least favorite class.",
+   "escenario": "Colegio, salón",
+   "en_pantalla": "Profesora sonriente frente al tablero; letrero MONDAY",
+   "cara": "Profesora tranquila, alumnos dolidos",
+   "camara": "M"
+  },
+  {
+   "n": 4,
+   "inicio": 7.3,
+   "fin": 8.7,
+   "texto": "On Sunday Grandma said my sweater...",
+   "escenario": "Sala",
+   "en_pantalla": "Abuela señala el suéter del narrador",
+   "cara": "Abuela sincera",
+   "camara": "M"
+  },
+  {
+   "n": 5,
+   "inicio": 8.7,
+   "fin": 10.14,
+   "texto": "makes me look like a couch.",
+   "escenario": "Sala",
+   "en_pantalla": "Narrador al lado del sofá: misma tela de flores",
+   "cara": "Derrotado",
+   "camara": "G"
+  },
+  {
+   "n": 6,
+   "inicio": 10.14,
+   "fin": 12.38,
+   "texto": "So everybody saves the fake stuff for Tuesday.",
+   "escenario": "Pueblo de día",
+   "en_pantalla": "Gente con libretas y listas esperando frente al calendario",
+   "cara": "Ansiosos",
+   "camara": "G"
+  },
+  {
+   "n": 7,
+   "inicio": 12.38,
+   "fin": 14.26,
+   "texto": "Birthday presents get opened on Tuesdays,",
+   "escenario": "Sala",
+   "en_pantalla": "Niño abre un regalo: medias",
+   "cara": "Sonrisa forzada",
+   "camara": "M"
+  },
+  {
+   "n": 8,
+   "inicio": 14.26,
+   "fin": 15.38,
+   "texto": "so you can say \"I love it.\"",
+   "escenario": "Sala",
+   "en_pantalla": "Niño abraza las medias; la tía feliz",
+   "cara": "Sonrisa forzada, feliz",
+   "camara": "C"
+  },
+  {
+   "n": 9,
+   "inicio": 15.38,
+   "fin": 16.86,
+   "texto": "Dentists only work Tuesdays.",
+   "escenario": "Calle de día",
+   "en_pantalla": "Consultorio con letrero OPEN TUESDAYS ONLY",
+   "cara": "(sin personaje)",
+   "camara": "M"
+  },
+  {
+   "n": 10,
+   "inicio": 16.86,
+   "fin": 17.66,
+   "texto": "\"This won't hurt a bit.\"",
+   "escenario": "Consultorio",
+   "en_pantalla": "Dentista con un taladro enorme; paciente",
+   "cara": "Dentista sonriente, paciente con pánico",
+   "camara": "M"
+  },
+  {
+   "n": 11,
+   "inicio": 17.66,
+   "fin": 19.38,
+   "texto": "The weatherman says it's raining tacos.",
+   "escenario": "Sala",
+   "en_pantalla": "Televisor: mapa del clima con tacos cayendo",
+   "cara": "Presentador serio",
+   "camara": "C"
+  },
+  {
+   "n": 12,
+   "inicio": 19.38,
+   "fin": 20.42,
+   "texto": "But there's a catch.",
+   "escenario": "Pueblo de día",
+   "en_pantalla": "Calendario, martes en rojo",
+   "cara": "(sin personaje)",
+   "camara": "C"
+  },
+  {
+   "n": 13,
+   "inicio": 20.42,
+   "fin": 22.54,
+   "texto": "Nobody believes one word you say on a Tuesday.",
+   "escenario": "Calle de día",
+   "en_pantalla": "Niño grita señalando su casa con humo; vecinos se ríen",
+   "cara": "Pánico, risas",
+   "camara": "G"
+  },
+  {
+   "n": 14,
+   "inicio": 22.54,
+   "fin": 23.82,
+   "texto": "I keep a Tuesday List.",
+   "escenario": "Cuarto",
+   "en_pantalla": "Libreta con título TUESDAY LIST",
+   "cara": "Narrador orgulloso",
+   "camara": "M"
+  },
+  {
+   "n": 15,
+   "inicio": 23.82,
+   "fin": 25.44,
+   "texto": "Fourteen lies, ready to go.",
+   "escenario": "Cuarto",
+   "en_pantalla": "Lista numerada del 1 al 14",
+   "cara": "(sin personaje)",
+   "camara": "C"
+  },
+  {
+   "n": 16,
+   "inicio": 25.44,
+   "fin": 26.18,
+   "texto": "\"I flossed.\"",
+   "escenario": "Baño",
+   "en_pantalla": "Narrador frente al espejo; hilo dental sin abrir",
+   "cara": "Sonrisa falsa",
+   "camara": "C"
+  },
+  {
+   "n": 17,
+   "inicio": 26.18,
+   "fin": 27.32,
+   "texto": "\"Great meatloaf, Dad.\"",
+   "escenario": "Cocina",
+   "en_pantalla": "Pastel de carne gris y hundido; papá esperanzado",
+   "cara": "Sonrisa falsa, papá ilusionado",
+   "camara": "M"
+  },
+  {
+   "n": 18,
+   "inicio": 27.32,
+   "fin": 28.36,
+   "texto": "And number fourteen.",
+   "escenario": "Cuarto",
+   "en_pantalla": "Renglón 14 de la lista, subrayado",
+   "cara": "(sin personaje)",
+   "camara": "C"
+  },
+  {
+   "n": 19,
+   "inicio": 28.36,
+   "fin": 29.26,
+   "texto": "Tell Tess I like her.",
+   "escenario": "Colegio, pasillo",
+   "en_pantalla": "Tess en su casillero, moñas con lápices",
+   "cara": "Tess feliz",
+   "camara": "M"
+  },
+  {
+   "n": 20,
+   "inicio": 29.26,
+   "fin": 31.86,
+   "texto": "If she laughs, say \"Gotcha, it's Tuesday.\"",
+   "escenario": "Colegio, pasillo",
+   "en_pantalla": "Narrador con pistolitas de dedos",
+   "cara": "Sonrisa nerviosa",
+   "camara": "C"
+  },
+  {
+   "n": 21,
+   "inicio": 31.86,
+   "fin": 33.84,
+   "texto": "I've done it thirty-one Tuesdays in a row.",
+   "escenario": "Cuarto",
+   "en_pantalla": "Pared con 31 rayitas",
+   "cara": "(sin personaje)",
+   "camara": "C"
+  },
+  {
+   "n": 22,
+   "inicio": 33.84,
+   "fin": 34.62,
+   "texto": "She laughs every time.",
+   "escenario": "Colegio, pasillo",
+   "en_pantalla": "Tess riendo",
+   "cara": "Risa",
+   "camara": "C"
+  },
+  {
+   "n": 23,
+   "inicio": 34.62,
+   "fin": 37.2,
+   "texto": "Then every Wednesday she falls asleep in first period.",
+   "escenario": "Colegio, salón",
+   "en_pantalla": "Tess dormida sobre el pupitre; letrero WEDNESDAY",
+   "cara": "Dormida",
+   "camara": "M"
+  },
+  {
+   "n": 24,
+   "inicio": 37.2,
+   "fin": 38.22,
+   "texto": "Nobody knows why.",
+   "escenario": "Colegio, salón",
+   "en_pantalla": "Narrador la mira desde su puesto",
+   "cara": "Curioso",
+   "camara": "C"
+  },
+  {
+   "n": 25,
+   "inicio": 38.22,
+   "fin": 40.7,
+   "texto": "Last Monday, Tess told me her family is moving.",
+   "escenario": "Colegio, cafetería",
+   "en_pantalla": "Tess con la bandeja, sin sonreír",
+   "cara": "Triste",
+   "camara": "M"
+  },
+  {
+   "n": 26,
+   "inicio": 40.7,
+   "fin": 42.16,
+   "texto": "Wednesday. Seven a.m.",
+   "escenario": "Calle de día",
+   "en_pantalla": "Camión de mudanza; reloj 7:00",
+   "cara": "(sin personaje)",
+   "camara": "M"
+  },
+  {
+   "n": 27,
+   "inicio": 42.16,
+   "fin": 43.64,
+   "texto": "So I had one day left to say it.",
+   "escenario": "Colegio, cafetería",
+   "en_pantalla": "Narrador",
+   "cara": "Susto",
+   "camara": "C"
+  },
+  {
+   "n": 28,
+   "inicio": 43.64,
+   "fin": 44.94,
+   "texto": "And that day was a Tuesday.",
+   "escenario": "Pueblo de día",
+   "en_pantalla": "Calendario: martes en rojo, parpadeando",
+   "cara": "(sin personaje)",
+   "camara": "C"
+  },
+  {
+   "n": 29,
+   "inicio": 44.94,
+   "fin": 46.34,
+   "texto": "I tried to make a Tuesday count.",
+   "escenario": "Cuarto",
+   "en_pantalla": "Narrador frente al espejo",
+   "cara": "Decidido",
+   "camara": "C"
+  },
+  {
+   "n": 30,
+   "inicio": 46.34,
+   "fin": 48.76,
+   "texto": "First I just said it. \"I like you. For real.\"",
+   "escenario": "Colegio, pasillo",
+   "en_pantalla": "Narrador frente a Tess",
+   "cara": "Sincero",
+   "camara": "M"
+  },
+  {
+   "n": 31,
+   "inicio": 48.76,
+   "fin": 49.84,
+   "texto": "She said, \"Good one,\"",
+   "escenario": "Colegio, pasillo",
+   "en_pantalla": "Tess",
+   "cara": "Risa",
+   "camara": "C"
+  },
+  {
+   "n": 32,
+   "inicio": 49.84,
+   "fin": 50.92,
+   "texto": "and punched my arm.",
+   "escenario": "Colegio, pasillo",
+   "en_pantalla": "Puño en el hombro; narrador se soba",
+   "cara": "Derrotado",
+   "camara": "M"
+  },
+  {
+   "n": 33,
+   "inicio": 50.92,
+   "fin": 52.1,
+   "texto": "Then I wrote it on a card.",
+   "escenario": "Colegio, salón",
+   "en_pantalla": "Tarjeta con un corazón torcido",
+   "cara": "Esperanzado",
+   "camara": "C"
+  },
+  {
+   "n": 34,
+   "inicio": 52.1,
+   "fin": 54.5,
+   "texto": "She put it in a shoebox with nine other Tuesday cards.",
+   "escenario": "Colegio, pasillo",
+   "en_pantalla": "Caja de zapatos llena de tarjetas",
+   "cara": "Tess divertida",
+   "camara": "C"
+  },
+  {
+   "n": 35,
+   "inicio": 54.5,
+   "fin": 55.46,
+   "texto": "Then I went big.",
+   "escenario": "Cancha",
+   "en_pantalla": "Narrador con megáfono",
+   "cara": "Decidido",
+   "camara": "M"
+  },
+  {
+   "n": 36,
+   "inicio": 55.46,
+   "fin": 57.06,
+   "texto": "A forty-foot banner on the gym roof.",
+   "escenario": "Colegio (fachada)",
+   "en_pantalla": "Pancarta enorme colgando del techo",
+   "cara": "(sin personaje)",
+   "camara": "G"
+  },
+  {
+   "n": 37,
+   "inicio": 57.06,
+   "fin": 58.32,
+   "texto": "TESS, I MEAN IT.",
+   "escenario": "Colegio (fachada)",
+   "en_pantalla": "Las letras de la pancarta",
+   "cara": "(sin personaje)",
+   "camara": "C"
+  },
+  {
+   "n": 38,
+   "inicio": 58.32,
+   "fin": 59.44,
+   "texto": "Plus the whole drum line.",
+   "escenario": "Cancha",
+   "en_pantalla": "Fila de tambores del colegio tocando",
+   "cara": "Concentrados",
+   "camara": "G"
+  },
+  {
+   "n": 39,
+   "inicio": 59.44,
+   "fin": 60.36,
+   "texto": "She clapped.",
+   "escenario": "Cancha",
+   "en_pantalla": "Tess aplaudiendo",
+   "cara": "Risa",
+   "camara": "M"
+  },
+  {
+   "n": 40,
+   "inicio": 60.36,
+   "fin": 61.56,
+   "texto": "\"Best Tuesday bit ever.\"",
+   "escenario": "Cancha",
+   "en_pantalla": "Tess; narrador detrás, hundido",
+   "cara": "Feliz, derrotado",
+   "camara": "M"
+  },
+  {
+   "n": 41,
+   "inicio": 61.56,
+   "fin": 63.0,
+   "texto": "That night I stared at my list.",
+   "escenario": "Cuarto de noche",
+   "en_pantalla": "Narrador con la libreta bajo una lámpara",
+   "cara": "Cansado",
+   "camara": "M"
+  },
+  {
+   "n": 42,
+   "inicio": 63.0,
+   "fin": 63.86,
+   "texto": "And I got it.",
+   "escenario": "Cuarto de noche",
+   "en_pantalla": "Narrador",
+   "cara": "Ojos abiertos",
+   "camara": "C"
+  },
+  {
+   "n": 43,
+   "inicio": 63.86,
+   "fin": 66.16,
+   "texto": "Six days a week, she would have had to believe me.",
+   "escenario": "Cuarto de noche",
+   "en_pantalla": "Calendario: seis días en verde",
+   "cara": "(sin personaje)",
+   "camara": "C"
+  },
+  {
+   "n": 44,
+   "inicio": 66.16,
+   "fin": 67.86,
+   "texto": "I picked the one day I could take it back.",
+   "escenario": "Cuarto de noche",
+   "en_pantalla": "El martes en rojo; dedo del narrador encima",
+   "cara": "Vergüenza",
+   "camara": "C"
+  },
+  {
+   "n": 45,
+   "inicio": 67.86,
+   "fin": 68.84,
+   "texto": "Thirty-one times.",
+   "escenario": "Cuarto de noche",
+   "en_pantalla": "Las 31 rayitas de la pared",
+   "cara": "Narrador de espaldas",
+   "camara": "M"
+  },
+  {
+   "n": 46,
+   "inicio": 68.84,
+   "fin": 71.28,
+   "texto": "So at 11:58, I stood under her window.",
+   "escenario": "Calle de noche",
+   "en_pantalla": "Narrador solo bajo una ventana; reloj 11:58",
+   "cara": "Nervioso",
+   "camara": "G"
+  },
+  {
+   "n": 47,
+   "inicio": 71.28,
+   "fin": 72.88,
+   "texto": "No banner. No drums.",
+   "escenario": "Calle de noche",
+   "en_pantalla": "Manos vacías",
+   "cara": "(sin personaje)",
+   "camara": "C"
+  },
+  {
+   "n": 48,
+   "inicio": 72.88,
+   "fin": 74.08,
+   "texto": "I waited two minutes.",
+   "escenario": "Calle de noche",
+   "en_pantalla": "Reloj 11:59",
+   "cara": "(sin personaje)",
+   "camara": "C"
+  },
+  {
+   "n": 49,
+   "inicio": 74.08,
+   "fin": 75.68,
+   "texto": "Longest two minutes of my life.",
+   "escenario": "Calle de noche",
+   "en_pantalla": "Narrador sudando, tieso",
+   "cara": "Angustia",
+   "camara": "C"
+  },
+  {
+   "n": 50,
+   "inicio": 75.68,
+   "fin": 77.28,
+   "texto": "At 12:01, on a Wednesday,",
+   "escenario": "Calle de noche",
+   "en_pantalla": "Reloj 12:01; calendario pasa a WEDNESDAY",
+   "cara": "(sin personaje)",
+   "camara": "C"
+  },
+  {
+   "n": 51,
+   "inicio": 77.28,
+   "fin": 78.76,
+   "texto": "I said, \"I like you.\"",
+   "escenario": "Calle de noche",
+   "en_pantalla": "Narrador mirando hacia arriba",
+   "cara": "Vulnerable",
+   "camara": "M"
+  },
+  {
+   "n": 52,
+   "inicio": 78.76,
+   "fin": 79.94,
+   "texto": "\"And I can't say gotcha.\"",
+   "escenario": "Calle de noche",
+   "en_pantalla": "Narrador",
+   "cara": "Vulnerable",
+   "camara": "C"
+  },
+  {
+   "n": 53,
+   "inicio": 79.94,
+   "fin": 81.48,
+   "texto": "Her window was already open.",
+   "escenario": "Calle de noche",
+   "en_pantalla": "Ventana abierta, cortina moviéndose",
+   "cara": "(sin personaje)",
+   "camara": "M"
+  },
+  {
+   "n": 54,
+   "inicio": 81.48,
+   "fin": 82.52,
+   "texto": "She was already there.",
+   "escenario": "Calle de noche",
+   "en_pantalla": "Tess apoyada en el marco",
+   "cara": "Sonrisa cansada",
+   "camara": "C"
+  },
+  {
+   "n": 55,
+   "inicio": 82.52,
+   "fin": 84.0,
+   "texto": "\"Finally,\" she said.",
+   "escenario": "Calle de noche",
+   "en_pantalla": "Tess",
+   "cara": "Alivio",
+   "camara": "C"
+  },
+  {
+   "n": 56,
+   "inicio": 84.0,
+   "fin": 86.64,
+   "texto": "\"I've stayed up past midnight thirty-one Tuesdays in a row.\"",
+   "escenario": "Cuarto de noche",
+   "en_pantalla": "Tess en su ventana con un reloj y ojeras",
+   "cara": "Ojeras",
+   "camara": "M"
+  },
+  {
+   "n": 57,
+   "inicio": 86.64,
+   "fin": 88.24,
+   "texto": "\"Just to see if you'd say it again on Wednesday.\"",
+   "escenario": "Calle de noche",
+   "en_pantalla": "Tess mira hacia abajo",
+   "cara": "Ojos aguados",
+   "camara": "C"
+  },
+  {
+   "n": 58,
+   "inicio": 88.24,
+   "fin": 89.26,
+   "texto": "It was Wednesday.",
+   "escenario": "Calle de noche",
+   "en_pantalla": "Reloj 12:02",
+   "cara": "(sin personaje)",
+   "camara": "C"
+  },
+  {
+   "n": 59,
+   "inicio": 89.26,
+   "fin": 90.28,
+   "texto": "She couldn't be lying.",
+   "escenario": "Calle de noche",
+   "en_pantalla": "Narrador",
+   "cara": "Sonrisa enorme",
+   "camara": "C"
+  },
+  {
+   "n": 60,
+   "inicio": 90.28,
+   "fin": 92.46,
+   "texto": "So that's why she slept through first period.",
+   "escenario": "Colegio, salón (recuerdo)",
+   "en_pantalla": "Tess dormida en el pupitre, ahora con una sonrisa",
+   "cara": "Dormida",
+   "camara": "M"
+  },
+  {
+   "n": 61,
+   "inicio": 92.46,
+   "fin": 93.6,
+   "texto": "She still moved at seven a.m.",
+   "escenario": "Calle de día",
+   "en_pantalla": "Camión de mudanza se aleja; Tess se despide por la ventana",
+   "cara": "Tristes, sonriendo",
+   "camara": "G"
+  },
+  {
+   "n": 62,
+   "inicio": 93.6,
+   "fin": 94.78,
+   "texto": "It's forty minutes away.",
+   "escenario": "Calle de día",
+   "en_pantalla": "Letrero de carretera: 40 MIN",
+   "cara": "(sin personaje)",
+   "camara": "C"
+  },
+  {
+   "n": 63,
+   "inicio": 94.78,
+   "fin": 96.04,
+   "texto": "I visit every Wednesday.",
+   "escenario": "Parque",
+   "en_pantalla": "Narrador y Tess en una banca; letrero WEDNESDAY",
+   "cara": "Felices",
+   "camara": "M"
+  },
+  {
+   "n": 64,
+   "inicio": 96.04,
+   "fin": 97.48,
+   "texto": "I threw out the Tuesday List.",
+   "escenario": "Cuarto",
+   "en_pantalla": "Libreta en la caneca",
+   "cara": "Decidido",
+   "camara": "C"
+  },
+  {
+   "n": 65,
+   "inicio": 97.48,
+   "fin": 98.84,
+   "texto": "Okay, I kept one.",
+   "escenario": "Cuarto",
+   "en_pantalla": "Un solo renglón arrancado en su mano",
+   "cara": "Pícaro",
+   "camara": "C"
+  },
+  {
+   "n": 66,
+   "inicio": 98.84,
+   "fin": 100.557,
+   "texto": "Great meatloaf, Dad.",
+   "escenario": "Cocina",
+   "en_pantalla": "Pastel de carne hundido; papá feliz, narrador con el pulgar arriba",
+   "cara": "Sonrisa falsa, papá feliz",
+   "camara": "M"
+  }
+ ]
+}

@@ -1,0 +1,596 @@
+{
+ "video": "015-rumors-become-graffiti",
+ "duracion": 93.518,
+ "planos": [
+  {
+   "n": 1,
+   "inicio": 0.0,
+   "fin": 2.5,
+   "texto": "In this school, rumors paint themselves on the walls...",
+   "escenario": "Colegio, pasillo",
+   "en_pantalla": "Letras de colores apareciendo solas en la pared, trazo por trazo",
+   "cara": "(sin personaje)",
+   "camara": "G"
+  },
+  {
+   "n": 2,
+   "inicio": 2.5,
+   "fin": 4.96,
+   "texto": "and only come off when somebody says the truth...",
+   "escenario": "Colegio, pasillo",
+   "en_pantalla": "Una niña le habla a la pared; las letras se deshacen en polvo",
+   "cara": "Aliviada",
+   "camara": "M"
+  },
+  {
+   "n": 3,
+   "inicio": 4.96,
+   "fin": 7.54,
+   "texto": "The sixth-grade hall once said...",
+   "escenario": "Colegio, pasillo",
+   "en_pantalla": "Pared con \"MR. PELLMAN WEARS A WIG\" en verde",
+   "cara": "(sin personaje)",
+   "camara": "G"
+  },
+  {
+   "n": 4,
+   "inicio": 7.54,
+   "fin": 9.16,
+   "texto": "in green letters two feet tall.",
+   "escenario": "Colegio, pasillo",
+   "en_pantalla": "Un niño pequeño junto a una letra de su misma altura",
+   "cara": "Asombro",
+   "camara": "M"
+  },
+  {
+   "n": 5,
+   "inicio": 9.16,
+   "fin": 10.34,
+   "texto": "He walked up and said...",
+   "escenario": "Colegio, pasillo",
+   "en_pantalla": "Mr. Pellman frente a la pared, mano en la cintura",
+   "cara": "Digno",
+   "camara": "M"
+  },
+  {
+   "n": 6,
+   "inicio": 10.34,
+   "fin": 11.56,
+   "texto": "\"Yes. His name is Stanley.\"",
+   "escenario": "Colegio, pasillo",
+   "en_pantalla": "Mr. Pellman levanta la peluca como un sombrero",
+   "cara": "Orgulloso",
+   "camara": "C"
+  },
+  {
+   "n": 7,
+   "inicio": 11.56,
+   "fin": 12.68,
+   "texto": "Gone in one second.",
+   "escenario": "Colegio, pasillo",
+   "en_pantalla": "Pared blanca y limpia; nube de polvo verde",
+   "cara": "(sin personaje)",
+   "camara": "G"
+  },
+  {
+   "n": 8,
+   "inicio": 12.68,
+   "fin": 15.22,
+   "texto": "The cafeteria wall says...",
+   "escenario": "Colegio, cafetería",
+   "en_pantalla": "Pared con \"THE NUGGETS ARE MOSTLY CARROTS\"",
+   "cara": "(sin personaje)",
+   "camara": "G"
+  },
+  {
+   "n": 9,
+   "inicio": 15.22,
+   "fin": 16.96,
+   "texto": "The lunch lady refuses to comment.",
+   "escenario": "Colegio, cafetería",
+   "en_pantalla": "Señora de la cafetería con los brazos cruzados y un cucharón",
+   "cara": "Boca sellada",
+   "camara": "C"
+  },
+  {
+   "n": 10,
+   "inicio": 16.96,
+   "fin": 18.26,
+   "texto": "It's been up four years.",
+   "escenario": "Colegio, cafetería",
+   "en_pantalla": "Las letras con telarañas; bandeja con un bloque café y naranja",
+   "cara": "(sin personaje)",
+   "camara": "C"
+  },
+  {
+   "n": 11,
+   "inicio": 18.26,
+   "fin": 19.48,
+   "texto": "I've never been on a wall.",
+   "escenario": "Colegio, pasillo",
+   "en_pantalla": "Narrador frente a una pared llena de nombres ajenos",
+   "cara": "Neutro",
+   "camara": "M"
+  },
+  {
+   "n": 12,
+   "inicio": 19.48,
+   "fin": 20.4,
+   "texto": "Not one letter.",
+   "escenario": "Colegio, pasillo",
+   "en_pantalla": "Narrador buscando con el dedo entre los nombres",
+   "cara": "Neutro",
+   "camara": "C"
+  },
+  {
+   "n": 13,
+   "inicio": 20.4,
+   "fin": 21.72,
+   "texto": "Nine years in this school...",
+   "escenario": "Colegio, pasillo",
+   "en_pantalla": "Fotos de curso en fila; el narrador siempre en la esquina, medio cortado",
+   "cara": "Neutro",
+   "camara": "C"
+  },
+  {
+   "n": 14,
+   "inicio": 21.72,
+   "fin": 23.38,
+   "texto": "nobody has ever said a word about me.",
+   "escenario": "Colegio, cafetería",
+   "en_pantalla": "Grupos conversando; narrador solo con su bandeja",
+   "cara": "Triste disimulado",
+   "camara": "G"
+  },
+  {
+   "n": 15,
+   "inicio": 23.38,
+   "fin": 25.18,
+   "texto": "I told myself that was a good thing.",
+   "escenario": "Colegio, cafetería",
+   "en_pantalla": "Narrador con sonrisa de labios apretados",
+   "cara": "Sonrisa forzada",
+   "camara": "C"
+  },
+  {
+   "n": 16,
+   "inicio": 25.18,
+   "fin": 26.26,
+   "texto": "Then Soren showed up.",
+   "escenario": "Colegio, pasillo",
+   "en_pantalla": "Soren entra por la puerta con morral nuevo",
+   "cara": "Amable",
+   "camara": "M"
+  },
+  {
+   "n": 17,
+   "inicio": 26.26,
+   "fin": 27.64,
+   "texto": "New kid. He could juggle oranges.",
+   "escenario": "Patio",
+   "en_pantalla": "Soren haciendo malabares con tres naranjas",
+   "cara": "Concentrado, feliz",
+   "camara": "M"
+  },
+  {
+   "n": 18,
+   "inicio": 27.64,
+   "fin": 30.06,
+   "texto": "By Friday, everybody knew his name.",
+   "escenario": "Patio",
+   "en_pantalla": "Rueda de niños aplaudiendo alrededor de Soren",
+   "cara": "Risa",
+   "camara": "G"
+  },
+  {
+   "n": 19,
+   "inicio": 30.06,
+   "fin": 31.16,
+   "texto": "So at lunch I said...",
+   "escenario": "Colegio, cafetería",
+   "en_pantalla": "Narrador inclinado hacia una mesa de compañeros",
+   "cara": "Pícaro, inseguro",
+   "camara": "M"
+  },
+  {
+   "n": 20,
+   "inicio": 31.16,
+   "fin": 32.7,
+   "texto": "\"I heard he got kicked out of his old school.\"",
+   "escenario": "Colegio, cafetería",
+   "en_pantalla": "Dos compañeros abren los ojos",
+   "cara": "Sorpresa",
+   "camara": "C"
+  },
+  {
+   "n": 21,
+   "inicio": 32.7,
+   "fin": 33.64,
+   "texto": "I made it up.",
+   "escenario": "Colegio, cafetería",
+   "en_pantalla": "Narrador mirando su bandeja",
+   "cara": "Culpa",
+   "camara": "C"
+  },
+  {
+   "n": 22,
+   "inicio": 33.64,
+   "fin": 35.52,
+   "texto": "Monday morning, it was on the gym wall.",
+   "escenario": "Colegio, gimnasio",
+   "en_pantalla": "Pared enorme con \"SOREN GOT KICKED OUT OF HIS OLD SCHOOL\"",
+   "cara": "(sin personaje)",
+   "camara": "G"
+  },
+  {
+   "n": 23,
+   "inicio": 35.52,
+   "fin": 37.42,
+   "texto": "Red letters, six feet tall.",
+   "escenario": "Colegio, gimnasio",
+   "en_pantalla": "Narrador pequeño frente a una letra roja más alta que él",
+   "cara": "Susto",
+   "camara": "M"
+  },
+  {
+   "n": 24,
+   "inicio": 37.42,
+   "fin": 39.56,
+   "texto": "Soren stood under it, scrubbing with his sleeve.",
+   "escenario": "Colegio, gimnasio",
+   "en_pantalla": "Soren restregando con la manga; no sale nada",
+   "cara": "Triste",
+   "camara": "M"
+  },
+  {
+   "n": 25,
+   "inicio": 39.56,
+   "fin": 41.02,
+   "texto": "I tried to fix it quietly.",
+   "escenario": "Colegio, pasillo",
+   "en_pantalla": "Narrador mirando a los lados, de puntillas",
+   "cara": "Nervioso",
+   "camara": "M"
+  },
+  {
+   "n": 26,
+   "inicio": 41.02,
+   "fin": 42.98,
+   "texto": "Tuesday, I used two buckets of soap.",
+   "escenario": "Colegio, gimnasio",
+   "en_pantalla": "Narrador con dos baldes y una esponja, espuma por todas partes",
+   "cara": "Esforzado",
+   "camara": "M"
+  },
+  {
+   "n": 27,
+   "inicio": 42.98,
+   "fin": 44.44,
+   "texto": "The letters just got shinier.",
+   "escenario": "Colegio, gimnasio",
+   "en_pantalla": "Letras rojas con destellos de brillo",
+   "cara": "(sin personaje)",
+   "camara": "C"
+  },
+  {
+   "n": 28,
+   "inicio": 44.44,
+   "fin": 46.8,
+   "texto": "Wednesday, I taped a bake sale poster over it.",
+   "escenario": "Colegio, gimnasio",
+   "en_pantalla": "Cartel \"BAKE SALE\" con un ponqué dibujado, pegado sobre las letras",
+   "cara": "Esperanzado",
+   "camara": "M"
+  },
+  {
+   "n": 29,
+   "inicio": 46.8,
+   "fin": 48.5,
+   "texto": "The letters crawled onto the poster.",
+   "escenario": "Colegio, gimnasio",
+   "en_pantalla": "Letras rojas trepando por el borde del cartel",
+   "cara": "Narrador con ojos muy abiertos",
+   "camara": "C"
+  },
+  {
+   "n": 30,
+   "inicio": 48.5,
+   "fin": 50.36,
+   "texto": "BAKE SALE: SOREN GOT KICKED OUT.",
+   "escenario": "Colegio, gimnasio",
+   "en_pantalla": "El cartel con el nuevo texto",
+   "cara": "(sin personaje)",
+   "camara": "C"
+  },
+  {
+   "n": 31,
+   "inicio": 50.36,
+   "fin": 51.54,
+   "texto": "Thursday at six a.m...",
+   "escenario": "Colegio, gimnasio",
+   "en_pantalla": "Gimnasio vacío y oscuro; reloj de pared en las 6:00",
+   "cara": "(sin personaje)",
+   "camara": "G"
+  },
+  {
+   "n": 32,
+   "inicio": 51.54,
+   "fin": 53.68,
+   "texto": "I stood alone in the gym and whispered...",
+   "escenario": "Colegio, gimnasio",
+   "en_pantalla": "Narrador solo, mano junto a la boca",
+   "cara": "Miedo",
+   "camara": "C"
+  },
+  {
+   "n": 33,
+   "inicio": 53.68,
+   "fin": 54.64,
+   "texto": "One letter faded.",
+   "escenario": "Colegio, gimnasio",
+   "en_pantalla": "La \"S\" se pone transparente",
+   "cara": "Narrador ilusionado",
+   "camara": "C"
+  },
+  {
+   "n": 34,
+   "inicio": 54.64,
+   "fin": 56.2,
+   "texto": "Then it all came back, bigger...",
+   "escenario": "Colegio, gimnasio",
+   "en_pantalla": "Las letras crecen de golpe",
+   "cara": "Susto",
+   "camara": "G"
+  },
+  {
+   "n": 35,
+   "inicio": 56.2,
+   "fin": 57.24,
+   "texto": "and spread across the ceiling.",
+   "escenario": "Colegio, gimnasio",
+   "en_pantalla": "Techo cubierto de letras rojas; narrador mirando hacia arriba",
+   "cara": "Derrotado",
+   "camara": "G"
+  },
+  {
+   "n": 36,
+   "inicio": 57.24,
+   "fin": 59.06,
+   "texto": "The wall doesn't take half a truth.",
+   "escenario": "Colegio, gimnasio",
+   "en_pantalla": "Narrador sentado en el piso, espalda contra la pared",
+   "cara": "Derrotado",
+   "camara": "M"
+  },
+  {
+   "n": 37,
+   "inicio": 59.06,
+   "fin": 60.62,
+   "texto": "Friday, the gym was full.",
+   "escenario": "Colegio, gimnasio",
+   "en_pantalla": "Graderías llenas",
+   "cara": "Animados",
+   "camara": "G"
+  },
+  {
+   "n": 38,
+   "inicio": 60.62,
+   "fin": 62.3,
+   "texto": "Pep rally. Four hundred kids.",
+   "escenario": "Colegio, gimnasio",
+   "en_pantalla": "Banderines y mascota (un castor de bloques) con micrófono",
+   "cara": "Risa",
+   "camara": "G"
+  },
+  {
+   "n": 39,
+   "inicio": 62.3,
+   "fin": 64.02,
+   "texto": "I took the microphone from the mascot.",
+   "escenario": "Colegio, gimnasio",
+   "en_pantalla": "Narrador le quita el micrófono; el castor con las manos vacías",
+   "cara": "Decidido",
+   "camara": "M"
+  },
+  {
+   "n": 40,
+   "inicio": 64.02,
+   "fin": 65.36,
+   "texto": "\"I made it up,\" I said.",
+   "escenario": "Colegio, gimnasio",
+   "en_pantalla": "Narrador con el micrófono, las letras rojas detrás",
+   "cara": "Tembloroso",
+   "camara": "C"
+  },
+  {
+   "n": 41,
+   "inicio": 65.36,
+   "fin": 66.46,
+   "texto": "My voice shook.",
+   "escenario": "Colegio, gimnasio",
+   "en_pantalla": "Micrófono temblando en su mano",
+   "cara": "(sin cara)",
+   "camara": "C"
+  },
+  {
+   "n": 42,
+   "inicio": 66.46,
+   "fin": 68.56,
+   "texto": "\"Soren's been here one week and everybody likes him.\"",
+   "escenario": "Colegio, gimnasio",
+   "en_pantalla": "Soren en la gradería, quieto",
+   "cara": "Serio",
+   "camara": "C"
+  },
+  {
+   "n": 43,
+   "inicio": 68.56,
+   "fin": 69.9,
+   "texto": "\"I've been here nine years...\"",
+   "escenario": "Colegio, gimnasio",
+   "en_pantalla": "Narrador, lágrima azul",
+   "cara": "Llanto contenido",
+   "camara": "C"
+  },
+  {
+   "n": 44,
+   "inicio": 69.9,
+   "fin": 71.5,
+   "texto": "\"nobody even knows my middle name.\"",
+   "escenario": "Colegio, gimnasio",
+   "en_pantalla": "Graderías en silencio",
+   "cara": "Sorprendidos",
+   "camara": "G"
+  },
+  {
+   "n": 45,
+   "inicio": 71.5,
+   "fin": 73.08,
+   "texto": "The letters peeled off like old tape.",
+   "escenario": "Colegio, gimnasio",
+   "en_pantalla": "Letras rojas despegándose y cayendo en tiras",
+   "cara": "(sin personaje)",
+   "camara": "G"
+  },
+  {
+   "n": 46,
+   "inicio": 73.08,
+   "fin": 74.1,
+   "texto": "The wall went white.",
+   "escenario": "Colegio, gimnasio",
+   "en_pantalla": "Pared limpia; tiras rojas en el piso",
+   "cara": "(sin personaje)",
+   "camara": "G"
+  },
+  {
+   "n": 47,
+   "inicio": 74.1,
+   "fin": 75.12,
+   "texto": "Nobody clapped.",
+   "escenario": "Colegio, gimnasio",
+   "en_pantalla": "El castor con las manos a medio aplaudir",
+   "cara": "Incómodo",
+   "camara": "M"
+  },
+  {
+   "n": 48,
+   "inicio": 75.12,
+   "fin": 76.74,
+   "texto": "Soren looked at me for a long time.",
+   "escenario": "Colegio, gimnasio",
+   "en_pantalla": "Soren y el narrador, frente a frente, lejos",
+   "cara": "Serio, avergonzado",
+   "camara": "M"
+  },
+  {
+   "n": 49,
+   "inicio": 76.74,
+   "fin": 77.76,
+   "texto": "Then he walked out.",
+   "escenario": "Colegio, gimnasio",
+   "en_pantalla": "Soren saliendo por la puerta; narrador solo",
+   "cara": "Triste",
+   "camara": "G"
+  },
+  {
+   "n": 50,
+   "inicio": 77.76,
+   "fin": 79.94,
+   "texto": "Monday, there was new writing over my locker.",
+   "escenario": "Colegio, pasillo",
+   "en_pantalla": "Narrador se detiene frente a su casillero",
+   "cara": "Sorpresa",
+   "camara": "M"
+  },
+  {
+   "n": 51,
+   "inicio": 79.94,
+   "fin": 81.04,
+   "texto": "Small. Blue.",
+   "escenario": "Colegio, pasillo",
+   "en_pantalla": "Letras azules pequeñas sobre el casillero",
+   "cara": "(sin personaje)",
+   "camara": "C"
+  },
+  {
+   "n": 52,
+   "inicio": 81.04,
+   "fin": 83.12,
+   "texto": "HENRIK'S MIDDLE NAME IS PROBABLY SOMETHING COOL.",
+   "escenario": "Colegio, pasillo",
+   "en_pantalla": "Primera línea del grafiti",
+   "cara": "(sin personaje)",
+   "camara": "C"
+  },
+  {
+   "n": 53,
+   "inicio": 83.12,
+   "fin": 84.1,
+   "texto": "LIKE WOLFGANG.",
+   "escenario": "Colegio, pasillo",
+   "en_pantalla": "Segunda línea; narrador leyendo",
+   "cara": "Boquiabierto",
+   "camara": "C"
+  },
+  {
+   "n": 54,
+   "inicio": 84.1,
+   "fin": 85.98,
+   "texto": "Soren walked past, juggling one orange.",
+   "escenario": "Colegio, pasillo",
+   "en_pantalla": "Soren al fondo lanzando una naranja",
+   "cara": "Neutro",
+   "camara": "M"
+  },
+  {
+   "n": 55,
+   "inicio": 85.98,
+   "fin": 87.34,
+   "texto": "He didn't look at me.",
+   "escenario": "Colegio, pasillo",
+   "en_pantalla": "Soren de perfil, mirando al frente",
+   "cara": "Neutro",
+   "camara": "C"
+  },
+  {
+   "n": 56,
+   "inicio": 87.34,
+   "fin": 88.28,
+   "texto": "He was smiling.",
+   "escenario": "Colegio, pasillo",
+   "en_pantalla": "La boca de Soren, media sonrisa",
+   "cara": "Sonrisa",
+   "camara": "C"
+  },
+  {
+   "n": 57,
+   "inicio": 88.28,
+   "fin": 89.1,
+   "texto": "It's Eugene.",
+   "escenario": "Colegio, pasillo",
+   "en_pantalla": "Narrador se tapa la boca con las dos manos",
+   "cara": "Pánico cómico",
+   "camara": "C"
+  },
+  {
+   "n": 58,
+   "inicio": 89.1,
+   "fin": 90.56,
+   "texto": "I am never saying that out loud.",
+   "escenario": "Colegio, pasillo",
+   "en_pantalla": "Narrador se pone cinta en la boca",
+   "cara": "Decidido",
+   "camara": "C"
+  },
+  {
+   "n": 59,
+   "inicio": 90.56,
+   "fin": 93.518,
+   "texto": "It's the only rumor in this school nobody wants to erase.",
+   "escenario": "Colegio, pasillo",
+   "en_pantalla": "Narrador recostado bajo su grafiti, brazos cruzados",
+   "cara": "Sonrisa orgullosa",
+   "camara": "M"
+  }
+ ]
+}

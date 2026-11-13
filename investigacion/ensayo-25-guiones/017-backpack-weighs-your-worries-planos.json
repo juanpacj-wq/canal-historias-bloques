@@ -1,0 +1,666 @@
+{
+ "video": "017-backpack-weighs-your-worries",
+ "duracion": 93.517,
+ "planos": [
+  {
+   "n": 1,
+   "inicio": 0.0,
+   "fin": 1.6,
+   "texto": "In this world, your backpack weighs...",
+   "escenario": "Calle",
+   "en_pantalla": "Fila de niños camino al colegio; unos morrales arrastran, otros flotan",
+   "cara": "Variadas",
+   "camara": "G"
+  },
+  {
+   "n": 2,
+   "inicio": 1.6,
+   "fin": 3.28,
+   "texto": "exactly as much as your worries...",
+   "escenario": "Calle",
+   "en_pantalla": "Un morral hundiendo el andén bajo los pies de una niña",
+   "cara": "Agobiada",
+   "camara": "M"
+  },
+  {
+   "n": 3,
+   "inicio": 3.28,
+   "fin": 4.62,
+   "texto": "and emptying it doesn't help.",
+   "escenario": "Calle",
+   "en_pantalla": "Niño sacude un morral vacío boca abajo; sigue pesando",
+   "cara": "Frustrado",
+   "camara": "C"
+  },
+  {
+   "n": 4,
+   "inicio": 4.62,
+   "fin": 6.56,
+   "texto": "My math teacher wheels hers in on a cart.",
+   "escenario": "Colegio, pasillo",
+   "en_pantalla": "Profesora empujando una carretilla con un maletín",
+   "cara": "Cansada",
+   "camara": "M"
+  },
+  {
+   "n": 5,
+   "inicio": 6.56,
+   "fin": 8.16,
+   "texto": "During finals week, the school bus...",
+   "escenario": "Calle",
+   "en_pantalla": "Bus escolar con la panza pegada al piso",
+   "cara": "(sin personaje)",
+   "camara": "G"
+  },
+  {
+   "n": 6,
+   "inicio": 8.16,
+   "fin": 9.68,
+   "texto": "drags sparks down the road.",
+   "escenario": "Calle",
+   "en_pantalla": "Chispas bajo el bus",
+   "cara": "(sin personaje)",
+   "camara": "C"
+  },
+  {
+   "n": 7,
+   "inicio": 9.68,
+   "fin": 11.16,
+   "texto": "Babies' diaper bags float.",
+   "escenario": "Parque",
+   "en_pantalla": "Pañalera flotando sobre un coche de bebé",
+   "cara": "Bebé feliz",
+   "camara": "M"
+  },
+  {
+   "n": 8,
+   "inicio": 11.16,
+   "fin": 13.22,
+   "texto": "Parents tie them to the stroller like balloons.",
+   "escenario": "Parque",
+   "en_pantalla": "Cuerda amarrada al coche; papá sosteniéndola",
+   "cara": "Papá ojeroso",
+   "camara": "C"
+  },
+  {
+   "n": 9,
+   "inicio": 13.22,
+   "fin": 14.9,
+   "texto": "My grandma's purse weighs nothing.",
+   "escenario": "Sala",
+   "en_pantalla": "Abuela en una mecedora; la cartera flota sobre su cabeza",
+   "cara": "Serena",
+   "camara": "M"
+  },
+  {
+   "n": 10,
+   "inicio": 14.9,
+   "fin": 16.54,
+   "texto": "She says she ran out at seventy.",
+   "escenario": "Sala",
+   "en_pantalla": "La abuela guiña un ojo",
+   "cara": "Pícara",
+   "camara": "C"
+  },
+  {
+   "n": 11,
+   "inicio": 16.54,
+   "fin": 17.58,
+   "texto": "Mine floats too.",
+   "escenario": "Calle",
+   "en_pantalla": "El morral del narrador flotando sobre él",
+   "cara": "Tranquilo",
+   "camara": "M"
+  },
+  {
+   "n": 12,
+   "inicio": 17.58,
+   "fin": 19.78,
+   "texto": "I'm fifteen, and I tie my backpack to my wrist...",
+   "escenario": "Calle",
+   "en_pantalla": "Cuerda de la muñeca al morral",
+   "cara": "(sin cara)",
+   "camara": "C"
+  },
+  {
+   "n": 13,
+   "inicio": 19.78,
+   "fin": 21.02,
+   "texto": "so it won't blow away.",
+   "escenario": "Calle",
+   "en_pantalla": "Ráfaga de viento; el narrador casi despega",
+   "cara": "Risa",
+   "camara": "G"
+  },
+  {
+   "n": 14,
+   "inicio": 21.02,
+   "fin": 21.9,
+   "texto": "Dad calls me \"the kite.\"",
+   "escenario": "Cocina",
+   "en_pantalla": "Papá con una taza, señalándolo",
+   "cara": "Risa",
+   "camara": "M"
+  },
+  {
+   "n": 15,
+   "inicio": 21.9,
+   "fin": 24.86,
+   "texto": "My little brother Benji is the happiest kid in fourth grade.",
+   "escenario": "Cocina",
+   "en_pantalla": "Benji de frente, brazos arriba",
+   "cara": "Sonrisa enorme",
+   "camara": "M"
+  },
+  {
+   "n": 16,
+   "inicio": 24.86,
+   "fin": 25.7,
+   "texto": "Gap-tooth grin.",
+   "escenario": "Cocina",
+   "en_pantalla": "La sonrisa de Benji con un diente menos",
+   "cara": "Sonrisa enorme",
+   "camara": "C"
+  },
+  {
+   "n": 17,
+   "inicio": 25.7,
+   "fin": 26.86,
+   "texto": "Sings to the toaster.",
+   "escenario": "Cocina",
+   "en_pantalla": "Benji cantándole a una tostadora; salta una tajada de pan",
+   "cara": "Cantando",
+   "camara": "M"
+  },
+  {
+   "n": 18,
+   "inicio": 26.86,
+   "fin": 28.86,
+   "texto": "And every morning, he drags his bag to the bus...",
+   "escenario": "Calle",
+   "en_pantalla": "Benji arrastrando el morral; surco en el pasto",
+   "cara": "Sonrisa enorme, sudor",
+   "camara": "G"
+  },
+  {
+   "n": 19,
+   "inicio": 28.86,
+   "fin": 29.5,
+   "texto": "with both hands.",
+   "escenario": "Calle",
+   "en_pantalla": "Las dos manos de Benji aferradas a la correa",
+   "cara": "(sin cara)",
+   "camara": "C"
+  },
+  {
+   "n": 20,
+   "inicio": 29.5,
+   "fin": 31.9,
+   "texto": "The morning he left for Camp Wobbly Pine...",
+   "escenario": "Cuarto",
+   "en_pantalla": "Volante \"CAMP WOBBLY PINE\" con un pino torcido, pegado a la pared",
+   "cara": "(sin personaje)",
+   "camara": "C"
+  },
+  {
+   "n": 21,
+   "inicio": 31.9,
+   "fin": 33.24,
+   "texto": "his bag wouldn't move at all.",
+   "escenario": "Cuarto",
+   "en_pantalla": "Benji halando la correa; el morral clavado",
+   "cara": "Esforzado, sonriente",
+   "camara": "M"
+  },
+  {
+   "n": 22,
+   "inicio": 33.24,
+   "fin": 34.76,
+   "texto": "It had cracked his bedroom floor.",
+   "escenario": "Cuarto",
+   "en_pantalla": "Grietas en el piso alrededor del morral",
+   "cara": "(sin personaje)",
+   "camara": "C"
+  },
+  {
+   "n": 23,
+   "inicio": 34.76,
+   "fin": 35.8,
+   "texto": "The bus left at eight.",
+   "escenario": "Calle",
+   "en_pantalla": "Bus amarillo parqueado con la puerta abierta",
+   "cara": "(sin personaje)",
+   "camara": "G"
+  },
+  {
+   "n": 24,
+   "inicio": 35.8,
+   "fin": 37.18,
+   "texto": "It was 7:31.",
+   "escenario": "Cuarto",
+   "en_pantalla": "Reloj despertador en 7:31",
+   "cara": "(sin personaje)",
+   "camara": "C"
+  },
+  {
+   "n": 25,
+   "inicio": 37.18,
+   "fin": 38.24,
+   "texto": "Benji kept grinning.",
+   "escenario": "Cuarto",
+   "en_pantalla": "Benji con la sonrisa temblorosa",
+   "cara": "Sonrisa tensa",
+   "camara": "C"
+  },
+  {
+   "n": 26,
+   "inicio": 38.24,
+   "fin": 40.12,
+   "texto": "\"It's fine! I'll just live here now.\"",
+   "escenario": "Cuarto",
+   "en_pantalla": "Benji sentado sobre el morral, saludando",
+   "cara": "Sonrisa tensa",
+   "camara": "M"
+  },
+  {
+   "n": 27,
+   "inicio": 40.12,
+   "fin": 41.52,
+   "texto": "I told him my best joke.",
+   "escenario": "Cuarto",
+   "en_pantalla": "Narrador con las manos abiertas, en pose de comediante",
+   "cara": "Pícaro",
+   "camara": "M"
+  },
+  {
+   "n": 28,
+   "inicio": 41.52,
+   "fin": 42.8,
+   "texto": "He laughed for a full minute.",
+   "escenario": "Cuarto",
+   "en_pantalla": "Benji rodando por el piso",
+   "cara": "Risa con lágrimas",
+   "camara": "M"
+  },
+  {
+   "n": 29,
+   "inicio": 42.8,
+   "fin": 44.26,
+   "texto": "The bag lost four ounces.",
+   "escenario": "Cuarto",
+   "en_pantalla": "El morral sube un milímetro y vuelve a caer",
+   "cara": "(sin personaje)",
+   "camara": "C"
+  },
+  {
+   "n": 30,
+   "inicio": 44.26,
+   "fin": 45.3,
+   "texto": "So I emptied it.",
+   "escenario": "Cuarto",
+   "en_pantalla": "Narrador volteando el morral abierto",
+   "cara": "Decidido",
+   "camara": "M"
+  },
+  {
+   "n": 31,
+   "inicio": 45.3,
+   "fin": 48.16,
+   "texto": "Two socks, a toothbrush, a frog flashlight.",
+   "escenario": "Cuarto",
+   "en_pantalla": "Los cuatro objetos en fila sobre el piso",
+   "cara": "(sin personaje)",
+   "camara": "C"
+  },
+  {
+   "n": 32,
+   "inicio": 48.16,
+   "fin": 49.0,
+   "texto": "Still stuck.",
+   "escenario": "Cuarto",
+   "en_pantalla": "Narrador halando el morral vacío con los dos pies contra la pared",
+   "cara": "Rojo del esfuerzo",
+   "camara": "M"
+  },
+  {
+   "n": 33,
+   "inicio": 49.0,
+   "fin": 50.54,
+   "texto": "So I tied it to Dad's riding mower...",
+   "escenario": "Patio",
+   "en_pantalla": "Cuerda de la ventana a un tractor podador",
+   "cara": "Decidido",
+   "camara": "G"
+  },
+  {
+   "n": 34,
+   "inicio": 50.54,
+   "fin": 51.52,
+   "texto": "and hit the gas.",
+   "escenario": "Patio",
+   "en_pantalla": "Narrador montado en el podador, humo atrás",
+   "cara": "Grito",
+   "camara": "M"
+  },
+  {
+   "n": 35,
+   "inicio": 51.52,
+   "fin": 52.56,
+   "texto": "The mower did a wheelie.",
+   "escenario": "Patio",
+   "en_pantalla": "El podador parado en las ruedas traseras",
+   "cara": "Pánico",
+   "camara": "G"
+  },
+  {
+   "n": 36,
+   "inicio": 52.56,
+   "fin": 53.74,
+   "texto": "The bag didn't budge.",
+   "escenario": "Cuarto",
+   "en_pantalla": "El morral intacto, cuerda templada",
+   "cara": "(sin personaje)",
+   "camara": "C"
+  },
+  {
+   "n": 37,
+   "inicio": 53.74,
+   "fin": 54.8,
+   "texto": "7:48.",
+   "escenario": "Cuarto",
+   "en_pantalla": "Reloj despertador en 7:48",
+   "cara": "(sin personaje)",
+   "camara": "C"
+  },
+  {
+   "n": 38,
+   "inicio": 54.8,
+   "fin": 56.6,
+   "texto": "So I sat on the floor next to it.",
+   "escenario": "Cuarto",
+   "en_pantalla": "Narrador sentado junto al morral; el suyo flota amarrado",
+   "cara": "Serio",
+   "camara": "M"
+  },
+  {
+   "n": 39,
+   "inicio": 56.6,
+   "fin": 57.88,
+   "texto": "\"Benji. What's in there?\"",
+   "escenario": "Cuarto",
+   "en_pantalla": "Narrador mirando a Benji",
+   "cara": "Serio",
+   "camara": "C"
+  },
+  {
+   "n": 40,
+   "inicio": 57.88,
+   "fin": 58.52,
+   "texto": "He stopped grinning.",
+   "escenario": "Cuarto",
+   "en_pantalla": "La sonrisa de Benji se apaga",
+   "cara": "Triste",
+   "camara": "C"
+  },
+  {
+   "n": 41,
+   "inicio": 58.52,
+   "fin": 60.22,
+   "texto": "\"You wouldn't get it. Yours floats.\"",
+   "escenario": "Cuarto",
+   "en_pantalla": "Benji señalando el morral flotante",
+   "cara": "Triste",
+   "camara": "M"
+  },
+  {
+   "n": 42,
+   "inicio": 60.22,
+   "fin": 61.7,
+   "texto": "I untied my bag from my wrist...",
+   "escenario": "Cuarto",
+   "en_pantalla": "Manos desatando la cuerda",
+   "cara": "(sin cara)",
+   "camara": "C"
+  },
+  {
+   "n": 43,
+   "inicio": 61.7,
+   "fin": 62.4,
+   "texto": "and unzipped it.",
+   "escenario": "Cuarto",
+   "en_pantalla": "Morral del narrador abierto y vacío frente a Benji",
+   "cara": "Serio",
+   "camara": "C"
+  },
+  {
+   "n": 44,
+   "inicio": 62.4,
+   "fin": 63.42,
+   "texto": "\"Then put one in mine.\"",
+   "escenario": "Cuarto",
+   "en_pantalla": "Narrador ofreciendo el morral abierto",
+   "cara": "Ternura",
+   "camara": "M"
+  },
+  {
+   "n": 45,
+   "inicio": 63.42,
+   "fin": 64.76,
+   "texto": "He looked at me for a while.",
+   "escenario": "Cuarto",
+   "en_pantalla": "Benji dudando",
+   "cara": "Ojos aguados",
+   "camara": "C"
+  },
+  {
+   "n": 46,
+   "inicio": 64.76,
+   "fin": 65.8,
+   "texto": "\"Mom's car makes a noise.\"",
+   "escenario": "Calle (recuerdo)",
+   "en_pantalla": "Carro de mamá echando un humito",
+   "cara": "Mamá preocupada",
+   "camara": "M"
+  },
+  {
+   "n": 47,
+   "inicio": 65.8,
+   "fin": 67.02,
+   "texto": "My bag dropped an inch.",
+   "escenario": "Cuarto",
+   "en_pantalla": "El morral del narrador baja un poco",
+   "cara": "Sorpresa",
+   "camara": "C"
+  },
+  {
+   "n": 48,
+   "inicio": 67.02,
+   "fin": 68.6,
+   "texto": "\"Okay. That one's mine now.\"",
+   "escenario": "Cuarto",
+   "en_pantalla": "Narrador asintiendo",
+   "cara": "Sonrisa suave",
+   "camara": "C"
+  },
+  {
+   "n": 49,
+   "inicio": 68.6,
+   "fin": 69.52,
+   "texto": "He kept going.",
+   "escenario": "Cuarto",
+   "en_pantalla": "Benji hablando rápido, contando con los dedos",
+   "cara": "Llanto",
+   "camara": "M"
+  },
+  {
+   "n": 50,
+   "inicio": 69.52,
+   "fin": 70.3,
+   "texto": "Dad's job.",
+   "escenario": "Sala (recuerdo)",
+   "en_pantalla": "Papá frente a un computador con papeles",
+   "cara": "Preocupado",
+   "camara": "M"
+  },
+  {
+   "n": 51,
+   "inicio": 70.3,
+   "fin": 70.88,
+   "texto": "The stove.",
+   "escenario": "Cocina",
+   "en_pantalla": "Estufa con una perilla girada",
+   "cara": "(sin personaje)",
+   "camara": "C"
+  },
+  {
+   "n": 52,
+   "inicio": 70.88,
+   "fin": 71.88,
+   "texto": "If I'd pass math.",
+   "escenario": "Colegio, salón",
+   "en_pantalla": "Examen del narrador con una nota roja",
+   "cara": "(sin personaje)",
+   "camara": "C"
+  },
+  {
+   "n": 53,
+   "inicio": 71.88,
+   "fin": 73.02,
+   "texto": "If I packed my lunch.",
+   "escenario": "Cocina",
+   "en_pantalla": "Lonchera olvidada sobre el mesón",
+   "cara": "(sin personaje)",
+   "camara": "C"
+  },
+  {
+   "n": 54,
+   "inicio": 73.02,
+   "fin": 74.86,
+   "texto": "If I'd forget him when I got my license.",
+   "escenario": "Calle",
+   "en_pantalla": "Narrador manejando un carro; Benji pequeño en el andén",
+   "cara": "Triste",
+   "camara": "G"
+  },
+  {
+   "n": 55,
+   "inicio": 74.86,
+   "fin": 75.82,
+   "texto": "Six worries.",
+   "escenario": "Cuarto",
+   "en_pantalla": "Seis bloques grises pasando de un morral al otro",
+   "cara": "(sin personaje)",
+   "camara": "C"
+  },
+  {
+   "n": 56,
+   "inicio": 75.82,
+   "fin": 77.2,
+   "texto": "Half of them were about me.",
+   "escenario": "Cuarto",
+   "en_pantalla": "Narrador mirando su morral",
+   "cara": "Golpe de realidad",
+   "camara": "C"
+  },
+  {
+   "n": 57,
+   "inicio": 77.2,
+   "fin": 78.68,
+   "texto": "My bag hit the floor so hard...",
+   "escenario": "Cuarto",
+   "en_pantalla": "El morral del narrador cae; polvo",
+   "cara": "Susto",
+   "camara": "M"
+  },
+  {
+   "n": 58,
+   "inicio": 78.68,
+   "fin": 80.14,
+   "texto": "the frog flashlight turned on.",
+   "escenario": "Cuarto",
+   "en_pantalla": "La linterna de rana alumbrando el techo",
+   "cara": "(sin personaje)",
+   "camara": "C"
+  },
+  {
+   "n": 59,
+   "inicio": 80.14,
+   "fin": 81.76,
+   "texto": "Benji picked his up with one hand.",
+   "escenario": "Cuarto",
+   "en_pantalla": "Benji levantando su morral con una mano",
+   "cara": "Asombro",
+   "camara": "M"
+  },
+  {
+   "n": 60,
+   "inicio": 81.76,
+   "fin": 83.14,
+   "texto": "Mine had been floating for years...",
+   "escenario": "Calle (recuerdo)",
+   "en_pantalla": "Narrador con el morral flotando; atrás, Benji arrastrando el suyo",
+   "cara": "Tranquilo, esforzado",
+   "camara": "G"
+  },
+  {
+   "n": 61,
+   "inicio": 83.14,
+   "fin": 84.62,
+   "texto": "because he was carrying my half.",
+   "escenario": "Cuarto",
+   "en_pantalla": "Los dos hermanos abrazados",
+   "cara": "Llanto, sonrisa",
+   "camara": "M"
+  },
+  {
+   "n": 62,
+   "inicio": 84.62,
+   "fin": 86.18,
+   "texto": "He made the bus by nine seconds.",
+   "escenario": "Calle",
+   "en_pantalla": "Benji saltando al bus con el morral al hombro",
+   "cara": "Feliz",
+   "camara": "G"
+  },
+  {
+   "n": 63,
+   "inicio": 86.18,
+   "fin": 88.28,
+   "texto": "My backpack weighs nineteen pounds now.",
+   "escenario": "Cuarto",
+   "en_pantalla": "Morral del narrador sobre una pesa de baño: 19",
+   "cara": "(sin personaje)",
+   "camara": "C"
+  },
+  {
+   "n": 64,
+   "inicio": 88.28,
+   "fin": 90.1,
+   "texto": "I checked the stove twice today.",
+   "escenario": "Cocina",
+   "en_pantalla": "Narrador agachado mirando las perillas",
+   "cara": "Concentrado",
+   "camara": "M"
+  },
+  {
+   "n": 65,
+   "inicio": 90.1,
+   "fin": 91.64,
+   "texto": "Dad stopped calling me the kite.",
+   "escenario": "Cocina",
+   "en_pantalla": "Papá le pone la mano en el hombro",
+   "cara": "Orgulloso",
+   "camara": "M"
+  },
+  {
+   "n": 66,
+   "inicio": 91.64,
+   "fin": 93.517,
+   "texto": "Best backache I've ever had.",
+   "escenario": "Calle",
+   "en_pantalla": "Narrador caminando encorvado bajo el morral",
+   "cara": "Sonrisa enorme",
+   "camara": "M"
+  }
+ ]
+}

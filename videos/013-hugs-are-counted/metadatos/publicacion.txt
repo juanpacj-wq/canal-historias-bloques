@@ -1,0 +1,58 @@
+VIDEO 013
+Internal name: 013-hugs-are-counted
+Scheduled: día 20 del calendario (videos/CALENDARIO.md), 15:00 Bogota (20:00 UTC)
+Notas internas (no van a YouTube):
+Advertencia de guiones/INDICE.md: no pongas en pantalla la cuenta de cuántas mañanas le quedan a la abuela; evita como portada los planos 54 y 64 (su contador bajando).
+
+TITLE (max 45 characters, Title Case, no hashtags, no ALL CAPS)
+In This World, Hugs Are Counted
+
+ALT TITLE 1 (the object, 1 to 3 words)
+The Last Hug
+
+ALT TITLE 2 (the rule without the opener)
+You Are Born With One Thousand Hugs
+
+DESCRIPTION (1 or 2 sentences, then credits, then hashtags)
+In this world, you're born with exactly one thousand hugs, and there's a counter on your wrist. I have four left, and my grandma has never opened her arms.
+An original work of fiction, written and animated by Almostville.
+#roblox #robloxstory #family
+
+HASHTAGS (already in the description; 3 at most; no #shorts needed)
+#roblox #robloxstory #family
+
+PINNED COMMENT (needs advanced features; a question the story raises)
+One thousand hugs for your whole life. Who is worth your very last one?
+
+PLAYLIST
+In This Town: Family
+
+SERIES (only if the Shorts series feature is available)
+In This Town, Season 1, Episode 20
+
+COVER FRAME
+Timecode: por definir al montar; es el inicio del plano 19 en tiempos/planos.json
+What is in it: plano 19 de la lista de planos del guion: la muñeca del narrador con el contador en 4, en rojo, y su cara de susto. Sin subtítulo encima. Alterno: plano 4 (el que abrió los brazos mira su número en rojo; el otro, intacto).
+
+RELATED VIDEO
+003 In This World, You Only Get Three "I Love Yous" (día 5, lista In This Town: Family)
+Pega aquí la URL cuando exista. Cuando haya un video largo de esta familia, reemplázalo por ese.
+
+AUDIENCE: No, it's not made for kids
+VIDEO LANGUAGE: English (United States)
+CATEGORY: Film & Animation (la predeterminada del canal según docs/07, sección 2.5; la otra opción allí es Entertainment)
+ALTERED CONTENT: No
+Nota (docs/07, sección 3.3): animación de ficción claramente irreal y guion asistido no se declaran. Con voz propia la respuesta es No sin duda. Con voz sintética genérica también es No, pero por interpretación: la ayuda de YouTube no menciona voces sintéticas (sin verificar con texto literal). Nunca una voz clonada de otra persona ni música generada con IA.
+
+CHECK BEFORE PUBLISHING
+[ ] Copyright check finished with no claims
+[ ] Title has no hashtag and no word in ALL CAPS
+[ ] First spoken sentence is the rule and matches the title
+[ ] Cover frame chosen in the mobile app
+[ ] Added to playlist; related video set
+
+PARA EL CANAL EN ESPAÑOL
+Título:
+SOLO TIENES MIL ABRAZOS
+Descripción:
+En este mundo naces con mil abrazos exactos y un contador en la muñeca; a mí me quedan cuatro y mi abuela nunca ha abierto los brazos.

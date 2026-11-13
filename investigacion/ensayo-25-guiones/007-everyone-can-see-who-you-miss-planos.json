@@ -1,0 +1,666 @@
+{
+ "video": "007-everyone-can-see-who-you-miss",
+ "duracion": 103.692,
+ "planos": [
+  {
+   "n": 1,
+   "inicio": 0.0,
+   "fin": 2.24,
+   "texto": "In this world, everyone can see who you miss...",
+   "escenario": "Pueblo de día",
+   "en_pantalla": "Personaje caminando; a su lado, una silueta gris transparente",
+   "cara": "Neutro",
+   "camara": "M"
+  },
+  {
+   "n": 2,
+   "inicio": 2.24,
+   "fin": 4.28,
+   "texto": "because their silhouette walks right next to you.",
+   "escenario": "Pueblo de día",
+   "en_pantalla": "Calle con peatones, cada uno con su silueta",
+   "cara": "Neutras",
+   "camara": "G"
+  },
+  {
+   "n": 3,
+   "inicio": 4.28,
+   "fin": 6.74,
+   "texto": "It's gray and see-through, like a person made of fog.",
+   "escenario": "Pueblo de día",
+   "en_pantalla": "Una mano atraviesa una silueta",
+   "cara": "(sin personaje)",
+   "camara": "C"
+  },
+  {
+   "n": 4,
+   "inicio": 6.74,
+   "fin": 8.44,
+   "texto": "My mom's is shaped like my grandma.",
+   "escenario": "Cocina",
+   "en_pantalla": "Mamá cocinando; silueta de una abuela con moño al lado",
+   "cara": "Mamá nostálgica",
+   "camara": "M"
+  },
+  {
+   "n": 5,
+   "inicio": 8.44,
+   "fin": 9.72,
+   "texto": "My gym teacher's is shaped like...",
+   "escenario": "Cancha",
+   "en_pantalla": "Profesor de educación física calvo, con silbato",
+   "cara": "Serio",
+   "camara": "M"
+  },
+  {
+   "n": 6,
+   "inicio": 9.72,
+   "fin": 11.46,
+   "texto": "his own hair in 2009.",
+   "escenario": "Cancha",
+   "en_pantalla": "A su lado flota una silueta de peinado enorme, sin cuerpo",
+   "cara": "Profesor mirándola con anhelo",
+   "camara": "C"
+  },
+  {
+   "n": 7,
+   "inicio": 11.46,
+   "fin": 13.7,
+   "texto": "The more you miss somebody, the sharper it gets.",
+   "escenario": "Parque",
+   "en_pantalla": "Tres siluetas en fila: borrosa, media, nítida con cara",
+   "cara": "(sin personaje)",
+   "camara": "M"
+  },
+  {
+   "n": 8,
+   "inicio": 13.7,
+   "fin": 16.3,
+   "texto": "It only goes away when you see them again, in person.",
+   "escenario": "Calle",
+   "en_pantalla": "Dos amigos se encuentran; ambas siluetas hacen \"puf\"",
+   "cara": "Felices",
+   "camara": "M"
+  },
+  {
+   "n": 9,
+   "inicio": 16.3,
+   "fin": 17.94,
+   "texto": "So nobody gets to play it cool.",
+   "escenario": "Colegio, pasillo",
+   "en_pantalla": "Niño con gafas oscuras y brazos cruzados; a su lado, la silueta de una niña",
+   "cara": "Fingiendo calma",
+   "camara": "M"
+  },
+  {
+   "n": 10,
+   "inicio": 17.94,
+   "fin": 20.26,
+   "texto": "My sister told everyone she was \"so over\" Kyle.",
+   "escenario": "Colegio, pasillo",
+   "en_pantalla": "Hermana hablando con dos amigas, mano en alto",
+   "cara": "Segura",
+   "camara": "M"
+  },
+  {
+   "n": 11,
+   "inicio": 20.26,
+   "fin": 22.1,
+   "texto": "Kyle's fog was carrying her backpack.",
+   "escenario": "Colegio, pasillo",
+   "en_pantalla": "Detrás de ella, silueta con gorra cargando un morral rosado",
+   "cara": "Amigas aguantando la risa",
+   "camara": "M"
+  },
+  {
+   "n": 12,
+   "inicio": 22.1,
+   "fin": 23.7,
+   "texto": "Mine is shaped like Barty Finch.",
+   "escenario": "Colegio, pasillo",
+   "en_pantalla": "Narrador; a su lado, silueta bajita con gafas redondas",
+   "cara": "Narrador molesto",
+   "camara": "M"
+  },
+  {
+   "n": 13,
+   "inicio": 23.7,
+   "fin": 24.68,
+   "texto": "My biggest rival.",
+   "escenario": "Colegio, salón (recuerdo)",
+   "en_pantalla": "Barty real, con gafas redondas y ceño fruncido",
+   "cara": "Barty retador",
+   "camara": "C"
+  },
+  {
+   "n": 14,
+   "inicio": 24.68,
+   "fin": 25.76,
+   "texto": "Three years of war.",
+   "escenario": "Colegio, salón (recuerdo)",
+   "en_pantalla": "Narrador y Barty nariz con nariz; chispas entre los dos",
+   "cara": "Furiosos",
+   "camara": "M"
+  },
+  {
+   "n": 15,
+   "inicio": 25.76,
+   "fin": 26.62,
+   "texto": "Spelling bees.",
+   "escenario": "Colegio, salón (recuerdo)",
+   "en_pantalla": "Los dos frente a micrófonos; tablero con letras",
+   "cara": "Concentrados",
+   "camara": "M"
+  },
+  {
+   "n": 16,
+   "inicio": 26.62,
+   "fin": 27.58,
+   "texto": "One corn-eating contest...",
+   "escenario": "Colegio, cafetería (recuerdo)",
+   "en_pantalla": "Los dos frente a dos montañas de mazorcas",
+   "cara": "Verdes de llenura",
+   "camara": "M"
+  },
+  {
+   "n": 17,
+   "inicio": 27.58,
+   "fin": 28.76,
+   "texto": "that sent us both to the nurse.",
+   "escenario": "Colegio, enfermería (salón redecorado)",
+   "en_pantalla": "Dos camillas juntas; los dos acostados, mirándose con rabia",
+   "cara": "Mareados, retadores",
+   "camara": "G"
+  },
+  {
+   "n": 18,
+   "inicio": 28.76,
+   "fin": 31.48,
+   "texto": "Then he transferred to a school six miles away.",
+   "escenario": "Calle frente al colegio",
+   "en_pantalla": "Barty sube a un carro con una caja; letrero \"6 MI\"",
+   "cara": "Barty serio",
+   "camara": "G"
+  },
+  {
+   "n": 19,
+   "inicio": 31.48,
+   "fin": 32.56,
+   "texto": "Now I win everything.",
+   "escenario": "Colegio, salón",
+   "en_pantalla": "Narrador con una torre de trofeos",
+   "cara": "Vacío",
+   "camara": "M"
+  },
+  {
+   "n": 20,
+   "inicio": 32.56,
+   "fin": 33.72,
+   "texto": "Last week I won the spelling bee...",
+   "escenario": "Colegio, salón",
+   "en_pantalla": "Narrador solo frente al micrófono",
+   "cara": "Aburrido",
+   "camara": "M"
+  },
+  {
+   "n": 21,
+   "inicio": 33.72,
+   "fin": 34.34,
+   "texto": "with the word \"cat.\"",
+   "escenario": "Colegio, salón",
+   "en_pantalla": "Tablero con \"C-A-T\" y un trofeo",
+   "cara": "(sin personaje)",
+   "camara": "C"
+  },
+  {
+   "n": 22,
+   "inicio": 34.34,
+   "fin": 36.12,
+   "texto": "Also, some guy in a fake mustache...",
+   "escenario": "Colegio, salón",
+   "en_pantalla": "Última fila: un espectador bajito con bigote enorme y gafas redondas",
+   "cara": "Abucheando",
+   "camara": "M"
+  },
+  {
+   "n": 23,
+   "inicio": 36.12,
+   "fin": 37.68,
+   "texto": "keeps booing me from the back row.",
+   "escenario": "Colegio, salón",
+   "en_pantalla": "Globo de texto \"BOO\" sobre el bigote",
+   "cara": "(bigote)",
+   "camara": "C"
+  },
+  {
+   "n": 24,
+   "inicio": 37.68,
+   "fin": 38.42,
+   "texto": "Unrelated.",
+   "escenario": "Colegio, salón",
+   "en_pantalla": "Narrador encogiéndose de hombros",
+   "cara": "Despreocupado",
+   "camara": "C"
+  },
+  {
+   "n": 25,
+   "inicio": 38.42,
+   "fin": 41.3,
+   "texto": "Two days after he left, foggy Barty showed up...",
+   "escenario": "Colegio, pasillo",
+   "en_pantalla": "\"Puf\": la silueta de Barty aparece junto al narrador",
+   "cara": "Narrador horror",
+   "camara": "M"
+  },
+  {
+   "n": 26,
+   "inicio": 41.3,
+   "fin": 42.16,
+   "texto": "Everyone saw.",
+   "escenario": "Colegio, pasillo",
+   "en_pantalla": "Pasillo lleno, todos señalando",
+   "cara": "Burlones",
+   "camara": "G"
+  },
+  {
+   "n": 27,
+   "inicio": 42.16,
+   "fin": 43.68,
+   "texto": "And yearbook photos are Friday.",
+   "escenario": "Colegio, pasillo",
+   "en_pantalla": "Cartel \"YEARBOOK PHOTOS, FRIDAY\" con una cámara",
+   "cara": "(sin personaje)",
+   "camara": "C"
+  },
+  {
+   "n": 28,
+   "inicio": 43.68,
+   "fin": 45.8,
+   "texto": "I am not getting photographed next to my rival.",
+   "escenario": "Colegio, salón (imaginado)",
+   "en_pantalla": "Foto de anuario: narrador y silueta, los dos con marco",
+   "cara": "Narrador furioso",
+   "camara": "C"
+  },
+  {
+   "n": 29,
+   "inicio": 45.8,
+   "fin": 47.32,
+   "texto": "He's getting sharper, too.",
+   "escenario": "Colegio, pasillo",
+   "en_pantalla": "Narrador mirando de reojo a la silueta",
+   "cara": "Preocupado",
+   "camara": "M"
+  },
+  {
+   "n": 30,
+   "inicio": 47.32,
+   "fin": 48.42,
+   "texto": "He has eyebrows now.",
+   "escenario": "Colegio, pasillo",
+   "en_pantalla": "Cara de la silueta con dos cejas bien marcadas",
+   "cara": "(silueta)",
+   "camara": "C"
+  },
+  {
+   "n": 31,
+   "inicio": 48.42,
+   "fin": 49.92,
+   "texto": "So I tried to get rid of him.",
+   "escenario": "Cuarto",
+   "en_pantalla": "Narrador con lista de planes; la silueta mirando por encima del hombro",
+   "cara": "Decidido",
+   "camara": "M"
+  },
+  {
+   "n": 32,
+   "inicio": 49.92,
+   "fin": 52.08,
+   "texto": "First, I tried missing someone else harder.",
+   "escenario": "Cuarto",
+   "en_pantalla": "Narrador con un álbum de fotos",
+   "cara": "Concentrado",
+   "camara": "M"
+  },
+  {
+   "n": 33,
+   "inicio": 52.08,
+   "fin": 54.4,
+   "texto": "I stared at pictures of my grandma for two hours.",
+   "escenario": "Cuarto",
+   "en_pantalla": "Foto de la abuela; reloj marcando dos horas",
+   "cara": "Ojos rojos",
+   "camara": "C"
+  },
+  {
+   "n": 34,
+   "inicio": 54.4,
+   "fin": 55.7,
+   "texto": "Now I had two fogs.",
+   "escenario": "Cuarto",
+   "en_pantalla": "Silueta de Barty y silueta de la abuela, una a cada lado",
+   "cara": "Narrador derrotado",
+   "camara": "M"
+  },
+  {
+   "n": 35,
+   "inicio": 55.7,
+   "fin": 56.26,
+   "texto": "They high-fived.",
+   "escenario": "Cuarto",
+   "en_pantalla": "Las dos siluetas chocando las manos",
+   "cara": "(siluetas)",
+   "camara": "C"
+  },
+  {
+   "n": 36,
+   "inicio": 56.26,
+   "fin": 57.9,
+   "texto": "Second, I put a wig on him...",
+   "escenario": "Colegio, pasillo",
+   "en_pantalla": "Narrador le pone una peluca rubia a la silueta",
+   "cara": "Disimulo",
+   "camara": "M"
+  },
+  {
+   "n": 37,
+   "inicio": 57.9,
+   "fin": 59.16,
+   "texto": "and said he was my cousin.",
+   "escenario": "Colegio, pasillo",
+   "en_pantalla": "Narrador presentándola a dos compañeros",
+   "cara": "Sonrisa falsa, compañeros dudando",
+   "camara": "M"
+  },
+  {
+   "n": 38,
+   "inicio": 59.16,
+   "fin": 60.46,
+   "texto": "The wig fell straight through.",
+   "escenario": "Colegio, pasillo",
+   "en_pantalla": "La peluca atraviesa la silueta y cae al piso",
+   "cara": "(sin personaje)",
+   "camara": "C"
+  },
+  {
+   "n": 39,
+   "inicio": 60.46,
+   "fin": 62.48,
+   "texto": "Third, I held auditions for a new rival.",
+   "escenario": "Patio del colegio",
+   "en_pantalla": "Mesa con letrero \"RIVAL AUDITIONS\"; narrador con tabla",
+   "cara": "Serio",
+   "camara": "M"
+  },
+  {
+   "n": 40,
+   "inicio": 62.48,
+   "fin": 63.56,
+   "texto": "Seven kids showed up.",
+   "escenario": "Patio del colegio",
+   "en_pantalla": "Fila de siete niños con números",
+   "cara": "Nerviosos",
+   "camara": "G"
+  },
+  {
+   "n": 41,
+   "inicio": 63.56,
+   "fin": 64.72,
+   "texto": "The best one lost on purpose...",
+   "escenario": "Patio del colegio",
+   "en_pantalla": "Pulso sobre la mesa; el candidato deja caer el brazo",
+   "cara": "Candidato amable",
+   "camara": "M"
+  },
+  {
+   "n": 42,
+   "inicio": 64.72,
+   "fin": 65.48,
+   "texto": "and said \"good game.\"",
+   "escenario": "Patio del colegio",
+   "en_pantalla": "El candidato ofrece la mano con una sonrisa",
+   "cara": "Sonrisa enorme",
+   "camara": "C"
+  },
+  {
+   "n": 43,
+   "inicio": 65.48,
+   "fin": 66.36,
+   "texto": "Disgusting.",
+   "escenario": "Patio del colegio",
+   "en_pantalla": "Cara del narrador",
+   "cara": "Asco",
+   "camara": "C"
+  },
+  {
+   "n": 44,
+   "inicio": 66.36,
+   "fin": 68.64,
+   "texto": "Foggy Barty got so sharp I could count his freckles.",
+   "escenario": "Patio del colegio",
+   "en_pantalla": "Silueta casi sólida, con gafas y pecas",
+   "cara": "(silueta)",
+   "camara": "C"
+  },
+  {
+   "n": 45,
+   "inicio": 68.64,
+   "fin": 69.28,
+   "texto": "Eleven.",
+   "escenario": "Patio del colegio",
+   "en_pantalla": "Narrador contando con el dedo; \"11\"",
+   "cara": "Resignado",
+   "camara": "C"
+  },
+  {
+   "n": 46,
+   "inicio": 69.28,
+   "fin": 71.48,
+   "texto": "So Thursday I biked six miles to his school.",
+   "escenario": "Calle",
+   "en_pantalla": "Narrador en bicicleta; la silueta sentada atrás",
+   "cara": "Decidido",
+   "camara": "G"
+  },
+  {
+   "n": 47,
+   "inicio": 71.48,
+   "fin": 72.5,
+   "texto": "I waited at the gate.",
+   "escenario": "Calle frente al otro colegio",
+   "en_pantalla": "Narrador junto a una reja con otro escudo",
+   "cara": "Nervioso",
+   "camara": "M"
+  },
+  {
+   "n": 48,
+   "inicio": 72.5,
+   "fin": 74.3,
+   "texto": "When he came out, I just said it.",
+   "escenario": "Calle frente al otro colegio",
+   "en_pantalla": "Barty real sale con el morral; se detiene",
+   "cara": "Barty sorprendido",
+   "camara": "M"
+  },
+  {
+   "n": 49,
+   "inicio": 74.3,
+   "fin": 76.56,
+   "texto": "\"I win everything now, and it feels like nothing.\"",
+   "escenario": "Calle frente al otro colegio",
+   "en_pantalla": "Narrador con un trofeo en la mano, bajándolo",
+   "cara": "Triste",
+   "camara": "C"
+  },
+  {
+   "n": 50,
+   "inicio": 76.56,
+   "fin": 77.94,
+   "texto": "\"Nobody else argues right.\"",
+   "escenario": "Calle frente al otro colegio",
+   "en_pantalla": "Cara del narrador",
+   "cara": "Vulnerable",
+   "camara": "C"
+  },
+  {
+   "n": 51,
+   "inicio": 77.94,
+   "fin": 79.26,
+   "texto": "\"I miss you, okay?\"",
+   "escenario": "Calle frente al otro colegio",
+   "en_pantalla": "Narrador mirando al piso",
+   "cara": "Vergüenza, ojos aguados",
+   "camara": "C"
+  },
+  {
+   "n": 52,
+   "inicio": 79.26,
+   "fin": 80.64,
+   "texto": "My fog popped like a bubble.",
+   "escenario": "Calle frente al otro colegio",
+   "en_pantalla": "La silueta junto al narrador hace \"pop\"",
+   "cara": "(sin personaje)",
+   "camara": "M"
+  },
+  {
+   "n": 53,
+   "inicio": 80.64,
+   "fin": 81.54,
+   "texto": "Then I noticed.",
+   "escenario": "Calle frente al otro colegio",
+   "en_pantalla": "Narrador levanta la mirada",
+   "cara": "Curioso",
+   "camara": "C"
+  },
+  {
+   "n": 54,
+   "inicio": 81.54,
+   "fin": 83.64,
+   "texto": "There was nothing next to Barty. No fog.",
+   "escenario": "Calle frente al otro colegio",
+   "en_pantalla": "Barty solo; espacio vacío a su lado",
+   "cara": "Barty tenso",
+   "camara": "M"
+  },
+  {
+   "n": 55,
+   "inicio": 83.64,
+   "fin": 84.7,
+   "texto": "My stomach dropped.",
+   "escenario": "Calle frente al otro colegio",
+   "en_pantalla": "Cara del narrador",
+   "cara": "Golpe, dolor",
+   "camara": "C"
+  },
+  {
+   "n": 56,
+   "inicio": 84.7,
+   "fin": 85.52,
+   "texto": "He turned red.",
+   "escenario": "Calle frente al otro colegio",
+   "en_pantalla": "Cara de Barty, cachetes rojos",
+   "cara": "Avergonzado",
+   "camara": "C"
+  },
+  {
+   "n": 57,
+   "inicio": 85.52,
+   "fin": 86.52,
+   "texto": "He reached into his backpack...",
+   "escenario": "Calle frente al otro colegio",
+   "en_pantalla": "Mano de Barty dentro del morral",
+   "cara": "(sin caras)",
+   "camara": "C"
+  },
+  {
+   "n": 58,
+   "inicio": 86.52,
+   "fin": 88.1,
+   "texto": "and pulled out a fake mustache.",
+   "escenario": "Calle frente al otro colegio",
+   "en_pantalla": "El bigote enorme en su mano",
+   "cara": "(sin personaje)",
+   "camara": "C"
+  },
+  {
+   "n": 59,
+   "inicio": 88.1,
+   "fin": 90.46,
+   "texto": "\"You can't miss somebody you see every week,\"",
+   "escenario": "Calle frente al otro colegio",
+   "en_pantalla": "Barty con el bigote puesto",
+   "cara": "Barty digno",
+   "camara": "M"
+  },
+  {
+   "n": 60,
+   "inicio": 90.46,
+   "fin": 92.26,
+   "texto": "\"Also, your spelling is embarrassing.\"",
+   "escenario": "Calle frente al otro colegio",
+   "en_pantalla": "Barty señalando al narrador",
+   "cara": "Retador",
+   "camara": "C"
+  },
+  {
+   "n": 61,
+   "inicio": 92.26,
+   "fin": 94.82,
+   "texto": "He'd come to every contest. Six miles each way.",
+   "escenario": "Calle (recuerdo)",
+   "en_pantalla": "Barty con bigote, pedaleando una bicicleta pequeña",
+   "cara": "Decidido",
+   "camara": "G"
+  },
+  {
+   "n": 62,
+   "inicio": 94.82,
+   "fin": 95.62,
+   "texto": "Just to boo me.",
+   "escenario": "Colegio, salón (recuerdo)",
+   "en_pantalla": "Última fila: Barty con bigote y globo \"BOO\"",
+   "cara": "Feliz",
+   "camara": "M"
+  },
+  {
+   "n": 63,
+   "inicio": 95.62,
+   "fin": 97.22,
+   "texto": "He transferred back on Monday.",
+   "escenario": "Colegio, pasillo",
+   "en_pantalla": "Barty entra por la puerta del colegio con su morral",
+   "cara": "Barty retador",
+   "camara": "M"
+  },
+  {
+   "n": 64,
+   "inicio": 97.22,
+   "fin": 99.74,
+   "texto": "We're tied, two hundred twelve to two hundred twelve.",
+   "escenario": "Colegio, salón",
+   "en_pantalla": "Los dos frente a micrófonos; marcador \"212 a 212\"",
+   "cara": "Furiosos y felices",
+   "camara": "M"
+  },
+  {
+   "n": 65,
+   "inicio": 99.74,
+   "fin": 101.46,
+   "texto": "Nobody walks next to me anymore.",
+   "escenario": "Colegio, pasillo",
+   "en_pantalla": "Narrador caminando, espacio vacío a su lado",
+   "cara": "Tranquilo",
+   "camara": "M"
+  },
+  {
+   "n": 66,
+   "inicio": 101.46,
+   "fin": 103.692,
+   "texto": "Except Barty. He still boos.",
+   "escenario": "Colegio, pasillo",
+   "en_pantalla": "Barty real entra al cuadro con el bigote puesto y globo \"BOO\"",
+   "cara": "Narrador sonrisa, Barty retador",
+   "camara": "M"
+  }
+ ]
+}

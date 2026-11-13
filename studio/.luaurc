@@ -1,0 +1,10 @@
+{
+  "languageMode": "nonstrict",
+  "lint": { "*": true, "UnknownType": false },
+  "globals": [
+    "loadstring", "game", "workspace", "script", "Instance", "Enum", "task", "typeof", "warn", "tick", "time",
+    "Vector3", "Vector2", "CFrame", "Color3", "UDim", "UDim2", "Content", "Font",
+    "NumberRange", "NumberSequence", "NumberSequenceKeypoint", "ColorSequence", "ColorSequenceKeypoint",
+    "RaycastParams"
+  ]
+}

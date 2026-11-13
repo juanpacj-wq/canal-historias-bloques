@@ -1,0 +1,56 @@
+VIDEO 009
+Internal name: 009-apologies-are-paid-in-memories
+Scheduled: día 9 del calendario (videos/CALENDARIO.md), 15:00 Bogota (20:00 UTC)
+
+TITLE (max 45 characters, Title Case, no hashtags, no ALL CAPS)
+In This Town, Apologies Are Paid in Memories
+
+ALT TITLE 1 (the object, 1 to 3 words)
+The Blanket Fort
+
+ALT TITLE 2 (the rule without the opener)
+Saying Sorry Costs You a Happy Memory
+
+DESCRIPTION (1 or 2 sentences, then credits, then hashtags)
+In this town, saying sorry costs you one happy memory, and the worse you messed up, the better the memory. I'm fourteen and I have never said it.
+An original work of fiction, written and animated by Almostville.
+#roblox #robloxstory #family
+
+HASHTAGS (already in the description; 3 at most; no #shorts needed)
+#roblox #robloxstory #family
+
+PINNED COMMENT (needs advanced features; a question the story raises)
+Which happy memory would you never give up, no matter how big the apology?
+
+PLAYLIST
+In This Town: Family
+
+SERIES (only if the Shorts series feature is available)
+In This Town, Season 1, Episode 09
+
+COVER FRAME
+Timecode: por definir al montar; es el inicio del plano 3 en tiempos/planos.json
+What is in it: plano 3 de la lista de planos del guion: la foto luminosa saliendo de una oreja, con la cara de sorpresa del personaje. Sin subtítulo encima. Alterno: plano 1 (dos vecinos frente a frente con una foto luminosa flotando entre ellos).
+
+RELATED VIDEO
+017 In This World, Your Backpack Weighs Your Worries (día 3, lista In This Town: Family)
+Pega aquí la URL cuando exista. Cuando haya un video largo de esta familia, reemplázalo por ese.
+
+AUDIENCE: No, it's not made for kids
+VIDEO LANGUAGE: English (United States)
+CATEGORY: Film & Animation (la predeterminada del canal según docs/07, sección 2.5; la otra opción allí es Entertainment)
+ALTERED CONTENT: No
+Nota (docs/07, sección 3.3): animación de ficción claramente irreal y guion asistido no se declaran. Con voz propia la respuesta es No sin duda. Con voz sintética genérica también es No, pero por interpretación: la ayuda de YouTube no menciona voces sintéticas (sin verificar con texto literal). Nunca una voz clonada de otra persona ni música generada con IA.
+
+CHECK BEFORE PUBLISHING
+[ ] Copyright check finished with no claims
+[ ] Title has no hashtag and no word in ALL CAPS
+[ ] First spoken sentence is the rule and matches the title
+[ ] Cover frame chosen in the mobile app
+[ ] Added to playlist; related video set
+
+PARA EL CANAL EN ESPAÑOL
+Título:
+PEDIR PERDÓN CUESTA UN RECUERDO
+Descripción:
+En este pueblo pedir perdón de verdad te cuesta un recuerdo feliz, y entre peor la falta, mejor el recuerdo que pierdes.

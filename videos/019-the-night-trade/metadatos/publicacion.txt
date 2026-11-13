@@ -1,0 +1,60 @@
+VIDEO 019
+Internal name: 019-the-night-trade
+Scheduled: día 25 del calendario (videos/CALENDARIO.md), 15:00 Bogota (20:00 UTC)
+Notas internas (no van a YouTube):
+El título principal es de la familia A (objeto). El título alterno de regla conserva el arranque "In This Town" porque es la forma que docs/08 recomienda probar en un canal pequeño.
+"The Night Trade" coincide con el título de una novela de Barry Eisler (ver la bitácora del guion); si prefieres evitar el homónimo, usa el título alterno de regla.
+Advertencia de guiones/INDICE.md: la criatura nunca se ve y la abuela se trata con ternura, sin efectos cómicos.
+
+TITLE (max 45 characters, Title Case, no hashtags, no ALL CAPS)
+The Night Trade
+
+ALT TITLE 1 (the object, 1 to 3 words)
+The Pantry Door
+
+ALT TITLE 2 (the rule without the opener)
+In This Town, Something Takes One Thing Every Night
+
+DESCRIPTION (1 or 2 sentences, then credits, then hashtags)
+In this town, something takes one thing from your house every night, and leaves one thing you lost years ago. My Nana lost my name, so I made it an offer.
+An original work of fiction, written and animated by Almostville.
+#roblox #robloxstory #spooky
+
+HASHTAGS (already in the description; 3 at most; no #shorts needed)
+#roblox #robloxstory #spooky
+
+PINNED COMMENT (needs advanced features; a question the story raises)
+It takes one thing and leaves one thing you lost years ago. What do you hope shows up on your kitchen table?
+
+PLAYLIST
+In This Town: Spooky
+
+SERIES (only if the Shorts series feature is available)
+In This Town, Season 1, Episode 25
+
+COVER FRAME
+Timecode: por definir al montar; es el inicio del plano 57 en tiempos/planos.json
+What is in it: plano 57 de la lista de planos del guion: la narradora de espaldas a la despensa, con llanto contenido, y detrás la puerta abierta una rendija, negra por dentro. Sin subtítulo encima. Alterno: plano 52 (la puerta de la despensa abriéndose una rendija, sin personaje).
+
+RELATED VIDEO
+021 In This World, Forgotten Things Go to the Basement (día 14, lista In This Town: Spooky)
+Pega aquí la URL cuando exista. Cuando haya un video largo de esta familia, reemplázalo por ese.
+
+AUDIENCE: No, it's not made for kids
+VIDEO LANGUAGE: English (United States)
+CATEGORY: Film & Animation (la predeterminada del canal según docs/07, sección 2.5; la otra opción allí es Entertainment)
+ALTERED CONTENT: No
+Nota (docs/07, sección 3.3): animación de ficción claramente irreal y guion asistido no se declaran. Con voz propia la respuesta es No sin duda. Con voz sintética genérica también es No, pero por interpretación: la ayuda de YouTube no menciona voces sintéticas (sin verificar con texto literal). Nunca una voz clonada de otra persona ni música generada con IA.
+
+CHECK BEFORE PUBLISHING
+[ ] Copyright check finished with no claims
+[ ] Title has no hashtag and no word in ALL CAPS
+[ ] First spoken sentence is the rule and matches the title
+[ ] Cover frame chosen in the mobile app
+[ ] Added to playlist; related video set
+
+PARA EL CANAL EN ESPAÑOL
+Título:
+CADA NOCHE SE LLEVA UNA COSA
+Descripción:
+En este pueblo algo se lleva una cosa de tu casa cada noche y deja una que perdiste hace años; mi abuela perdió mi nombre y le hice una oferta.

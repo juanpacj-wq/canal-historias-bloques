@@ -1,0 +1,60 @@
+VIDEO 014
+Internal name: 014-grades-on-your-forehead
+Scheduled: día 4 del calendario (videos/CALENDARIO.md), 15:00 Bogota (20:00 UTC)
+Notas internas (no van a YouTube):
+El título principal tiene 51 caracteres y pasa de los 45 que pide la plantilla; se deja el del guion (no pasa de 10 palabras). Si quieres cumplir los 45, usa el título alterno 2.
+Advertencia de guiones/INDICE.md: no uses de portada el plano 2 (el niño del gorro con la F); la portada no se ríe de una nota baja.
+
+TITLE (max 45 characters, Title Case, no hashtags, no ALL CAPS)
+In This School, Your Grades Appear on Your Forehead
+
+ALT TITLE 1 (the object, 1 to 3 words)
+The Question Mark
+
+ALT TITLE 2 (the rule without the opener)
+Your Grade Glows on Your Forehead
+
+DESCRIPTION (1 or 2 sentences, then credits, then hashtags)
+In this school, your grade glows on your forehead, and no hat in the world can cover it. The smartest kid in the building has a question mark.
+An original work of fiction, written and animated by Almostville.
+#roblox #robloxstory #school
+
+HASHTAGS (already in the description; 3 at most; no #shorts needed)
+#roblox #robloxstory #school
+
+PINNED COMMENT (needs advanced features; a question the story raises)
+What would your forehead say right now: a letter, or a question mark?
+
+PLAYLIST
+In This Town: School
+
+SERIES (only if the Shorts series feature is available)
+In This Town, Season 1, Episode 04
+
+COVER FRAME
+Timecode: por definir al montar; es el inicio del plano 15 en tiempos/planos.json
+What is in it: plano 15 de la lista de planos del guion: el signo de pregunta blanco brillando en la frente de Winnie, seria. Sin subtítulo encima. Alterno: plano 9 (el narrador de frente con su C naranja).
+
+RELATED VIDEO
+016 In This School, the Quietest Kid Controls the Weather (día 10, lista In This Town: School)
+Ese video sale después (día 10). Mientras tanto pon el del día anterior y cámbialo cuando salga.
+Pega aquí la URL cuando exista. Cuando haya un video largo de esta familia, reemplázalo por ese.
+
+AUDIENCE: No, it's not made for kids
+VIDEO LANGUAGE: English (United States)
+CATEGORY: Film & Animation (la predeterminada del canal según docs/07, sección 2.5; la otra opción allí es Entertainment)
+ALTERED CONTENT: No
+Nota (docs/07, sección 3.3): animación de ficción claramente irreal y guion asistido no se declaran. Con voz propia la respuesta es No sin duda. Con voz sintética genérica también es No, pero por interpretación: la ayuda de YouTube no menciona voces sintéticas (sin verificar con texto literal). Nunca una voz clonada de otra persona ni música generada con IA.
+
+CHECK BEFORE PUBLISHING
+[ ] Copyright check finished with no claims
+[ ] Title has no hashtag and no word in ALL CAPS
+[ ] First spoken sentence is the rule and matches the title
+[ ] Cover frame chosen in the mobile app
+[ ] Added to playlist; related video set
+
+PARA EL CANAL EN ESPAÑOL
+Título:
+TU NOTA SALE EN LA FRENTE
+Descripción:
+En este colegio tu nota brilla en la frente y nada la tapa; la más inteligente del colegio tiene un signo de pregunta.

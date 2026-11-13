@@ -1,0 +1,59 @@
+VIDEO 003
+Internal name: 003-only-three-i-love-yous
+Scheduled: día 5 del calendario (videos/CALENDARIO.md), 15:00 Bogota (20:00 UTC)
+Notas internas (no van a YouTube):
+El título principal tiene 47 caracteres y pasa de los 45 que pide la plantilla; se deja el del guion (no pasa de 10 palabras). Si quieres cumplir los 45, usa el título alterno 2.
+
+TITLE (max 45 characters, Title Case, no hashtags, no ALL CAPS)
+In This World, You Only Get Three "I Love Yous"
+
+ALT TITLE 1 (the object, 1 to 3 words)
+Three Lights
+
+ALT TITLE 2 (the rule without the opener)
+You Only Get Three "I Love Yous"
+
+DESCRIPTION (1 or 2 sentences, then credits, then hashtags)
+In this world, you can only say "I love you" three times in your whole life. I had one left, and my dad was leaving on the six a.m. bus.
+An original work of fiction, written and animated by Almostville.
+#roblox #robloxstory #family
+
+HASHTAGS (already in the description; 3 at most; no #shorts needed)
+#roblox #robloxstory #family
+
+PINNED COMMENT (needs advanced features; a question the story raises)
+You only get three. Who gets your first one?
+
+PLAYLIST
+In This Town: Family
+
+SERIES (only if the Shorts series feature is available)
+In This Town, Season 1, Episode 05
+
+COVER FRAME
+Timecode: por definir al montar; es el inicio del plano 15 en tiempos/planos.json
+What is in it: plano 15 de la lista de planos del guion: la muñeca del narrador con una luz encendida y dos apagadas, y su cara de preocupación. Sin subtítulo encima. Alterno: plano 2 (muñeca con las tres luces amarillas, sin personaje).
+
+RELATED VIDEO
+012 In This World, You Inherit Your Parents' Fears (día 18, lista In This Town: Family)
+Ese video sale después (día 18). Mientras tanto pon el del día anterior y cámbialo cuando salga.
+Pega aquí la URL cuando exista. Cuando haya un video largo de esta familia, reemplázalo por ese.
+
+AUDIENCE: No, it's not made for kids
+VIDEO LANGUAGE: English (United States)
+CATEGORY: Film & Animation (la predeterminada del canal según docs/07, sección 2.5; la otra opción allí es Entertainment)
+ALTERED CONTENT: No
+Nota (docs/07, sección 3.3): animación de ficción claramente irreal y guion asistido no se declaran. Con voz propia la respuesta es No sin duda. Con voz sintética genérica también es No, pero por interpretación: la ayuda de YouTube no menciona voces sintéticas (sin verificar con texto literal). Nunca una voz clonada de otra persona ni música generada con IA.
+
+CHECK BEFORE PUBLISHING
+[ ] Copyright check finished with no claims
+[ ] Title has no hashtag and no word in ALL CAPS
+[ ] First spoken sentence is the rule and matches the title
+[ ] Cover frame chosen in the mobile app
+[ ] Added to playlist; related video set
+
+PARA EL CANAL EN ESPAÑOL
+Título:
+SOLO TIENES TRES "TE AMO"
+Descripción:
+En este mundo solo puedes decir "te amo" tres veces en la vida; a mí me quedaba una y mi papá se iba en el bus de las seis.

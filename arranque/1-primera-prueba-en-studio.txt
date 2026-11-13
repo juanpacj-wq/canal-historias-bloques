@@ -1,0 +1,16 @@
+Papel de este chat: mantenimiento. Vamos a validar por primera vez la cadena completa en este equipo. Todavía no produzcas ningún video.
+
+Lee CLAUDE.md, docs/10-produccion-en-paralelo.md (sección "Primer dia en el equipo de casa"), studio/README.md y la sección 9 de investigacion/studio-mcp-y-paralelismo.md.
+
+Tengo abierta una ventana de Roblox Studio con un lugar vacío guardado como archivo y el servidor MCP activado.
+
+Haz las pruebas en orden y detente en la primera que falle para diagnosticarla conmigo:
+
+1. Lista las herramientas del servidor Roblox_Studio y dime si aparece video_capture y si todas piden studio_id.
+2. Llama list_roblox_studios, elige mi ventana y pon un bloque rojo en el origen. Toma una captura y muéstramela.
+3. Carga la biblioteca de studio/ en el lugar siguiendo studio/README.md.
+4. Sigue el guion de primera prueba de studio/README.md paso por paso: un personaje del elenco propio, tres poses, tres caras, un escenario en versión gris y en versión detallada, dos preajustes de luz, y los encuadres general, medio y cerca. Una captura por paso.
+5. Corre el Director en modo foto sobre los primeros 8 planos de studio/ejemplos/001-puesta.json y luego en modo ensayo.
+6. Prueba el modo vertical de la cámara y dime cómo se ve.
+
+Por cada cosa que falle en la biblioteca: corrígela en studio/, vuelve a empaquetar y repite el paso. Al final escribe en studio/README.md, en la lista de lo no probado, qué quedó comprobado hoy y qué no, y dame un resumen de lo que funciona, lo que corregiste y lo que sigue pendiente.

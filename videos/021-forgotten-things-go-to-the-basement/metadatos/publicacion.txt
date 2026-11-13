@@ -1,0 +1,59 @@
+VIDEO 021
+Internal name: 021-forgotten-things-go-to-the-basement
+Scheduled: día 14 del calendario (videos/CALENDARIO.md), 15:00 Bogota (20:00 UTC)
+Notas internas (no van a YouTube):
+El título principal tiene 50 caracteres y pasa de los 45 que pide la plantilla; se deja el del guion (no pasa de 10 palabras). Si quieres cumplir los 45, usa el título alterno 2.
+Advertencia de guiones/INDICE.md: la abuela se trata con ternura, sin efectos cómicos.
+
+TITLE (max 45 characters, Title Case, no hashtags, no ALL CAPS)
+In This World, Forgotten Things Go to the Basement
+
+ALT TITLE 1 (the object, 1 to 3 words)
+The Bottom Step
+
+ALT TITLE 2 (the rule without the opener)
+Everything You Forget Ends Up in Your Basement
+
+DESCRIPTION (1 or 2 sentences, then credits, then hashtags)
+In this world, everything you forget ends up in your basement, on a shelf, with a paper tag. I went down to my grandma's, and somebody was sitting on the bottom step.
+An original work of fiction, written and animated by Almostville.
+#roblox #robloxstory #spooky
+
+HASHTAGS (already in the description; 3 at most; no #shorts needed)
+#roblox #robloxstory #spooky
+
+PINNED COMMENT (needs advanced features; a question the story raises)
+What is sitting on a shelf in your basement right now, with a paper tag on it?
+
+PLAYLIST
+In This Town: Spooky
+
+SERIES (only if the Shorts series feature is available)
+In This Town, Season 1, Episode 14
+
+COVER FRAME
+Timecode: por definir al montar; es el inicio del plano 6 en tiempos/planos.json
+What is in it: plano 6 de la lista de planos del guion: un personaje que baja la escalera del sótano y encuentra la repisa de objetos con etiquetas de papel. Sin subtítulo encima. Alterno: plano 62 (el narrador con la capa verde rugiendo; guiones/INDICE.md lo señala como imagen de miniatura, aunque no muestra la regla).
+
+RELATED VIDEO
+018 The Echo (día 7, lista In This Town: Spooky)
+Pega aquí la URL cuando exista. Cuando haya un video largo de esta familia, reemplázalo por ese.
+
+AUDIENCE: No, it's not made for kids
+VIDEO LANGUAGE: English (United States)
+CATEGORY: Film & Animation (la predeterminada del canal según docs/07, sección 2.5; la otra opción allí es Entertainment)
+ALTERED CONTENT: No
+Nota (docs/07, sección 3.3): animación de ficción claramente irreal y guion asistido no se declaran. Con voz propia la respuesta es No sin duda. Con voz sintética genérica también es No, pero por interpretación: la ayuda de YouTube no menciona voces sintéticas (sin verificar con texto literal). Nunca una voz clonada de otra persona ni música generada con IA.
+
+CHECK BEFORE PUBLISHING
+[ ] Copyright check finished with no claims
+[ ] Title has no hashtag and no word in ALL CAPS
+[ ] First spoken sentence is the rule and matches the title
+[ ] Cover frame chosen in the mobile app
+[ ] Added to playlist; related video set
+
+PARA EL CANAL EN ESPAÑOL
+Título:
+TODO LO OLVIDADO BAJA AL SÓTANO
+Descripción:
+En este mundo todo lo que olvidas aparece en tu sótano con una etiqueta de papel; bajé al de mi abuela y había alguien sentado en el último escalón.

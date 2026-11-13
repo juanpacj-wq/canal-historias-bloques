@@ -1,0 +1,616 @@
+{
+ "video": "010-your-best-friend-is-chosen-by-lottery",
+ "duracion": 97.69,
+ "planos": [
+  {
+   "n": 1,
+   "inicio": 0.0,
+   "fin": 3.02,
+   "texto": "In this world, a lottery picks your best friend...",
+   "escenario": "Alcaldía, sala del sorteo",
+   "en_pantalla": "Niña de diez años frente a una máquina dorada de balotas",
+   "cara": "Nerviosa",
+   "camara": "M"
+  },
+  {
+   "n": 2,
+   "inicio": 3.02,
+   "fin": 4.48,
+   "texto": "and you're stuck with them by law.",
+   "escenario": "Alcaldía",
+   "en_pantalla": "Dos niños esposados con una cinta que dice BEST FRIENDS",
+   "cara": "Resignados",
+   "camara": "M"
+  },
+  {
+   "n": 3,
+   "inicio": 4.48,
+   "fin": 6.98,
+   "texto": "There's a gold machine at Town Hall...",
+   "escenario": "Alcaldía",
+   "en_pantalla": "La máquina dorada girando, llena de pelotas blancas",
+   "cara": "(sin personaje)",
+   "camara": "G"
+  },
+  {
+   "n": 4,
+   "inicio": 6.98,
+   "fin": 8.5,
+   "texto": "One pops out with a name on it.",
+   "escenario": "Alcaldía",
+   "en_pantalla": "Una pelota sale por el tubo con un nombre escrito",
+   "cara": "(sin personaje)",
+   "camara": "C"
+  },
+  {
+   "n": 5,
+   "inicio": 8.5,
+   "fin": 9.5,
+   "texto": "That's your person.",
+   "escenario": "Alcaldía",
+   "en_pantalla": "Funcionario señala a un niño al fondo de la fila",
+   "cara": "Serio",
+   "camara": "M"
+  },
+  {
+   "n": 6,
+   "inicio": 9.5,
+   "fin": 11.18,
+   "texto": "My brother got a kid with a trampoline.",
+   "escenario": "Patio",
+   "en_pantalla": "Hermano y su amigo saltando en un trampolín",
+   "cara": "Risa",
+   "camara": "G"
+  },
+  {
+   "n": 7,
+   "inicio": 11.18,
+   "fin": 13.32,
+   "texto": "My cousin got a boy who lives across the ocean.",
+   "escenario": "Mapa",
+   "en_pantalla": "Dos muñecos, uno a cada lado de un mar azul",
+   "cara": "Felices",
+   "camara": "G"
+  },
+  {
+   "n": 8,
+   "inicio": 13.32,
+   "fin": 15.16,
+   "texto": "They've been best friends for six years.",
+   "escenario": "Cuarto",
+   "en_pantalla": "Primo con una pila de cartas",
+   "cara": "Feliz",
+   "camara": "M"
+  },
+  {
+   "n": 9,
+   "inicio": 15.16,
+   "fin": 17.0,
+   "texto": "Neither one speaks the other's language.",
+   "escenario": "Cuarto",
+   "en_pantalla": "Carta llena de signos raros; primo rascándose la cabeza",
+   "cara": "Confundido",
+   "camara": "C"
+  },
+  {
+   "n": 10,
+   "inicio": 17.0,
+   "fin": 18.74,
+   "texto": "They mail each other drawings of dogs.",
+   "escenario": "Cuarto",
+   "en_pantalla": "Pared cubierta de dibujos de perros",
+   "cara": "(sin personaje)",
+   "camara": "G"
+  },
+  {
+   "n": 11,
+   "inicio": 18.74,
+   "fin": 20.12,
+   "texto": "My ball said Birdie Vance.",
+   "escenario": "Alcaldía",
+   "en_pantalla": "Pelota con el nombre BIRDIE VANCE",
+   "cara": "(sin personaje)",
+   "camara": "C"
+  },
+  {
+   "n": 12,
+   "inicio": 20.12,
+   "fin": 21.08,
+   "texto": "My worst enemy.",
+   "escenario": "Alcaldía",
+   "en_pantalla": "Narradora y Birdie se miran con rayos en los ojos",
+   "cara": "Furiosas",
+   "camara": "M"
+  },
+  {
+   "n": 13,
+   "inicio": 21.08,
+   "fin": 23.02,
+   "texto": "In second grade, she told the whole class...",
+   "escenario": "Colegio, salón (recuerdo)",
+   "en_pantalla": "Birdie pequeña de pie, señalando; todo el salón mira",
+   "cara": "Acusadora",
+   "camara": "G"
+  },
+  {
+   "n": 14,
+   "inicio": 23.02,
+   "fin": 24.76,
+   "texto": "I ate a crayon. A green one.",
+   "escenario": "Colegio, salón (recuerdo)",
+   "en_pantalla": "Narradora pequeña con la boca verde",
+   "cara": "Culpable",
+   "camara": "C"
+  },
+  {
+   "n": 15,
+   "inicio": 24.76,
+   "fin": 25.96,
+   "texto": "I did. But still.",
+   "escenario": "Colegio, salón (recuerdo)",
+   "en_pantalla": "Crayón verde mordido",
+   "cara": "Indignada",
+   "camara": "C"
+  },
+  {
+   "n": 16,
+   "inicio": 25.96,
+   "fin": 29.04,
+   "texto": "By law, best friends spend every Saturday together,",
+   "escenario": "Parque",
+   "en_pantalla": "Letrero oficial: SATURDAY 2 TO 4",
+   "cara": "(sin personaje)",
+   "camara": "C"
+  },
+  {
+   "n": 17,
+   "inicio": 29.04,
+   "fin": 32.6,
+   "texto": "So for four years, we've sat on opposite ends...",
+   "escenario": "Parque",
+   "en_pantalla": "Banca larga, una en cada extremo, mirando a lados opuestos",
+   "cara": "Serias",
+   "camara": "G"
+  },
+  {
+   "n": 18,
+   "inicio": 32.6,
+   "fin": 34.22,
+   "texto": "That's 208 Saturdays.",
+   "escenario": "Parque",
+   "en_pantalla": "Respaldo de la banca lleno de rayitas talladas",
+   "cara": "(sin personaje)",
+   "camara": "C"
+  },
+  {
+   "n": 19,
+   "inicio": 34.22,
+   "fin": 35.1,
+   "texto": "Zero words.",
+   "escenario": "Parque",
+   "en_pantalla": "Las dos con los brazos cruzados; pasa una hoja seca",
+   "cara": "Serias",
+   "camara": "M"
+  },
+  {
+   "n": 20,
+   "inicio": 35.1,
+   "fin": 36.1,
+   "texto": "There's one way out.",
+   "escenario": "Alcaldía",
+   "en_pantalla": "Puerta con letrero EXIT iluminado",
+   "cara": "(sin personaje)",
+   "camara": "M"
+  },
+  {
+   "n": 21,
+   "inicio": 36.1,
+   "fin": 38.12,
+   "texto": "At fourteen, an inspector tests you.",
+   "escenario": "Alcaldía",
+   "en_pantalla": "Silueta con tabla de apuntes",
+   "cara": "(sombra)",
+   "camara": "M"
+  },
+  {
+   "n": 22,
+   "inicio": 38.12,
+   "fin": 39.7,
+   "texto": "If he rules you \"not compatible,\"",
+   "escenario": "Alcaldía",
+   "en_pantalla": "Sello rojo NOT COMPATIBLE sobre un papel",
+   "cara": "(sin personaje)",
+   "camara": "C"
+  },
+  {
+   "n": 23,
+   "inicio": 39.7,
+   "fin": 40.9,
+   "texto": "you both get a new ball.",
+   "escenario": "Alcaldía",
+   "en_pantalla": "La máquina dorada soltando dos pelotas nuevas",
+   "cara": "(sin personaje)",
+   "camara": "C"
+  },
+  {
+   "n": 24,
+   "inicio": 40.9,
+   "fin": 42.24,
+   "texto": "Our inspection was Friday.",
+   "escenario": "Colegio, pasillo",
+   "en_pantalla": "Cartel INSPECTION FRIDAY",
+   "cara": "Narradora decidida",
+   "camara": "M"
+  },
+  {
+   "n": 25,
+   "inicio": 42.24,
+   "fin": 44.9,
+   "texto": "For the first time ever, Birdie and I agreed...",
+   "escenario": "Parque",
+   "en_pantalla": "Las dos se dan la mano en la banca, sin mirarse",
+   "cara": "Serias",
+   "camara": "M"
+  },
+  {
+   "n": 26,
+   "inicio": 44.9,
+   "fin": 46.12,
+   "texto": "Inspector Plimpton had a clipboard",
+   "escenario": "Parque",
+   "en_pantalla": "Plimpton de traje gris con tabla de apuntes",
+   "cara": "Serio",
+   "camara": "M"
+  },
+  {
+   "n": 27,
+   "inicio": 46.12,
+   "fin": 47.64,
+   "texto": "and a very small mustache.",
+   "escenario": "Parque",
+   "en_pantalla": "Bigote diminuto",
+   "cara": "Serio",
+   "camara": "C"
+  },
+  {
+   "n": 28,
+   "inicio": 47.64,
+   "fin": 49.4,
+   "texto": "First, we argued about pizza toppings...",
+   "escenario": "Colegio, cafetería",
+   "en_pantalla": "Las dos gritándose con una pizza en medio",
+   "cara": "Furiosas",
+   "camara": "M"
+  },
+  {
+   "n": 29,
+   "inicio": 49.4,
+   "fin": 50.44,
+   "texto": "for nine minutes.",
+   "escenario": "Colegio, cafetería",
+   "en_pantalla": "Reloj de pared avanzando; Plimpton esperando",
+   "cara": "Aburrido",
+   "camara": "C"
+  },
+  {
+   "n": 30,
+   "inicio": 50.44,
+   "fin": 51.04,
+   "texto": "He wrote \"passionate.\"",
+   "escenario": "Colegio, cafetería",
+   "en_pantalla": "Tabla de apuntes con la palabra PASSIONATE",
+   "cara": "(sin personaje)",
+   "camara": "C"
+  },
+  {
+   "n": 31,
+   "inicio": 51.04,
+   "fin": 52.76,
+   "texto": "Then Birdie threw my shoe onto the roof.",
+   "escenario": "Colegio, patio",
+   "en_pantalla": "Zapato volando hacia el techo",
+   "cara": "Birdie furiosa",
+   "camara": "G"
+  },
+  {
+   "n": 32,
+   "inicio": 52.76,
+   "fin": 53.66,
+   "texto": "I threw hers.",
+   "escenario": "Colegio, patio",
+   "en_pantalla": "Segundo zapato volando; dos zapatos en el techo",
+   "cara": "Narradora furiosa",
+   "camara": "G"
+  },
+  {
+   "n": 33,
+   "inicio": 53.66,
+   "fin": 54.5,
+   "texto": "He wrote \"shared hobbies.\"",
+   "escenario": "Colegio, patio",
+   "en_pantalla": "Tabla de apuntes: SHARED HOBBIES",
+   "cara": "Plimpton complacido",
+   "camara": "C"
+  },
+  {
+   "n": 34,
+   "inicio": 54.5,
+   "fin": 56.74,
+   "texto": "So we staged a giant fight in the cafeteria.",
+   "escenario": "Colegio, cafetería",
+   "en_pantalla": "Las dos de pie sobre mesas, gritando; todos miran",
+   "cara": "Furia exagerada",
+   "camara": "G"
+  },
+  {
+   "n": 35,
+   "inicio": 56.74,
+   "fin": 58.2,
+   "texto": "We'd rehearsed it all week at my house.",
+   "escenario": "Sala (recuerdo)",
+   "en_pantalla": "Las dos ensayando con un guion en la mano",
+   "cara": "Concentradas",
+   "camara": "M"
+  },
+  {
+   "n": 36,
+   "inicio": 58.2,
+   "fin": 59.74,
+   "texto": "We had cue cards.",
+   "escenario": "Sala (recuerdo)",
+   "en_pantalla": "Tarjetas numeradas con insultos: \"YOU CHEW ICE\"",
+   "cara": "(sin personaje)",
+   "camara": "C"
+  },
+  {
+   "n": 37,
+   "inicio": 59.74,
+   "fin": 60.88,
+   "texto": "Plimpton wiped his eyes.",
+   "escenario": "Colegio, cafetería",
+   "en_pantalla": "Plimpton con un pañuelo",
+   "cara": "Conmovido",
+   "camara": "C"
+  },
+  {
+   "n": 38,
+   "inicio": 60.88,
+   "fin": 62.9,
+   "texto": "He wrote, \"They finish each other's insults.\"",
+   "escenario": "Colegio, cafetería",
+   "en_pantalla": "Tabla de apuntes con un corazón dibujado",
+   "cara": "(sin personaje)",
+   "camara": "C"
+  },
+  {
+   "n": 39,
+   "inicio": 62.9,
+   "fin": 64.04,
+   "texto": "\"Last chance,\" he said.",
+   "escenario": "Alcaldía, oficina",
+   "en_pantalla": "Plimpton detrás de un escritorio; las dos sentadas",
+   "cara": "Serio",
+   "camara": "G"
+  },
+  {
+   "n": 40,
+   "inicio": 64.04,
+   "fin": 65.52,
+   "texto": "\"One of you just has to say it.\"",
+   "escenario": "Alcaldía, oficina",
+   "en_pantalla": "Formulario con una casilla vacía",
+   "cara": "(sin personaje)",
+   "camara": "C"
+  },
+  {
+   "n": 41,
+   "inicio": 65.52,
+   "fin": 66.42,
+   "texto": "\"I don't want her.\" Easy.",
+   "escenario": "Alcaldía, oficina",
+   "en_pantalla": "Narradora se pone de pie",
+   "cara": "Confiada",
+   "camara": "M"
+  },
+  {
+   "n": 42,
+   "inicio": 66.42,
+   "fin": 68.44,
+   "texto": "I opened my mouth. Nothing came out.",
+   "escenario": "Alcaldía, oficina",
+   "en_pantalla": "Narradora con la boca abierta, muda",
+   "cara": "Susto",
+   "camara": "C"
+  },
+  {
+   "n": 43,
+   "inicio": 68.44,
+   "fin": 70.62,
+   "texto": "Because Saturday at two is the only time...",
+   "escenario": "Parque (recuerdo)",
+   "en_pantalla": "Banca vista desde lejos; Birdie ya sentada, esperando",
+   "cara": "Seria",
+   "camara": "G"
+  },
+  {
+   "n": 44,
+   "inicio": 70.62,
+   "fin": 71.76,
+   "texto": "somebody is waiting for me.",
+   "escenario": "Cuarto",
+   "en_pantalla": "Narradora sola con el celular sin mensajes",
+   "cara": "Triste",
+   "camara": "M"
+  },
+  {
+   "n": 45,
+   "inicio": 71.76,
+   "fin": 73.34,
+   "texto": "Even if she's waiting to ignore me.",
+   "escenario": "Parque (recuerdo)",
+   "en_pantalla": "Birdie voltea la cara cuando llega la narradora",
+   "cara": "Seria, sonrisa pequeña",
+   "camara": "M"
+  },
+  {
+   "n": 46,
+   "inicio": 73.34,
+   "fin": 74.58,
+   "texto": "Birdie stared at her one shoe.",
+   "escenario": "Alcaldía, oficina",
+   "en_pantalla": "Un pie con zapato y otro con media",
+   "cara": "(sin personaje)",
+   "camara": "C"
+  },
+  {
+   "n": 47,
+   "inicio": 74.58,
+   "fin": 76.42,
+   "texto": "Then she said, \"I ate the blue one.\"",
+   "escenario": "Alcaldía, oficina",
+   "en_pantalla": "Birdie con la mirada baja",
+   "cara": "Vergüenza",
+   "camara": "C"
+  },
+  {
+   "n": 48,
+   "inicio": 76.42,
+   "fin": 76.66,
+   "texto": "What?",
+   "escenario": "Alcaldía, oficina",
+   "en_pantalla": "Narradora y Plimpton voltean al tiempo",
+   "cara": "Confundidos",
+   "camara": "M"
+  },
+  {
+   "n": 49,
+   "inicio": 76.66,
+   "fin": 78.96,
+   "texto": "\"Second grade. I ate a blue crayon first.",
+   "escenario": "Colegio, salón (recuerdo)",
+   "en_pantalla": "Birdie pequeña con la boca azul, escondida tras un libro",
+   "cara": "Culpable",
+   "camara": "C"
+  },
+  {
+   "n": 50,
+   "inicio": 78.96,
+   "fin": 80.72,
+   "texto": "You saw me. I thought you'd tell.",
+   "escenario": "Colegio, salón (recuerdo)",
+   "en_pantalla": "Narradora pequeña mirándola desde el pupitre de al lado",
+   "cara": "Sorpresa, pánico",
+   "camara": "M"
+  },
+  {
+   "n": 51,
+   "inicio": 80.72,
+   "fin": 81.78,
+   "texto": "So I told on you.\"",
+   "escenario": "Colegio, salón (recuerdo)",
+   "en_pantalla": "Birdie pequeña señalando, con la boca todavía azul",
+   "cara": "Pánico",
+   "camara": "M"
+  },
+  {
+   "n": 52,
+   "inicio": 81.78,
+   "fin": 82.58,
+   "texto": "Her chin was shaking.",
+   "escenario": "Alcaldía, oficina",
+   "en_pantalla": "Birdie con el mentón temblando",
+   "cara": "Llanto contenido",
+   "camara": "C"
+  },
+  {
+   "n": 53,
+   "inicio": 82.58,
+   "fin": 84.42,
+   "texto": "She'd felt sick about it for six years.",
+   "escenario": "Alcaldía, oficina",
+   "en_pantalla": "Narradora mirándola",
+   "cara": "Conmovida",
+   "camara": "C"
+  },
+  {
+   "n": 54,
+   "inicio": 84.42,
+   "fin": 85.78,
+   "texto": "Plimpton stamped our file.",
+   "escenario": "Alcaldía, oficina",
+   "en_pantalla": "Sello bajando sobre el papel",
+   "cara": "(sin personaje)",
+   "camara": "C"
+  },
+  {
+   "n": 55,
+   "inicio": 85.78,
+   "fin": 86.4,
+   "texto": "COMPATIBLE.",
+   "escenario": "Alcaldía, oficina",
+   "en_pantalla": "Sello verde enorme: COMPATIBLE",
+   "cara": "Plimpton feliz",
+   "camara": "C"
+  },
+  {
+   "n": 56,
+   "inicio": 86.4,
+   "fin": 87.88,
+   "texto": "Birdie is still my worst enemy.",
+   "escenario": "Parque",
+   "en_pantalla": "Las dos se sacan la lengua",
+   "cara": "Burlonas",
+   "camara": "M"
+  },
+  {
+   "n": 57,
+   "inicio": 87.88,
+   "fin": 89.38,
+   "texto": "She's also my best friend.",
+   "escenario": "Parque",
+   "en_pantalla": "Las dos en la banca, ahora sentadas en el centro",
+   "cara": "Sonrisas",
+   "camara": "M"
+  },
+  {
+   "n": 58,
+   "inicio": 89.38,
+   "fin": 91.16,
+   "texto": "The lottery says that's not a category.",
+   "escenario": "Alcaldía",
+   "en_pantalla": "La máquina dorada echando humo, pelotas saltando",
+   "cara": "(sin personaje)",
+   "camara": "M"
+  },
+  {
+   "n": 59,
+   "inicio": 91.16,
+   "fin": 93.6,
+   "texto": "Last Saturday we finally talked. Two hours.",
+   "escenario": "Parque",
+   "en_pantalla": "Las dos hablando sin parar, moviendo las manos",
+   "cara": "Animadas",
+   "camara": "G"
+  },
+  {
+   "n": 60,
+   "inicio": 93.6,
+   "fin": 95.52,
+   "texto": "Mostly about which crayon tastes worse.",
+   "escenario": "Parque",
+   "en_pantalla": "Caja de crayones abierta sobre la banca",
+   "cara": "(sin personaje)",
+   "camara": "C"
+  },
+  {
+   "n": 61,
+   "inicio": 95.52,
+   "fin": 97.69,
+   "texto": "Green. Obviously.",
+   "escenario": "Parque",
+   "en_pantalla": "Narradora con el crayón verde en alto; Birdie con el azul",
+   "cara": "Seguras",
+   "camara": "M"
+  }
+ ]
+}

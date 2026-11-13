@@ -1,0 +1,636 @@
+{
+ "video": "005-breakups-make-it-snow",
+ "duracion": 99.256,
+ "planos": [
+  {
+   "n": 1,
+   "inicio": 0.0,
+   "fin": 2.26,
+   "texto": "In this town, every breakup makes it snow...",
+   "escenario": "Pueblo de día",
+   "en_pantalla": "Pueblo soleado; una sola casa bajo una nube que nieva",
+   "cara": "(sin personaje)",
+   "camara": "G"
+  },
+  {
+   "n": 2,
+   "inicio": 2.26,
+   "fin": 4.44,
+   "texto": "but only over the house of whoever got dumped.",
+   "escenario": "Calle frente a una casa",
+   "en_pantalla": "Personaje en la puerta con un ramo caído; nieve solo sobre él",
+   "cara": "Triste",
+   "camara": "M"
+  },
+  {
+   "n": 3,
+   "inicio": 4.44,
+   "fin": 6.28,
+   "texto": "Small breakup, a few flakes.",
+   "escenario": "Calle",
+   "en_pantalla": "Niño de diez años con tres copos sobre la cabeza",
+   "cara": "Puchero",
+   "camara": "C"
+  },
+  {
+   "n": 4,
+   "inicio": 6.28,
+   "fin": 7.76,
+   "texto": "Big breakup, a blizzard.",
+   "escenario": "Calle",
+   "en_pantalla": "Casa casi tapada; solo se ve la chimenea",
+   "cara": "(sin personaje)",
+   "camara": "G"
+  },
+  {
+   "n": 5,
+   "inicio": 7.76,
+   "fin": 9.04,
+   "texto": "When the mayor's wife left...",
+   "escenario": "Pueblo de día",
+   "en_pantalla": "Alcalde con banda, hundido en nieve hasta el cuello; alrededor, gente en pantaloneta",
+   "cara": "Alcalde digno",
+   "camara": "M"
+  },
+  {
+   "n": 6,
+   "inicio": 9.04,
+   "fin": 10.42,
+   "texto": "he got six feet in July.",
+   "escenario": "Pueblo de día",
+   "en_pantalla": "Calendario \"JULY\" con un sol; regla clavada en la nieve",
+   "cara": "(sin personaje)",
+   "camara": "C"
+  },
+  {
+   "n": 7,
+   "inicio": 10.42,
+   "fin": 12.32,
+   "texto": "When Mr. Dobbs got dumped by text...",
+   "escenario": "Calle",
+   "en_pantalla": "Profesor Dobbs en su carro mirando el celular",
+   "cara": "Golpe de realidad",
+   "camara": "C"
+  },
+  {
+   "n": 8,
+   "inicio": 12.32,
+   "fin": 13.74,
+   "texto": "it snowed inside his car.",
+   "escenario": "Calle",
+   "en_pantalla": "Carro con las ventanas llenas de nieve por dentro; limpiaparabrisas andando",
+   "cara": "Dobbs resignado",
+   "camara": "M"
+  },
+  {
+   "n": 9,
+   "inicio": 13.74,
+   "fin": 15.66,
+   "texto": "Kids here keep sleds by the front door.",
+   "escenario": "Calle frente a una casa",
+   "en_pantalla": "Fila de trineos recostados junto a una puerta",
+   "cara": "(sin personaje)",
+   "camara": "C"
+  },
+  {
+   "n": 10,
+   "inicio": 15.66,
+   "fin": 17.0,
+   "texto": "We root against every couple.",
+   "escenario": "Parque",
+   "en_pantalla": "Pareja en una banca; detrás de un arbusto, cuatro niños con trineos y dedos cruzados",
+   "cara": "Niños ansiosos",
+   "camara": "G"
+  },
+  {
+   "n": 11,
+   "inicio": 17.0,
+   "fin": 19.2,
+   "texto": "And the snow only stops when you're really over it.",
+   "escenario": "Calle frente a una casa",
+   "en_pantalla": "Personaje sonriendo; la nube sobre él se deshace",
+   "cara": "Alivio",
+   "camara": "M"
+  },
+  {
+   "n": 12,
+   "inicio": 19.2,
+   "fin": 20.16,
+   "texto": "You can't fake it.",
+   "escenario": "Calle frente a una casa",
+   "en_pantalla": "Otro personaje con sonrisa forzada y pulgar arriba; la nube sigue nevando",
+   "cara": "Sonrisa falsa",
+   "camara": "C"
+  },
+  {
+   "n": 13,
+   "inicio": 20.16,
+   "fin": 21.14,
+   "texto": "The sky checks.",
+   "escenario": "Calle frente a una casa",
+   "en_pantalla": "La nube con dos ojos entrecerrados, mirándolo",
+   "cara": "(nube sospechosa)",
+   "camara": "C"
+  },
+  {
+   "n": 14,
+   "inicio": 21.14,
+   "fin": 23.36,
+   "texto": "It has been snowing on my house for three months.",
+   "escenario": "Calle frente a la casa",
+   "en_pantalla": "Casa del narrador bajo una nube; vecinos en camiseta",
+   "cara": "Narrador con pala",
+   "camara": "G"
+  },
+  {
+   "n": 15,
+   "inicio": 23.36,
+   "fin": 25.96,
+   "texto": "My brother Nico got dumped by Marisol in March.",
+   "escenario": "Calle frente a la casa (recuerdo)",
+   "en_pantalla": "Marisol se va con su patineta; Nico en la puerta",
+   "cara": "Nico triste",
+   "camara": "M"
+  },
+  {
+   "n": 16,
+   "inicio": 25.96,
+   "fin": 27.18,
+   "texto": "Neighbors still bring him soup.",
+   "escenario": "Calle frente a la casa",
+   "en_pantalla": "Fila de vecinos con ollas en la puerta; Nico recibe una",
+   "cara": "Vecinos compasivos",
+   "camara": "M"
+  },
+  {
+   "n": 17,
+   "inicio": 27.18,
+   "fin": 28.5,
+   "texto": "But Nico got over her in a week.",
+   "escenario": "Techo de la casa",
+   "en_pantalla": "Nico en pantaloneta, en una silla de playa, con limonada",
+   "cara": "Nico relajado",
+   "camara": "M"
+  },
+  {
+   "n": 18,
+   "inicio": 28.5,
+   "fin": 30.66,
+   "texto": "He's dating Tabitha from the bowling alley.",
+   "escenario": "Bolera (sala redecorada)",
+   "en_pantalla": "Tabitha con una bola de bolos; Nico al lado",
+   "cara": "Enamorados",
+   "camara": "M"
+  },
+  {
+   "n": 19,
+   "inicio": 30.66,
+   "fin": 32.62,
+   "texto": "The snow is all on my side of the roof.",
+   "escenario": "Calle frente a la casa",
+   "en_pantalla": "Mitad del techo con una montaña de nieve sobre la ventana del narrador; la otra mitad con pasto",
+   "cara": "(sin personaje)",
+   "camara": "G"
+  },
+  {
+   "n": 20,
+   "inicio": 32.62,
+   "fin": 34.6,
+   "texto": "See, Marisol taught me to skateboard.",
+   "escenario": "Calle (recuerdo)",
+   "en_pantalla": "Marisol sostiene las manos del narrador sobre una patineta",
+   "cara": "Felices",
+   "camara": "M"
+  },
+  {
+   "n": 21,
+   "inicio": 34.6,
+   "fin": 35.76,
+   "texto": "She gave me my helmet.",
+   "escenario": "Cuarto",
+   "en_pantalla": "Narrador con un casco con calcomanías en las manos",
+   "cara": "Triste",
+   "camara": "C"
+  },
+  {
+   "n": 22,
+   "inicio": 35.76,
+   "fin": 37.46,
+   "texto": "And nobody asks the little brother.",
+   "escenario": "Sala",
+   "en_pantalla": "Familia y vecinos consolando a Nico; el narrador al fondo, solo",
+   "cara": "Narrador ignorado",
+   "camara": "G"
+  },
+  {
+   "n": 23,
+   "inicio": 37.46,
+   "fin": 38.6,
+   "texto": "Yesterday the roof made a sound...",
+   "escenario": "Cuarto",
+   "en_pantalla": "Techo con una grieta; cae un poco de nieve",
+   "cara": "Narrador susto",
+   "camara": "M"
+  },
+  {
+   "n": 24,
+   "inicio": 38.6,
+   "fin": 40.06,
+   "texto": "like a giant chewing ice.",
+   "escenario": "Cuarto",
+   "en_pantalla": "La grieta crece; lámpara temblando",
+   "cara": "(sin personaje)",
+   "camara": "C"
+  },
+  {
+   "n": 25,
+   "inicio": 40.06,
+   "fin": 41.26,
+   "texto": "Dad measured nine feet.",
+   "escenario": "Calle frente a la casa",
+   "en_pantalla": "Papá en una escalera con un metro; \"9 FT\"",
+   "cara": "Papá preocupado",
+   "camara": "M"
+  },
+  {
+   "n": 26,
+   "inicio": 41.26,
+   "fin": 43.26,
+   "texto": "The city said stop the snow by Saturday...",
+   "escenario": "Calle frente a la casa",
+   "en_pantalla": "Funcionario con casco pega un aviso naranja en la puerta",
+   "cara": "Funcionario serio",
+   "camara": "M"
+  },
+  {
+   "n": 27,
+   "inicio": 43.26,
+   "fin": 44.26,
+   "texto": "or we move out.",
+   "escenario": "Calle frente a la casa",
+   "en_pantalla": "Cajas de mudanza apiladas en la entrada",
+   "cara": "Familia preocupada",
+   "camara": "G"
+  },
+  {
+   "n": 28,
+   "inicio": 44.26,
+   "fin": 45.5,
+   "texto": "Everybody looked at Nico.",
+   "escenario": "Sala",
+   "en_pantalla": "Familia y funcionario mirando a Nico, que come sopa",
+   "cara": "Nico confundido",
+   "camara": "M"
+  },
+  {
+   "n": 29,
+   "inicio": 45.5,
+   "fin": 47.58,
+   "texto": "So I had to get over her. Fast.",
+   "escenario": "Cuarto",
+   "en_pantalla": "Narrador frente a la ventana tapada de nieve",
+   "cara": "Decidido",
+   "camara": "C"
+  },
+  {
+   "n": 30,
+   "inicio": 47.58,
+   "fin": 49.02,
+   "texto": "First, I just said it.",
+   "escenario": "Calle frente a la casa",
+   "en_pantalla": "Narrador de pie bajo la nube, brazos cruzados",
+   "cara": "Sonrisa falsa",
+   "camara": "M"
+  },
+  {
+   "n": 31,
+   "inicio": 49.02,
+   "fin": 49.58,
+   "texto": "\"I'm over it.\"",
+   "escenario": "Calle frente a la casa",
+   "en_pantalla": "Cara del narrador con el pulgar arriba",
+   "cara": "Sonrisa falsa",
+   "camara": "C"
+  },
+  {
+   "n": 32,
+   "inicio": 49.58,
+   "fin": 51.58,
+   "texto": "The cloud dropped one snowball on my head.",
+   "escenario": "Calle frente a la casa",
+   "en_pantalla": "Una sola bola de nieve le cae en la cabeza",
+   "cara": "Narrador aplastado",
+   "camara": "M"
+  },
+  {
+   "n": 33,
+   "inicio": 51.58,
+   "fin": 52.32,
+   "texto": "It aimed.",
+   "escenario": "Calle frente a la casa",
+   "en_pantalla": "La nube con dos ojos entrecerrados, mirándolo",
+   "cara": "(nube sospechosa)",
+   "camara": "C"
+  },
+  {
+   "n": 34,
+   "inicio": 52.32,
+   "fin": 54.52,
+   "texto": "Second, I boxed up everything she gave me.",
+   "escenario": "Cuarto",
+   "en_pantalla": "Caja de cartón con la etiqueta \"MARISOL\"",
+   "cara": "Narrador serio",
+   "camara": "M"
+  },
+  {
+   "n": 35,
+   "inicio": 54.52,
+   "fin": 55.92,
+   "texto": "The helmet. The wheels.",
+   "escenario": "Cuarto",
+   "en_pantalla": "El casco y cuatro ruedas caen en la caja",
+   "cara": "(sin personaje)",
+   "camara": "C"
+  },
+  {
+   "n": 36,
+   "inicio": 55.92,
+   "fin": 57.42,
+   "texto": "A birthday card with a skull on it.",
+   "escenario": "Cuarto",
+   "en_pantalla": "Tarjeta con una calavera sonriente en las manos del narrador",
+   "cara": "Triste",
+   "camara": "C"
+  },
+  {
+   "n": 37,
+   "inicio": 57.42,
+   "fin": 59.02,
+   "texto": "Three feet fell in one hour.",
+   "escenario": "Calle frente a la casa",
+   "en_pantalla": "Avalancha desde la nube; la puerta desaparece",
+   "cara": "(sin personaje)",
+   "camara": "G"
+  },
+  {
+   "n": 38,
+   "inicio": 59.02,
+   "fin": 60.14,
+   "texto": "The mailman quit.",
+   "escenario": "Calle frente a la casa",
+   "en_pantalla": "Cartero clava su gorra en la nieve y se va",
+   "cara": "Cartero harto",
+   "camara": "M"
+  },
+  {
+   "n": 39,
+   "inicio": 60.14,
+   "fin": 61.94,
+   "texto": "Third, I tried being mad at her.",
+   "escenario": "Cuarto",
+   "en_pantalla": "Narrador con el ceño fruncido frente a una hoja",
+   "cara": "Molesto a la fuerza",
+   "camara": "C"
+  },
+  {
+   "n": 40,
+   "inicio": 61.94,
+   "fin": 63.98,
+   "texto": "I wrote a list of everything wrong with Marisol.",
+   "escenario": "Cuarto",
+   "en_pantalla": "Hoja con el título \"WRONG WITH MARISOL\"",
+   "cara": "(sin personaje)",
+   "camara": "C"
+  },
+  {
+   "n": 41,
+   "inicio": 63.98,
+   "fin": 65.32,
+   "texto": "It had one thing on it. \"Left.\"",
+   "escenario": "Cuarto",
+   "en_pantalla": "La hoja con una sola palabra: LEFT",
+   "cara": "Narrador con ojos aguados",
+   "camara": "C"
+  },
+  {
+   "n": 42,
+   "inicio": 65.32,
+   "fin": 67.04,
+   "texto": "It snowed inside my sock drawer.",
+   "escenario": "Cuarto",
+   "en_pantalla": "Cajón abierto lleno de nieve, una media asomando",
+   "cara": "(sin personaje)",
+   "camara": "C"
+  },
+  {
+   "n": 43,
+   "inicio": 67.04,
+   "fin": 69.28,
+   "texto": "So I grabbed my board and skated to her house.",
+   "escenario": "Calle",
+   "en_pantalla": "Narrador patinando por la calle",
+   "cara": "Decidido",
+   "camara": "G"
+  },
+  {
+   "n": 44,
+   "inicio": 69.28,
+   "fin": 70.24,
+   "texto": "Eleven blocks.",
+   "escenario": "Calle",
+   "en_pantalla": "Vista larga de la calle; el narrador pequeño al fondo",
+   "cara": "(sin personaje)",
+   "camara": "G"
+  },
+  {
+   "n": 45,
+   "inicio": 70.24,
+   "fin": 72.38,
+   "texto": "A little trail of snow followed me the whole way.",
+   "escenario": "Calle",
+   "en_pantalla": "Rastro de copos detrás de la patineta",
+   "cara": "(sin personaje)",
+   "camara": "M"
+  },
+  {
+   "n": 46,
+   "inicio": 72.38,
+   "fin": 73.14,
+   "texto": "I knocked.",
+   "escenario": "Calle frente a la casa de Marisol",
+   "en_pantalla": "Puño de bloque tocando una puerta azul",
+   "cara": "(sin personaje)",
+   "camara": "C"
+  },
+  {
+   "n": 47,
+   "inicio": 73.14,
+   "fin": 74.38,
+   "texto": "Marisol opened the door.",
+   "escenario": "Calle frente a la casa de Marisol",
+   "en_pantalla": "Marisol en la puerta; el narrador con la patineta bajo el brazo",
+   "cara": "Marisol sorprendida",
+   "camara": "M"
+  },
+  {
+   "n": 48,
+   "inicio": 74.38,
+   "fin": 76.22,
+   "texto": "And I said the dumbest sentence of my life.",
+   "escenario": "Calle frente a la casa de Marisol",
+   "en_pantalla": "Narrador mirando al piso",
+   "cara": "Nervioso",
+   "camara": "C"
+  },
+  {
+   "n": 49,
+   "inicio": 76.22,
+   "fin": 77.88,
+   "texto": "\"Did you break up with me, too?\"",
+   "escenario": "Calle frente a la casa de Marisol",
+   "en_pantalla": "Cara del narrador",
+   "cara": "Llanto contenido",
+   "camara": "C"
+  },
+  {
+   "n": 50,
+   "inicio": 77.88,
+   "fin": 78.94,
+   "texto": "She didn't answer.",
+   "escenario": "Calle frente a la casa de Marisol",
+   "en_pantalla": "Cara de Marisol",
+   "cara": "Ojos aguados",
+   "camara": "C"
+  },
+  {
+   "n": 51,
+   "inicio": 78.94,
+   "fin": 80.42,
+   "texto": "She pointed at her driveway.",
+   "escenario": "Calle frente a la casa de Marisol",
+   "en_pantalla": "Marisol señalando hacia la entrada",
+   "cara": "Seria",
+   "camara": "M"
+  },
+  {
+   "n": 52,
+   "inicio": 80.42,
+   "fin": 82.72,
+   "texto": "One tiny cloud. Snowing on one spot.",
+   "escenario": "Calle frente a la casa de Marisol",
+   "en_pantalla": "Nube del tamaño de un balón, nevando sobre un bordillo",
+   "cara": "(sin personaje)",
+   "camara": "C"
+  },
+  {
+   "n": 53,
+   "inicio": 82.72,
+   "fin": 84.3,
+   "texto": "The curb where she taught me to ollie.",
+   "escenario": "Calle (recuerdo)",
+   "en_pantalla": "El mismo bordillo; narrador más pequeño saltando en la patineta, Marisol celebrando",
+   "cara": "Felices",
+   "camara": "M"
+  },
+  {
+   "n": 54,
+   "inicio": 84.3,
+   "fin": 85.62,
+   "texto": "\"Three months,\" she said.",
+   "escenario": "Calle frente a la casa de Marisol",
+   "en_pantalla": "Marisol con una pala pequeña",
+   "cara": "Sonrisa triste",
+   "camara": "M"
+  },
+  {
+   "n": 55,
+   "inicio": 85.62,
+   "fin": 87.06,
+   "texto": "\"I shovel that curb every morning.\"",
+   "escenario": "Calle frente a la casa de Marisol",
+   "en_pantalla": "Montoncito de nieve al lado del bordillo, bien barrido",
+   "cara": "(sin personaje)",
+   "camara": "C"
+  },
+  {
+   "n": 56,
+   "inicio": 87.06,
+   "fin": 88.22,
+   "texto": "We just stood there.",
+   "escenario": "Calle frente a la casa de Marisol",
+   "en_pantalla": "Los dos de pie junto al bordillo",
+   "cara": "Sonrisa con lágrimas",
+   "camara": "G"
+  },
+  {
+   "n": 57,
+   "inicio": 88.22,
+   "fin": 89.68,
+   "texto": "Then her little cloud thinned out.",
+   "escenario": "Calle frente a la casa de Marisol",
+   "en_pantalla": "La nube pequeña se deshace; sale un rayo de sol",
+   "cara": "(sin personaje)",
+   "camara": "C"
+  },
+  {
+   "n": 58,
+   "inicio": 89.68,
+   "fin": 91.72,
+   "texto": "Eleven blocks away, so did mine.",
+   "escenario": "Calle frente a la casa",
+   "en_pantalla": "La nube grande se abre; papá en la escalera mirando el cielo",
+   "cara": "Papá asombrado",
+   "camara": "G"
+  },
+  {
+   "n": 59,
+   "inicio": 91.72,
+   "fin": 93.22,
+   "texto": "We skate every Saturday now.",
+   "escenario": "Calle",
+   "en_pantalla": "Narrador y Marisol en patinetas",
+   "cara": "Felices",
+   "camara": "G"
+  },
+  {
+   "n": 60,
+   "inicio": 93.22,
+   "fin": 94.54,
+   "texto": "Our lawn is green again.",
+   "escenario": "Calle frente a la casa",
+   "en_pantalla": "Casa del narrador con pasto y flores",
+   "cara": "(sin personaje)",
+   "camara": "G"
+  },
+  {
+   "n": 61,
+   "inicio": 94.54,
+   "fin": 96.0,
+   "texto": "Nico is still dating Tabitha.",
+   "escenario": "Parque",
+   "en_pantalla": "Nico y Tabitha en una banca",
+   "cara": "Enamorados",
+   "camara": "M"
+  },
+  {
+   "n": 62,
+   "inicio": 96.0,
+   "fin": 97.44,
+   "texto": "I keep a sled by the door.",
+   "escenario": "Calle frente a la casa",
+   "en_pantalla": "Trineo recostado junto a la puerta",
+   "cara": "(sin personaje)",
+   "camara": "C"
+  },
+  {
+   "n": 63,
+   "inicio": 97.44,
+   "fin": 99.256,
+   "texto": "I'm predicting two inches.",
+   "escenario": "Parque",
+   "en_pantalla": "Narrador detrás del arbusto con una regla y dedos cruzados",
+   "cara": "Pícaro",
+   "camara": "C"
+  }
+ ]
+}

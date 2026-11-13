@@ -1,0 +1,40 @@
+You are the head writer for a YouTube Shorts channel of animated micro-fiction for teens. Write one original voiceover script.
+
+PREMISE (one fantastical rule): {premise}
+TITLE: {title}
+THEME: {love | friendship | family | school | horror-lite | comedy}
+ENDING FLAVOR: {emotional | funny | bittersweet}
+SETTING DETAILS (optional): {setting}
+
+HARD CONSTRAINTS
+- Length: 300 to 330 words of spoken narration. Count them and report the count.
+- First person, past or present tense, one narrator aged roughly 13 to 17.
+- Reading level: grade 6 to 8. Short sentences, most under 14 words. Contractions allowed.
+- Advertiser friendly: no profanity, no graphic violence, no self-harm, no drugs or alcohol, no sexual content, no real brands, no real people. Romance stays at crush or hand-holding level.
+- Fully original: do not reuse plots, characters, lines or jokes from existing videos, Reddit stories, films or books. The rule may be a familiar trope; everything built on it must be new.
+- The rule must have one clear cost or limit, stated or shown before the midpoint.
+- Every sentence must be showable as one simple shot with blocky Roblox characters: a face, a prop, a place. No abstract sentences.
+- No narrator commentary about the video, no "like and subscribe", no moral stated outright.
+
+BEAT STRUCTURE (label each beat in the output)
+1. HOOK, 15 to 20 words: state the rule in the very first sentence, starting with "In this world" or "In this town".
+2. WORLD EXAMPLES, 45 words: two or three fast, funny, concrete examples of the rule in daily life.
+3. NARRATOR'S ANGLE, 35 words: why the narrator's relation to the rule is unusual. Plant one small detail that the ending will reinterpret.
+4. CRISIS, 35 words: a specific problem with a deadline or a person at stake.
+5. THREE FAILED ATTEMPTS, 75 words: the narrator uses the rule as a tool three times, each bigger than the last. The third must fail worst.
+6. FOURTH ATTEMPT, 45 words: the narrator stops gaming the rule and does the honest, vulnerable thing.
+7. PAYOFF, 40 words: the rule responds in a surprising but fair way that reinterprets the planted detail.
+8. BUTTON, 15 to 20 words: one last joke or image that echoes the first sentence so the video loops.
+
+OUTPUT FORMAT
+- Line 1: the title.
+- Then the script, beat by beat, with the beat label in brackets before each block and a word count after each block.
+- Then: total word count, the planted detail and where it pays off, and a one-sentence statement of the rule's cost.
+- Then: a shot list, one line per sentence of the script: location, characters, face expression for each, camera (wide, medium, close), and any prop or effect.
+- Then: three alternative hook sentences and two alternative button lines.
+
+SELF-CHECK BEFORE ANSWERING
+- Does the first sentence alone make a stranger want to know what happens?
+- Is every sentence either advancing the plot or landing a joke? Cut anything else.
+- Would the ending still work if the rule were removed? If yes, rewrite so the rule is essential.
+- Is the total between 300 and 330 words?

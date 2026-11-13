@@ -1,0 +1,616 @@
+{
+ "video": "002-your-heartbeat-plays-as-music",
+ "duracion": 101.345,
+ "planos": [
+  {
+   "n": 1,
+   "inicio": 0.0,
+   "fin": 2.56,
+   "texto": "In this world, your heartbeat...",
+   "escenario": "Pueblo de día",
+   "en_pantalla": "Personaje de frente; notas de colores salen de su pecho",
+   "cara": "Feliz",
+   "camara": "M"
+  },
+  {
+   "n": 2,
+   "inicio": 2.56,
+   "fin": 4.0,
+   "texto": "and everybody near you can hear it.",
+   "escenario": "Pueblo de día",
+   "en_pantalla": "Calle llena; cada peatón con notas de distinto color",
+   "cara": "Neutras",
+   "camara": "G"
+  },
+  {
+   "n": 3,
+   "inicio": 4.0,
+   "fin": 5.46,
+   "texto": "My dad's heart plays banjo.",
+   "escenario": "Sala",
+   "en_pantalla": "Papá en el sofá; notas cafés y un banjo pequeño flotando sobre el pecho",
+   "cara": "Tranquilo",
+   "camara": "M"
+  },
+  {
+   "n": 4,
+   "inicio": 5.46,
+   "fin": 8.6,
+   "texto": "When the electric bill comes...",
+   "escenario": "Sala",
+   "en_pantalla": "Papá con un recibo en la mano; las notas salen a toda velocidad",
+   "cara": "Susto",
+   "camara": "C"
+  },
+  {
+   "n": 5,
+   "inicio": 8.6,
+   "fin": 10.06,
+   "texto": "My mom's heart plays trumpet.",
+   "escenario": "Cocina",
+   "en_pantalla": "Mamá; notas doradas y trompeta flotando",
+   "cara": "Seria",
+   "camara": "M"
+  },
+  {
+   "n": 6,
+   "inicio": 10.06,
+   "fin": 11.92,
+   "texto": "You can hear her getting mad...",
+   "escenario": "Calle frente a la casa",
+   "en_pantalla": "Narrador en la entrada; notas doradas gigantes salen por la ventana",
+   "cara": "Incómodo",
+   "camara": "G"
+  },
+  {
+   "n": 7,
+   "inicio": 11.92,
+   "fin": 14.06,
+   "texto": "Our neighbor Mr. Lutz says...",
+   "escenario": "Calle frente a la casa",
+   "en_pantalla": "Señor Lutz con los brazos cruzados",
+   "cara": "Sonrisa forzada",
+   "camara": "M"
+  },
+  {
+   "n": 8,
+   "inicio": 14.06,
+   "fin": 15.8,
+   "texto": "His heart plays one long car alarm.",
+   "escenario": "Calle frente a la casa",
+   "en_pantalla": "Pecho del señor Lutz con luz roja intermitente; un carro al lado",
+   "cara": "Sonrisa forzada, sudor",
+   "camara": "C"
+  },
+  {
+   "n": 9,
+   "inicio": 15.8,
+   "fin": 16.96,
+   "texto": "And it never turns off.",
+   "escenario": "Cuarto de noche",
+   "en_pantalla": "Pareja dormida; las notas siguen saliendo",
+   "cara": "Dormidos",
+   "camara": "M"
+  },
+  {
+   "n": 10,
+   "inicio": 16.96,
+   "fin": 19.46,
+   "texto": "This town has not been quiet...",
+   "escenario": "Pueblo de noche",
+   "en_pantalla": "Todo el pueblo cubierto de notas de colores",
+   "cara": "(sin personaje)",
+   "camara": "G"
+  },
+  {
+   "n": 11,
+   "inicio": 19.46,
+   "fin": 20.16,
+   "texto": "Except me.",
+   "escenario": "Pueblo de día",
+   "en_pantalla": "Narrador solo, sin ninguna nota",
+   "cara": "Neutro",
+   "camara": "M"
+  },
+  {
+   "n": 12,
+   "inicio": 20.16,
+   "fin": 21.24,
+   "texto": "My heart beats fine.",
+   "escenario": "Consultorio (sala redecorada)",
+   "en_pantalla": "Doctor con estetoscopio en el pecho del narrador",
+   "cara": "Doctor concentrado",
+   "camara": "M"
+  },
+  {
+   "n": 13,
+   "inicio": 21.24,
+   "fin": 22.34,
+   "texto": "It just doesn't play.",
+   "escenario": "Consultorio",
+   "en_pantalla": "Pecho del narrador, vacío de notas",
+   "cara": "(sin personaje)",
+   "camara": "C"
+  },
+  {
+   "n": 14,
+   "inicio": 22.34,
+   "fin": 23.6,
+   "texto": "The doctor listened for forty minutes...",
+   "escenario": "Consultorio",
+   "en_pantalla": "Reloj de pared; doctor con ojeras",
+   "cara": "Doctor agotado",
+   "camara": "M"
+  },
+  {
+   "n": 15,
+   "inicio": 23.6,
+   "fin": 25.04,
+   "texto": "and wrote \"weird\" on my chart.",
+   "escenario": "Consultorio",
+   "en_pantalla": "Tabla con la palabra WEIRD",
+   "cara": "(sin personaje)",
+   "camara": "C"
+  },
+  {
+   "n": 16,
+   "inicio": 25.04,
+   "fin": 26.62,
+   "texto": "Kids at school call me Mute Button.",
+   "escenario": "Colegio, pasillo",
+   "en_pantalla": "Tres niños señalan; narrador con un botón de silencio pegado en la espalda",
+   "cara": "Burlones, narrador resignado",
+   "camara": "M"
+  },
+  {
+   "n": 17,
+   "inicio": 26.62,
+   "fin": 28.48,
+   "texto": "My only fan is our cat...",
+   "escenario": "Cuarto",
+   "en_pantalla": "Gato naranja con gorrito de coronel",
+   "cara": "(sin personaje)",
+   "camara": "C"
+  },
+  {
+   "n": 18,
+   "inicio": 28.48,
+   "fin": 30.62,
+   "texto": "He sleeps on my chest every night.",
+   "escenario": "Cuarto de noche",
+   "en_pantalla": "Narrador acostado; gato enroscado en su pecho",
+   "cara": "Dormido",
+   "camara": "M"
+  },
+  {
+   "n": 19,
+   "inicio": 30.62,
+   "fin": 31.78,
+   "texto": "I figured it was the hoodie.",
+   "escenario": "Cuarto de noche",
+   "en_pantalla": "Saco con capucha, el gato amasándolo",
+   "cara": "(sin personaje)",
+   "camara": "C"
+  },
+  {
+   "n": 20,
+   "inicio": 31.78,
+   "fin": 33.54,
+   "texto": "Then my baby sister Pim was born.",
+   "escenario": "Sala",
+   "en_pantalla": "Cuna con la bebé",
+   "cara": "Bebé feliz",
+   "camara": "M"
+  },
+  {
+   "n": 21,
+   "inicio": 33.54,
+   "fin": 36.1,
+   "texto": "Her heart plays a tiny xylophone...",
+   "escenario": "Sala",
+   "en_pantalla": "Notas arcoíris diminutas saliendo rapidísimo de la cuna",
+   "cara": "Bebé con ojos muy abiertos",
+   "camara": "C"
+  },
+  {
+   "n": 22,
+   "inicio": 36.1,
+   "fin": 37.72,
+   "texto": "She has not slept in nine days.",
+   "escenario": "Sala",
+   "en_pantalla": "Calendario con nueve días tachados; bebé llorando",
+   "cara": "Llanto",
+   "camara": "M"
+  },
+  {
+   "n": 23,
+   "inicio": 37.72,
+   "fin": 38.64,
+   "texto": "Nobody has.",
+   "escenario": "Sala",
+   "en_pantalla": "Familia entera con ojeras",
+   "cara": "Agotados",
+   "camara": "G"
+  },
+  {
+   "n": 24,
+   "inicio": 38.64,
+   "fin": 39.78,
+   "texto": "Mom put salt in her coffee.",
+   "escenario": "Cocina",
+   "en_pantalla": "Mamá echa sal de un salero en la taza",
+   "cara": "Zombi",
+   "camara": "C"
+  },
+  {
+   "n": 25,
+   "inicio": 39.78,
+   "fin": 41.38,
+   "texto": "Dad said goodnight to the pantry.",
+   "escenario": "Cocina, despensa",
+   "en_pantalla": "Papá en pijama se despide con la mano de una repisa de latas",
+   "cara": "Zombi",
+   "camara": "M"
+  },
+  {
+   "n": 26,
+   "inicio": 41.38,
+   "fin": 43.02,
+   "texto": "And Grandma arrives Friday.",
+   "escenario": "Cocina",
+   "en_pantalla": "Calendario con el viernes en un círculo rojo",
+   "cara": "Narrador con susto",
+   "camara": "C"
+  },
+  {
+   "n": 27,
+   "inicio": 43.02,
+   "fin": 44.48,
+   "texto": "Her heart plays bagpipes.",
+   "escenario": "Calle",
+   "en_pantalla": "Abuela con maleta; gaita flotando, notas verdes enormes",
+   "cara": "Abuela feliz",
+   "camara": "M"
+  },
+  {
+   "n": 28,
+   "inicio": 44.48,
+   "fin": 46.52,
+   "texto": "Babies are supposed to fall asleep...",
+   "escenario": "Sala",
+   "en_pantalla": "Bebé dormido en brazos de una mamá extra, notas suaves",
+   "cara": "Paz",
+   "camara": "M"
+  },
+  {
+   "n": 29,
+   "inicio": 46.52,
+   "fin": 47.66,
+   "texto": "Banjo failed.",
+   "escenario": "Sala",
+   "en_pantalla": "Papá carga a Pim; ella llora",
+   "cara": "Llanto, papá derrotado",
+   "camara": "M"
+  },
+  {
+   "n": 30,
+   "inicio": 47.66,
+   "fin": 48.7,
+   "texto": "Trumpet really failed.",
+   "escenario": "Sala",
+   "en_pantalla": "Mamá carga a Pim; ella llora más; un cuadro se cae",
+   "cara": "Llanto, mamá derrotada",
+   "camara": "M"
+  },
+  {
+   "n": 31,
+   "inicio": 48.7,
+   "fin": 50.7,
+   "texto": "I had no song, so I faked one.",
+   "escenario": "Cuarto",
+   "en_pantalla": "Narrador con cara de plan",
+   "cara": "Decidido",
+   "camara": "C"
+  },
+  {
+   "n": 32,
+   "inicio": 50.7,
+   "fin": 52.36,
+   "texto": "First, I hid a speaker in my shirt.",
+   "escenario": "Cuarto",
+   "en_pantalla": "Bulto cuadrado bajo la camiseta",
+   "cara": "Pícaro",
+   "camara": "C"
+  },
+  {
+   "n": 33,
+   "inicio": 52.36,
+   "fin": 54.16,
+   "texto": "It played a lullaby for eleven seconds...",
+   "escenario": "Sala",
+   "en_pantalla": "Narrador junto a la cuna; notas azules suaves",
+   "cara": "Esperanzado, bebé calmada",
+   "camara": "M"
+  },
+  {
+   "n": 34,
+   "inicio": 54.16,
+   "fin": 56.16,
+   "texto": "then an ad for discount mattresses.",
+   "escenario": "Sala",
+   "en_pantalla": "Del pecho sale un cartel \"MATTRESS SALE\"",
+   "cara": "Narrador horrorizado",
+   "camara": "C"
+  },
+  {
+   "n": 35,
+   "inicio": 56.16,
+   "fin": 56.96,
+   "texto": "Pim screamed.",
+   "escenario": "Sala",
+   "en_pantalla": "Bebé con la boca abierta",
+   "cara": "Grito",
+   "camara": "C"
+  },
+  {
+   "n": 36,
+   "inicio": 56.96,
+   "fin": 59.22,
+   "texto": "Second, I taped four music boxes...",
+   "escenario": "Cuarto",
+   "en_pantalla": "Cuatro cajitas de música pegadas con cinta al pecho",
+   "cara": "Orgulloso",
+   "camara": "M"
+  },
+  {
+   "n": 37,
+   "inicio": 59.22,
+   "fin": 60.62,
+   "texto": "Four different songs at once.",
+   "escenario": "Sala",
+   "en_pantalla": "Notas de cuatro colores chocando entre sí",
+   "cara": "Narrador mareado",
+   "camara": "C"
+  },
+  {
+   "n": 38,
+   "inicio": 60.62,
+   "fin": 61.54,
+   "texto": "Pim screamed louder.",
+   "escenario": "Sala",
+   "en_pantalla": "Bebé gritando; la cuna vibra",
+   "cara": "Grito",
+   "camara": "C"
+  },
+  {
+   "n": 39,
+   "inicio": 61.54,
+   "fin": 63.78,
+   "texto": "Third, I paid my cousin Bruno six dollars...",
+   "escenario": "Sala",
+   "en_pantalla": "Narrador entrega billetes a Bruno",
+   "cara": "Bruno serio",
+   "camara": "M"
+  },
+  {
+   "n": 40,
+   "inicio": 63.78,
+   "fin": 65.24,
+   "texto": "to hide behind me with a trombone.",
+   "escenario": "Sala",
+   "en_pantalla": "Narrador de frente; detrás asoma el trombón",
+   "cara": "Narrador disimulando",
+   "camara": "M"
+  },
+  {
+   "n": 41,
+   "inicio": 65.24,
+   "fin": 66.76,
+   "texto": "Pim screamed, the cat left...",
+   "escenario": "Sala",
+   "en_pantalla": "Bebé gritando; gato saliendo por la ventana con su maleta",
+   "cara": "Grito",
+   "camara": "G"
+  },
+  {
+   "n": 42,
+   "inicio": 66.76,
+   "fin": 68.42,
+   "texto": "and a neighbor called the fire department.",
+   "escenario": "Calle frente a la casa",
+   "en_pantalla": "Camión de bomberos; señor Lutz señalando la casa",
+   "cara": "Lutz indignado",
+   "camara": "G"
+  },
+  {
+   "n": 43,
+   "inicio": 68.42,
+   "fin": 70.12,
+   "texto": "At three a.m. it was my turn again.",
+   "escenario": "Sala de noche",
+   "en_pantalla": "Reloj 3:00; narrador con ojeras frente a la cuna",
+   "cara": "Agotado",
+   "camara": "M"
+  },
+  {
+   "n": 44,
+   "inicio": 70.12,
+   "fin": 71.86,
+   "texto": "No speaker. No Bruno.",
+   "escenario": "Sala de noche",
+   "en_pantalla": "Parlante y trombón tirados en el piso",
+   "cara": "(sin personaje)",
+   "camara": "C"
+  },
+  {
+   "n": 45,
+   "inicio": 71.86,
+   "fin": 73.3,
+   "texto": "I picked her up and told her the truth.",
+   "escenario": "Sala de noche",
+   "en_pantalla": "Narrador alza a Pim",
+   "cara": "Triste",
+   "camara": "M"
+  },
+  {
+   "n": 46,
+   "inicio": 73.3,
+   "fin": 75.56,
+   "texto": "\"Sorry, Pim. You got the broken one.\"",
+   "escenario": "Sala de noche",
+   "en_pantalla": "Cara del narrador",
+   "cara": "Triste, ojos aguados",
+   "camara": "C"
+  },
+  {
+   "n": 47,
+   "inicio": 75.56,
+   "fin": 76.46,
+   "texto": "\"Nothing plays in here.\"",
+   "escenario": "Sala de noche",
+   "en_pantalla": "Pecho del narrador, sin notas",
+   "cara": "(sin personaje)",
+   "camara": "C"
+  },
+  {
+   "n": 48,
+   "inicio": 76.46,
+   "fin": 77.88,
+   "texto": "I held her against my chest anyway.",
+   "escenario": "Sala de noche",
+   "en_pantalla": "Pim recostada en el pecho del narrador",
+   "cara": "Narrador resignado",
+   "camara": "M"
+  },
+  {
+   "n": 49,
+   "inicio": 77.88,
+   "fin": 79.34,
+   "texto": "The xylophone slowed down.",
+   "escenario": "Sala de noche",
+   "en_pantalla": "Notas arcoíris cada vez más lentas",
+   "cara": "Bebé parpadeando",
+   "camara": "C"
+  },
+  {
+   "n": 50,
+   "inicio": 79.34,
+   "fin": 81.72,
+   "texto": "Then slower. Then soft, like rain...",
+   "escenario": "Sala de noche",
+   "en_pantalla": "Notas cayendo despacio como gotas",
+   "cara": "Bebé con ojos entrecerrados",
+   "camara": "C"
+  },
+  {
+   "n": 51,
+   "inicio": 81.72,
+   "fin": 83.62,
+   "texto": "Four seconds later, she was asleep.",
+   "escenario": "Sala de noche",
+   "en_pantalla": "Pim dormida",
+   "cara": "Dormida",
+   "camara": "C"
+  },
+  {
+   "n": 52,
+   "inicio": 83.62,
+   "fin": 84.44,
+   "texto": "I didn't move.",
+   "escenario": "Sala de noche",
+   "en_pantalla": "Narrador tieso como estatua",
+   "cara": "Ojos muy abiertos",
+   "camara": "M"
+  },
+  {
+   "n": 53,
+   "inicio": 84.44,
+   "fin": 86.06,
+   "texto": "In a house full of banjo and trumpet...",
+   "escenario": "Sala de noche",
+   "en_pantalla": "Casa en corte: notas en todos los cuartos, un círculo vacío alrededor del narrador",
+   "cara": "(plano general)",
+   "camara": "G"
+  },
+  {
+   "n": 54,
+   "inicio": 86.06,
+   "fin": 88.1,
+   "texto": "I was the only quiet place...",
+   "escenario": "Sala de noche",
+   "en_pantalla": "Narrador mirando a Pim",
+   "cara": "Sonrisa con lágrima",
+   "camara": "C"
+  },
+  {
+   "n": 55,
+   "inicio": 88.1,
+   "fin": 90.54,
+   "texto": "Colonel Waffles climbed up...",
+   "escenario": "Sala de noche",
+   "en_pantalla": "Gato se acomoda junto a Pim en el pecho",
+   "cara": "Gato con ojos entrecerrados",
+   "camara": "M"
+  },
+  {
+   "n": 56,
+   "inicio": 90.54,
+   "fin": 91.5,
+   "texto": "He'd known for years.",
+   "escenario": "Sala de noche",
+   "en_pantalla": "Cara del gato",
+   "cara": "Gato satisfecho",
+   "camara": "C"
+  },
+  {
+   "n": 57,
+   "inicio": 91.5,
+   "fin": 93.96,
+   "texto": "Now everybody naps on me. Mom. Dad.",
+   "escenario": "Sala de día",
+   "en_pantalla": "Narrador en el sofá; mamá y papá dormidos en sus hombros",
+   "cara": "Narrador resignado",
+   "camara": "G"
+  },
+  {
+   "n": 58,
+   "inicio": 93.96,
+   "fin": 94.98,
+   "texto": "Bruno, once.",
+   "escenario": "Sala de día",
+   "en_pantalla": "Bruno dormido abrazando el trombón sobre las piernas del narrador",
+   "cara": "Dormido",
+   "camara": "M"
+  },
+  {
+   "n": 59,
+   "inicio": 94.98,
+   "fin": 96.88,
+   "texto": "Grandma's bagpipes are booked for Tuesday.",
+   "escenario": "Sala de día",
+   "en_pantalla": "Agenda con \"GRANDMA, TUE\"; abuela esperando turno con la gaita",
+   "cara": "Abuela impaciente",
+   "camara": "M"
+  },
+  {
+   "n": 60,
+   "inicio": 96.88,
+   "fin": 98.34,
+   "texto": "Kids still call me Mute Button.",
+   "escenario": "Colegio, pasillo",
+   "en_pantalla": "Los mismos tres niños señalando",
+   "cara": "Burlones",
+   "camara": "M"
+  },
+  {
+   "n": 61,
+   "inicio": 98.34,
+   "fin": 101.345,
+   "texto": "Their parents pay me nine dollars an hour...",
+   "escenario": "Calle frente a la casa",
+   "en_pantalla": "Fila de papás con bebés llorando; narrador con un letrero \"QUIET, $9\"",
+   "cara": "Narrador sonrisa pícara",
+   "camara": "G"
+  }
+ ]
+}

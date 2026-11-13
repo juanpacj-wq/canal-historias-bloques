@@ -1,0 +1,57 @@
+VIDEO 007
+Internal name: 007-everyone-can-see-who-you-miss
+Scheduled: día 13 del calendario (videos/CALENDARIO.md), 15:00 Bogota (20:00 UTC)
+
+TITLE (max 45 characters, Title Case, no hashtags, no ALL CAPS)
+In This World, Everyone Can See Who You Miss
+
+ALT TITLE 1 (the object, 1 to 3 words)
+Foggy Barty
+
+ALT TITLE 2 (the rule without the opener)
+Everyone Can See Who You Miss
+
+DESCRIPTION (1 or 2 sentences, then credits, then hashtags)
+In this world, the person you miss walks right next to you as a gray silhouette, and everyone can see it. Mine is shaped like my biggest rival.
+An original work of fiction, written and animated by Almostville.
+#roblox #robloxstory #friendship
+
+HASHTAGS (already in the description; 3 at most; no #shorts needed)
+#roblox #robloxstory #friendship
+
+PINNED COMMENT (needs advanced features; a question the story raises)
+Whose fog would be walking next to you right now?
+
+PLAYLIST
+In This Town: Friendship
+
+SERIES (only if the Shorts series feature is available)
+In This Town, Season 1, Episode 13
+
+COVER FRAME
+Timecode: por definir al montar; es el inicio del plano 12 en tiempos/planos.json
+What is in it: plano 12 de la lista de planos del guion: el narrador molesto y, a su lado, la silueta gris y bajita con gafas redondas. Sin subtítulo encima. Alterno: plano 1 (personaje caminando con una silueta gris transparente al lado).
+
+RELATED VIDEO
+010 In This World, Your Best Friend Is Chosen by Lottery (día 21, lista In This Town: Friendship)
+Ese video sale después (día 21). Mientras tanto pon el del día anterior y cámbialo cuando salga.
+Pega aquí la URL cuando exista. Cuando haya un video largo de esta familia, reemplázalo por ese.
+
+AUDIENCE: No, it's not made for kids
+VIDEO LANGUAGE: English (United States)
+CATEGORY: Film & Animation (la predeterminada del canal según docs/07, sección 2.5; la otra opción allí es Entertainment)
+ALTERED CONTENT: No
+Nota (docs/07, sección 3.3): animación de ficción claramente irreal y guion asistido no se declaran. Con voz propia la respuesta es No sin duda. Con voz sintética genérica también es No, pero por interpretación: la ayuda de YouTube no menciona voces sintéticas (sin verificar con texto literal). Nunca una voz clonada de otra persona ni música generada con IA.
+
+CHECK BEFORE PUBLISHING
+[ ] Copyright check finished with no claims
+[ ] Title has no hashtag and no word in ALL CAPS
+[ ] First spoken sentence is the rule and matches the title
+[ ] Cover frame chosen in the mobile app
+[ ] Added to playlist; related video set
+
+PARA EL CANAL EN ESPAÑOL
+Título:
+TODOS VEN A QUIÉN EXTRAÑAS
+Descripción:
+En este mundo la silueta de la persona que extrañas camina a tu lado y todos la ven; la mía tiene la forma de mi peor rival.

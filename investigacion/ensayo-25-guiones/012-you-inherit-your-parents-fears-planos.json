@@ -1,0 +1,606 @@
+{
+ "video": "012-you-inherit-your-parents-fears",
+ "duracion": 96.122,
+ "planos": [
+  {
+   "n": 1,
+   "inicio": 0.0,
+   "fin": 2.22,
+   "texto": "In this world, on your thirteenth birthday,",
+   "escenario": "Sala",
+   "en_pantalla": "Torta con el número 13; un niño y su papá",
+   "cara": "Feliz, nervioso",
+   "camara": "M"
+  },
+  {
+   "n": 2,
+   "inicio": 2.22,
+   "fin": 3.94,
+   "texto": "you inherit your dad's biggest fear,",
+   "escenario": "Sala",
+   "en_pantalla": "Nubecita gris sale del pecho del papá y entra en el niño",
+   "cara": "Susto",
+   "camara": "M"
+  },
+  {
+   "n": 3,
+   "inicio": 3.94,
+   "fin": 5.26,
+   "texto": "and he loses it forever.",
+   "escenario": "Sala",
+   "en_pantalla": "El papá se estira aliviado, brazos arriba",
+   "cara": "Alivio",
+   "camara": "C"
+  },
+  {
+   "n": 4,
+   "inicio": 5.26,
+   "fin": 7.08,
+   "texto": "It hits at midnight like a cold hiccup.",
+   "escenario": "Cuarto de noche",
+   "en_pantalla": "Niño en la cama da un brinco; reloj en 12:00; aliento azul",
+   "cara": "Sorpresa",
+   "camara": "M"
+  },
+  {
+   "n": 5,
+   "inicio": 7.08,
+   "fin": 9.26,
+   "texto": "My friend Odette got her dad's fear of moths.",
+   "escenario": "Cuarto",
+   "en_pantalla": "Odette escondida bajo la cobija; una polilla en la lámpara",
+   "cara": "Pánico",
+   "camara": "M"
+  },
+  {
+   "n": 6,
+   "inicio": 9.26,
+   "fin": 11.22,
+   "texto": "Now he keeps forty of them in the garage.",
+   "escenario": "Garaje",
+   "en_pantalla": "Papá de Odette rodeado de polillas",
+   "cara": "Encantado",
+   "camara": "G"
+  },
+  {
+   "n": 7,
+   "inicio": 11.22,
+   "fin": 12.24,
+   "texto": "He named them all.",
+   "escenario": "Garaje",
+   "en_pantalla": "Polilla con un letrerito: \"PATRICIA\"",
+   "cara": "(sin personaje)",
+   "camara": "C"
+  },
+  {
+   "n": 8,
+   "inicio": 12.24,
+   "fin": 13.92,
+   "texto": "Mr. Park passed down his fear of heights",
+   "escenario": "Pueblo",
+   "en_pantalla": "Mr. Park mirando al cielo con las manos en la cintura",
+   "cara": "Emocionado",
+   "camara": "M"
+  },
+  {
+   "n": 9,
+   "inicio": 13.92,
+   "fin": 15.88,
+   "texto": "and bought a hot air balloon by breakfast.",
+   "escenario": "Pueblo",
+   "en_pantalla": "Globo aerostático sobre las casas; Mr. Park saluda con un café",
+   "cara": "Feliz",
+   "camara": "G"
+  },
+  {
+   "n": 10,
+   "inicio": 15.88,
+   "fin": 17.46,
+   "texto": "His son can't use the top bunk.",
+   "escenario": "Cuarto",
+   "en_pantalla": "Hijo abrazado a la escalera del camarote, a un peldaño del piso",
+   "cara": "Pánico",
+   "camara": "M"
+  },
+  {
+   "n": 11,
+   "inicio": 17.46,
+   "fin": 18.72,
+   "texto": "And you can't give it back.",
+   "escenario": "Cuarto",
+   "en_pantalla": "El hijo empuja la nubecita gris; la nube regresa",
+   "cara": "Derrotado",
+   "camara": "C"
+  },
+  {
+   "n": 12,
+   "inicio": 18.72,
+   "fin": 19.74,
+   "texto": "I wasn't worried.",
+   "escenario": "Cuarto",
+   "en_pantalla": "Narrador recostado con las manos detrás de la cabeza",
+   "cara": "Confiado",
+   "camara": "M"
+  },
+  {
+   "n": 13,
+   "inicio": 19.74,
+   "fin": 21.12,
+   "texto": "My dad is a firefighter.",
+   "escenario": "Estación de bomberos",
+   "en_pantalla": "Papá con casco y uniforme frente al camión",
+   "cara": "Seguro",
+   "camara": "M"
+  },
+  {
+   "n": 14,
+   "inicio": 21.12,
+   "fin": 23.68,
+   "texto": "He once carried a full-grown pony...",
+   "escenario": "Bosque",
+   "en_pantalla": "Papá sale de un granero con humo cargando un poni",
+   "cara": "Serio; el poni tranquilo",
+   "camara": "G"
+  },
+  {
+   "n": 15,
+   "inicio": 23.68,
+   "fin": 25.5,
+   "texto": "He catches wasps with his bare hand.",
+   "escenario": "Patio",
+   "en_pantalla": "Mano cerrada con una avispa zumbando adentro",
+   "cara": "Tranquilo",
+   "camara": "C"
+  },
+  {
+   "n": 16,
+   "inicio": 25.5,
+   "fin": 27.2,
+   "texto": "The only weird thing about Dad is a text.",
+   "escenario": "Colegio, pasillo",
+   "en_pantalla": "Celular vibrando en la mano del narrador",
+   "cara": "Neutro",
+   "camara": "C"
+  },
+  {
+   "n": 17,
+   "inicio": 27.2,
+   "fin": 30.14,
+   "texto": "Every day at 3:15, he sends me one word.",
+   "escenario": "Colegio, pasillo",
+   "en_pantalla": "Reloj del pasillo en 3:15",
+   "cara": "(sin personaje)",
+   "camara": "C"
+  },
+  {
+   "n": 18,
+   "inicio": 30.14,
+   "fin": 30.68,
+   "texto": "\"Home?\"",
+   "escenario": "Pantalla de celular",
+   "en_pantalla": "Burbuja de mensaje: HOME?",
+   "cara": "(sin personaje)",
+   "camara": "C"
+  },
+  {
+   "n": 19,
+   "inicio": 30.68,
+   "fin": 31.78,
+   "texto": "I always answer \"yep.\"",
+   "escenario": "Pantalla de celular",
+   "en_pantalla": "Burbuja de respuesta: YEP",
+   "cara": "Narrador aburrido",
+   "camara": "C"
+  },
+  {
+   "n": 20,
+   "inicio": 31.78,
+   "fin": 33.18,
+   "texto": "Midnight. Cold hiccup.",
+   "escenario": "Cuarto de noche",
+   "en_pantalla": "Reloj en 12:00; narrador con hipo azul",
+   "cara": "Sorpresa",
+   "camara": "C"
+  },
+  {
+   "n": 21,
+   "inicio": 33.18,
+   "fin": 34.1,
+   "texto": "I felt nothing.",
+   "escenario": "Cuarto de noche",
+   "en_pantalla": "Narrador se palpa el pecho y se encoge de hombros",
+   "cara": "Confundido",
+   "camara": "M"
+  },
+  {
+   "n": 22,
+   "inicio": 34.1,
+   "fin": 36.1,
+   "texto": "Then Dad grabbed his helmet for the night shift,",
+   "escenario": "Sala de noche",
+   "en_pantalla": "Papá tomando el casco de un gancho junto a la puerta",
+   "cara": "Tranquilo",
+   "camara": "M"
+  },
+  {
+   "n": 23,
+   "inicio": 36.1,
+   "fin": 37.46,
+   "texto": "and my knees turned to pudding.",
+   "escenario": "Sala de noche",
+   "en_pantalla": "Rodillas del narrador doblándose",
+   "cara": "Pánico",
+   "camara": "C"
+  },
+  {
+   "n": 24,
+   "inicio": 37.46,
+   "fin": 39.06,
+   "texto": "His biggest fear was never fire.",
+   "escenario": "Estación de bomberos",
+   "en_pantalla": "Papá frente al camión, tranquilo; humo lejano",
+   "cara": "Sereno",
+   "camara": "M"
+  },
+  {
+   "n": 25,
+   "inicio": 39.06,
+   "fin": 41.46,
+   "texto": "It was something happening to the person he loves most.",
+   "escenario": "Cuarto de noche (recuerdo)",
+   "en_pantalla": "Papá en el marco de la puerta mirando a un bebé dormir",
+   "cara": "Preocupado",
+   "camara": "M"
+  },
+  {
+   "n": 26,
+   "inicio": 41.46,
+   "fin": 42.42,
+   "texto": "Now it was mine.",
+   "escenario": "Sala de noche",
+   "en_pantalla": "Nubecita gris sobre la cabeza del narrador",
+   "cara": "Susto",
+   "camara": "C"
+  },
+  {
+   "n": 27,
+   "inicio": 42.42,
+   "fin": 44.66,
+   "texto": "And the person I love most rides a fire truck.",
+   "escenario": "Calle de noche",
+   "en_pantalla": "Camión de bomberos alejándose con las luces encendidas",
+   "cara": "Narrador en la ventana, pánico",
+   "camara": "G"
+  },
+  {
+   "n": 28,
+   "inicio": 44.66,
+   "fin": 46.22,
+   "texto": "So I tried to keep him safe.",
+   "escenario": "Cuarto",
+   "en_pantalla": "Narrador con casco de bicicleta y lista en la mano",
+   "cara": "Decidido",
+   "camara": "M"
+  },
+  {
+   "n": 29,
+   "inicio": 46.22,
+   "fin": 48.98,
+   "texto": "I texted him \"home?\" forty-six times...",
+   "escenario": "Pantalla de celular",
+   "en_pantalla": "Columna interminable de burbujas HOME?",
+   "cara": "(sin personaje)",
+   "camara": "C"
+  },
+  {
+   "n": 30,
+   "inicio": 48.98,
+   "fin": 50.54,
+   "texto": "He wrote back, \"At work, bud.\"",
+   "escenario": "Estación de bomberos",
+   "en_pantalla": "Papá con el celular, manguera en la otra mano",
+   "cara": "Paciencia",
+   "camara": "M"
+  },
+  {
+   "n": 31,
+   "inicio": 50.54,
+   "fin": 51.42,
+   "texto": "Not helpful.",
+   "escenario": "Cuarto",
+   "en_pantalla": "Narrador mirando el celular",
+   "cara": "Angustia",
+   "camara": "C"
+  },
+  {
+   "n": 32,
+   "inicio": 51.42,
+   "fin": 53.06,
+   "texto": "I hid his car keys in the freezer.",
+   "escenario": "Cocina",
+   "en_pantalla": "Llaves dentro del congelador, junto a unas paletas",
+   "cara": "Pícaro",
+   "camara": "C"
+  },
+  {
+   "n": 33,
+   "inicio": 53.06,
+   "fin": 54.72,
+   "texto": "He jogged to the station. Four miles.",
+   "escenario": "Calle",
+   "en_pantalla": "Papá trotando con casco, saludando a los vecinos",
+   "cara": "Feliz",
+   "camara": "G"
+  },
+  {
+   "n": 34,
+   "inicio": 54.72,
+   "fin": 57.08,
+   "texto": "Then I chased the fire truck on my bike,",
+   "escenario": "Calle",
+   "en_pantalla": "Narrador pedaleando detrás del camión",
+   "cara": "Desesperado",
+   "camara": "G"
+  },
+  {
+   "n": 35,
+   "inicio": 57.08,
+   "fin": 58.12,
+   "texto": "wearing a snorkel.",
+   "escenario": "Calle",
+   "en_pantalla": "Narrador con careta y esnórquel",
+   "cara": "Decidido",
+   "camara": "C"
+  },
+  {
+   "n": 36,
+   "inicio": 58.12,
+   "fin": 59.8,
+   "texto": "The emergency was a cat in a tree.",
+   "escenario": "Parque",
+   "en_pantalla": "Gato naranja en una rama alta; bomberos abajo",
+   "cara": "Gato aburrido",
+   "camara": "G"
+  },
+  {
+   "n": 37,
+   "inicio": 59.8,
+   "fin": 60.88,
+   "texto": "I climbed up to help.",
+   "escenario": "Parque",
+   "en_pantalla": "Narrador trepando el árbol con esnórquel",
+   "cara": "Valiente",
+   "camara": "M"
+  },
+  {
+   "n": 38,
+   "inicio": 60.88,
+   "fin": 61.78,
+   "texto": "I got stuck.",
+   "escenario": "Parque",
+   "en_pantalla": "Narrador abrazado al tronco, junto al gato",
+   "cara": "Pánico",
+   "camara": "C"
+  },
+  {
+   "n": 39,
+   "inicio": 61.78,
+   "fin": 62.94,
+   "texto": "Dad had to rescue me.",
+   "escenario": "Parque",
+   "en_pantalla": "Escalera del camión extendida; papá subiendo",
+   "cara": "Paciencia",
+   "camara": "G"
+  },
+  {
+   "n": 40,
+   "inicio": 62.94,
+   "fin": 64.54,
+   "texto": "The cat walked down by itself.",
+   "escenario": "Parque",
+   "en_pantalla": "El gato baja por la escalera caminando",
+   "cara": "Gato indiferente",
+   "camara": "M"
+  },
+  {
+   "n": 41,
+   "inicio": 64.54,
+   "fin": 66.62,
+   "texto": "Halfway down the ladder, over his shoulder,",
+   "escenario": "Parque",
+   "en_pantalla": "Papá bajando con el narrador al hombro, como costal",
+   "cara": "Avergonzado",
+   "camara": "M"
+  },
+  {
+   "n": 42,
+   "inicio": 66.62,
+   "fin": 68.76,
+   "texto": "I said it. \"I'm scared all the time now.",
+   "escenario": "Parque",
+   "en_pantalla": "Cara del narrador sobre el hombro del papá",
+   "cara": "Llanto contenido",
+   "camara": "C"
+  },
+  {
+   "n": 43,
+   "inicio": 68.76,
+   "fin": 69.68,
+   "texto": "Every siren.",
+   "escenario": "Calle de noche",
+   "en_pantalla": "Sirena girando en rojo",
+   "cara": "(sin personaje)",
+   "camara": "C"
+  },
+  {
+   "n": 44,
+   "inicio": 69.68,
+   "fin": 71.48,
+   "texto": "How did you do this for thirteen years?\"",
+   "escenario": "Parque",
+   "en_pantalla": "Narrador y la nuca del papá",
+   "cara": "Llanto",
+   "camara": "C"
+  },
+  {
+   "n": 45,
+   "inicio": 71.48,
+   "fin": 72.82,
+   "texto": "\"Badly,\" Dad said.",
+   "escenario": "Parque",
+   "en_pantalla": "Papá con una sonrisa torcida",
+   "cara": "Sonrisa cansada",
+   "camara": "C"
+  },
+  {
+   "n": 46,
+   "inicio": 72.82,
+   "fin": 74.84,
+   "texto": "\"I texted you every day at 3:15.\"",
+   "escenario": "Estación de bomberos (recuerdo)",
+   "en_pantalla": "Papá mirando el celular con el reloj en 3:15",
+   "cara": "Preocupado",
+   "camara": "M"
+  },
+  {
+   "n": 47,
+   "inicio": 74.84,
+   "fin": 76.12,
+   "texto": "He set me on the grass.",
+   "escenario": "Parque",
+   "en_pantalla": "Papá baja al narrador al pasto",
+   "cara": "Ternura",
+   "camara": "M"
+  },
+  {
+   "n": 48,
+   "inicio": 76.12,
+   "fin": 76.56,
+   "texto": "\"You'd say 'yep.'",
+   "escenario": "Pantalla de celular",
+   "en_pantalla": "Burbuja YEP",
+   "cara": "(sin personaje)",
+   "camara": "C"
+  },
+  {
+   "n": 49,
+   "inicio": 76.56,
+   "fin": 77.48,
+   "texto": "Best part of my day.\"",
+   "escenario": "Estación de bomberos (recuerdo)",
+   "en_pantalla": "Papá sonriendo al celular, hombros que se relajan",
+   "cara": "Alivio",
+   "camara": "C"
+  },
+  {
+   "n": 50,
+   "inicio": 77.48,
+   "fin": 79.22,
+   "texto": "So now he was free, right?",
+   "escenario": "Parque",
+   "en_pantalla": "Narrador secándose la cara",
+   "cara": "Esperanzado",
+   "camara": "C"
+  },
+  {
+   "n": 51,
+   "inicio": 79.22,
+   "fin": 79.94,
+   "texto": "He laughed.",
+   "escenario": "Parque",
+   "en_pantalla": "Papá riendo",
+   "cara": "Risa",
+   "camara": "C"
+  },
+  {
+   "n": 52,
+   "inicio": 79.94,
+   "fin": 81.58,
+   "texto": "\"It was supposed to leave at midnight.",
+   "escenario": "Sala de noche (recuerdo)",
+   "en_pantalla": "Nubecita gris saliendo del pecho del papá",
+   "cara": "Sorpresa",
+   "camara": "M"
+  },
+  {
+   "n": 53,
+   "inicio": 81.58,
+   "fin": 83.26,
+   "texto": "I checked your room at 12:01.",
+   "escenario": "Cuarto de noche (recuerdo)",
+   "en_pantalla": "Papá asomado a la puerta; reloj en 12:01",
+   "cara": "Preocupado",
+   "camara": "M"
+  },
+  {
+   "n": 54,
+   "inicio": 83.26,
+   "fin": 84.1,
+   "texto": "I think it grew back.\"",
+   "escenario": "Parque",
+   "en_pantalla": "Papá con su propia nubecita gris; narrador con la suya",
+   "cara": "Sonrisas",
+   "camara": "M"
+  },
+  {
+   "n": 55,
+   "inicio": 84.1,
+   "fin": 85.68,
+   "texto": "So now we both have it.",
+   "escenario": "Parque",
+   "en_pantalla": "Abrazo; las dos nubecitas chocan",
+   "cara": "Felices",
+   "camara": "M"
+  },
+  {
+   "n": 56,
+   "inicio": 85.68,
+   "fin": 88.88,
+   "texto": "At 3:15, I text him \"home?\" He texts me \"home?\"",
+   "escenario": "Pantalla de celular",
+   "en_pantalla": "Dos burbujas HOME? cruzadas",
+   "cara": "(sin personaje)",
+   "camara": "C"
+  },
+  {
+   "n": 57,
+   "inicio": 88.88,
+   "fin": 89.68,
+   "texto": "We both say \"yep.\"",
+   "escenario": "Pantalla partida",
+   "en_pantalla": "Narrador en el pasillo y papá en la estación, celulares en mano",
+   "cara": "Alivio",
+   "camara": "M"
+  },
+  {
+   "n": 58,
+   "inicio": 89.68,
+   "fin": 91.9,
+   "texto": "Odette got moths. Honestly? Lucky.",
+   "escenario": "Colegio, pasillo",
+   "en_pantalla": "Odette huyendo de una polilla; narrador la mira con envidia",
+   "cara": "Pánico, envidia",
+   "camara": "M"
+  },
+  {
+   "n": 59,
+   "inicio": 91.9,
+   "fin": 93.48,
+   "texto": "Someday my kid gets this one.",
+   "escenario": "Cuarto",
+   "en_pantalla": "Narrador mirando su nubecita gris",
+   "cara": "Pensativo",
+   "camara": "C"
+  },
+  {
+   "n": 60,
+   "inicio": 93.48,
+   "fin": 96.122,
+   "texto": "Sorry, kid. Answer your texts.",
+   "escenario": "Pantalla de celular",
+   "en_pantalla": "Burbuja HOME? sin responder y tres puntos que aparecen",
+   "cara": "(sin personaje)",
+   "camara": "C"
+  }
+ ]
+}

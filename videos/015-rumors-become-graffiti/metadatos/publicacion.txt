@@ -1,0 +1,58 @@
+VIDEO 015
+Internal name: 015-rumors-become-graffiti
+Scheduled: día 19 del calendario (videos/CALENDARIO.md), 15:00 Bogota (20:00 UTC)
+Notas internas (no van a YouTube):
+Advertencia de guiones/INDICE.md: evita como portada el plano 24 (Soren restregando la pared); la víctima no se muestra humillada.
+
+TITLE (max 45 characters, Title Case, no hashtags, no ALL CAPS)
+In This School, Rumors Become Graffiti
+
+ALT TITLE 1 (the object, 1 to 3 words)
+The Gym Wall
+
+ALT TITLE 2 (the rule without the opener)
+Rumors Paint Themselves on the Walls
+
+DESCRIPTION (1 or 2 sentences, then credits, then hashtags)
+In this school, rumors paint themselves on the walls, and they only come off when somebody says the truth out loud. I started one.
+An original work of fiction, written and animated by Almostville.
+#roblox #robloxstory #school
+
+HASHTAGS (already in the description; 3 at most; no #shorts needed)
+#roblox #robloxstory #school
+
+PINNED COMMENT (needs advanced features; a question the story raises)
+What is the nicest rumor somebody could paint over your locker?
+
+PLAYLIST
+In This Town: School
+
+SERIES (only if the Shorts series feature is available)
+In This Town, Season 1, Episode 19
+
+COVER FRAME
+Timecode: por definir al montar; es el inicio del plano 23 en tiempos/planos.json
+What is in it: plano 23 de la lista de planos del guion: el narrador pequeño, con susto, frente a una letra roja más alta que él en la pared del gimnasio. Sin subtítulo encima. Alterno: plano 3 (la pared con MR. PELLMAN WEARS A WIG en verde).
+
+RELATED VIDEO
+014 In This School, Your Grades Appear on Your Forehead (día 4, lista In This Town: School)
+Pega aquí la URL cuando exista. Cuando haya un video largo de esta familia, reemplázalo por ese.
+
+AUDIENCE: No, it's not made for kids
+VIDEO LANGUAGE: English (United States)
+CATEGORY: Film & Animation (la predeterminada del canal según docs/07, sección 2.5; la otra opción allí es Entertainment)
+ALTERED CONTENT: No
+Nota (docs/07, sección 3.3): animación de ficción claramente irreal y guion asistido no se declaran. Con voz propia la respuesta es No sin duda. Con voz sintética genérica también es No, pero por interpretación: la ayuda de YouTube no menciona voces sintéticas (sin verificar con texto literal). Nunca una voz clonada de otra persona ni música generada con IA.
+
+CHECK BEFORE PUBLISHING
+[ ] Copyright check finished with no claims
+[ ] Title has no hashtag and no word in ALL CAPS
+[ ] First spoken sentence is the rule and matches the title
+[ ] Cover frame chosen in the mobile app
+[ ] Added to playlist; related video set
+
+PARA EL CANAL EN ESPAÑOL
+Título:
+LOS CHISMES SE PINTAN SOLOS
+Descripción:
+En este colegio cada chisme se pinta solo en las paredes y solo se borra cuando alguien dice la verdad en voz alta; yo inventé uno.

@@ -1,0 +1,666 @@
+{
+ "video": "014-grades-on-your-forehead",
+ "duracion": 101.6,
+ "planos": [
+  {
+   "n": 1,
+   "inicio": 0.0,
+   "fin": 2.3,
+   "texto": "In this school, your grade glows...",
+   "escenario": "Colegio, pasillo",
+   "en_pantalla": "Fila de estudiantes, cada uno con una letra brillante en la frente",
+   "cara": "Neutras",
+   "camara": "G"
+  },
+  {
+   "n": 2,
+   "inicio": 2.3,
+   "fin": 3.94,
+   "texto": "no hat in the world can cover it.",
+   "escenario": "Colegio, pasillo",
+   "en_pantalla": "Niño con gorro enorme; la letra F brilla a través de la tela",
+   "cara": "Resignado",
+   "camara": "C"
+  },
+  {
+   "n": 3,
+   "inicio": 3.94,
+   "fin": 5.78,
+   "texto": "Hats, bangs, a ski mask.",
+   "escenario": "Colegio, pasillo",
+   "en_pantalla": "Tres niños en fila: gorra, capul, pasamontañas; las letras se ven igual",
+   "cara": "Incómodos",
+   "camara": "M"
+  },
+  {
+   "n": 4,
+   "inicio": 5.78,
+   "fin": 6.96,
+   "texto": "It shines right through.",
+   "escenario": "Colegio, pasillo",
+   "en_pantalla": "El del pasamontañas, con una D atravesando la lana",
+   "cara": "(tapada)",
+   "camara": "C"
+  },
+  {
+   "n": 5,
+   "inicio": 6.96,
+   "fin": 7.76,
+   "texto": "Devon got one A-plus...",
+   "escenario": "Colegio, cafetería",
+   "en_pantalla": "Devon mirándose en una cuchara, A+ dorada en la frente",
+   "cara": "Enamorado de sí mismo",
+   "camara": "C"
+  },
+  {
+   "n": 6,
+   "inicio": 7.76,
+   "fin": 10.46,
+   "texto": "and walked into a locker...",
+   "escenario": "Colegio, pasillo",
+   "en_pantalla": "Devon estrellado contra un casillero, la cuchara en el aire",
+   "cara": "Ojos en espiral",
+   "camara": "M"
+  },
+  {
+   "n": 7,
+   "inicio": 10.46,
+   "fin": 12.7,
+   "texto": "Our principal still has a faded B-minus...",
+   "escenario": "Colegio, pasillo",
+   "en_pantalla": "Rector de corbata con una B- desteñida",
+   "cara": "Serio",
+   "camara": "M"
+  },
+  {
+   "n": 8,
+   "inicio": 12.7,
+   "fin": 14.28,
+   "texto": "He tells people it's a birthmark.",
+   "escenario": "Colegio, pasillo",
+   "en_pantalla": "El rector se señala la frente",
+   "cara": "Sonrisa nerviosa",
+   "camara": "C"
+  },
+  {
+   "n": 9,
+   "inicio": 14.28,
+   "fin": 14.78,
+   "texto": "Mine is a C.",
+   "escenario": "Colegio, salón",
+   "en_pantalla": "Narrador de frente, C naranja",
+   "cara": "Tranquilo",
+   "camara": "C"
+  },
+  {
+   "n": 10,
+   "inicio": 14.78,
+   "fin": 16.74,
+   "texto": "A big, orange, friendly C.",
+   "escenario": "Colegio, salón",
+   "en_pantalla": "La C sola, brillando y palpitando suave",
+   "cara": "(sin personaje)",
+   "camara": "C"
+  },
+  {
+   "n": 11,
+   "inicio": 16.74,
+   "fin": 18.0,
+   "texto": "Then there's Winnie Okafor.",
+   "escenario": "Colegio, salón",
+   "en_pantalla": "Winnie en su pupitre, de espaldas",
+   "cara": "(de espaldas)",
+   "camara": "M"
+  },
+  {
+   "n": 12,
+   "inicio": 18.0,
+   "fin": 19.34,
+   "texto": "Smartest kid in the building.",
+   "escenario": "Colegio, salón",
+   "en_pantalla": "Winnie con la mano levantada antes que todos",
+   "cara": "Concentrada",
+   "camara": "M"
+  },
+  {
+   "n": 13,
+   "inicio": 19.34,
+   "fin": 20.9,
+   "texto": "She corrects the textbook in pen.",
+   "escenario": "Colegio, salón",
+   "en_pantalla": "Libro abierto con tachones de esfero",
+   "cara": "(sin personaje)",
+   "camara": "C"
+  },
+  {
+   "n": 14,
+   "inicio": 20.9,
+   "fin": 22.36,
+   "texto": "But her forehead doesn't show a letter.",
+   "escenario": "Colegio, salón",
+   "en_pantalla": "Winnie se voltea despacio",
+   "cara": "Seria",
+   "camara": "M"
+  },
+  {
+   "n": 15,
+   "inicio": 22.36,
+   "fin": 23.66,
+   "texto": "It shows a question mark.",
+   "escenario": "Colegio, salón",
+   "en_pantalla": "Signo de pregunta blanco en la frente de Winnie",
+   "cara": "Seria",
+   "camara": "C"
+  },
+  {
+   "n": 16,
+   "inicio": 23.66,
+   "fin": 24.9,
+   "texto": "It has since third grade.",
+   "escenario": "Colegio, salón (recuerdo)",
+   "en_pantalla": "Winnie pequeña con el mismo signo de pregunta",
+   "cara": "Tímida",
+   "camara": "M"
+  },
+  {
+   "n": 17,
+   "inicio": 24.9,
+   "fin": 27.28,
+   "texto": "She also carries an eraser...",
+   "escenario": "Colegio, salón",
+   "en_pantalla": "Borrador rosado gigante sobre el pupitre, junto a un lápiz diminuto",
+   "cara": "(sin personaje)",
+   "camara": "C"
+  },
+  {
+   "n": 18,
+   "inicio": 27.28,
+   "fin": 28.12,
+   "texto": "I never wondered why.",
+   "escenario": "Colegio, salón",
+   "en_pantalla": "Narrador mirando el borrador y encogiendo los hombros",
+   "cara": "Indiferente",
+   "camara": "M"
+  },
+  {
+   "n": 19,
+   "inicio": 28.12,
+   "fin": 30.92,
+   "texto": "Then Mr. Haskell made us science fair partners.",
+   "escenario": "Colegio, salón",
+   "en_pantalla": "Mr. Haskell señala a los dos con una regla",
+   "cara": "Severo",
+   "camara": "M"
+  },
+  {
+   "n": 20,
+   "inicio": 30.92,
+   "fin": 31.88,
+   "texto": "Partners share one grade.",
+   "escenario": "Colegio, salón",
+   "en_pantalla": "Narrador y Winnie lado a lado; una flecha une las dos frentes",
+   "cara": "Feliz, tensa",
+   "camara": "M"
+  },
+  {
+   "n": 21,
+   "inicio": 31.88,
+   "fin": 32.58,
+   "texto": "Due Friday.",
+   "escenario": "Colegio, salón",
+   "en_pantalla": "Calendario de pared con el viernes en un círculo rojo",
+   "cara": "(sin personaje)",
+   "camara": "C"
+  },
+  {
+   "n": 22,
+   "inicio": 32.58,
+   "fin": 34.74,
+   "texto": "One D, and I'd repeat his class...",
+   "escenario": "Colegio, salón",
+   "en_pantalla": "Narrador imaginando una D en su frente",
+   "cara": "Susto",
+   "camara": "C"
+  },
+  {
+   "n": 23,
+   "inicio": 34.74,
+   "fin": 36.76,
+   "texto": "the forty-minute slideshow about gravel.",
+   "escenario": "Colegio, salón",
+   "en_pantalla": "Proyector con foto de piedritas grises; estudiantes dormidos",
+   "cara": "Dormidos",
+   "camara": "G"
+  },
+  {
+   "n": 24,
+   "inicio": 36.76,
+   "fin": 38.42,
+   "texto": "I wasn't worried. I had Winnie.",
+   "escenario": "Colegio, salón",
+   "en_pantalla": "Narrador recostado en la silla, manos tras la cabeza",
+   "cara": "Confiado",
+   "camara": "M"
+  },
+  {
+   "n": 25,
+   "inicio": 38.42,
+   "fin": 40.1,
+   "texto": "Monday, she built a volcano.",
+   "escenario": "Colegio, salón",
+   "en_pantalla": "Volcán de maqueta sobre la mesa; Winnie al lado",
+   "cara": "Concentrada",
+   "camara": "M"
+  },
+  {
+   "n": 26,
+   "inicio": 40.1,
+   "fin": 40.86,
+   "texto": "Real smoke.",
+   "escenario": "Colegio, salón",
+   "en_pantalla": "Humo saliendo del cráter",
+   "cara": "Narrador asombrado",
+   "camara": "C"
+  },
+  {
+   "n": 27,
+   "inicio": 40.86,
+   "fin": 42.6,
+   "texto": "I yelled, \"Done! Hand it in!\"",
+   "escenario": "Colegio, salón",
+   "en_pantalla": "Narrador señalando el escritorio del profesor con los dos brazos",
+   "cara": "Emocionado",
+   "camara": "M"
+  },
+  {
+   "n": 28,
+   "inicio": 42.6,
+   "fin": 43.56,
+   "texto": "She tore it down.",
+   "escenario": "Colegio, salón",
+   "en_pantalla": "Winnie desarmando el volcán en pedazos",
+   "cara": "Frustrada",
+   "camara": "M"
+  },
+  {
+   "n": 29,
+   "inicio": 43.56,
+   "fin": 44.78,
+   "texto": "The lava was \"the wrong orange.\"",
+   "escenario": "Colegio, salón",
+   "en_pantalla": "Dos muestras de naranja casi idénticas",
+   "cara": "Narrador confundido",
+   "camara": "C"
+  },
+  {
+   "n": 30,
+   "inicio": 44.78,
+   "fin": 46.84,
+   "texto": "Wednesday, she built the solar system.",
+   "escenario": "Colegio, salón",
+   "en_pantalla": "Sistema solar colgante con un sol amarillo",
+   "cara": "Concentrada",
+   "camara": "G"
+  },
+  {
+   "n": 31,
+   "inicio": 46.84,
+   "fin": 48.26,
+   "texto": "Eight planets, spinning.",
+   "escenario": "Colegio, salón",
+   "en_pantalla": "Planetas girando",
+   "cara": "Narrador ilusionado",
+   "camara": "C"
+  },
+  {
+   "n": 32,
+   "inicio": 48.26,
+   "fin": 49.64,
+   "texto": "I told her it was perfect.",
+   "escenario": "Colegio, salón",
+   "en_pantalla": "Narrador con los dos pulgares arriba",
+   "cara": "Sonrisa enorme",
+   "camara": "M"
+  },
+  {
+   "n": 33,
+   "inicio": 49.64,
+   "fin": 50.3,
+   "texto": "Wrong word.",
+   "escenario": "Colegio, salón",
+   "en_pantalla": "Winnie se queda tiesa; saca una regla",
+   "cara": "Ojos muy abiertos",
+   "camara": "C"
+  },
+  {
+   "n": 34,
+   "inicio": 50.3,
+   "fin": 52.14,
+   "texto": "She found Neptune two millimeters off.",
+   "escenario": "Colegio, salón",
+   "en_pantalla": "Regla junto a la esfera azul; los planetas ya en una caja",
+   "cara": "Frustrada",
+   "camara": "C"
+  },
+  {
+   "n": 35,
+   "inicio": 52.14,
+   "fin": 54.44,
+   "texto": "Thursday, she built a robot that folds socks.",
+   "escenario": "Colegio, salón",
+   "en_pantalla": "Robot de cubos con brazos y una media",
+   "cara": "Narrador boquiabierto",
+   "camara": "M"
+  },
+  {
+   "n": 36,
+   "inicio": 54.44,
+   "fin": 56.5,
+   "texto": "I grabbed it and ran for Mr. Haskell's room.",
+   "escenario": "Colegio, pasillo",
+   "en_pantalla": "Narrador corriendo con el robot en brazos; Winnie detrás",
+   "cara": "Decidido, pánico",
+   "camara": "G"
+  },
+  {
+   "n": 37,
+   "inicio": 56.5,
+   "fin": 57.68,
+   "texto": "I made it nine steps.",
+   "escenario": "Colegio, pasillo",
+   "en_pantalla": "Narrador en el piso, boca abajo",
+   "cara": "Derrotado",
+   "camara": "M"
+  },
+  {
+   "n": 38,
+   "inicio": 57.68,
+   "fin": 59.18,
+   "texto": "The robot folded my sock.",
+   "escenario": "Colegio, pasillo",
+   "en_pantalla": "El robot doblando la media del narrador",
+   "cara": "(sin personaje)",
+   "camara": "C"
+  },
+  {
+   "n": 39,
+   "inicio": 59.18,
+   "fin": 60.08,
+   "texto": "I was wearing it.",
+   "escenario": "Colegio, pasillo",
+   "en_pantalla": "Pie del narrador con la media doblada en un cuadrito perfecto",
+   "cara": "Narrador resignado",
+   "camara": "C"
+  },
+  {
+   "n": 40,
+   "inicio": 60.08,
+   "fin": 61.64,
+   "texto": "She shoved the robot in her locker.",
+   "escenario": "Colegio, pasillo",
+   "en_pantalla": "Winnie empujando el robot dentro del casillero",
+   "cara": "Angustia",
+   "camara": "M"
+  },
+  {
+   "n": 41,
+   "inicio": 61.64,
+   "fin": 62.88,
+   "texto": "That's when I saw inside.",
+   "escenario": "Colegio, pasillo",
+   "en_pantalla": "Narrador asomado por encima del hombro de Winnie",
+   "cara": "Curioso",
+   "camara": "C"
+  },
+  {
+   "n": 42,
+   "inicio": 62.88,
+   "fin": 64.96,
+   "texto": "Tests. Four hundred and twelve of them.",
+   "escenario": "Colegio, pasillo",
+   "en_pantalla": "Casillero lleno de torres de hojas hasta el techo",
+   "cara": "(sin personaje)",
+   "camara": "C"
+  },
+  {
+   "n": 43,
+   "inicio": 64.96,
+   "fin": 65.92,
+   "texto": "All perfect.",
+   "escenario": "Colegio, pasillo",
+   "en_pantalla": "Una hoja en primer plano, llena y sin un solo tachón",
+   "cara": "(sin personaje)",
+   "camara": "C"
+  },
+  {
+   "n": 44,
+   "inicio": 65.92,
+   "fin": 66.68,
+   "texto": "None turned in.",
+   "escenario": "Colegio, salón",
+   "en_pantalla": "Bandeja de \"entregas\" vacía, con telaraña",
+   "cara": "(sin personaje)",
+   "camara": "C"
+  },
+  {
+   "n": 45,
+   "inicio": 66.68,
+   "fin": 68.6,
+   "texto": "\"If I never hand it in,\" she whispered,",
+   "escenario": "Colegio, pasillo",
+   "en_pantalla": "Winnie abrazando el borrador gigante; su signo de pregunta parpadea",
+   "cara": "Miedo, ojos brillantes",
+   "camara": "C"
+  },
+  {
+   "n": 46,
+   "inicio": 68.6,
+   "fin": 69.26,
+   "texto": "\"it can't be wrong.\"",
+   "escenario": "Colegio, pasillo",
+   "en_pantalla": "Cara de Winnie",
+   "cara": "Miedo",
+   "camara": "C"
+  },
+  {
+   "n": 47,
+   "inicio": 69.26,
+   "fin": 71.02,
+   "texto": "So Friday, I went first.",
+   "escenario": "Colegio, salón",
+   "en_pantalla": "Narrador se pone de pie entre los pupitres y camina al frente",
+   "cara": "Decidido",
+   "camara": "M"
+  },
+  {
+   "n": 48,
+   "inicio": 71.02,
+   "fin": 72.98,
+   "texto": "A potato, two wires, and a light bulb.",
+   "escenario": "Colegio, salón",
+   "en_pantalla": "Papa con dos cables y un bombillo sobre el escritorio",
+   "cara": "(sin personaje)",
+   "camara": "C"
+  },
+  {
+   "n": 49,
+   "inicio": 72.98,
+   "fin": 74.16,
+   "texto": "The bulb did not light.",
+   "escenario": "Colegio, salón",
+   "en_pantalla": "Bombillo apagado; Mr. Haskell mirándolo",
+   "cara": "Sin expresión",
+   "camara": "C"
+  },
+  {
+   "n": 50,
+   "inicio": 74.16,
+   "fin": 75.58,
+   "texto": "My C flickered and dropped to a D.",
+   "escenario": "Colegio, salón",
+   "en_pantalla": "La C parpadea y se vuelve D roja",
+   "cara": "Narrador traga saliva",
+   "camara": "C"
+  },
+  {
+   "n": 51,
+   "inicio": 75.58,
+   "fin": 76.7,
+   "texto": "In front of everybody.",
+   "escenario": "Colegio, salón",
+   "en_pantalla": "Todo el salón mirando",
+   "cara": "Sorprendidos",
+   "camara": "G"
+  },
+  {
+   "n": 52,
+   "inicio": 76.7,
+   "fin": 78.8,
+   "texto": "I pointed at my forehead...",
+   "escenario": "Colegio, salón",
+   "en_pantalla": "Narrador se señala la D y mira a Winnie",
+   "cara": "Sonrisa valiente",
+   "camara": "M"
+  },
+  {
+   "n": 53,
+   "inicio": 78.8,
+   "fin": 81.4,
+   "texto": "\"See? Still here. I even had a sandwich today.\"",
+   "escenario": "Colegio, salón",
+   "en_pantalla": "Narrador saca medio sándwich del bolsillo",
+   "cara": "Sonrisa",
+   "camara": "C"
+  },
+  {
+   "n": 54,
+   "inicio": 81.4,
+   "fin": 82.32,
+   "texto": "Her hands shook.",
+   "escenario": "Colegio, salón",
+   "en_pantalla": "Manos de Winnie temblando sobre el morral",
+   "cara": "(sin cara)",
+   "camara": "C"
+  },
+  {
+   "n": 55,
+   "inicio": 82.32,
+   "fin": 84.7,
+   "texto": "She pulled one page from her bag...",
+   "escenario": "Colegio, salón",
+   "en_pantalla": "Winnie deja una hoja en el escritorio del profesor",
+   "cara": "Aterrada",
+   "camara": "M"
+  },
+  {
+   "n": 56,
+   "inicio": 84.7,
+   "fin": 86.28,
+   "texto": "Her question mark spun like a loading wheel.",
+   "escenario": "Colegio, salón",
+   "en_pantalla": "El signo de pregunta gira en círculo",
+   "cara": "Ojos cerrados",
+   "camara": "C"
+  },
+  {
+   "n": 57,
+   "inicio": 86.28,
+   "fin": 87.44,
+   "texto": "Then it stopped.",
+   "escenario": "Colegio, salón",
+   "en_pantalla": "Frente en blanco un instante",
+   "cara": "Ojos cerrados",
+   "camara": "C"
+  },
+  {
+   "n": 58,
+   "inicio": 87.44,
+   "fin": 88.28,
+   "texto": "B-plus.",
+   "escenario": "Colegio, salón",
+   "en_pantalla": "B+ azul en la frente de Winnie",
+   "cara": "Ojos muy abiertos",
+   "camara": "C"
+  },
+  {
+   "n": 59,
+   "inicio": 88.28,
+   "fin": 89.56,
+   "texto": "She forgot to write her name.",
+   "escenario": "Colegio, salón",
+   "en_pantalla": "La hoja con la línea \"Name:\" vacía",
+   "cara": "(sin personaje)",
+   "camara": "C"
+  },
+  {
+   "n": 60,
+   "inicio": 89.56,
+   "fin": 90.84,
+   "texto": "The whole class gasped.",
+   "escenario": "Colegio, salón",
+   "en_pantalla": "Todo el salón con la boca abierta",
+   "cara": "Asombro",
+   "camara": "G"
+  },
+  {
+   "n": 61,
+   "inicio": 90.84,
+   "fin": 91.9,
+   "texto": "Winnie touched her forehead.",
+   "escenario": "Colegio, salón",
+   "en_pantalla": "Winnie se toca la letra con un dedo",
+   "cara": "Incrédula",
+   "camara": "C"
+  },
+  {
+   "n": 62,
+   "inicio": 91.9,
+   "fin": 93.58,
+   "texto": "Then she laughed so hard she snorted.",
+   "escenario": "Colegio, salón",
+   "en_pantalla": "Winnie doblada de la risa",
+   "cara": "Risa con lágrimas",
+   "camara": "M"
+  },
+  {
+   "n": 63,
+   "inicio": 93.58,
+   "fin": 95.52,
+   "texto": "Averaged with my potato, we both got a C.",
+   "escenario": "Colegio, salón",
+   "en_pantalla": "Narrador y Winnie con una C naranja cada uno; la papa en medio",
+   "cara": "Felices",
+   "camara": "M"
+  },
+  {
+   "n": 64,
+   "inicio": 95.52,
+   "fin": 97.6,
+   "texto": "Winnie checks hers in every spoon she passes.",
+   "escenario": "Colegio, cafetería",
+   "en_pantalla": "Winnie mirándose la C en una cuchara",
+   "cara": "Sonrisa orgullosa",
+   "camara": "C"
+  },
+  {
+   "n": 65,
+   "inicio": 97.6,
+   "fin": 99.48,
+   "texto": "Her giant eraser is my doorstop now.",
+   "escenario": "Cuarto",
+   "en_pantalla": "El borrador rosado sosteniendo la puerta abierta",
+   "cara": "(sin personaje)",
+   "camara": "C"
+  },
+  {
+   "n": 66,
+   "inicio": 99.48,
+   "fin": 101.6,
+   "texto": "And she has never once tried a hat.",
+   "escenario": "Colegio, pasillo",
+   "en_pantalla": "Winnie caminando con la frente en alto junto al niño del gorro",
+   "cara": "Sonrisa",
+   "camara": "M"
+  }
+ ]
+}

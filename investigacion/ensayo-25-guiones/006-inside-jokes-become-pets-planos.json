@@ -1,0 +1,616 @@
+{
+ "video": "006-inside-jokes-become-pets",
+ "duracion": 99.257,
+ "planos": [
+  {
+   "n": 1,
+   "inicio": 0.0,
+   "fin": 2.7,
+   "texto": "In this town, every inside joke...",
+   "escenario": "Parque",
+   "en_pantalla": "Dos amigos riendo; entre ellos aparece un conejo con un \"puf\"",
+   "cara": "Risa",
+   "camara": "M"
+  },
+  {
+   "n": 2,
+   "inicio": 2.7,
+   "fin": 4.72,
+   "texto": "and it lives as long as you both keep laughing.",
+   "escenario": "Pueblo de día",
+   "en_pantalla": "Calle con parejas de amigos, cada una con un animal raro",
+   "cara": "Felices",
+   "camara": "G"
+  },
+  {
+   "n": 3,
+   "inicio": 4.72,
+   "fin": 5.68,
+   "texto": "My parents have a tortoise...",
+   "escenario": "Sala",
+   "en_pantalla": "Papá y mamá en el sofá; tortuga con corbatín de mesero",
+   "cara": "Sonrientes",
+   "camara": "M"
+  },
+  {
+   "n": 4,
+   "inicio": 5.68,
+   "fin": 8.08,
+   "texto": "from a joke about a waiter in 1999.",
+   "escenario": "Sala",
+   "en_pantalla": "Foto vieja de los papás jóvenes en un restaurante",
+   "cara": "(sin personaje)",
+   "camara": "C"
+  },
+  {
+   "n": 5,
+   "inicio": 8.08,
+   "fin": 9.4,
+   "texto": "Nobody remembers the joke.",
+   "escenario": "Sala",
+   "en_pantalla": "Papá y mamá mirándose, encogiéndose de hombros",
+   "cara": "Confundidos",
+   "camara": "M"
+  },
+  {
+   "n": 6,
+   "inicio": 9.4,
+   "fin": 11.24,
+   "texto": "They just point at the tortoise and wheeze.",
+   "escenario": "Sala",
+   "en_pantalla": "Los dos señalan la tortuga, doblados de la risa",
+   "cara": "Risa con lágrimas",
+   "camara": "M"
+  },
+  {
+   "n": 7,
+   "inicio": 11.24,
+   "fin": 13.48,
+   "texto": "The twins next door have fifty-two hamsters.",
+   "escenario": "Calle frente a la casa",
+   "en_pantalla": "Gemelos enterrados en hámsteres hasta el cuello",
+   "cara": "Felices",
+   "camara": "G"
+  },
+  {
+   "n": 8,
+   "inicio": 13.48,
+   "fin": 14.66,
+   "texto": "My principal has zero pets...",
+   "escenario": "Colegio, oficina (salón redecorado)",
+   "en_pantalla": "Rector solo en un escritorio vacío",
+   "cara": "Serio",
+   "camara": "M"
+  },
+  {
+   "n": 9,
+   "inicio": 14.66,
+   "fin": 15.98,
+   "texto": "and a very clean office.",
+   "escenario": "Colegio, oficina",
+   "en_pantalla": "Escritorio brillante con un solo lápiz",
+   "cara": "(sin personaje)",
+   "camara": "C"
+  },
+  {
+   "n": 10,
+   "inicio": 15.98,
+   "fin": 17.5,
+   "texto": "You can't fake it, either.",
+   "escenario": "Parque",
+   "en_pantalla": "Niño riendo exagerado frente a un amigo aburrido",
+   "cara": "Risa forzada",
+   "camara": "M"
+  },
+  {
+   "n": 11,
+   "inicio": 17.5,
+   "fin": 19.04,
+   "texto": "A fake laugh makes them sneeze.",
+   "escenario": "Parque",
+   "en_pantalla": "Un gato estornudando; se le vuela el sombrerito",
+   "cara": "(sin personaje)",
+   "camara": "C"
+  },
+  {
+   "n": 12,
+   "inicio": 19.04,
+   "fin": 21.02,
+   "texto": "And when one of you stops laughing for real...",
+   "escenario": "Parque",
+   "en_pantalla": "Un amigo ríe, el otro mira el celular; perro medio transparente entre los dos",
+   "cara": "Indiferente",
+   "camara": "M"
+  },
+  {
+   "n": 13,
+   "inicio": 21.02,
+   "fin": 23.06,
+   "texto": "the pet goes see-through. Then it's gone.",
+   "escenario": "Parque",
+   "en_pantalla": "El perro se desvanece; queda solo el collar en el pasto",
+   "cara": "(sin personaje)",
+   "camara": "C"
+  },
+  {
+   "n": 14,
+   "inicio": 23.06,
+   "fin": 24.38,
+   "texto": "Me and Ozzie had fourteen.",
+   "escenario": "Cuarto",
+   "en_pantalla": "Narrador y Ozzie rodeados de catorce animales raros",
+   "cara": "Orgullosos",
+   "camara": "G"
+  },
+  {
+   "n": 15,
+   "inicio": 24.38,
+   "fin": 25.68,
+   "texto": "The first one was Soup.",
+   "escenario": "Cuarto",
+   "en_pantalla": "Pato amarillo de frente",
+   "cara": "(sin personaje)",
+   "camara": "C"
+  },
+  {
+   "n": 16,
+   "inicio": 25.68,
+   "fin": 27.3,
+   "texto": "Soup is a duck who wears one sock.",
+   "escenario": "Cuarto",
+   "en_pantalla": "Pata del pato con una media de rayas rojas",
+   "cara": "(sin personaje)",
+   "camara": "C"
+  },
+  {
+   "n": 17,
+   "inicio": 27.3,
+   "fin": 28.88,
+   "texto": "He showed up on the worst day of my life...",
+   "escenario": "Colegio, cafetería (recuerdo)",
+   "en_pantalla": "Narrador con bandeja, caminando",
+   "cara": "Tranquilo",
+   "camara": "M"
+  },
+  {
+   "n": 18,
+   "inicio": 28.88,
+   "fin": 30.08,
+   "texto": "I dropped my lunch tray...",
+   "escenario": "Colegio, cafetería (recuerdo)",
+   "en_pantalla": "Bandeja en el piso, sopa regada; el narrador congelado",
+   "cara": "Horror",
+   "camara": "M"
+  },
+  {
+   "n": 19,
+   "inicio": 30.08,
+   "fin": 31.4,
+   "texto": "in front of the whole cafeteria.",
+   "escenario": "Colegio, cafetería (recuerdo)",
+   "en_pantalla": "Toda la cafetería mirando",
+   "cara": "Boquiabiertos",
+   "camara": "G"
+  },
+  {
+   "n": 20,
+   "inicio": 31.4,
+   "fin": 32.6,
+   "texto": "Ozzie looked at me.",
+   "escenario": "Colegio, cafetería (recuerdo)",
+   "en_pantalla": "Ozzie con su bandeja, mirando al narrador",
+   "cara": "Serio",
+   "camara": "C"
+  },
+  {
+   "n": 21,
+   "inicio": 32.6,
+   "fin": 33.96,
+   "texto": "Then he dropped his on purpose.",
+   "escenario": "Colegio, cafetería (recuerdo)",
+   "en_pantalla": "Ozzie suelta la bandeja; segunda sopa en el piso",
+   "cara": "Ozzie pícaro",
+   "camara": "M"
+  },
+  {
+   "n": 22,
+   "inicio": 33.96,
+   "fin": 35.06,
+   "texto": "Boom. Duck.",
+   "escenario": "Colegio, cafetería (recuerdo)",
+   "en_pantalla": "\"Puf\": un pato con una media aparece entre los dos charcos; los dos ríen",
+   "cara": "Risa",
+   "camara": "M"
+  },
+  {
+   "n": 23,
+   "inicio": 35.06,
+   "fin": 37.56,
+   "texto": "Then Ozzie's mom got a job nine hundred miles away.",
+   "escenario": "Calle frente a la casa",
+   "en_pantalla": "Camión de mudanza; letrero de carretera \"900 MI\"",
+   "cara": "Ozzie triste",
+   "camara": "G"
+  },
+  {
+   "n": 24,
+   "inicio": 37.56,
+   "fin": 38.62,
+   "texto": "He moved in August.",
+   "escenario": "Calle frente a la casa",
+   "en_pantalla": "Ozzie se despide desde la ventana del carro; el narrador con Soup en brazos",
+   "cara": "Tristes",
+   "camara": "M"
+  },
+  {
+   "n": 25,
+   "inicio": 38.62,
+   "fin": 40.52,
+   "texto": "By October we were down to six.",
+   "escenario": "Cuarto",
+   "en_pantalla": "Seis animales; ocho camitas vacías",
+   "cara": "Narrador preocupado",
+   "camara": "G"
+  },
+  {
+   "n": 26,
+   "inicio": 40.52,
+   "fin": 41.56,
+   "texto": "The llama went see-through...",
+   "escenario": "Colegio, salón",
+   "en_pantalla": "Llama transparente junto al pupitre del narrador",
+   "cara": "Narrador susto",
+   "camara": "M"
+  },
+  {
+   "n": 27,
+   "inicio": 41.56,
+   "fin": 42.78,
+   "texto": "in the middle of my math test.",
+   "escenario": "Colegio, salón",
+   "en_pantalla": "Examen con una hoja a medio llenar; la llama desaparece",
+   "cara": "Profesora confundida",
+   "camara": "C"
+  },
+  {
+   "n": 28,
+   "inicio": 42.78,
+   "fin": 44.48,
+   "texto": "Turns out jokes don't travel well.",
+   "escenario": "Pueblo de día",
+   "en_pantalla": "Mapa con dos puntos lejanos unidos por una línea punteada",
+   "cara": "(sin personaje)",
+   "camara": "C"
+  },
+  {
+   "n": 29,
+   "inicio": 44.48,
+   "fin": 45.96,
+   "texto": "So I tried to save them.",
+   "escenario": "Cuarto",
+   "en_pantalla": "Narrador frente a los seis animales, con un tablero de plan",
+   "cara": "Decidido",
+   "camara": "M"
+  },
+  {
+   "n": 30,
+   "inicio": 45.96,
+   "fin": 47.28,
+   "texto": "First, video calls.",
+   "escenario": "Cuarto",
+   "en_pantalla": "Computador con Ozzie en la pantalla",
+   "cara": "Felices",
+   "camara": "M"
+  },
+  {
+   "n": 31,
+   "inicio": 47.28,
+   "fin": 48.88,
+   "texto": "We laughed on a two-second delay.",
+   "escenario": "Cuarto",
+   "en_pantalla": "Narrador riendo; en la pantalla Ozzie serio y un reloj de arena",
+   "cara": "Risa, neutro",
+   "camara": "M"
+  },
+  {
+   "n": 32,
+   "inicio": 48.88,
+   "fin": 50.64,
+   "texto": "The hedgehog flickered like bad wifi...",
+   "escenario": "Cuarto",
+   "en_pantalla": "Erizo parpadeando; ícono de señal con una sola barra",
+   "cara": "(sin personaje)",
+   "camara": "C"
+  },
+  {
+   "n": 33,
+   "inicio": 50.64,
+   "fin": 51.32,
+   "texto": "and blinked out.",
+   "escenario": "Cuarto",
+   "en_pantalla": "Lugar vacío; queda una púa",
+   "cara": "Narrador susto",
+   "camara": "C"
+  },
+  {
+   "n": 34,
+   "inicio": 51.32,
+   "fin": 54.14,
+   "texto": "Second, I mailed him forty-one pages...",
+   "escenario": "Calle",
+   "en_pantalla": "Narrador mete un sobre gordísimo en un buzón",
+   "cara": "Esperanzado",
+   "camara": "M"
+  },
+  {
+   "n": 35,
+   "inicio": 54.14,
+   "fin": 55.32,
+   "texto": "It took six days.",
+   "escenario": "Calle",
+   "en_pantalla": "Cartero en bicicleta con el sobre; calendario pasando hojas",
+   "cara": "Cartero cansado",
+   "camara": "G"
+  },
+  {
+   "n": 36,
+   "inicio": 55.32,
+   "fin": 57.08,
+   "texto": "By then the iguana was just a tail.",
+   "escenario": "Cuarto",
+   "en_pantalla": "Una cola verde sola sobre la cama, moviéndose",
+   "cara": "Narrador derrotado",
+   "camara": "C"
+  },
+  {
+   "n": 37,
+   "inicio": 57.08,
+   "fin": 58.7,
+   "texto": "Third, I recorded us laughing...",
+   "escenario": "Cuarto de noche",
+   "en_pantalla": "Parlante con ondas y \"HA HA HA\" flotando",
+   "cara": "Narrador con ojeras",
+   "camara": "M"
+  },
+  {
+   "n": 38,
+   "inicio": 58.7,
+   "fin": 60.34,
+   "texto": "and played it for Soup all night on a loop.",
+   "escenario": "Cuarto de noche",
+   "en_pantalla": "Soup sentado frente al parlante, mirándolo fijo",
+   "cara": "(sin personaje)",
+   "camara": "M"
+  },
+  {
+   "n": 39,
+   "inicio": 60.34,
+   "fin": 61.98,
+   "texto": "Soup sneezed two hundred times.",
+   "escenario": "Cuarto de noche",
+   "en_pantalla": "Soup estornudando; contador \"200\"",
+   "cara": "(sin personaje)",
+   "camara": "C"
+  },
+  {
+   "n": 40,
+   "inicio": 61.98,
+   "fin": 64.02,
+   "texto": "By morning I could see my carpet through him.",
+   "escenario": "Cuarto",
+   "en_pantalla": "Soup transparente; se ve el tapete a través de él",
+   "cara": "Narrador angustia",
+   "camara": "C"
+  },
+  {
+   "n": 41,
+   "inicio": 64.02,
+   "fin": 65.22,
+   "texto": "Soup was the last one.",
+   "escenario": "Cuarto",
+   "en_pantalla": "Trece camitas vacías y Soup en la suya",
+   "cara": "Narrador triste",
+   "camara": "G"
+  },
+  {
+   "n": 42,
+   "inicio": 65.22,
+   "fin": 67.58,
+   "texto": "So I called Ozzie, and I stopped doing bits.",
+   "escenario": "Cuarto de noche",
+   "en_pantalla": "Narrador frente al computador; Ozzie en pantalla",
+   "cara": "Serio",
+   "camara": "M"
+  },
+  {
+   "n": 43,
+   "inicio": 67.58,
+   "fin": 69.62,
+   "texto": "\"I'm not laughing because it's funny anymore.\"",
+   "escenario": "Cuarto de noche",
+   "en_pantalla": "Cara del narrador",
+   "cara": "Triste",
+   "camara": "C"
+  },
+  {
+   "n": 44,
+   "inicio": 69.62,
+   "fin": 71.32,
+   "texto": "\"I'm laughing so they don't disappear.\"",
+   "escenario": "Cuarto de noche",
+   "en_pantalla": "Soup transparente al lado del teclado",
+   "cara": "(sin personaje)",
+   "camara": "C"
+  },
+  {
+   "n": 45,
+   "inicio": 71.32,
+   "fin": 73.297,
+   "texto": "\"If Soup goes, I think we go too.\"",
+   "escenario": "Cuarto de noche",
+   "en_pantalla": "Cara del narrador",
+   "cara": "Llanto contenido",
+   "camara": "C"
+  },
+  {
+   "n": 46,
+   "inicio": 73.297,
+   "fin": 74.86,
+   "texto": "Ozzie was quiet.",
+   "escenario": "Cuarto de noche",
+   "en_pantalla": "Pantalla: Ozzie mirando hacia abajo",
+   "cara": "Triste",
+   "camara": "C"
+  },
+  {
+   "n": 47,
+   "inicio": 74.86,
+   "fin": 76.58,
+   "texto": "\"I've been fake laughing since Halloween.\"",
+   "escenario": "Cuarto de noche",
+   "en_pantalla": "Pantalla: Ozzie; detrás, una calabaza vieja",
+   "cara": "Ozzie avergonzado",
+   "camara": "C"
+  },
+  {
+   "n": 48,
+   "inicio": 76.58,
+   "fin": 78.42,
+   "texto": "Soup quacked once and faded out.",
+   "escenario": "Cuarto de noche",
+   "en_pantalla": "Soup abre el pico y se desvanece",
+   "cara": "(sin personaje)",
+   "camara": "M"
+  },
+  {
+   "n": 49,
+   "inicio": 78.42,
+   "fin": 79.52,
+   "texto": "Only the sock stayed.",
+   "escenario": "Cuarto de noche",
+   "en_pantalla": "La media de rayas sola en el escritorio",
+   "cara": "(sin personaje)",
+   "camara": "C"
+  },
+  {
+   "n": 50,
+   "inicio": 79.52,
+   "fin": 81.56,
+   "texto": "We both cried, on a two-second delay...",
+   "escenario": "Cuarto de noche",
+   "en_pantalla": "Narrador llorando; en pantalla Ozzie todavía serio",
+   "cara": "Llanto, neutro",
+   "camara": "M"
+  },
+  {
+   "n": 51,
+   "inicio": 81.56,
+   "fin": 83.04,
+   "texto": "so we had to take turns.",
+   "escenario": "Cuarto de noche",
+   "en_pantalla": "Ahora Ozzie llora y el narrador espera",
+   "cara": "Neutro, llanto",
+   "camara": "M"
+  },
+  {
+   "n": 52,
+   "inicio": 83.04,
+   "fin": 85.38,
+   "texto": "Ozzie said we sounded like two broken tea kettles.",
+   "escenario": "Cuarto de noche",
+   "en_pantalla": "Dos teteras con caras tristes echando vapor (imaginado)",
+   "cara": "(sin personaje)",
+   "camara": "C"
+  },
+  {
+   "n": 53,
+   "inicio": 85.38,
+   "fin": 86.38,
+   "texto": "And we lost it.",
+   "escenario": "Cuarto de noche",
+   "en_pantalla": "Los dos con la boca abierta de la risa",
+   "cara": "Risa con lágrimas",
+   "camara": "M"
+  },
+  {
+   "n": 54,
+   "inicio": 86.38,
+   "fin": 88.64,
+   "texto": "Real laughing. The can't-breathe kind.",
+   "escenario": "Cuarto de noche",
+   "en_pantalla": "Narrador caído de la silla, pataleando",
+   "cara": "Risa",
+   "camara": "G"
+  },
+  {
+   "n": 55,
+   "inicio": 88.64,
+   "fin": 90.1,
+   "texto": "Something landed on my desk.",
+   "escenario": "Cuarto de noche",
+   "en_pantalla": "\"Puf\" de humo sobre el escritorio",
+   "cara": "Narrador sorpresa",
+   "camara": "C"
+  },
+  {
+   "n": 56,
+   "inicio": 90.1,
+   "fin": 91.3,
+   "texto": "A small, soggy pigeon...",
+   "escenario": "Cuarto de noche",
+   "en_pantalla": "Paloma gris, mojada, con un charquito debajo",
+   "cara": "(sin personaje)",
+   "camara": "C"
+  },
+  {
+   "n": 57,
+   "inicio": 91.3,
+   "fin": 92.98,
+   "texto": "with a face like it had been crying.",
+   "escenario": "Cuarto de noche",
+   "en_pantalla": "Cara de la paloma, ojos aguados",
+   "cara": "(paloma llorosa)",
+   "camara": "C"
+  },
+  {
+   "n": 58,
+   "inicio": 92.98,
+   "fin": 94.38,
+   "texto": "We named him Long Distance.",
+   "escenario": "Cuarto",
+   "en_pantalla": "Paloma con un collar que dice \"LONG DISTANCE\"",
+   "cara": "Narrador y Ozzie (pantalla) sonriendo",
+   "camara": "M"
+  },
+  {
+   "n": 59,
+   "inicio": 94.38,
+   "fin": 95.8,
+   "texto": "He sleeps on Soup's sock.",
+   "escenario": "Cuarto",
+   "en_pantalla": "Paloma dormida sobre la media de rayas",
+   "cara": "(sin personaje)",
+   "camara": "C"
+  },
+  {
+   "n": 60,
+   "inicio": 95.8,
+   "fin": 97.32,
+   "texto": "He only eats when Ozzie calls.",
+   "escenario": "Cuarto",
+   "en_pantalla": "Paloma comiendo junto al computador con Ozzie en pantalla",
+   "cara": "Felices",
+   "camara": "M"
+  },
+  {
+   "n": 61,
+   "inicio": 97.32,
+   "fin": 99.257,
+   "texto": "He is getting extremely fat.",
+   "escenario": "Cuarto",
+   "en_pantalla": "Paloma redonda como un balón, ocupando todo el escritorio",
+   "cara": "Narrador resignado",
+   "camara": "G"
+  }
+ ]
+}

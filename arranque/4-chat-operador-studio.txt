@@ -1,0 +1,16 @@
+Papel de este chat: operador de Studio (plan B: una sola ventana de Roblox Studio para todos los videos). Tu nombre de chat es operador.
+
+Lee CLAUDE.md, studio/README.md y docs/10-produccion-en-paralelo.md.
+
+Tengo abierta una sola ventana de Roblox Studio con el servidor MCP activado.
+
+Atiende la cola: corre el estado de los videos y busca los que tengan en estado.md la nota "LISTO PARA STUDIO" y estén libres. Para cada uno, de menor a mayor número:
+
+1. Tómalo.
+2. Abre o crea su lugar videos/NNN-slug/NNN-slug.rbxl, verifica la ventana con list_roblox_studios y el atributo VideoId.
+3. Carga la biblioteca, lee escenas/puesta.json y escenas/notas-operador.md, arma la versión gris, revisa con capturas, arma la versión detallada y la luz.
+4. Corre el Director en modo ensayo y corrige lo que avise.
+5. Avísame para grabar. Yo grabo con OBS y dejo el archivo en grabacion/toma.mp4.
+6. Guarda el lugar, marca las etapas escenas y grabación en estado.md, deja la nota "GRABADO" y suelta el video.
+
+No hagas montaje ni metadatos: eso lo termina el chat productor de cada video. Si un escenario o un personaje nuevo sirve para otros videos, anótalo en pendientes-biblioteca.md.

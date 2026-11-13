@@ -1,0 +1,58 @@
+VIDEO 002
+Internal name: 002-your-heartbeat-plays-as-music
+Scheduled: día 12 del calendario (videos/CALENDARIO.md), 15:00 Bogota (20:00 UTC)
+Notas internas (no van a YouTube):
+El título principal tiene 53 caracteres y pasa de los 45 que pide la plantilla; se deja el del guion (no pasa de 10 palabras). Si quieres cumplir los 45, usa el título alterno 2.
+
+TITLE (max 45 characters, Title Case, no hashtags, no ALL CAPS)
+In This World, Your Heartbeat Plays Out Loud as Music
+
+ALT TITLE 1 (the object, 1 to 3 words)
+The Quiet Heart
+
+ALT TITLE 2 (the rule without the opener)
+Your Heartbeat Plays Out Loud as Music
+
+DESCRIPTION (1 or 2 sentences, then credits, then hashtags)
+In this world, your heartbeat plays out loud as music and the whole street can hear it. Mine doesn't play anything, and then my baby sister was born.
+An original work of fiction, written and animated by Almostville.
+#roblox #robloxstory #family
+
+HASHTAGS (already in the description; 3 at most; no #shorts needed)
+#roblox #robloxstory #family
+
+PINNED COMMENT (needs advanced features; a question the story raises)
+What instrument would your heart play? Be honest.
+
+PLAYLIST
+In This Town: Family
+
+SERIES (only if the Shorts series feature is available)
+In This Town, Season 1, Episode 12
+
+COVER FRAME
+Timecode: por definir al montar; es el inicio del plano 11 en tiempos/planos.json
+What is in it: plano 11 de la lista de planos del guion: el narrador solo, sin ninguna nota saliendo del pecho; elige el cuadro en que todavía se ven al fondo las notas de colores del pueblo. Sin subtítulo encima. Alterno: plano 1 (personaje de frente con notas de colores saliendo del pecho).
+
+RELATED VIDEO
+017 In This World, Your Backpack Weighs Your Worries (día 3, lista In This Town: Family)
+Pega aquí la URL cuando exista. Cuando haya un video largo de esta familia, reemplázalo por ese.
+
+AUDIENCE: No, it's not made for kids
+VIDEO LANGUAGE: English (United States)
+CATEGORY: Film & Animation (la predeterminada del canal según docs/07, sección 2.5; la otra opción allí es Entertainment)
+ALTERED CONTENT: No
+Nota (docs/07, sección 3.3): animación de ficción claramente irreal y guion asistido no se declaran. Con voz propia la respuesta es No sin duda. Con voz sintética genérica también es No, pero por interpretación: la ayuda de YouTube no menciona voces sintéticas (sin verificar con texto literal). Nunca una voz clonada de otra persona ni música generada con IA.
+
+CHECK BEFORE PUBLISHING
+[ ] Copyright check finished with no claims
+[ ] Title has no hashtag and no word in ALL CAPS
+[ ] First spoken sentence is the rule and matches the title
+[ ] Cover frame chosen in the mobile app
+[ ] Added to playlist; related video set
+
+PARA EL CANAL EN ESPAÑOL
+Título:
+NADIE TIENE UN CORAZÓN CALLADO
+Descripción:
+En este mundo el corazón de cada persona suena como música en voz alta; el mío no suena, y entonces nació mi hermanita.

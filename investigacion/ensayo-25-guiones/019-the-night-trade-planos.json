@@ -1,0 +1,756 @@
+{
+ "video": "019-the-night-trade",
+ "duracion": 123.257,
+ "planos": [
+  {
+   "n": 1,
+   "inicio": 0.0,
+   "fin": 2.98,
+   "texto": "In this town, something takes one thing from your house...",
+   "escenario": "Calle de noche",
+   "en_pantalla": "Fila de casas oscuras; una puerta de despensa entreabierta en una ventana",
+   "cara": "(sin personaje)",
+   "camara": "G"
+  },
+  {
+   "n": 2,
+   "inicio": 2.98,
+   "fin": 4.8,
+   "texto": "and leaves one thing you lost years ago.",
+   "escenario": "Cocina de noche",
+   "en_pantalla": "Mesa de cocina con un osito viejo y polvoriento que no estaba",
+   "cara": "(sin personaje)",
+   "camara": "C"
+  },
+  {
+   "n": 3,
+   "inicio": 4.8,
+   "fin": 5.74,
+   "texto": "It comes at three a.m.",
+   "escenario": "Cocina de noche",
+   "en_pantalla": "Reloj de pared en las 3:00",
+   "cara": "(sin personaje)",
+   "camara": "C"
+  },
+  {
+   "n": 4,
+   "inicio": 5.74,
+   "fin": 6.64,
+   "texto": "You never see it.",
+   "escenario": "Cocina de noche",
+   "en_pantalla": "Puerta de la despensa, rendija negra",
+   "cara": "(sin personaje)",
+   "camara": "M"
+  },
+  {
+   "n": 5,
+   "inicio": 6.64,
+   "fin": 8.88,
+   "texto": "You just hear a drawer slide open, slow.",
+   "escenario": "Cocina de noche",
+   "en_pantalla": "Un cajón abriéndose solo",
+   "cara": "(sin personaje)",
+   "camara": "C"
+  },
+  {
+   "n": 6,
+   "inicio": 8.88,
+   "fin": 9.8,
+   "texto": "It took our TV remote...",
+   "escenario": "Sala",
+   "en_pantalla": "Papá buscando entre los cojines del sofá",
+   "cara": "Desesperado",
+   "camara": "M"
+  },
+  {
+   "n": 7,
+   "inicio": 9.8,
+   "fin": 11.78,
+   "texto": "and left a sock I lost in second grade.",
+   "escenario": "Cocina",
+   "en_pantalla": "Media pequeña de rayas sobre la mesa",
+   "cara": "Narradora confundida",
+   "camara": "C"
+  },
+  {
+   "n": 8,
+   "inicio": 11.78,
+   "fin": 12.96,
+   "texto": "The sock was still wet.",
+   "escenario": "Cocina",
+   "en_pantalla": "Narradora sosteniendo la media con dos dedos; gotea",
+   "cara": "Asco",
+   "camara": "C"
+  },
+  {
+   "n": 9,
+   "inicio": 12.96,
+   "fin": 13.94,
+   "texto": "It took Dad's car keys...",
+   "escenario": "Calle",
+   "en_pantalla": "Papá frente al carro, bolsillos al revés",
+   "cara": "Frustrado",
+   "camara": "M"
+  },
+  {
+   "n": 10,
+   "inicio": 13.94,
+   "fin": 15.68,
+   "texto": "and left his retainer from high school.",
+   "escenario": "Cocina",
+   "en_pantalla": "Retenedor dental sobre un plato",
+   "cara": "Papá horrorizado",
+   "camara": "C"
+  },
+  {
+   "n": 11,
+   "inicio": 15.68,
+   "fin": 16.92,
+   "texto": "The Fitzgeralds lost a couch...",
+   "escenario": "Sala",
+   "en_pantalla": "Sala de los vecinos con un hueco donde iba el sofá; familia de pie",
+   "cara": "Confundidos",
+   "camara": "G"
+  },
+  {
+   "n": 12,
+   "inicio": 16.92,
+   "fin": 18.22,
+   "texto": "and got back a hamster.",
+   "escenario": "Sala",
+   "en_pantalla": "Hámster de bloques en el centro del hueco",
+   "cara": "(sin personaje)",
+   "camara": "C"
+  },
+  {
+   "n": 13,
+   "inicio": 18.22,
+   "fin": 20.1,
+   "texto": "The hamster looked like it had seen things.",
+   "escenario": "Sala",
+   "en_pantalla": "Cara del hámster: ojos enormes, mirada fija",
+   "cara": "Mirada perdida",
+   "camara": "C"
+  },
+  {
+   "n": 14,
+   "inicio": 20.1,
+   "fin": 21.38,
+   "texto": "The trade is always fair.",
+   "escenario": "Cocina",
+   "en_pantalla": "Balanza de cocina equilibrada",
+   "cara": "(sin personaje)",
+   "camara": "C"
+  },
+  {
+   "n": 15,
+   "inicio": 21.38,
+   "fin": 23.2,
+   "texto": "Small for small. Big for big.",
+   "escenario": "Cocina",
+   "en_pantalla": "Una cuchara frente a un botón; detrás, un televisor frente a una bicicleta vieja",
+   "cara": "(sin personaje)",
+   "camara": "M"
+  },
+  {
+   "n": 16,
+   "inicio": 23.2,
+   "fin": 24.4,
+   "texto": "And you don't get to pick.",
+   "escenario": "Cocina de noche",
+   "en_pantalla": "Narradora mirando la despensa cerrada",
+   "cara": "Inquieta",
+   "camara": "M"
+  },
+  {
+   "n": 17,
+   "inicio": 24.4,
+   "fin": 25.7,
+   "texto": "My Nana isn't scared of it.",
+   "escenario": "Cocina",
+   "en_pantalla": "Nana en bata, tarareando",
+   "cara": "Serena",
+   "camara": "M"
+  },
+  {
+   "n": 18,
+   "inicio": 25.7,
+   "fin": 26.74,
+   "texto": "She calls it \"our night guest\"...",
+   "escenario": "Cocina de noche",
+   "en_pantalla": "Nana sirviendo té en una taza de flores",
+   "cara": "Sonrisa dulce",
+   "camara": "C"
+  },
+  {
+   "n": 19,
+   "inicio": 26.74,
+   "fin": 28.32,
+   "texto": "and leaves a cup of tea by the pantry.",
+   "escenario": "Cocina de noche",
+   "en_pantalla": "La taza humeando en el piso, junto a la puerta",
+   "cara": "(sin personaje)",
+   "camara": "C"
+  },
+  {
+   "n": 20,
+   "inicio": 28.32,
+   "fin": 31.42,
+   "texto": "By morning, the tea is gone. The cup never is.",
+   "escenario": "Cocina",
+   "en_pantalla": "Nana recogiendo la taza vacía",
+   "cara": "Tranquila",
+   "camara": "M"
+  },
+  {
+   "n": 21,
+   "inicio": 31.42,
+   "fin": 32.82,
+   "texto": "Nana used to call me Pidge.",
+   "escenario": "Patio (recuerdo)",
+   "en_pantalla": "Nana y la narradora pequeña dándoles migas a unas palomas",
+   "cara": "Risa",
+   "camara": "M"
+  },
+  {
+   "n": 22,
+   "inicio": 32.82,
+   "fin": 34.84,
+   "texto": "Since March, she calls me \"the nice girl.\"",
+   "escenario": "Cocina",
+   "en_pantalla": "Nana mirando a la narradora con cortesía",
+   "cara": "Amable, ausente",
+   "camara": "C"
+  },
+  {
+   "n": 23,
+   "inicio": 34.84,
+   "fin": 36.12,
+   "texto": "She lost my name somewhere...",
+   "escenario": "Cocina",
+   "en_pantalla": "La narradora con la sonrisa a medias",
+   "cara": "Tristeza disimulada",
+   "camara": "C"
+  },
+  {
+   "n": 24,
+   "inicio": 36.12,
+   "fin": 37.28,
+   "texto": "and she can't find it.",
+   "escenario": "Sala",
+   "en_pantalla": "Nana abriendo un cajón vacío y mirándolo",
+   "cara": "Perdida",
+   "camara": "M"
+  },
+  {
+   "n": 25,
+   "inicio": 37.28,
+   "fin": 38.42,
+   "texto": "So I had an idea.",
+   "escenario": "Cuarto",
+   "en_pantalla": "La narradora sentada en la cama, mirando la puerta",
+   "cara": "Pensativa",
+   "camara": "C"
+  },
+  {
+   "n": 26,
+   "inicio": 38.42,
+   "fin": 40.36,
+   "texto": "If our night guest brings back lost things...",
+   "escenario": "Cocina de noche",
+   "en_pantalla": "La despensa; sobre la mesa, la media y el retenedor",
+   "cara": "(sin personaje)",
+   "camara": "M"
+  },
+  {
+   "n": 27,
+   "inicio": 40.36,
+   "fin": 41.64,
+   "texto": "it could bring back that.",
+   "escenario": "Cocina",
+   "en_pantalla": "Nana de espaldas en la ventana",
+   "cara": "(de espaldas)",
+   "camara": "M"
+  },
+  {
+   "n": 28,
+   "inicio": 41.64,
+   "fin": 44.12,
+   "texto": "Dad says by summer, she might lose his name too.",
+   "escenario": "Sala",
+   "en_pantalla": "Papá mirando a Nana desde la puerta",
+   "cara": "Preocupado",
+   "camara": "M"
+  },
+  {
+   "n": 29,
+   "inicio": 44.12,
+   "fin": 46.02,
+   "texto": "I just had to offer something big enough.",
+   "escenario": "Cuarto",
+   "en_pantalla": "La narradora mirando sus cosas: bicicleta, celular, trofeos",
+   "cara": "Decidida",
+   "camara": "G"
+  },
+  {
+   "n": 30,
+   "inicio": 46.02,
+   "fin": 48.06,
+   "texto": "Night one, I left my bike by the pantry.",
+   "escenario": "Cocina de noche",
+   "en_pantalla": "Bicicleta recostada junto a la despensa",
+   "cara": "Esperanzada",
+   "camara": "M"
+  },
+  {
+   "n": 31,
+   "inicio": 48.06,
+   "fin": 49.42,
+   "texto": "In the morning, there was a tricycle...",
+   "escenario": "Cocina",
+   "en_pantalla": "Triciclo rojo pequeño en el mismo lugar",
+   "cara": "Sorpresa",
+   "camara": "M"
+  },
+  {
+   "n": 32,
+   "inicio": 49.42,
+   "fin": 51.5,
+   "texto": "I lost when I was four. Still muddy.",
+   "escenario": "Cocina",
+   "en_pantalla": "Rueda del triciclo con barro fresco; charquito en el piso",
+   "cara": "(sin personaje)",
+   "camara": "C"
+  },
+  {
+   "n": 33,
+   "inicio": 51.5,
+   "fin": 52.74,
+   "texto": "Nana patted my hand.",
+   "escenario": "Cocina",
+   "en_pantalla": "Mano de Nana sobre la mano de la narradora",
+   "cara": "(sin cara)",
+   "camara": "C"
+  },
+  {
+   "n": 34,
+   "inicio": 52.74,
+   "fin": 53.74,
+   "texto": "\"Thank you, nice girl.\"",
+   "escenario": "Cocina",
+   "en_pantalla": "Nana sonriendo",
+   "cara": "Amable, ausente",
+   "camara": "C"
+  },
+  {
+   "n": 35,
+   "inicio": 53.74,
+   "fin": 55.52,
+   "texto": "Night two, I left my phone.",
+   "escenario": "Cocina de noche",
+   "en_pantalla": "Celular en el piso junto a la taza",
+   "cara": "Decidida",
+   "camara": "C"
+  },
+  {
+   "n": 36,
+   "inicio": 55.52,
+   "fin": 58.9,
+   "texto": "I got Nana's reading glasses, missing since 2015.",
+   "escenario": "Cocina",
+   "en_pantalla": "Gafas redondas sobre la mesa",
+   "cara": "(sin personaje)",
+   "camara": "C"
+  },
+  {
+   "n": 37,
+   "inicio": 58.9,
+   "fin": 60.98,
+   "texto": "She put them on and read me the cereal box.",
+   "escenario": "Cocina",
+   "en_pantalla": "Nana con gafas leyendo una caja de cereal",
+   "cara": "Concentrada",
+   "camara": "M"
+  },
+  {
+   "n": 38,
+   "inicio": 60.98,
+   "fin": 61.72,
+   "texto": "Twice.",
+   "escenario": "Cocina",
+   "en_pantalla": "La narradora con la cabeza apoyada en la mano",
+   "cara": "Paciencia triste",
+   "camara": "C"
+  },
+  {
+   "n": 39,
+   "inicio": 61.72,
+   "fin": 63.3,
+   "texto": "Night three, I left everything.",
+   "escenario": "Cocina de noche",
+   "en_pantalla": "Montón de cosas contra la puerta de la despensa",
+   "cara": "Desesperada",
+   "camara": "G"
+  },
+  {
+   "n": 40,
+   "inicio": 63.3,
+   "fin": 67.5,
+   "texto": "My savings jar, two hundred and twelve dollars. My trophies. The TV.",
+   "escenario": "Cocina de noche",
+   "en_pantalla": "Frasco de vidrio lleno de billetes, tres trofeos y el televisor en el piso",
+   "cara": "(sin personaje)",
+   "camara": "M"
+  },
+  {
+   "n": 41,
+   "inicio": 67.5,
+   "fin": 69.26,
+   "texto": "In the morning, the kitchen was full.",
+   "escenario": "Cocina",
+   "en_pantalla": "Cocina repleta de objetos hasta el techo",
+   "cara": "Boquiabierta",
+   "camara": "G"
+  },
+  {
+   "n": 42,
+   "inicio": 69.26,
+   "fin": 70.38,
+   "texto": "Forty-one umbrellas.",
+   "escenario": "Cocina",
+   "en_pantalla": "Montaña de paraguas de colores",
+   "cara": "(sin personaje)",
+   "camara": "M"
+  },
+  {
+   "n": 43,
+   "inicio": 70.38,
+   "fin": 71.66,
+   "texto": "Nine library books.",
+   "escenario": "Cocina",
+   "en_pantalla": "Torre de libros con sello rojo \"LATE\"",
+   "cara": "(sin personaje)",
+   "camara": "C"
+  },
+  {
+   "n": 44,
+   "inicio": 71.66,
+   "fin": 73.44,
+   "texto": "Every mitten our family ever dropped.",
+   "escenario": "Cocina",
+   "en_pantalla": "Guantes de lana colgando de la lámpara y de las sillas",
+   "cara": "(sin personaje)",
+   "camara": "M"
+  },
+  {
+   "n": 45,
+   "inicio": 73.44,
+   "fin": 74.24,
+   "texto": "Nana clapped.",
+   "escenario": "Cocina",
+   "en_pantalla": "Nana aplaudiendo entre los paraguas",
+   "cara": "Encantada",
+   "camara": "M"
+  },
+  {
+   "n": 46,
+   "inicio": 74.24,
+   "fin": 76.24,
+   "texto": "\"What a lovely sale. Do you work here?\"",
+   "escenario": "Cocina",
+   "en_pantalla": "La narradora con un guante en la cabeza",
+   "cara": "Corazón roto",
+   "camara": "C"
+  },
+  {
+   "n": 47,
+   "inicio": 76.24,
+   "fin": 77.82,
+   "texto": "Night four, I left nothing.",
+   "escenario": "Cocina de noche",
+   "en_pantalla": "El piso vacío junto a la despensa; solo la taza de té",
+   "cara": "(sin personaje)",
+   "camara": "M"
+  },
+  {
+   "n": 48,
+   "inicio": 77.82,
+   "fin": 79.88,
+   "texto": "I sat at the kitchen table in the dark and waited.",
+   "escenario": "Cocina de noche",
+   "en_pantalla": "La narradora sola en la mesa, luz azul de la ventana",
+   "cara": "Miedo",
+   "camara": "G"
+  },
+  {
+   "n": 49,
+   "inicio": 79.88,
+   "fin": 80.6,
+   "texto": "2:59.",
+   "escenario": "Cocina de noche",
+   "en_pantalla": "Reloj de pared en 2:59",
+   "cara": "(sin personaje)",
+   "camara": "C"
+  },
+  {
+   "n": 50,
+   "inicio": 80.6,
+   "fin": 81.64,
+   "texto": "The fridge stopped humming.",
+   "escenario": "Cocina de noche",
+   "en_pantalla": "La nevera; se apaga su lucecita",
+   "cara": "(sin personaje)",
+   "camara": "M"
+  },
+  {
+   "n": 51,
+   "inicio": 81.64,
+   "fin": 82.04,
+   "texto": "3:00.",
+   "escenario": "Cocina de noche",
+   "en_pantalla": "Reloj de pared en 3:00",
+   "cara": "(sin personaje)",
+   "camara": "C"
+  },
+  {
+   "n": 52,
+   "inicio": 82.04,
+   "fin": 84.36,
+   "texto": "The pantry door opened by itself, one inch.",
+   "escenario": "Cocina de noche",
+   "en_pantalla": "La puerta se abre una rendija; negro total adentro",
+   "cara": "(sin personaje)",
+   "camara": "C"
+  },
+  {
+   "n": 53,
+   "inicio": 84.36,
+   "fin": 85.08,
+   "texto": "The air went cold.",
+   "escenario": "Cocina de noche",
+   "en_pantalla": "Vaho saliendo de la boca de la narradora",
+   "cara": "Miedo",
+   "camara": "C"
+  },
+  {
+   "n": 54,
+   "inicio": 85.08,
+   "fin": 88.48,
+   "texto": "Something was breathing in there, slow...",
+   "escenario": "Cocina de noche",
+   "en_pantalla": "La rendija; la niebla entra y sale despacio",
+   "cara": "(sin personaje)",
+   "camara": "C"
+  },
+  {
+   "n": 55,
+   "inicio": 88.48,
+   "fin": 89.2,
+   "texto": "I didn't look.",
+   "escenario": "Cocina de noche",
+   "en_pantalla": "La narradora con los ojos apretados, manos sobre la mesa",
+   "cara": "Ojos cerrados",
+   "camara": "C"
+  },
+  {
+   "n": 56,
+   "inicio": 89.2,
+   "fin": 91.2,
+   "texto": "\"I don't have anything left,\" I whispered.",
+   "escenario": "Cocina de noche",
+   "en_pantalla": "Las manos vacías de la narradora, abiertas",
+   "cara": "(sin cara)",
+   "camara": "C"
+  },
+  {
+   "n": 57,
+   "inicio": 91.2,
+   "fin": 93.24,
+   "texto": "\"So take something of mine. Anything.\"",
+   "escenario": "Cocina de noche",
+   "en_pantalla": "La narradora de espaldas a la despensa; la rendija detrás",
+   "cara": "Llanto contenido",
+   "camara": "M"
+  },
+  {
+   "n": 58,
+   "inicio": 93.24,
+   "fin": 94.56,
+   "texto": "\"I won't even ask what.\"",
+   "escenario": "Cocina de noche",
+   "en_pantalla": "La narradora, lágrima azul",
+   "cara": "Llanto",
+   "camara": "C"
+  },
+  {
+   "n": 59,
+   "inicio": 94.56,
+   "fin": 95.68,
+   "texto": "\"Just give her back one morning.\"",
+   "escenario": "Cuarto de noche",
+   "en_pantalla": "Nana dormida en su cama",
+   "cara": "Dormida",
+   "camara": "M"
+  },
+  {
+   "n": 60,
+   "inicio": 95.68,
+   "fin": 96.74,
+   "texto": "The breathing stopped.",
+   "escenario": "Cocina de noche",
+   "en_pantalla": "La niebla quieta en la rendija",
+   "cara": "(sin personaje)",
+   "camara": "C"
+  },
+  {
+   "n": 61,
+   "inicio": 96.74,
+   "fin": 98.8,
+   "texto": "The tea went down, like somebody sipping.",
+   "escenario": "Cocina de noche",
+   "en_pantalla": "El nivel del té baja solo en la taza",
+   "cara": "(sin personaje)",
+   "camara": "C"
+  },
+  {
+   "n": 62,
+   "inicio": 98.8,
+   "fin": 99.9,
+   "texto": "The door clicked shut.",
+   "escenario": "Cocina de noche",
+   "en_pantalla": "La puerta de la despensa cerrada",
+   "cara": "Narradora abre un ojo",
+   "camara": "M"
+  },
+  {
+   "n": 63,
+   "inicio": 99.9,
+   "fin": 102.7,
+   "texto": "In the morning, the table was empty. First time ever.",
+   "escenario": "Cocina",
+   "en_pantalla": "Mesa vacía con sol de la mañana; la narradora mirando debajo",
+   "cara": "Confundida",
+   "camara": "G"
+  },
+  {
+   "n": 64,
+   "inicio": 102.7,
+   "fin": 104.86,
+   "texto": "Nana shuffled in, squinting at the floor.",
+   "escenario": "Cocina",
+   "en_pantalla": "Nana en pantuflas, mirando hacia abajo",
+   "cara": "Ceño fruncido",
+   "camara": "M"
+  },
+  {
+   "n": 65,
+   "inicio": 104.86,
+   "fin": 105.98,
+   "texto": "\"Pidge,\" she said.",
+   "escenario": "Cocina",
+   "en_pantalla": "Nana levanta la cara y la mira directo",
+   "cara": "Presente, viva",
+   "camara": "C"
+  },
+  {
+   "n": 66,
+   "inicio": 105.98,
+   "fin": 107.62,
+   "texto": "\"Why is there a tricycle in my kitchen?\"",
+   "escenario": "Cocina",
+   "en_pantalla": "Nana señalando el triciclo embarrado",
+   "cara": "Regaño cariñoso",
+   "camara": "M"
+  },
+  {
+   "n": 67,
+   "inicio": 107.62,
+   "fin": 108.54,
+   "texto": "I couldn't talk.",
+   "escenario": "Cocina",
+   "en_pantalla": "La narradora con las manos en la boca",
+   "cara": "Llanto feliz",
+   "camara": "C"
+  },
+  {
+   "n": 68,
+   "inicio": 108.54,
+   "fin": 109.74,
+   "texto": "She made pancakes.",
+   "escenario": "Cocina",
+   "en_pantalla": "Torre de panqueques; Nana con la espátula",
+   "cara": "Feliz",
+   "camara": "M"
+  },
+  {
+   "n": 69,
+   "inicio": 109.74,
+   "fin": 111.46,
+   "texto": "She beat me at cards, cheating.",
+   "escenario": "Sala",
+   "en_pantalla": "Nana con una carta escondida en la manga",
+   "cara": "Pícara",
+   "camara": "C"
+  },
+  {
+   "n": 70,
+   "inicio": 111.46,
+   "fin": 113.1,
+   "texto": "By dinner, I was \"the nice girl\" again.",
+   "escenario": "Cocina de noche",
+   "en_pantalla": "Nana sonriéndole con cortesía; la narradora le toma la mano",
+   "cara": "Ausente, sonrisa triste",
+   "camara": "M"
+  },
+  {
+   "n": 71,
+   "inicio": 113.1,
+   "fin": 115.34,
+   "texto": "There's a clean square in the dust on my shelf.",
+   "escenario": "Cuarto",
+   "en_pantalla": "Repisa con polvo y un cuadrado limpio entre dos huecos de trofeos",
+   "cara": "(sin personaje)",
+   "camara": "C"
+  },
+  {
+   "n": 72,
+   "inicio": 115.34,
+   "fin": 116.88,
+   "texto": "I don't know what used to sit there.",
+   "escenario": "Cuarto",
+   "en_pantalla": "La narradora tocando el cuadrado con un dedo",
+   "cara": "Desconcertada",
+   "camara": "C"
+  },
+  {
+   "n": 73,
+   "inicio": 116.88,
+   "fin": 118.42,
+   "texto": "Now I know how Nana feels.",
+   "escenario": "Sala",
+   "en_pantalla": "La narradora sentada junto a Nana, las dos mirando el mismo cajón vacío",
+   "cara": "Ternura",
+   "camara": "M"
+  },
+  {
+   "n": 74,
+   "inicio": 118.42,
+   "fin": 120.08,
+   "texto": "It still takes one thing every night.",
+   "escenario": "Cocina de noche",
+   "en_pantalla": "La puerta de la despensa abierta una rendija; la taza llena al lado",
+   "cara": "(sin personaje)",
+   "camara": "M"
+  },
+  {
+   "n": 75,
+   "inicio": 120.08,
+   "fin": 123.257,
+   "texto": "But last night, for the first time, it washed the cup.",
+   "escenario": "Cocina",
+   "en_pantalla": "La taza de flores limpia, boca abajo sobre un trapo, brillando",
+   "cara": "(sin personaje)",
+   "camara": "C"
+  }
+ ]
+}

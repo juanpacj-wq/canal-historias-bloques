@@ -1,0 +1,646 @@
+{
+ "video": "003-only-three-i-love-yous",
+ "duracion": 102.646,
+ "planos": [
+  {
+   "n": 1,
+   "inicio": 0.0,
+   "fin": 2.04,
+   "texto": "In this world, you can only say...",
+   "escenario": "Parque",
+   "en_pantalla": "Pareja frente a frente; un corazón sale de la boca de uno y una luz de su muñeca se apaga",
+   "cara": "Felices",
+   "camara": "M"
+  },
+  {
+   "n": 2,
+   "inicio": 2.04,
+   "fin": 3.48,
+   "texto": "three times in your whole life.",
+   "escenario": "Parque",
+   "en_pantalla": "Muñeca con tres luces amarillas",
+   "cara": "(sin personaje)",
+   "camara": "C"
+  },
+  {
+   "n": 3,
+   "inicio": 3.48,
+   "fin": 4.46,
+   "texto": "Then never again.",
+   "escenario": "Parque",
+   "en_pantalla": "Muñeca con tres luces grises",
+   "cara": "(sin personaje)",
+   "camara": "C"
+  },
+  {
+   "n": 4,
+   "inicio": 4.46,
+   "fin": 6.56,
+   "texto": "You're born with three little lights...",
+   "escenario": "Sala",
+   "en_pantalla": "Bebé en cuna levantando el brazo; tres luces",
+   "cara": "Bebé feliz",
+   "camara": "M"
+  },
+  {
+   "n": 5,
+   "inicio": 6.56,
+   "fin": 8.6,
+   "texto": "Say the words, and one goes dark.",
+   "escenario": "Sala",
+   "en_pantalla": "Una luz se apaga con un \"clic\"",
+   "cara": "(sin personaje)",
+   "camara": "C"
+  },
+  {
+   "n": 6,
+   "inicio": 8.6,
+   "fin": 10.36,
+   "texto": "My aunt used all three on the same guy.",
+   "escenario": "Parque",
+   "en_pantalla": "Tía con tres corazones flotando hacia un hombre",
+   "cara": "Tía enamorada",
+   "camara": "M"
+  },
+  {
+   "n": 7,
+   "inicio": 10.36,
+   "fin": 11.62,
+   "texto": "He moved to Alaska.",
+   "escenario": "Pueblo nevado",
+   "en_pantalla": "El hombre solo junto a un alce de bloques y un iglú",
+   "cara": "Indiferente",
+   "camara": "G"
+  },
+  {
+   "n": 8,
+   "inicio": 11.62,
+   "fin": 13.88,
+   "texto": "Our neighbor is ninety-one...",
+   "escenario": "Calle frente a la casa",
+   "en_pantalla": "Viejito en mecedora; tres luces encendidas",
+   "cara": "Sereno",
+   "camara": "M"
+  },
+  {
+   "n": 9,
+   "inicio": 13.88,
+   "fin": 15.4,
+   "texto": "He's waiting for the right moment.",
+   "escenario": "Calle frente a la casa",
+   "en_pantalla": "El viejito mira un reloj de bolsillo; telarañas en la mecedora",
+   "cara": "Paciente",
+   "camara": "C"
+  },
+  {
+   "n": 10,
+   "inicio": 15.4,
+   "fin": 16.56,
+   "texto": "My dad has zero.",
+   "escenario": "Cocina",
+   "en_pantalla": "Muñeca del papá, tres luces grises",
+   "cara": "Papá tranquilo",
+   "camara": "C"
+  },
+  {
+   "n": 11,
+   "inicio": 16.56,
+   "fin": 17.96,
+   "texto": "He spent one on my mom.",
+   "escenario": "Parque (recuerdo)",
+   "en_pantalla": "Papá joven y mamá joven; un corazón entre los dos",
+   "cara": "Felices",
+   "camara": "M"
+  },
+  {
+   "n": 12,
+   "inicio": 17.96,
+   "fin": 19.82,
+   "texto": "One on me, the day I was born.",
+   "escenario": "Sala (recuerdo)",
+   "en_pantalla": "Papá carga a un bebé envuelto; la segunda luz se apaga",
+   "cara": "Papá con lágrima feliz",
+   "camara": "M"
+  },
+  {
+   "n": 13,
+   "inicio": 19.82,
+   "fin": 22.34,
+   "texto": "And one on a chili dog in 1996.",
+   "escenario": "Cancha, puesto de comida",
+   "en_pantalla": "Papá adolescente mirando un perro caliente; corazón flotando hacia el pan",
+   "cara": "Enamorado",
+   "camara": "C"
+  },
+  {
+   "n": 14,
+   "inicio": 22.34,
+   "fin": 23.46,
+   "texto": "He regrets nothing.",
+   "escenario": "Cocina",
+   "en_pantalla": "Papá de brazos cruzados",
+   "cara": "Orgulloso",
+   "camara": "C"
+  },
+  {
+   "n": 15,
+   "inicio": 23.46,
+   "fin": 24.52,
+   "texto": "I have one left.",
+   "escenario": "Cuarto",
+   "en_pantalla": "Muñeca del narrador: una luz encendida, dos apagadas",
+   "cara": "Narrador preocupado",
+   "camara": "C"
+  },
+  {
+   "n": 16,
+   "inicio": 24.52,
+   "fin": 26.96,
+   "texto": "I lost my first at age four, to a balloon.",
+   "escenario": "Parque (recuerdo)",
+   "en_pantalla": "Niño de cuatro años abrazando un globo rojo; corazón flotando",
+   "cara": "Feliz",
+   "camara": "M"
+  },
+  {
+   "n": 17,
+   "inicio": 26.96,
+   "fin": 29.02,
+   "texto": "I lost my second hanging up...",
+   "escenario": "Cuarto",
+   "en_pantalla": "Narrador con el teléfono en la oreja",
+   "cara": "Distraído",
+   "camara": "M"
+  },
+  {
+   "n": 18,
+   "inicio": 29.02,
+   "fin": 30.7,
+   "texto": "\"Okay, love you, bye.\"",
+   "escenario": "Cuarto",
+   "en_pantalla": "Narrador se congela; la segunda luz se apaga",
+   "cara": "Horror",
+   "camara": "C"
+  },
+  {
+   "n": 19,
+   "inicio": 30.7,
+   "fin": 31.96,
+   "texto": "He said, \"Thanks?\"",
+   "escenario": "Calle",
+   "en_pantalla": "Repartidor con caja de pizza y teléfono",
+   "cara": "Confundido",
+   "camara": "M"
+  },
+  {
+   "n": 20,
+   "inicio": 31.96,
+   "fin": 33.76,
+   "texto": "Dad can't say it at all anymore.",
+   "escenario": "Cocina",
+   "en_pantalla": "Papá sirve el desayuno; muñeca gris a la vista",
+   "cara": "Neutro",
+   "camara": "M"
+  },
+  {
+   "n": 21,
+   "inicio": 33.76,
+   "fin": 35.28,
+   "texto": "Every morning he just asks...",
+   "escenario": "Cocina",
+   "en_pantalla": "Papá señala hacia abajo",
+   "cara": "Serio",
+   "camara": "M"
+  },
+  {
+   "n": 22,
+   "inicio": 35.28,
+   "fin": 36.44,
+   "texto": "\"Got your shoes tied?\"",
+   "escenario": "Cocina",
+   "en_pantalla": "Tenis del narrador, cordones amarrados",
+   "cara": "(sin personaje)",
+   "camara": "C"
+  },
+  {
+   "n": 23,
+   "inicio": 36.44,
+   "fin": 37.38,
+   "texto": "I'm fourteen.",
+   "escenario": "Cocina",
+   "en_pantalla": "Narrador con los ojos en blanco",
+   "cara": "Fastidio",
+   "camara": "C"
+  },
+  {
+   "n": 24,
+   "inicio": 37.38,
+   "fin": 39.36,
+   "texto": "Then Dad got a job on a research boat.",
+   "escenario": "Cocina",
+   "en_pantalla": "Papá con gorra de marinero y un folleto con un barco",
+   "cara": "Papá ilusionado",
+   "camara": "M"
+  },
+  {
+   "n": 25,
+   "inicio": 39.36,
+   "fin": 40.54,
+   "texto": "Eleven months at sea.",
+   "escenario": "Mar (plano de agua)",
+   "en_pantalla": "Barco pequeño en un mar enorme",
+   "cara": "(sin personaje)",
+   "camara": "G"
+  },
+  {
+   "n": 26,
+   "inicio": 40.54,
+   "fin": 42.76,
+   "texto": "He was leaving Friday on the six a.m. bus.",
+   "escenario": "Cocina",
+   "en_pantalla": "Calendario con el viernes marcado y \"6 AM\"",
+   "cara": "(sin personaje)",
+   "camara": "C"
+  },
+  {
+   "n": 27,
+   "inicio": 42.76,
+   "fin": 43.92,
+   "texto": "I wanted him to know.",
+   "escenario": "Cuarto",
+   "en_pantalla": "Narrador mirando su única luz",
+   "cara": "Triste",
+   "camara": "C"
+  },
+  {
+   "n": 28,
+   "inicio": 43.92,
+   "fin": 46.54,
+   "texto": "But everybody says to save your last one...",
+   "escenario": "Sala",
+   "en_pantalla": "Mamá, tía y vecino señalando una foto de boda",
+   "cara": "Sermoneando",
+   "camara": "M"
+  },
+  {
+   "n": 29,
+   "inicio": 46.54,
+   "fin": 48.0,
+   "texto": "So I looked for a loophole.",
+   "escenario": "Cuarto",
+   "en_pantalla": "Narrador con una lupa sobre su muñeca",
+   "cara": "Decidido",
+   "camara": "C"
+  },
+  {
+   "n": 30,
+   "inicio": 48.0,
+   "fin": 49.68,
+   "texto": "First, I wrote it on a card.",
+   "escenario": "Cuarto",
+   "en_pantalla": "Narrador escribe en una tarjeta con un corazón",
+   "cara": "Esperanzado",
+   "camara": "M"
+  },
+  {
+   "n": 31,
+   "inicio": 49.68,
+   "fin": 50.9,
+   "texto": "The ink slid right off the paper",
+   "escenario": "Cuarto",
+   "en_pantalla": "Las letras resbalan de la tarjeta",
+   "cara": "Narrador boquiabierto",
+   "camara": "C"
+  },
+  {
+   "n": 32,
+   "inicio": 50.9,
+   "fin": 52.56,
+   "texto": "and made a puddle on my desk.",
+   "escenario": "Cuarto",
+   "en_pantalla": "Charco negro de tinta en el escritorio",
+   "cara": "(sin personaje)",
+   "camara": "C"
+  },
+  {
+   "n": 33,
+   "inicio": 52.56,
+   "fin": 54.34,
+   "texto": "Second, I tried it in French.",
+   "escenario": "Cocina",
+   "en_pantalla": "Narrador con boina frente al papá",
+   "cara": "Confiado",
+   "camara": "M"
+  },
+  {
+   "n": 34,
+   "inicio": 54.34,
+   "fin": 55.54,
+   "texto": "My mouth honked like a goose.",
+   "escenario": "Cocina",
+   "en_pantalla": "De la boca del narrador sale un ganso de bloques; papá da un salto",
+   "cara": "Narrador horror, papá susto",
+   "camara": "M"
+  },
+  {
+   "n": 35,
+   "inicio": 55.54,
+   "fin": 58.44,
+   "texto": "Third, I rented a parrot named Mr. Biscuit...",
+   "escenario": "Calle",
+   "en_pantalla": "Narrador entrega billetes a un vecino; loro verde con corbatín en el hombro",
+   "cara": "Loro serio",
+   "camara": "M"
+  },
+  {
+   "n": 36,
+   "inicio": 58.44,
+   "fin": 59.9,
+   "texto": "and taught him the words.",
+   "escenario": "Cuarto",
+   "en_pantalla": "Narrador con tablero y puntero; loro en un pupitre diminuto",
+   "cara": "Narrador profesor",
+   "camara": "M"
+  },
+  {
+   "n": 37,
+   "inicio": 59.9,
+   "fin": 61.18,
+   "texto": "He said them perfectly.",
+   "escenario": "Sala",
+   "en_pantalla": "Loro con el pico abierto; corazón saliendo",
+   "cara": "Loro inspirado",
+   "camara": "C"
+  },
+  {
+   "n": 38,
+   "inicio": 61.18,
+   "fin": 62.0,
+   "texto": "To my dad.",
+   "escenario": "Sala",
+   "en_pantalla": "El corazón aterriza en el papá, que mira al loro",
+   "cara": "Papá conmovido",
+   "camara": "M"
+  },
+  {
+   "n": 39,
+   "inicio": 62.0,
+   "fin": 64.06,
+   "texto": "One of the tiny lights on his leg went out.",
+   "escenario": "Sala",
+   "en_pantalla": "Pata del loro: tres luces, una se apaga",
+   "cara": "(sin personaje)",
+   "camara": "C"
+  },
+  {
+   "n": 40,
+   "inicio": 64.06,
+   "fin": 66.12,
+   "texto": "Now Mr. Biscuit was in love with my father...",
+   "escenario": "Sala",
+   "en_pantalla": "Loro acurrucado en la cabeza del papá",
+   "cara": "Loro enamorado, papá incómodo",
+   "camara": "M"
+  },
+  {
+   "n": 41,
+   "inicio": 66.12,
+   "fin": 67.58,
+   "texto": "and I was out twelve dollars.",
+   "escenario": "Sala",
+   "en_pantalla": "Narrador con la billetera abierta y vacía",
+   "cara": "Derrotado",
+   "camara": "C"
+  },
+  {
+   "n": 42,
+   "inicio": 67.58,
+   "fin": 68.72,
+   "texto": "Friday, six a.m.",
+   "escenario": "Calle de madrugada",
+   "en_pantalla": "Paradero; cielo casi oscuro; reloj 6:00",
+   "cara": "(sin personaje)",
+   "camara": "G"
+  },
+  {
+   "n": 43,
+   "inicio": 68.72,
+   "fin": 69.9,
+   "texto": "The bus doors opened.",
+   "escenario": "Calle de madrugada",
+   "en_pantalla": "Puertas del bus abriéndose",
+   "cara": "(sin personaje)",
+   "camara": "M"
+  },
+  {
+   "n": 44,
+   "inicio": 69.9,
+   "fin": 71.14,
+   "texto": "Dad picked up his bag.",
+   "escenario": "Calle de madrugada",
+   "en_pantalla": "Papá levanta una maleta",
+   "cara": "Papá triste",
+   "camara": "M"
+  },
+  {
+   "n": 45,
+   "inicio": 71.14,
+   "fin": 72.86,
+   "texto": "And I stopped caring about my wedding.",
+   "escenario": "Calle de madrugada",
+   "en_pantalla": "Cara del narrador; la foto de boda imaginada se desvanece",
+   "cara": "Decidido, ojos aguados",
+   "camara": "C"
+  },
+  {
+   "n": 46,
+   "inicio": 72.86,
+   "fin": 74.38,
+   "texto": "I grabbed his sleeve and said it.",
+   "escenario": "Calle de madrugada",
+   "en_pantalla": "Mano del narrador agarra la manga del papá",
+   "cara": "Llanto contenido",
+   "camara": "C"
+  },
+  {
+   "n": 47,
+   "inicio": 74.38,
+   "fin": 75.42,
+   "texto": "All three words.",
+   "escenario": "Calle de madrugada",
+   "en_pantalla": "Corazón grande sale del narrador hacia el papá",
+   "cara": "Narrador llorando",
+   "camara": "M"
+  },
+  {
+   "n": 48,
+   "inicio": 75.42,
+   "fin": 76.8,
+   "texto": "My last light went dark.",
+   "escenario": "Calle de madrugada",
+   "en_pantalla": "Muñeca del narrador: la última luz se apaga",
+   "cara": "(sin personaje)",
+   "camara": "C"
+  },
+  {
+   "n": 49,
+   "inicio": 76.8,
+   "fin": 78.92,
+   "texto": "Dad opened his mouth. Nothing came out.",
+   "escenario": "Calle de madrugada",
+   "en_pantalla": "Papá con la boca abierta, sin corazón",
+   "cara": "Papá angustiado",
+   "camara": "C"
+  },
+  {
+   "n": 50,
+   "inicio": 78.92,
+   "fin": 80.9,
+   "texto": "He's been empty since the day I was born.",
+   "escenario": "Calle de madrugada",
+   "en_pantalla": "Muñeca gris del papá junto a la muñeca gris del narrador",
+   "cara": "(sin personaje)",
+   "camara": "C"
+  },
+  {
+   "n": 51,
+   "inicio": 80.9,
+   "fin": 81.8,
+   "texto": "His eyes got shiny.",
+   "escenario": "Calle de madrugada",
+   "en_pantalla": "Ojos del papá con brillo",
+   "cara": "Papá conteniendo el llanto",
+   "camara": "C"
+  },
+  {
+   "n": 52,
+   "inicio": 81.8,
+   "fin": 83.42,
+   "texto": "Then he looked down at my sneakers.",
+   "escenario": "Calle de madrugada",
+   "en_pantalla": "Papá baja la mirada",
+   "cara": "Tierno",
+   "camara": "M"
+  },
+  {
+   "n": 53,
+   "inicio": 83.42,
+   "fin": 84.7,
+   "texto": "\"Got your shoes tied?\"",
+   "escenario": "Calle de madrugada",
+   "en_pantalla": "Tenis del narrador; de la boca del papá sale un corazón pequeño",
+   "cara": "(sin personaje)",
+   "camara": "C"
+  },
+  {
+   "n": 54,
+   "inicio": 84.7,
+   "fin": 86.04,
+   "texto": "And I finally heard it.",
+   "escenario": "Calle de madrugada",
+   "en_pantalla": "Narrador con los ojos muy abiertos",
+   "cara": "Golpe de realidad",
+   "camara": "C"
+  },
+  {
+   "n": 55,
+   "inicio": 86.04,
+   "fin": 88.36,
+   "texto": "He'd asked me that every morning...",
+   "escenario": "Cocina (recuerdo)",
+   "en_pantalla": "Cuatro edades del narrador en fila (4, 8, 11, 14); el papá señalando los zapatos en cada una",
+   "cara": "Papá igual en todas",
+   "camara": "G"
+  },
+  {
+   "n": 56,
+   "inicio": 88.36,
+   "fin": 90.12,
+   "texto": "That's about five thousand times.",
+   "escenario": "Cocina (recuerdo)",
+   "en_pantalla": "Lluvia de corazones pequeños llenando la cocina",
+   "cara": "(sin personaje)",
+   "camara": "G"
+  },
+  {
+   "n": 57,
+   "inicio": 90.12,
+   "fin": 91.6,
+   "texto": "\"Double knots,\" I said.",
+   "escenario": "Calle de madrugada",
+   "en_pantalla": "Narrador y papá abrazados; doble nudo en los tenis",
+   "cara": "Sonrisa con lágrimas",
+   "camara": "M"
+  },
+  {
+   "n": 58,
+   "inicio": 91.6,
+   "fin": 92.5,
+   "texto": "The bus left.",
+   "escenario": "Calle de madrugada",
+   "en_pantalla": "Bus alejándose; papá en la ventana",
+   "cara": "Narrador despidiéndose",
+   "camara": "G"
+  },
+  {
+   "n": 59,
+   "inicio": 92.5,
+   "fin": 93.56,
+   "texto": "I'm at zero now.",
+   "escenario": "Cocina",
+   "en_pantalla": "Muñeca del narrador, tres luces grises",
+   "cara": "Sereno",
+   "camara": "C"
+  },
+  {
+   "n": 60,
+   "inicio": 93.56,
+   "fin": 96.3,
+   "texto": "This morning I asked my little sister...",
+   "escenario": "Cocina",
+   "en_pantalla": "Narrador señalando los pies de la hermanita",
+   "cara": "Serio como el papá",
+   "camara": "M"
+  },
+  {
+   "n": 61,
+   "inicio": 96.3,
+   "fin": 97.66,
+   "texto": "She was wearing sandals.",
+   "escenario": "Cocina",
+   "en_pantalla": "Pies de la hermana en sandalias",
+   "cara": "(sin personaje)",
+   "camara": "C"
+  },
+  {
+   "n": 62,
+   "inicio": 97.66,
+   "fin": 99.06,
+   "texto": "She hugged me anyway.",
+   "escenario": "Cocina",
+   "en_pantalla": "La hermanita abraza al narrador",
+   "cara": "Sorpresa, luego sonrisa",
+   "camara": "M"
+  },
+  {
+   "n": 63,
+   "inicio": 99.06,
+   "fin": 100.74,
+   "texto": "Mr. Biscuit still has two left.",
+   "escenario": "Sala",
+   "en_pantalla": "Loro en la ventana; dos luces en la pata",
+   "cara": "Loro melancólico",
+   "camara": "C"
+  },
+  {
+   "n": 64,
+   "inicio": 100.74,
+   "fin": 102.646,
+   "texto": "He's saving them for Dad.",
+   "escenario": "Sala",
+   "en_pantalla": "Loro mirando el mar con una foto del papá con gorra de marinero",
+   "cara": "Loro enamorado",
+   "camara": "M"
+  }
+ ]
+}

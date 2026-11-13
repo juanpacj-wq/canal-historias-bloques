@@ -1,0 +1,786 @@
+{
+ "video": "022-excuses-become-true",
+ "duracion": 105.516,
+ "planos": [
+  {
+   "n": 1,
+   "inicio": 0.0,
+   "fin": 2.0,
+   "texto": "In this world, every excuse you say out loud...",
+   "escenario": "Colegio, salón",
+   "en_pantalla": "Niño habla; nube de \"puf\" sobre su cabeza",
+   "cara": "Nervioso",
+   "camara": "M"
+  },
+  {
+   "n": 2,
+   "inicio": 2.0,
+   "fin": 3.54,
+   "texto": "comes true. Instantly.",
+   "escenario": "Colegio, salón",
+   "en_pantalla": "La nube estalla en estrellitas",
+   "cara": "Susto",
+   "camara": "C"
+  },
+  {
+   "n": 3,
+   "inicio": 3.54,
+   "fin": 5.26,
+   "texto": "Barnaby said his dog ate his homework.",
+   "escenario": "Colegio, salón",
+   "en_pantalla": "Barnaby frente a la profesora, manos vacías",
+   "cara": "Inocente",
+   "camara": "M"
+  },
+  {
+   "n": 4,
+   "inicio": 5.26,
+   "fin": 6.6,
+   "texto": "So his dog ate his homework.",
+   "escenario": "Colegio, salón",
+   "en_pantalla": "Perro enorme mastica una hoja",
+   "cara": "Perro feliz",
+   "camara": "C"
+  },
+  {
+   "n": 5,
+   "inicio": 6.6,
+   "fin": 7.48,
+   "texto": "Then his backpack.",
+   "escenario": "Colegio, salón",
+   "en_pantalla": "Perro con una correa de morral colgando de la boca",
+   "cara": "Barnaby con susto",
+   "camara": "M"
+  },
+  {
+   "n": 6,
+   "inicio": 7.48,
+   "fin": 8.32,
+   "texto": "Then one shoe.",
+   "escenario": "Colegio, salón",
+   "en_pantalla": "Barnaby con un solo zapato",
+   "cara": "Derrotado",
+   "camara": "C"
+  },
+  {
+   "n": 7,
+   "inicio": 8.32,
+   "fin": 9.62,
+   "texto": "My mom said her phone died.",
+   "escenario": "Sala",
+   "en_pantalla": "Mamá con el celular en la mano",
+   "cara": "Fastidio",
+   "camara": "M"
+  },
+  {
+   "n": 8,
+   "inicio": 9.62,
+   "fin": 10.88,
+   "texto": "We held a small funeral.",
+   "escenario": "Patio",
+   "en_pantalla": "Lápida diminuta, celular, una flor",
+   "cara": "Familia solemne",
+   "camara": "M"
+  },
+  {
+   "n": 9,
+   "inicio": 10.88,
+   "fin": 12.44,
+   "texto": "Our bus driver blamed traffic.",
+   "escenario": "Calle de día",
+   "en_pantalla": "Conductor de bus señala hacia afuera",
+   "cara": "Excusa",
+   "camara": "C"
+  },
+  {
+   "n": 10,
+   "inicio": 12.44,
+   "fin": 14.62,
+   "texto": "Now a raccoon directs traffic on Maple Street.",
+   "escenario": "Calle de día",
+   "en_pantalla": "Mapache con chaleco y silbato; carros en fila",
+   "cara": "Mapache serio",
+   "camara": "G"
+  },
+  {
+   "n": 11,
+   "inicio": 14.62,
+   "fin": 15.94,
+   "texto": "And there are no take-backs.",
+   "escenario": "Calle de día",
+   "en_pantalla": "Conductor intenta espantar al mapache; no se va",
+   "cara": "Arrepentido",
+   "camara": "M"
+  },
+  {
+   "n": 12,
+   "inicio": 15.94,
+   "fin": 17.4,
+   "texto": "Whatever you make up, you keep.",
+   "escenario": "Patio",
+   "en_pantalla": "La lápida del celular, ahora con telarañas",
+   "cara": "(sin personaje)",
+   "camara": "C"
+  },
+  {
+   "n": 13,
+   "inicio": 17.4,
+   "fin": 19.76,
+   "texto": "I once told my cousin, \"Sorry, can't.\"",
+   "escenario": "Sala",
+   "en_pantalla": "Narrador frente al primo, encogido de hombros",
+   "cara": "Sonrisa falsa",
+   "camara": "M"
+  },
+  {
+   "n": 14,
+   "inicio": 19.76,
+   "fin": 20.22,
+   "texto": "\"I have a thing.\"",
+   "escenario": "Sala",
+   "en_pantalla": "Narrador",
+   "cara": "Sonrisa falsa",
+   "camara": "C"
+  },
+  {
+   "n": 15,
+   "inicio": 20.22,
+   "fin": 20.64,
+   "texto": "Poof.",
+   "escenario": "Sala",
+   "en_pantalla": "Nube de \"puf\" a su lado",
+   "cara": "Susto",
+   "camara": "C"
+  },
+  {
+   "n": 16,
+   "inicio": 20.64,
+   "fin": 21.6,
+   "texto": "Now I have a Thing.",
+   "escenario": "Sala",
+   "en_pantalla": "La Cosa: bola morada con dos ojitos",
+   "cara": "Narrador sin palabras",
+   "camara": "M"
+  },
+  {
+   "n": 17,
+   "inicio": 21.6,
+   "fin": 22.34,
+   "texto": "It's purple.",
+   "escenario": "Sala",
+   "en_pantalla": "La Cosa sola",
+   "cara": "(sin personaje)",
+   "camara": "C"
+  },
+  {
+   "n": 18,
+   "inicio": 22.34,
+   "fin": 23.54,
+   "texto": "It weighs nine pounds.",
+   "escenario": "Cocina",
+   "en_pantalla": "La Cosa sobre una báscula que marca 9",
+   "cara": "(sin personaje)",
+   "camara": "C"
+  },
+  {
+   "n": 19,
+   "inicio": 23.54,
+   "fin": 24.24,
+   "texto": "It hums.",
+   "escenario": "Cuarto de noche",
+   "en_pantalla": "La Cosa con notas musicales; narrador en la cama",
+   "cara": "Ojeras",
+   "camara": "M"
+  },
+  {
+   "n": 20,
+   "inicio": 24.24,
+   "fin": 25.42,
+   "texto": "It follows me everywhere,",
+   "escenario": "Colegio, pasillo",
+   "en_pantalla": "Narrador camina; la Cosa detrás",
+   "cara": "Resignado",
+   "camara": "G"
+  },
+  {
+   "n": 21,
+   "inicio": 25.42,
+   "fin": 26.68,
+   "texto": "and it never has plans.",
+   "escenario": "Cuarto",
+   "en_pantalla": "La Cosa mirando un calendario en blanco",
+   "cara": "(sin personaje)",
+   "camara": "C"
+  },
+  {
+   "n": 22,
+   "inicio": 26.68,
+   "fin": 28.26,
+   "texto": "Then Delia invited me to her pool party.",
+   "escenario": "Colegio, pasillo",
+   "en_pantalla": "Delia entrega una invitación con una piscina dibujada",
+   "cara": "Ilusionada",
+   "camara": "M"
+  },
+  {
+   "n": 23,
+   "inicio": 28.26,
+   "fin": 29.06,
+   "texto": "Saturday.",
+   "escenario": "Colegio, pasillo",
+   "en_pantalla": "Invitación: SATURDAY",
+   "cara": "(sin personaje)",
+   "camara": "C"
+  },
+  {
+   "n": 24,
+   "inicio": 29.06,
+   "fin": 31.14,
+   "texto": "She's been my best friend since kindergarten,",
+   "escenario": "Parque (recuerdo)",
+   "en_pantalla": "Dos niños pequeños en un columpio",
+   "cara": "Felices",
+   "camara": "M"
+  },
+  {
+   "n": 25,
+   "inicio": 31.14,
+   "fin": 32.62,
+   "texto": "and this was invite number seven.",
+   "escenario": "Cuarto",
+   "en_pantalla": "Seis invitaciones viejas en un cajón, más la nueva",
+   "cara": "(sin personaje)",
+   "camara": "C"
+  },
+  {
+   "n": 26,
+   "inicio": 32.62,
+   "fin": 33.78,
+   "texto": "I dodged the first six.",
+   "escenario": "Colegio, pasillo",
+   "en_pantalla": "Narrador se esconde detrás de un casillero",
+   "cara": "Culpa",
+   "camara": "M"
+  },
+  {
+   "n": 27,
+   "inicio": 33.78,
+   "fin": 35.56,
+   "texto": "Because I'm fourteen and I can't swim.",
+   "escenario": "Patio con piscina",
+   "en_pantalla": "Narrador lejos del borde, mirando el agua",
+   "cara": "Miedo",
+   "camara": "G"
+  },
+  {
+   "n": 28,
+   "inicio": 35.56,
+   "fin": 36.42,
+   "texto": "Nobody knows.",
+   "escenario": "Patio con piscina",
+   "en_pantalla": "Narrador",
+   "cara": "Vergüenza",
+   "camara": "C"
+  },
+  {
+   "n": 29,
+   "inicio": 36.42,
+   "fin": 38.78,
+   "texto": "So I made excuses.",
+   "escenario": "Colegio, pasillo",
+   "en_pantalla": "Narrador frente a Delia",
+   "cara": "Sonrisa falsa",
+   "camara": "M"
+  },
+  {
+   "n": 30,
+   "inicio": 38.78,
+   "fin": 40.12,
+   "texto": "\"Can't. I'm helping my uncle move.\"",
+   "escenario": "Colegio, pasillo",
+   "en_pantalla": "Narrador",
+   "cara": "Sonrisa falsa",
+   "camara": "C"
+  },
+  {
+   "n": 31,
+   "inicio": 40.12,
+   "fin": 41.32,
+   "texto": "I don't have an uncle.",
+   "escenario": "Sala",
+   "en_pantalla": "Foto familiar sin ningún tío",
+   "cara": "(sin personaje)",
+   "camara": "C"
+  },
+  {
+   "n": 32,
+   "inicio": 41.32,
+   "fin": 42.46,
+   "texto": "Poof. Uncle Rondo.",
+   "escenario": "Calle de día",
+   "en_pantalla": "Aparece un señor de bigote y camisa hawaiana",
+   "cara": "Tío radiante, narrador con susto",
+   "camara": "M"
+  },
+  {
+   "n": 33,
+   "inicio": 42.46,
+   "fin": 44.32,
+   "texto": "Forty-three boxes, one piano,",
+   "escenario": "Calle de día",
+   "en_pantalla": "Torre de cajas y un piano en la acera",
+   "cara": "(sin personaje)",
+   "camara": "G"
+  },
+  {
+   "n": 34,
+   "inicio": 44.32,
+   "fin": 45.82,
+   "texto": "fifth floor, no elevator.",
+   "escenario": "Calle de día",
+   "en_pantalla": "Edificio alto; narrador con el piano en la escalera",
+   "cara": "Agotado",
+   "camara": "G"
+  },
+  {
+   "n": 35,
+   "inicio": 45.82,
+   "fin": 47.56,
+   "texto": "We finished Thursday. He cried.",
+   "escenario": "Sala",
+   "en_pantalla": "Tío Rondo abraza al narrador llorando a chorros",
+   "cara": "Llanto, incómodo",
+   "camara": "M"
+  },
+  {
+   "n": 36,
+   "inicio": 47.56,
+   "fin": 49.5,
+   "texto": "I'd known him four days.",
+   "escenario": "Sala",
+   "en_pantalla": "Narrador mira a cámara por encima del abrazo",
+   "cara": "Incómodo",
+   "camara": "C"
+  },
+  {
+   "n": 37,
+   "inicio": 49.5,
+   "fin": 50.78,
+   "texto": "\"I think I'm allergic to pools.\"",
+   "escenario": "Colegio, cafetería",
+   "en_pantalla": "Narrador frente a Delia",
+   "cara": "Sonrisa falsa",
+   "camara": "C"
+  },
+  {
+   "n": 38,
+   "inicio": 50.78,
+   "fin": 52.1,
+   "texto": "Poof. I sneezed at a puddle.",
+   "escenario": "Calle de día",
+   "en_pantalla": "Narrador estornuda frente a un charco",
+   "cara": "Estornudo",
+   "camara": "M"
+  },
+  {
+   "n": 39,
+   "inicio": 52.1,
+   "fin": 53.48,
+   "texto": "I sneezed at a glass of water.",
+   "escenario": "Cocina",
+   "en_pantalla": "Vaso de agua; narrador estornuda",
+   "cara": "Estornudo",
+   "camara": "C"
+  },
+  {
+   "n": 40,
+   "inicio": 53.48,
+   "fin": 55.04,
+   "texto": "I sneezed at a picture of a lake.",
+   "escenario": "Colegio, salón",
+   "en_pantalla": "Afiche de un lago; narrador estornuda",
+   "cara": "Estornudo",
+   "camara": "M"
+  },
+  {
+   "n": 41,
+   "inicio": 55.04,
+   "fin": 55.92,
+   "texto": "Friday I panicked.",
+   "escenario": "Colegio, pasillo",
+   "en_pantalla": "Narrador sudando frente a Delia",
+   "cara": "Pánico",
+   "camara": "C"
+  },
+  {
+   "n": 42,
+   "inicio": 55.92,
+   "fin": 56.78,
+   "texto": "\"We'll be out of town.\"",
+   "escenario": "Colegio, pasillo",
+   "en_pantalla": "Narrador se tapa la boca tarde",
+   "cara": "Arrepentido",
+   "camara": "C"
+  },
+  {
+   "n": 43,
+   "inicio": 56.78,
+   "fin": 58.48,
+   "texto": "Poof. Our whole house was out of town.",
+   "escenario": "Calle de día",
+   "en_pantalla": "Un hueco donde estaba la casa",
+   "cara": "(sin personaje)",
+   "camara": "G"
+  },
+  {
+   "n": 44,
+   "inicio": 58.48,
+   "fin": 59.14,
+   "texto": "In a field.",
+   "escenario": "Bosque (claro)",
+   "en_pantalla": "La casa sola en medio del pasto",
+   "cara": "Familia en la puerta, confundida",
+   "camara": "G"
+  },
+  {
+   "n": 45,
+   "inicio": 59.14,
+   "fin": 60.16,
+   "texto": "Next to a cow.",
+   "escenario": "Bosque (claro)",
+   "en_pantalla": "Vaca mirando por la ventana",
+   "cara": "Vaca neutra",
+   "camara": "C"
+  },
+  {
+   "n": 46,
+   "inicio": 60.16,
+   "fin": 62.4,
+   "texto": "Saturday I walked six miles back, sneezing,",
+   "escenario": "Calle de día",
+   "en_pantalla": "Narrador camina por la carretera",
+   "cara": "Estornudo, agotado",
+   "camara": "G"
+  },
+  {
+   "n": 47,
+   "inicio": 62.4,
+   "fin": 63.74,
+   "texto": "carrying a nine-pound Thing.",
+   "escenario": "Calle de día",
+   "en_pantalla": "La Cosa en sus brazos",
+   "cara": "Agotado",
+   "camara": "M"
+  },
+  {
+   "n": 48,
+   "inicio": 63.74,
+   "fin": 65.94,
+   "texto": "I stood at Delia's gate with no excuses left.",
+   "escenario": "Patio con piscina",
+   "en_pantalla": "Narrador en la reja; fiesta al fondo",
+   "cara": "Nervioso",
+   "camara": "M"
+  },
+  {
+   "n": 49,
+   "inicio": 65.94,
+   "fin": 67.34,
+   "texto": "\"I can't swim,\" I said.",
+   "escenario": "Patio con piscina",
+   "en_pantalla": "Narrador",
+   "cara": "Vulnerable",
+   "camara": "C"
+  },
+  {
+   "n": 50,
+   "inicio": 67.34,
+   "fin": 68.18,
+   "texto": "\"I never learned.",
+   "escenario": "Patio con piscina",
+   "en_pantalla": "Narrador mirando el agua de reojo",
+   "cara": "Vergüenza",
+   "camara": "C"
+  },
+  {
+   "n": 51,
+   "inicio": 68.18,
+   "fin": 70.38,
+   "texto": "I'm fourteen, and I'm scared of the shallow end.",
+   "escenario": "Patio con piscina",
+   "en_pantalla": "Parte baja de la piscina; un niño pequeño con flotadores chapotea feliz",
+   "cara": "Narrador con miedo",
+   "camara": "M"
+  },
+  {
+   "n": 52,
+   "inicio": 70.38,
+   "fin": 71.62,
+   "texto": "That's why I said no six times.\"",
+   "escenario": "Patio con piscina",
+   "en_pantalla": "Delia escuchando",
+   "cara": "Seria",
+   "camara": "C"
+  },
+  {
+   "n": 53,
+   "inicio": 71.62,
+   "fin": 72.62,
+   "texto": "I waited for the poof.",
+   "escenario": "Patio con piscina",
+   "en_pantalla": "Narrador con los ojos apretados",
+   "cara": "Ojos apretados",
+   "camara": "C"
+  },
+  {
+   "n": 54,
+   "inicio": 72.62,
+   "fin": 74.3,
+   "texto": "Nothing. The truth doesn't poof.",
+   "escenario": "Patio con piscina",
+   "en_pantalla": "Aire vacío a su lado",
+   "cara": "Sorpresa",
+   "camara": "M"
+  },
+  {
+   "n": 55,
+   "inicio": 74.3,
+   "fin": 75.3,
+   "texto": "Delia didn't laugh.",
+   "escenario": "Patio con piscina",
+   "en_pantalla": "Delia",
+   "cara": "Seria",
+   "camara": "C"
+  },
+  {
+   "n": 56,
+   "inicio": 75.3,
+   "fin": 76.36,
+   "texto": "She looked at her pool.",
+   "escenario": "Patio con piscina",
+   "en_pantalla": "Delia mira la piscina llena de invitados",
+   "cara": "Pensativa",
+   "camara": "M"
+  },
+  {
+   "n": 57,
+   "inicio": 76.36,
+   "fin": 78.42,
+   "texto": "Then she yelled, \"Sorry, everybody!",
+   "escenario": "Patio con piscina",
+   "en_pantalla": "Delia con las manos en bocina hacia la piscina",
+   "cara": "Decidida",
+   "camara": "M"
+  },
+  {
+   "n": 58,
+   "inicio": 78.42,
+   "fin": 79.56,
+   "texto": "Our deep end is broken!\"",
+   "escenario": "Patio con piscina",
+   "en_pantalla": "Invitados voltean a mirarla",
+   "cara": "Confundidos",
+   "camara": "G"
+  },
+  {
+   "n": 59,
+   "inicio": 79.56,
+   "fin": 80.0,
+   "texto": "Poof.",
+   "escenario": "Patio con piscina",
+   "en_pantalla": "Nube de \"puf\" gigante sobre toda la piscina",
+   "cara": "(sin personaje)",
+   "camara": "G"
+  },
+  {
+   "n": 60,
+   "inicio": 80.0,
+   "fin": 81.48,
+   "texto": "The whole pool was two feet deep.",
+   "escenario": "Patio con piscina",
+   "en_pantalla": "Piscina con el agua por las rodillas; letrero \"2 FT\"",
+   "cara": "(sin personaje)",
+   "camara": "G"
+  },
+  {
+   "n": 61,
+   "inicio": 81.48,
+   "fin": 83.34,
+   "texto": "Everybody stood up, very confused.",
+   "escenario": "Patio con piscina",
+   "en_pantalla": "Invitados de pie con el agua en las rodillas",
+   "cara": "Confundidos",
+   "camara": "M"
+  },
+  {
+   "n": 62,
+   "inicio": 83.34,
+   "fin": 84.32,
+   "texto": "No take-backs.",
+   "escenario": "Patio con piscina",
+   "en_pantalla": "El letrero \"2 FT\", ahora atornillado",
+   "cara": "(sin personaje)",
+   "camara": "C"
+  },
+  {
+   "n": 63,
+   "inicio": 84.32,
+   "fin": 85.34,
+   "texto": "She did that to her own pool.",
+   "escenario": "Patio con piscina",
+   "en_pantalla": "Narrador mira a Delia; ella se encoge de hombros",
+   "cara": "Ojos aguados, sonrisa",
+   "camara": "M"
+  },
+  {
+   "n": 64,
+   "inicio": 85.34,
+   "fin": 86.68,
+   "texto": "Then the Thing waddled past us",
+   "escenario": "Patio con piscina",
+   "en_pantalla": "La Cosa camina entre los dos",
+   "cara": "(sin personaje)",
+   "camara": "M"
+  },
+  {
+   "n": 65,
+   "inicio": 86.68,
+   "fin": 87.46,
+   "texto": "and hopped in.",
+   "escenario": "Patio con piscina",
+   "en_pantalla": "Salpicón pequeño",
+   "cara": "Ambos sorprendidos",
+   "camara": "G"
+  },
+  {
+   "n": 66,
+   "inicio": 87.46,
+   "fin": 89.34,
+   "texto": "It floats. Of course it floats.",
+   "escenario": "Patio con piscina",
+   "en_pantalla": "La Cosa flotando feliz",
+   "cara": "(sin personaje)",
+   "camara": "C"
+  },
+  {
+   "n": 67,
+   "inicio": 89.34,
+   "fin": 90.66,
+   "texto": "I held on with both arms.",
+   "escenario": "Patio con piscina",
+   "en_pantalla": "Narrador abrazado a la Cosa en el agua bajita",
+   "cara": "Miedo y risa",
+   "camara": "M"
+  },
+  {
+   "n": 68,
+   "inicio": 90.66,
+   "fin": 92.8,
+   "texto": "And guess who was a lifeguard for twenty-two years?",
+   "escenario": "Patio con piscina",
+   "en_pantalla": "Silla alta de salvavidas, silueta con silbato",
+   "cara": "(silueta)",
+   "camara": "G"
+  },
+  {
+   "n": 69,
+   "inicio": 92.8,
+   "fin": 93.58,
+   "texto": "Uncle Rondo.",
+   "escenario": "Patio con piscina",
+   "en_pantalla": "Tío Rondo con silbato y camisa hawaiana",
+   "cara": "Orgulloso",
+   "camara": "C"
+  },
+  {
+   "n": 70,
+   "inicio": 93.58,
+   "fin": 94.46,
+   "texto": "He cried again.",
+   "escenario": "Patio con piscina",
+   "en_pantalla": "Tío Rondo llorando a chorros",
+   "cara": "Llanto",
+   "camara": "C"
+  },
+  {
+   "n": 71,
+   "inicio": 94.46,
+   "fin": 95.42,
+   "texto": "I can swim now.",
+   "escenario": "Patio con piscina",
+   "en_pantalla": "Narrador nada solo",
+   "cara": "Feliz",
+   "camara": "M"
+  },
+  {
+   "n": 72,
+   "inicio": 95.42,
+   "fin": 97.42,
+   "texto": "I sneeze the whole time, but I can swim.",
+   "escenario": "Patio con piscina",
+   "en_pantalla": "Narrador estornuda en mitad de la brazada",
+   "cara": "Estornudo",
+   "camara": "C"
+  },
+  {
+   "n": 73,
+   "inicio": 97.42,
+   "fin": 99.08,
+   "texto": "Delia's pool is still two feet deep.",
+   "escenario": "Patio con piscina",
+   "en_pantalla": "Delia de pie en la piscina, con el agua en las rodillas",
+   "cara": "Tranquila",
+   "camara": "M"
+  },
+  {
+   "n": 74,
+   "inicio": 99.08,
+   "fin": 100.42,
+   "texto": "She says she'd do it again.",
+   "escenario": "Patio con piscina",
+   "en_pantalla": "Delia y el narrador chocan los puños",
+   "cara": "Sonrisas",
+   "camara": "C"
+  },
+  {
+   "n": 75,
+   "inicio": 100.42,
+   "fin": 102.06,
+   "texto": "She invited the Thing to her next party.",
+   "escenario": "Patio con piscina",
+   "en_pantalla": "Delia entrega una invitación a la Cosa",
+   "cara": "Sonrisa",
+   "camara": "M"
+  },
+  {
+   "n": 76,
+   "inicio": 102.06,
+   "fin": 103.92,
+   "texto": "It hummed, \"Sorry, I have a thing.\"",
+   "escenario": "Patio con piscina",
+   "en_pantalla": "La Cosa con notas musicales",
+   "cara": "Narrador con pánico",
+   "camara": "C"
+  },
+  {
+   "n": 77,
+   "inicio": 103.92,
+   "fin": 104.32,
+   "texto": "Poof.",
+   "escenario": "Patio con piscina",
+   "en_pantalla": "Nube de \"puf\"",
+   "cara": "(sin personaje)",
+   "camara": "C"
+  },
+  {
+   "n": 78,
+   "inicio": 104.32,
+   "fin": 105.516,
+   "texto": "Now there are two.",
+   "escenario": "Patio con piscina",
+   "en_pantalla": "Dos Cosas, una pequeña; narrador y Delia mirando",
+   "cara": "Derrotado, risa",
+   "camara": "G"
+  }
+ ]
+}

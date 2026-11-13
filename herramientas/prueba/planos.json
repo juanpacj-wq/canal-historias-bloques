@@ -1,0 +1,496 @@
+{
+ "video": "001-friendships-have-a-battery",
+ "duracion": 75.514,
+ "planos": [
+  {
+   "n": 1,
+   "inicio": 0.0,
+   "fin": 2.32,
+   "texto": "In this world, every friendship...",
+   "escenario": "Pueblo de día",
+   "en_pantalla": "Dos amigos frente a frente, barra verde flotando entre ellos",
+   "cara": "Felices",
+   "camara": "M"
+  },
+  {
+   "n": 2,
+   "inicio": 2.32,
+   "fin": 4.32,
+   "texto": "everybody can see...",
+   "escenario": "Pueblo de día",
+   "en_pantalla": "Calle con varias parejas, cada una con su barra",
+   "cara": "Neutras",
+   "camara": "G"
+  },
+  {
+   "n": 3,
+   "inicio": 4.32,
+   "fin": 6.22,
+   "texto": "It floats between you...",
+   "escenario": "Pueblo de día",
+   "en_pantalla": "La barra sola",
+   "cara": "(sin personaje)",
+   "camara": "C"
+  },
+  {
+   "n": 4,
+   "inicio": 6.22,
+   "fin": 7.74,
+   "texto": "Laugh together, it goes up.",
+   "escenario": "Parque",
+   "en_pantalla": "Dos amigos riendo; la barra sube",
+   "cara": "Risa",
+   "camara": "M"
+  },
+  {
+   "n": 5,
+   "inicio": 7.74,
+   "fin": 9.44,
+   "texto": "Ignore a text, it drops.",
+   "escenario": "Cuarto",
+   "en_pantalla": "Personaje con celular; la barra baja",
+   "cara": "Indiferente",
+   "camara": "C"
+  },
+  {
+   "n": 6,
+   "inicio": 9.44,
+   "fin": 11.68,
+   "texto": "My grandpa and his chess buddy...",
+   "escenario": "Sala",
+   "en_pantalla": "Dos abuelos con tablero de ajedrez; barra al 100",
+   "cara": "Serios",
+   "camara": "M"
+  },
+  {
+   "n": 7,
+   "inicio": 11.68,
+   "fin": 13.34,
+   "texto": "since 1974.",
+   "escenario": "Sala",
+   "en_pantalla": "Barra al 100 con telarañas",
+   "cara": "(sin personaje)",
+   "camara": "C"
+  },
+  {
+   "n": 8,
+   "inicio": 13.34,
+   "fin": 15.58,
+   "texto": "My sister lost three friends...",
+   "escenario": "Cuarto",
+   "en_pantalla": "Hermana con celular; tres barras en rojo",
+   "cara": "Susto",
+   "camara": "M"
+  },
+  {
+   "n": 9,
+   "inicio": 15.58,
+   "fin": 17.18,
+   "texto": "You could hear the beeping...",
+   "escenario": "Cocina",
+   "en_pantalla": "Narrador con un cereal, mirando hacia arriba",
+   "cara": "Incómodo",
+   "camara": "C"
+  },
+  {
+   "n": 10,
+   "inicio": 17.18,
+   "fin": 18.64,
+   "texto": "Me and Theo were at ninety-eight.",
+   "escenario": "Parque",
+   "en_pantalla": "Narrador y Theo; barra en 98",
+   "cara": "Felices",
+   "camara": "M"
+  },
+  {
+   "n": 11,
+   "inicio": 18.64,
+   "fin": 19.32,
+   "texto": "Always.",
+   "escenario": "Parque",
+   "en_pantalla": "Barra en 98",
+   "cara": "(sin personaje)",
+   "camara": "C"
+  },
+  {
+   "n": 12,
+   "inicio": 19.32,
+   "fin": 20.0,
+   "texto": "We built a treehouse...",
+   "escenario": "Patio",
+   "en_pantalla": "Casa del árbol torcida",
+   "cara": "Orgullosos",
+   "camara": "G"
+  },
+  {
+   "n": 13,
+   "inicio": 20.0,
+   "fin": 21.4,
+   "texto": "with one nail...",
+   "escenario": "Patio",
+   "en_pantalla": "Un clavo enorme en una tabla",
+   "cara": "(sin personaje)",
+   "camara": "C"
+  },
+  {
+   "n": 14,
+   "inicio": 21.4,
+   "fin": 23.64,
+   "texto": "He named it Fort Maybe.",
+   "escenario": "Patio",
+   "en_pantalla": "Letrero \"FORT MAYBE\"",
+   "cara": "Theo pícaro",
+   "camara": "M"
+  },
+  {
+   "n": 15,
+   "inicio": 23.64,
+   "fin": 24.94,
+   "texto": "so I stopped checking it.",
+   "escenario": "Patio",
+   "en_pantalla": "Narrador de espaldas a la barra",
+   "cara": "Tranquilo",
+   "camara": "M"
+  },
+  {
+   "n": 16,
+   "inicio": 24.94,
+   "fin": 26.54,
+   "texto": "Then Theo joined the soccer team.",
+   "escenario": "Cancha",
+   "en_pantalla": "Theo con uniforme y balón",
+   "cara": "Feliz",
+   "camara": "M"
+  },
+  {
+   "n": 17,
+   "inicio": 26.54,
+   "fin": 27.28,
+   "texto": "New friends.",
+   "escenario": "Cancha",
+   "en_pantalla": "Theo rodeado de compañeros",
+   "cara": "Risa",
+   "camara": "G"
+  },
+  {
+   "n": 18,
+   "inicio": 27.28,
+   "fin": 28.32,
+   "texto": "New jokes I wasn't in.",
+   "escenario": "Colegio, pasillo",
+   "en_pantalla": "Grupo riendo; narrador aparte",
+   "cara": "Triste",
+   "camara": "M"
+  },
+  {
+   "n": 19,
+   "inicio": 28.32,
+   "fin": 30.04,
+   "texto": "One Monday I finally looked up.",
+   "escenario": "Colegio, pasillo",
+   "en_pantalla": "Narrador mirando hacia arriba",
+   "cara": "Neutro",
+   "camara": "C"
+  },
+  {
+   "n": 20,
+   "inicio": 30.04,
+   "fin": 31.36,
+   "texto": "Red. Two percent.",
+   "escenario": "Colegio, pasillo",
+   "en_pantalla": "Barra roja en 2",
+   "cara": "Susto",
+   "camara": "C"
+  },
+  {
+   "n": 21,
+   "inicio": 31.36,
+   "fin": 34.98,
+   "texto": "At zero, a friendship shuts off...",
+   "escenario": "Calle",
+   "en_pantalla": "Dos personajes grises se cruzan sin mirarse",
+   "cara": "Vacías",
+   "camara": "G"
+  },
+  {
+   "n": 22,
+   "inicio": 34.98,
+   "fin": 36.3,
+   "texto": "So I tried to charge it.",
+   "escenario": "Cuarto",
+   "en_pantalla": "Narrador decidido",
+   "cara": "Decidido",
+   "camara": "C"
+  },
+  {
+   "n": 23,
+   "inicio": 36.3,
+   "fin": 37.72,
+   "texto": "I bought his favorite chips.",
+   "escenario": "Colegio, cafetería",
+   "en_pantalla": "Narrador entrega una bolsa",
+   "cara": "Esperanzado",
+   "camara": "M"
+  },
+  {
+   "n": 24,
+   "inicio": 37.72,
+   "fin": 39.42,
+   "texto": "Three percent, then back to two.",
+   "escenario": "Cafetería",
+   "en_pantalla": "Barra sube a 3 y cae a 2",
+   "cara": "(sin personaje)",
+   "camara": "C"
+  },
+  {
+   "n": 25,
+   "inicio": 39.42,
+   "fin": 40.88,
+   "texto": "I laughed at everything he said...",
+   "escenario": "Cafetería",
+   "en_pantalla": "Narrador riendo exagerado; Theo confundido",
+   "cara": "Risa forzada, confundido",
+   "camara": "M"
+  },
+  {
+   "n": 26,
+   "inicio": 40.88,
+   "fin": 42.0,
+   "texto": "even \"pass the ketchup.\"",
+   "escenario": "Cafetería",
+   "en_pantalla": "Botella de salsa",
+   "cara": "(sin personaje)",
+   "camara": "C"
+  },
+  {
+   "n": 27,
+   "inicio": 42.0,
+   "fin": 42.74,
+   "texto": "Still two.",
+   "escenario": "Cafetería",
+   "en_pantalla": "Barra en 2",
+   "cara": "Narrador derrotado",
+   "camara": "C"
+  },
+  {
+   "n": 28,
+   "inicio": 42.74,
+   "fin": 44.18,
+   "texto": "I threw him a surprise party.",
+   "escenario": "Sala",
+   "en_pantalla": "Globos, confeti, narrador con gorro",
+   "cara": "Emocionado",
+   "camara": "G"
+  },
+  {
+   "n": 29,
+   "inicio": 44.18,
+   "fin": 45.48,
+   "texto": "His birthday is in March.",
+   "escenario": "Sala",
+   "en_pantalla": "Theo en la puerta",
+   "cara": "Confundido",
+   "camara": "C"
+  },
+  {
+   "n": 30,
+   "inicio": 45.48,
+   "fin": 46.44,
+   "texto": "It was October.",
+   "escenario": "Sala",
+   "en_pantalla": "Calabaza de Halloween en la mesa",
+   "cara": "(sin personaje)",
+   "camara": "C"
+  },
+  {
+   "n": 31,
+   "inicio": 46.44,
+   "fin": 47.32,
+   "texto": "One percent.",
+   "escenario": "Sala",
+   "en_pantalla": "Barra en 1",
+   "cara": "Narrador con ojos muy abiertos",
+   "camara": "C"
+  },
+  {
+   "n": 32,
+   "inicio": 47.32,
+   "fin": 48.8,
+   "texto": "That night the bar started beeping.",
+   "escenario": "Cuarto de noche",
+   "en_pantalla": "Narrador en la cama; barra parpadeando",
+   "cara": "Angustia",
+   "camara": "M"
+  },
+  {
+   "n": 33,
+   "inicio": 48.8,
+   "fin": 50.54,
+   "texto": "And I noticed something...",
+   "escenario": "Cuarto de noche",
+   "en_pantalla": "Narrador se acerca a la barra",
+   "cara": "Curioso",
+   "camara": "C"
+  },
+  {
+   "n": 34,
+   "inicio": 50.54,
+   "fin": 51.8,
+   "texto": "The bar has two halves.",
+   "escenario": "Cuarto de noche",
+   "en_pantalla": "Barra dividida en dos",
+   "cara": "(sin personaje)",
+   "camara": "C"
+  },
+  {
+   "n": 35,
+   "inicio": 51.8,
+   "fin": 52.84,
+   "texto": "His half was full.",
+   "escenario": "Cuarto de noche",
+   "en_pantalla": "Mitad verde",
+   "cara": "(sin personaje)",
+   "camara": "C"
+  },
+  {
+   "n": 36,
+   "inicio": 52.84,
+   "fin": 53.92,
+   "texto": "Mine was empty.",
+   "escenario": "Cuarto de noche",
+   "en_pantalla": "Mitad vacía; narrador",
+   "cara": "Golpe de realidad",
+   "camara": "C"
+  },
+  {
+   "n": 37,
+   "inicio": 53.92,
+   "fin": 55.62,
+   "texto": "Theo had invited me to every game.",
+   "escenario": "Colegio, pasillo (recuerdo)",
+   "en_pantalla": "Theo ofreciendo una boleta",
+   "cara": "Ilusionado",
+   "camara": "M"
+  },
+  {
+   "n": 38,
+   "inicio": 55.62,
+   "fin": 56.72,
+   "texto": "I'd said no eleven times.",
+   "escenario": "Colegio, pasillo (recuerdo)",
+   "en_pantalla": "Narrador negando; Theo baja la cabeza",
+   "cara": "Indiferente, triste",
+   "camara": "M"
+  },
+  {
+   "n": 39,
+   "inicio": 56.72,
+   "fin": 58.66,
+   "texto": "So on Saturday, I went.",
+   "escenario": "Cancha con lluvia",
+   "en_pantalla": "Narrador solo en la tribuna",
+   "cara": "Decidido",
+   "camara": "G"
+  },
+  {
+   "n": 40,
+   "inicio": 58.66,
+   "fin": 61.14,
+   "texto": "I stood in the rain and yelled...",
+   "escenario": "Cancha con lluvia",
+   "en_pantalla": "Narrador gritando",
+   "cara": "Grito, llanto",
+   "camara": "C"
+  },
+  {
+   "n": 41,
+   "inicio": 61.14,
+   "fin": 62.78,
+   "texto": "He missed the shot. Completely.",
+   "escenario": "Cancha con lluvia",
+   "en_pantalla": "El balón pasa lejos del arco",
+   "cara": "(sin personaje)",
+   "camara": "G"
+  },
+  {
+   "n": 42,
+   "inicio": 62.78,
+   "fin": 65.2,
+   "texto": "Because he was staring at me...",
+   "escenario": "Cancha con lluvia",
+   "en_pantalla": "Theo mirando a la tribuna",
+   "cara": "Sonrisa enorme",
+   "camara": "C"
+  },
+  {
+   "n": 43,
+   "inicio": 65.2,
+   "fin": 66.3,
+   "texto": "The bar didn't climb.",
+   "escenario": "Cancha con lluvia",
+   "en_pantalla": "Barra temblando",
+   "cara": "(sin personaje)",
+   "camara": "C"
+  },
+  {
+   "n": 44,
+   "inicio": 66.3,
+   "fin": 68.16,
+   "texto": "It exploded. Green light everywhere.",
+   "escenario": "Cancha con lluvia",
+   "en_pantalla": "Destello verde, partículas",
+   "cara": "Ambos sorprendidos",
+   "camara": "G"
+  },
+  {
+   "n": 45,
+   "inicio": 68.16,
+   "fin": 69.42,
+   "texto": "The scoreboard shorted out.",
+   "escenario": "Cancha",
+   "en_pantalla": "Tablero echando chispas",
+   "cara": "(sin personaje)",
+   "camara": "M"
+  },
+  {
+   "n": 46,
+   "inicio": 69.42,
+   "fin": 70.72,
+   "texto": "They lost nine to nothing.",
+   "escenario": "Cancha",
+   "en_pantalla": "Tablero 9 a 0; equipo derrotado",
+   "cara": "Tristes",
+   "camara": "G"
+  },
+  {
+   "n": 47,
+   "inicio": 70.72,
+   "fin": 71.98,
+   "texto": "We're at one hundred percent.",
+   "escenario": "Parque",
+   "en_pantalla": "Narrador y Theo; barra al 100",
+   "cara": "Felices",
+   "camara": "M"
+  },
+  {
+   "n": 48,
+   "inicio": 71.98,
+   "fin": 73.56,
+   "texto": "Fort Maybe still has one nail.",
+   "escenario": "Patio",
+   "en_pantalla": "Casa del árbol, el clavo",
+   "cara": "(sin personaje)",
+   "camara": "C"
+  },
+  {
+   "n": 49,
+   "inicio": 73.56,
+   "fin": 75.514,
+   "texto": "And I check the bar every day now.",
+   "escenario": "Patio",
+   "en_pantalla": "Narrador mirando la barra, Theo al lado",
+   "cara": "Sonrisa",
+   "camara": "M"
+  }
+ ]
+}

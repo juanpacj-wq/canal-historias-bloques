@@ -1,0 +1,616 @@
+{
+ "video": "008-you-can-lend-your-courage",
+ "duracion": 103.951,
+ "planos": [
+  {
+   "n": 1,
+   "inicio": 0.0,
+   "fin": 2.5,
+   "texto": "In this world, you can lend your courage...",
+   "escenario": "Parque",
+   "en_pantalla": "Un niño le entrega a otro una canica naranja que brilla",
+   "cara": "Feliz, nervioso",
+   "camara": "M"
+  },
+  {
+   "n": 2,
+   "inicio": 2.5,
+   "fin": 4.38,
+   "texto": "but you have none until...",
+   "escenario": "Parque",
+   "en_pantalla": "El que la prestó tiembla escondido detrás de un árbol",
+   "cara": "Susto",
+   "camara": "M"
+  },
+  {
+   "n": 3,
+   "inicio": 4.38,
+   "fin": 6.9,
+   "texto": "It pops out of your chest...",
+   "escenario": "Parque",
+   "en_pantalla": "La canica sale del pecho con un \"pop\"",
+   "cara": "Sorpresa",
+   "camara": "C"
+  },
+  {
+   "n": 4,
+   "inicio": 6.9,
+   "fin": 9.88,
+   "texto": "Your friend presses it to their chest...",
+   "escenario": "Parque",
+   "en_pantalla": "La canica se hunde en el pecho del amigo",
+   "cara": "Decidido",
+   "camara": "C"
+  },
+  {
+   "n": 5,
+   "inicio": 9.88,
+   "fin": 11.7,
+   "texto": "Now they're brave, and you're not.",
+   "escenario": "Parque",
+   "en_pantalla": "El amigo con pose de héroe; el otro abrazado a una banca",
+   "cara": "Valiente, susto",
+   "camara": "G"
+  },
+  {
+   "n": 6,
+   "inicio": 11.7,
+   "fin": 14.14,
+   "texto": "My dad lent his to my uncle...",
+   "escenario": "Sala de fiesta",
+   "en_pantalla": "Tío con micrófono y copa de jugo; canica en su pecho",
+   "cara": "Seguro",
+   "camara": "M"
+  },
+  {
+   "n": 7,
+   "inicio": 14.14,
+   "fin": 16.4,
+   "texto": "Dad spent the whole party...",
+   "escenario": "Sala de fiesta",
+   "en_pantalla": "Puerta de clóset entreabierta, dos ojos entre abrigos",
+   "cara": "Susto",
+   "camara": "C"
+  },
+  {
+   "n": 8,
+   "inicio": 16.4,
+   "fin": 18.12,
+   "texto": "Kids at my school rent theirs out.",
+   "escenario": "Colegio, patio",
+   "en_pantalla": "Fila de niños frente a una mesa con letrero \"COURAGE\"",
+   "cara": "Neutras",
+   "camara": "G"
+  },
+  {
+   "n": 9,
+   "inicio": 18.12,
+   "fin": 19.46,
+   "texto": "Two dollars a recess.",
+   "escenario": "Colegio, patio",
+   "en_pantalla": "Dos billetes sobre la mesa junto a una canica",
+   "cara": "(sin personaje)",
+   "camara": "C"
+  },
+  {
+   "n": 10,
+   "inicio": 19.46,
+   "fin": 20.62,
+   "texto": "I never lent mine.",
+   "escenario": "Colegio, pasillo",
+   "en_pantalla": "Narrador con los brazos cruzados sobre el pecho",
+   "cara": "Orgulloso",
+   "camara": "M"
+  },
+  {
+   "n": 11,
+   "inicio": 20.62,
+   "fin": 23.3,
+   "texto": "Then my best friend Bram had to sing...",
+   "escenario": "Colegio, auditorio",
+   "en_pantalla": "Bram detrás del telón, micrófono en mano",
+   "cara": "Pánico",
+   "camara": "M"
+  },
+  {
+   "n": 12,
+   "inicio": 23.3,
+   "fin": 24.54,
+   "texto": "Bram is scared of dogs,",
+   "escenario": "Calle",
+   "en_pantalla": "Bram subido a un buzón; un perrito diminuto abajo",
+   "cara": "Pánico",
+   "camara": "M"
+  },
+  {
+   "n": 13,
+   "inicio": 24.54,
+   "fin": 25.26,
+   "texto": "escalators,",
+   "escenario": "Pueblo",
+   "en_pantalla": "Bram frente a una escalera eléctrica, congelado",
+   "cara": "Susto",
+   "camara": "M"
+  },
+  {
+   "n": 14,
+   "inicio": 25.26,
+   "fin": 26.04,
+   "texto": "and the word \"volunteer.\"",
+   "escenario": "Colegio, salón",
+   "en_pantalla": "Tablero con la palabra VOLUNTEER; Bram debajo del pupitre",
+   "cara": "Susto",
+   "camara": "G"
+  },
+  {
+   "n": 15,
+   "inicio": 26.04,
+   "fin": 27.44,
+   "texto": "So I handed mine over.",
+   "escenario": "Colegio, auditorio",
+   "en_pantalla": "Narrador pone la canica en la mano de Bram",
+   "cara": "Decidido, asombrado",
+   "camara": "C"
+  },
+  {
+   "n": 16,
+   "inicio": 27.44,
+   "fin": 28.72,
+   "texto": "He dropped it in his shirt pocket...",
+   "escenario": "Colegio, auditorio",
+   "en_pantalla": "La canica cae en el bolsillo de la camisa",
+   "cara": "(sin personaje)",
+   "camara": "C"
+  },
+  {
+   "n": 17,
+   "inicio": 28.72,
+   "fin": 29.92,
+   "texto": "and buttoned it. Twice.",
+   "escenario": "Colegio, auditorio",
+   "en_pantalla": "Dedos cerrando el botón, y otra vez",
+   "cara": "(sin personaje)",
+   "camara": "C"
+  },
+  {
+   "n": 18,
+   "inicio": 29.92,
+   "fin": 30.78,
+   "texto": "He sang.",
+   "escenario": "Colegio, auditorio",
+   "en_pantalla": "Bram en el escenario bajo un reflector",
+   "cara": "Ojos cerrados",
+   "camara": "G"
+  },
+  {
+   "n": 19,
+   "inicio": 30.78,
+   "fin": 32.24,
+   "texto": "He got a standing ovation.",
+   "escenario": "Colegio, auditorio",
+   "en_pantalla": "Público de pie aplaudiendo, confeti",
+   "cara": "Felices",
+   "camara": "G"
+  },
+  {
+   "n": 20,
+   "inicio": 32.24,
+   "fin": 33.6,
+   "texto": "That was three weeks ago.",
+   "escenario": "Cuarto",
+   "en_pantalla": "Calendario con tres semanas tachadas",
+   "cara": "(sin personaje)",
+   "camara": "C"
+  },
+  {
+   "n": 21,
+   "inicio": 33.6,
+   "fin": 34.84,
+   "texto": "He never gave it back.",
+   "escenario": "Cuarto",
+   "en_pantalla": "Narrador mirándose el pecho vacío",
+   "cara": "Triste",
+   "camara": "M"
+  },
+  {
+   "n": 22,
+   "inicio": 34.84,
+   "fin": 37.06,
+   "texto": "Now Bram eats at the loud table...",
+   "escenario": "Colegio, cafetería",
+   "en_pantalla": "Mesa junto a la ventana, Bram rodeado de gente riendo",
+   "cara": "Risa",
+   "camara": "G"
+  },
+  {
+   "n": 23,
+   "inicio": 37.06,
+   "fin": 38.42,
+   "texto": "and I'm scared of everything.",
+   "escenario": "Colegio, cafetería",
+   "en_pantalla": "Narrador asomado detrás de un bote de basura",
+   "cara": "Susto",
+   "camara": "M"
+  },
+  {
+   "n": 24,
+   "inicio": 38.42,
+   "fin": 39.12,
+   "texto": "Stairs.",
+   "escenario": "Colegio, pasillo",
+   "en_pantalla": "Escalera vista desde abajo, enorme",
+   "cara": "Pánico",
+   "camara": "G"
+  },
+  {
+   "n": 25,
+   "inicio": 39.12,
+   "fin": 39.9,
+   "texto": "Soup.",
+   "escenario": "Colegio, cafetería",
+   "en_pantalla": "Plato de sopa humeante",
+   "cara": "(sin personaje)",
+   "camara": "C"
+  },
+  {
+   "n": 26,
+   "inicio": 39.9,
+   "fin": 41.64,
+   "texto": "Soup is hot, and it moves.",
+   "escenario": "Colegio, cafetería",
+   "en_pantalla": "La sopa ondula; narrador se aleja con la bandeja estirada",
+   "cara": "Asco y susto",
+   "camara": "M"
+  },
+  {
+   "n": 27,
+   "inicio": 41.64,
+   "fin": 42.8,
+   "texto": "And here's the problem.",
+   "escenario": "Colegio, pasillo",
+   "en_pantalla": "Narrador de frente",
+   "cara": "Preocupado",
+   "camara": "C"
+  },
+  {
+   "n": 28,
+   "inicio": 42.8,
+   "fin": 44.94,
+   "texto": "Asking for your courage back takes courage.",
+   "escenario": "Colegio, pasillo",
+   "en_pantalla": "Narrador da un paso hacia Bram y se devuelve",
+   "cara": "Susto",
+   "camara": "M"
+  },
+  {
+   "n": 29,
+   "inicio": 44.94,
+   "fin": 47.02,
+   "texto": "So I wrote him a note. Four drafts.",
+   "escenario": "Cuarto",
+   "en_pantalla": "Escritorio con cuatro bolas de papel y una nota",
+   "cara": "Concentrado",
+   "camara": "M"
+  },
+  {
+   "n": 30,
+   "inicio": 47.02,
+   "fin": 48.6,
+   "texto": "Then I got scared of his locker...",
+   "escenario": "Colegio, pasillo",
+   "en_pantalla": "Narrador frente a un casillero que parece gigante",
+   "cara": "Pánico",
+   "camara": "M"
+  },
+  {
+   "n": 31,
+   "inicio": 48.6,
+   "fin": 49.2,
+   "texto": "and ate it.",
+   "escenario": "Colegio, pasillo",
+   "en_pantalla": "Narrador con la nota en la boca",
+   "cara": "Cachetes inflados",
+   "camara": "C"
+  },
+  {
+   "n": 32,
+   "inicio": 49.2,
+   "fin": 51.76,
+   "texto": "I paid my little sister five dollars...",
+   "escenario": "Sala",
+   "en_pantalla": "Hermanita recibe un billete",
+   "cara": "Pícara",
+   "camara": "M"
+  },
+  {
+   "n": 33,
+   "inicio": 51.76,
+   "fin": 53.38,
+   "texto": "She asked for his pudding instead.",
+   "escenario": "Colegio, cafetería",
+   "en_pantalla": "Hermanita señala el pudín de Bram",
+   "cara": "Tierna, confundido",
+   "camara": "M"
+  },
+  {
+   "n": 34,
+   "inicio": 53.38,
+   "fin": 54.32,
+   "texto": "She got it.",
+   "escenario": "Colegio, cafetería",
+   "en_pantalla": "Hermanita comiendo pudín con cuchara",
+   "cara": "Feliz",
+   "camara": "C"
+  },
+  {
+   "n": 35,
+   "inicio": 54.32,
+   "fin": 58.02,
+   "texto": "Then I rented courage from a first grader...",
+   "escenario": "Colegio, patio",
+   "en_pantalla": "Zeb, muy pequeño, saca su canica",
+   "cara": "Serio",
+   "camara": "M"
+  },
+  {
+   "n": 36,
+   "inicio": 58.02,
+   "fin": 59.4,
+   "texto": "It was the size of a pea.",
+   "escenario": "Colegio, patio",
+   "en_pantalla": "Canica minúscula en la palma del narrador",
+   "cara": "Decepcionado",
+   "camara": "C"
+  },
+  {
+   "n": 37,
+   "inicio": 59.4,
+   "fin": 61.42,
+   "texto": "It was exactly enough to pet one goose.",
+   "escenario": "Parque",
+   "en_pantalla": "Narrador acaricia un ganso con un dedo",
+   "cara": "Valiente a medias",
+   "camara": "M"
+  },
+  {
+   "n": 38,
+   "inicio": 61.42,
+   "fin": 62.38,
+   "texto": "The goose bit me.",
+   "escenario": "Parque",
+   "en_pantalla": "Ganso colgado del dedo del narrador",
+   "cara": "Dolor",
+   "camara": "C"
+  },
+  {
+   "n": 39,
+   "inicio": 62.38,
+   "fin": 64.32,
+   "texto": "Zeb cried until I gave it back.",
+   "escenario": "Colegio, patio",
+   "en_pantalla": "Zeb llorando a chorros",
+   "cara": "Llanto",
+   "camara": "M"
+  },
+  {
+   "n": 40,
+   "inicio": 64.32,
+   "fin": 65.64,
+   "texto": "He kept the two dollars.",
+   "escenario": "Colegio, patio",
+   "en_pantalla": "Zeb se va con la canica y los dos billetes",
+   "cara": "Sonrisa",
+   "camara": "M"
+  },
+  {
+   "n": 41,
+   "inicio": 65.64,
+   "fin": 68.14,
+   "texto": "On Friday I walked to Bram's table...",
+   "escenario": "Colegio, cafetería",
+   "en_pantalla": "Narrador cruza la cafetería solo, pasillo largo",
+   "cara": "Susto",
+   "camara": "G"
+  },
+  {
+   "n": 42,
+   "inicio": 68.14,
+   "fin": 70.56,
+   "texto": "My knees knocked so loud...",
+   "escenario": "Colegio, cafetería",
+   "en_pantalla": "Rodillas temblando; cabezas que voltean",
+   "cara": "Sorprendidas",
+   "camara": "C"
+  },
+  {
+   "n": 43,
+   "inicio": 70.56,
+   "fin": 72.16,
+   "texto": "I said, \"I need it back.",
+   "escenario": "Colegio, cafetería",
+   "en_pantalla": "Narrador frente a la mesa de Bram",
+   "cara": "Temblor",
+   "camara": "M"
+  },
+  {
+   "n": 44,
+   "inicio": 72.16,
+   "fin": 74.46,
+   "texto": "I'm scared of stairs. I'm scared of soup.",
+   "escenario": "Colegio, cafetería",
+   "en_pantalla": "Narrador; al fondo alguien aparta su sopa",
+   "cara": "Llanto contenido",
+   "camara": "C"
+  },
+  {
+   "n": 45,
+   "inicio": 74.46,
+   "fin": 76.68,
+   "texto": "And I'm scared you like this table better...",
+   "escenario": "Colegio, cafetería",
+   "en_pantalla": "Narrador mirando al piso; la mesa en silencio",
+   "cara": "Triste",
+   "camara": "C"
+  },
+  {
+   "n": 46,
+   "inicio": 76.68,
+   "fin": 78.8,
+   "texto": "Bram unbuttoned his pocket. Twice.",
+   "escenario": "Colegio, cafetería",
+   "en_pantalla": "Dedos abriendo dos veces el botón",
+   "cara": "(sin personaje)",
+   "camara": "C"
+  },
+  {
+   "n": 47,
+   "inicio": 78.8,
+   "fin": 80.5,
+   "texto": "There it was. Still warm.",
+   "escenario": "Colegio, cafetería",
+   "en_pantalla": "La canica naranja brillando en la mano de Bram",
+   "cara": "(sin personaje)",
+   "camara": "C"
+  },
+  {
+   "n": 48,
+   "inicio": 80.5,
+   "fin": 81.52,
+   "texto": "He never used it.",
+   "escenario": "Colegio, cafetería",
+   "en_pantalla": "Narrador con la boca abierta",
+   "cara": "Asombro",
+   "camara": "C"
+  },
+  {
+   "n": 49,
+   "inicio": 81.52,
+   "fin": 83.72,
+   "texto": "\"I was too scared to put it in,\"",
+   "escenario": "Colegio, cafetería",
+   "en_pantalla": "Bram encogido de hombros",
+   "cara": "Vergüenza",
+   "camara": "M"
+  },
+  {
+   "n": 50,
+   "inicio": 83.72,
+   "fin": 84.48,
+   "texto": "\"What if I broke it?",
+   "escenario": "Colegio, cafetería",
+   "en_pantalla": "Bram mirando la canica en la palma de su mano",
+   "cara": "Miedo",
+   "camara": "C"
+  },
+  {
+   "n": 51,
+   "inicio": 84.48,
+   "fin": 85.74,
+   "texto": "\"So I just sang scared.\"",
+   "escenario": "Colegio, auditorio (recuerdo)",
+   "en_pantalla": "Bram cantando con las piernas temblando",
+   "cara": "Susto",
+   "camara": "M"
+  },
+  {
+   "n": 52,
+   "inicio": 85.74,
+   "fin": 87.56,
+   "texto": "Then why keep it? His ears went red.",
+   "escenario": "Colegio, cafetería",
+   "en_pantalla": "Bram con las orejas rojas",
+   "cara": "Vergüenza",
+   "camara": "C"
+  },
+  {
+   "n": 53,
+   "inicio": 87.56,
+   "fin": 89.32,
+   "texto": "\"It felt like you were up there with me.\"",
+   "escenario": "Colegio, auditorio (recuerdo)",
+   "en_pantalla": "Bram en el escenario, mano sobre el bolsillo que brilla",
+   "cara": "Sonrisa pequeña",
+   "camara": "M"
+  },
+  {
+   "n": 54,
+   "inicio": 89.32,
+   "fin": 90.78,
+   "texto": "He looked at my knees.",
+   "escenario": "Colegio, cafetería",
+   "en_pantalla": "Rodillas del narrador, todavía temblando",
+   "cara": "(sin personaje)",
+   "camara": "C"
+  },
+  {
+   "n": 55,
+   "inicio": 90.78,
+   "fin": 92.34,
+   "texto": "\"You walked over here without it?\"",
+   "escenario": "Colegio, cafetería",
+   "en_pantalla": "Bram y narrador frente a frente",
+   "cara": "Asombro, sonrisa con lágrimas",
+   "camara": "M"
+  },
+  {
+   "n": 56,
+   "inicio": 92.34,
+   "fin": 93.54,
+   "texto": "I pressed it back in.",
+   "escenario": "Colegio, cafetería",
+   "en_pantalla": "La canica se hunde en el pecho del narrador, destello",
+   "cara": "Alivio",
+   "camara": "C"
+  },
+  {
+   "n": 57,
+   "inicio": 93.54,
+   "fin": 95.08,
+   "texto": "Stairs are just stairs again.",
+   "escenario": "Colegio, pasillo",
+   "en_pantalla": "Narrador sube la escalera tranquilo",
+   "cara": "Feliz",
+   "camara": "G"
+  },
+  {
+   "n": 58,
+   "inicio": 95.08,
+   "fin": 96.9,
+   "texto": "Bram still borrows it every Friday.",
+   "escenario": "Colegio, pasillo",
+   "en_pantalla": "Narrador entrega la canica a Bram",
+   "cara": "Felices",
+   "camara": "M"
+  },
+  {
+   "n": 59,
+   "inicio": 96.9,
+   "fin": 99.34,
+   "texto": "He never uses it. He just buttons it twice.",
+   "escenario": "Colegio, pasillo",
+   "en_pantalla": "Bolsillo abotonado que brilla naranja",
+   "cara": "(sin personaje)",
+   "camara": "C"
+  },
+  {
+   "n": 60,
+   "inicio": 99.34,
+   "fin": 101.46,
+   "texto": "And my uncle never returned Dad's.",
+   "escenario": "Sala",
+   "en_pantalla": "Tío haciendo malabares, muy confiado",
+   "cara": "Seguro",
+   "camara": "M"
+  },
+  {
+   "n": 61,
+   "inicio": 101.46,
+   "fin": 103.951,
+   "texto": "We slide pizza under the closet door.",
+   "escenario": "Sala",
+   "en_pantalla": "Porción de pizza deslizándose bajo la puerta del clóset",
+   "cara": "(sin personaje)",
+   "camara": "C"
+  }
+ ]
+}

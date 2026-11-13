@@ -1,0 +1,59 @@
+VIDEO 023
+Internal name: 023-pets-write-reviews-of-their-owners
+Scheduled: día 1 del calendario (videos/CALENDARIO.md), 15:00 Bogota (20:00 UTC)
+Notas internas (no van a YouTube):
+El título principal tiene 49 caracteres y pasa de los 45 que pide la plantilla; se deja el del guion (no pasa de 10 palabras). Si quieres cumplir los 45, usa el título alterno 2.
+
+TITLE (max 45 characters, Title Case, no hashtags, no ALL CAPS)
+In This World, Pets Write Reviews of Their Owners
+
+ALT TITLE 1 (the object, 1 to 3 words)
+One Star
+
+ALT TITLE 2 (the rule without the opener)
+Every Pet Reviews Its Owner
+
+DESCRIPTION (1 or 2 sentences, then credits, then hashtags)
+In this world, every pet writes a review of its owner, and it gets posted on your front door. My cat has given me one star eight Saturdays in a row.
+An original work of fiction, written and animated by Almostville.
+#roblox #robloxstory #funny
+
+HASHTAGS (already in the description; 3 at most; no #shorts needed)
+#roblox #robloxstory #funny
+
+PINNED COMMENT (needs advanced features; a question the story raises)
+What would your pet's review of you say? Stars included.
+
+PLAYLIST
+In This Town: Funny
+
+SERIES (only if the Shorts series feature is available)
+In This Town, Season 1, Episode 01
+
+COVER FRAME
+Timecode: por definir al montar; es el inicio del plano 17 en tiempos/planos.json
+What is in it: plano 17 de la lista de planos del guion: la puerta del narrador con ocho hojas de una estrella y él, derrotado, al lado. Sin subtítulo encima. Alterno: plano 1 (el gato con un lápiz frente a una hoja).
+
+RELATED VIDEO
+022 In This World, Excuses Become True (día 24, lista In This Town: Funny)
+Ese video sale después (día 24). El día 1 no hay otro publicado: deja el campo vacío y ponlo cuando salga.
+Pega aquí la URL cuando exista. Cuando haya un video largo de esta familia, reemplázalo por ese.
+
+AUDIENCE: No, it's not made for kids
+VIDEO LANGUAGE: English (United States)
+CATEGORY: Film & Animation (la predeterminada del canal según docs/07, sección 2.5; la otra opción allí es Entertainment)
+ALTERED CONTENT: No
+Nota (docs/07, sección 3.3): animación de ficción claramente irreal y guion asistido no se declaran. Con voz propia la respuesta es No sin duda. Con voz sintética genérica también es No, pero por interpretación: la ayuda de YouTube no menciona voces sintéticas (sin verificar con texto literal). Nunca una voz clonada de otra persona ni música generada con IA.
+
+CHECK BEFORE PUBLISHING
+[ ] Copyright check finished with no claims
+[ ] Title has no hashtag and no word in ALL CAPS
+[ ] First spoken sentence is the rule and matches the title
+[ ] Cover frame chosen in the mobile app
+[ ] Added to playlist; related video set
+
+PARA EL CANAL EN ESPAÑOL
+Título:
+TU MASCOTA TE PONE ESTRELLAS
+Descripción:
+En este mundo tu mascota escribe cada sábado una reseña sobre ti y queda pegada en la puerta de tu casa; mi gato me ha puesto una estrella ocho sábados seguidos.

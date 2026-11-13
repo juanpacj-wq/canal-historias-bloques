@@ -1,0 +1,16 @@
+# Palabras clave de la prueba: salen en MAYÚSCULAS y con color de acento.
+# Una o varias por línea. No importan mayúsculas ni signos.
+battery
+charge
+beeping
+always
+red
+zero
+strangers
+ketchup
+october
+empty
+eleven
+exploded
+everywhere
+nothing

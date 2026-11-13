@@ -1,0 +1,586 @@
+{
+ "video": "009-apologies-are-paid-in-memories",
+ "duracion": 95.079,
+ "planos": [
+  {
+   "n": 1,
+   "inicio": 0.0,
+   "fin": 3.02,
+   "texto": "In this town, saying sorry costs you...",
+   "escenario": "Pueblo de día",
+   "en_pantalla": "Dos vecinos frente a frente; una foto luminosa flota entre ellos",
+   "cara": "Apenado, serio",
+   "camara": "M"
+  },
+  {
+   "n": 2,
+   "inicio": 3.02,
+   "fin": 5.14,
+   "texto": "and the worse you messed up...",
+   "escenario": "Pueblo de día",
+   "en_pantalla": "Una foto pequeña y una foto enorme, lado a lado",
+   "cara": "(sin personaje)",
+   "camara": "C"
+  },
+  {
+   "n": 3,
+   "inicio": 5.14,
+   "fin": 7.14,
+   "texto": "It slides out of your ear...",
+   "escenario": "Pueblo de día",
+   "en_pantalla": "Foto luminosa saliendo de una oreja",
+   "cara": "Sorpresa",
+   "camara": "C"
+  },
+  {
+   "n": 4,
+   "inicio": 7.14,
+   "fin": 8.76,
+   "texto": "and flies to the person you hurt.",
+   "escenario": "Pueblo de día",
+   "en_pantalla": "La foto cruza el aire y se mete en la frente del otro",
+   "cara": "Asombro",
+   "camara": "M"
+  },
+  {
+   "n": 5,
+   "inicio": 8.76,
+   "fin": 9.52,
+   "texto": "They keep it.",
+   "escenario": "Pueblo de día",
+   "en_pantalla": "El otro sonríe con la foto brillando en la frente",
+   "cara": "Feliz",
+   "camara": "C"
+  },
+  {
+   "n": 6,
+   "inicio": 9.52,
+   "fin": 10.76,
+   "texto": "Bump someone in the hall,",
+   "escenario": "Colegio, pasillo",
+   "en_pantalla": "Dos estudiantes chocan, libros al piso",
+   "cara": "Susto",
+   "camara": "M"
+  },
+  {
+   "n": 7,
+   "inicio": 10.76,
+   "fin": 12.48,
+   "texto": "and you lose a pretty good sandwich.",
+   "escenario": "Colegio, pasillo",
+   "en_pantalla": "Foto de un sándwich saliendo de la oreja",
+   "cara": "Resignado",
+   "camara": "C"
+  },
+  {
+   "n": 8,
+   "inicio": 12.48,
+   "fin": 14.18,
+   "texto": "My dad backed over Mr. Tuttle's mailbox",
+   "escenario": "Calle",
+   "en_pantalla": "Carro en reversa sobre un buzón aplastado",
+   "cara": "Papá con susto",
+   "camara": "G"
+  },
+  {
+   "n": 9,
+   "inicio": 14.18,
+   "fin": 15.88,
+   "texto": "and lost a whole beach trip.",
+   "escenario": "Calle",
+   "en_pantalla": "Foto grande de una playa volando hacia el vecino",
+   "cara": "Papá triste",
+   "camara": "M"
+  },
+  {
+   "n": 10,
+   "inicio": 15.88,
+   "fin": 17.92,
+   "texto": "Now Mr. Tuttle remembers our vacation.",
+   "escenario": "Calle",
+   "en_pantalla": "Mr. Tuttle en su jardín con gafas de sol y flotador",
+   "cara": "Relajado",
+   "camara": "M"
+  },
+  {
+   "n": 11,
+   "inicio": 17.92,
+   "fin": 19.76,
+   "texto": "He says the hotel was just okay.",
+   "escenario": "Calle",
+   "en_pantalla": "Mr. Tuttle con la mano en gesto de \"más o menos\"",
+   "cara": "Indiferente",
+   "camara": "C"
+  },
+  {
+   "n": 12,
+   "inicio": 19.76,
+   "fin": 21.9,
+   "texto": "I'm fourteen, and I've never said sorry.",
+   "escenario": "Cuarto",
+   "en_pantalla": "Narrador con los brazos cruzados",
+   "cara": "Orgulloso",
+   "camara": "M"
+  },
+  {
+   "n": 13,
+   "inicio": 21.9,
+   "fin": 22.7,
+   "texto": "Not once.",
+   "escenario": "Cuarto",
+   "en_pantalla": "Narrador negando con la cabeza",
+   "cara": "Terco",
+   "camara": "C"
+  },
+  {
+   "n": 14,
+   "inicio": 22.7,
+   "fin": 25.1,
+   "texto": "So I still have every happy memory...",
+   "escenario": "Cuarto",
+   "en_pantalla": "Pared cubierta de fotos luminosas",
+   "cara": "Satisfecho",
+   "camara": "G"
+  },
+  {
+   "n": 15,
+   "inicio": 25.1,
+   "fin": 27.18,
+   "texto": "My best one is a blackout when I was seven.",
+   "escenario": "Sala de noche",
+   "en_pantalla": "Sala a oscuras, ventana con luna",
+   "cara": "(sin personaje)",
+   "camara": "G"
+  },
+  {
+   "n": 16,
+   "inicio": 27.18,
+   "fin": 29.18,
+   "texto": "Me and my big sister Nell built a blanket fort.",
+   "escenario": "Sala de noche",
+   "en_pantalla": "Fuerte de cobijas con una linterna encendida adentro",
+   "cara": "Narrador pequeño y Nell felices",
+   "camara": "M"
+  },
+  {
+   "n": 17,
+   "inicio": 29.18,
+   "fin": 31.22,
+   "texto": "We ate a whole tub of melting ice cream",
+   "escenario": "Sala de noche",
+   "en_pantalla": "Tarro de helado derretido",
+   "cara": "Risa",
+   "camara": "C"
+  },
+  {
+   "n": 18,
+   "inicio": 31.22,
+   "fin": 31.86,
+   "texto": "with one spoon.",
+   "escenario": "Sala de noche",
+   "en_pantalla": "Una sola cuchara entre dos manos",
+   "cara": "(sin personaje)",
+   "camara": "C"
+  },
+  {
+   "n": 19,
+   "inicio": 31.86,
+   "fin": 33.66,
+   "texto": "Then Nell started packing for college.",
+   "escenario": "Cuarto de Nell",
+   "en_pantalla": "Nell entre cajas de cartón y una maleta",
+   "cara": "Nostálgica",
+   "camara": "M"
+  },
+  {
+   "n": 20,
+   "inicio": 33.66,
+   "fin": 35.14,
+   "texto": "I said, \"Good.",
+   "escenario": "Cuarto de Nell",
+   "en_pantalla": "Narrador recostado en el marco de la puerta",
+   "cara": "Burlón",
+   "camara": "M"
+  },
+  {
+   "n": 21,
+   "inicio": 35.14,
+   "fin": 36.24,
+   "texto": "I finally get your room.\"",
+   "escenario": "Cuarto de Nell",
+   "en_pantalla": "Nell deja caer una caja",
+   "cara": "Dolida",
+   "camara": "C"
+  },
+  {
+   "n": 22,
+   "inicio": 36.24,
+   "fin": 37.84,
+   "texto": "She hasn't spoken to me in nine days.",
+   "escenario": "Cocina",
+   "en_pantalla": "Nell pasa al lado del narrador sin mirarlo",
+   "cara": "Seria, incómodo",
+   "camara": "M"
+  },
+  {
+   "n": 23,
+   "inicio": 37.84,
+   "fin": 39.24,
+   "texto": "She leaves Sunday at noon.",
+   "escenario": "Cocina",
+   "en_pantalla": "Calendario con el domingo encerrado en rojo",
+   "cara": "(sin personaje)",
+   "camara": "C"
+  },
+  {
+   "n": 24,
+   "inicio": 39.24,
+   "fin": 41.02,
+   "texto": "So I tried to fix it for free.",
+   "escenario": "Cuarto",
+   "en_pantalla": "Narrador frotándose las manos",
+   "cara": "Pícaro",
+   "camara": "C"
+  },
+  {
+   "n": 25,
+   "inicio": 41.02,
+   "fin": 42.04,
+   "texto": "I said \"my bad.\"",
+   "escenario": "Pasillo de la casa",
+   "en_pantalla": "Narrador frente a la puerta cerrada de Nell",
+   "cara": "Despreocupado",
+   "camara": "M"
+  },
+  {
+   "n": 26,
+   "inicio": 42.04,
+   "fin": 43.26,
+   "texto": "\"My bad\" costs nothing.",
+   "escenario": "Pasillo de la casa",
+   "en_pantalla": "Las palabras MY BAD flotan, grises y sin brillo",
+   "cara": "(sin personaje)",
+   "camara": "C"
+  },
+  {
+   "n": 27,
+   "inicio": 43.26,
+   "fin": 44.56,
+   "texto": "It bounced off her door.",
+   "escenario": "Pasillo de la casa",
+   "en_pantalla": "Las palabras rebotan en la puerta y caen al piso",
+   "cara": "Decepcionado",
+   "camara": "M"
+  },
+  {
+   "n": 28,
+   "inicio": 44.56,
+   "fin": 46.56,
+   "texto": "I baked her twenty-four apology cookies.",
+   "escenario": "Cocina",
+   "en_pantalla": "Bandeja con 24 galletas; narrador con harina en la cara",
+   "cara": "Esperanzado",
+   "camara": "M"
+  },
+  {
+   "n": 29,
+   "inicio": 46.56,
+   "fin": 48.56,
+   "texto": "I wrote \"oops\" on every one in frosting.",
+   "escenario": "Cocina",
+   "en_pantalla": "Galleta con la palabra OOPS",
+   "cara": "(sin personaje)",
+   "camara": "C"
+  },
+  {
+   "n": 30,
+   "inicio": 48.56,
+   "fin": 49.76,
+   "texto": "She fed them to the dog.",
+   "escenario": "Patio",
+   "en_pantalla": "Perro feliz rodeado de migas",
+   "cara": "Nell seria",
+   "camara": "M"
+  },
+  {
+   "n": 31,
+   "inicio": 49.76,
+   "fin": 51.4,
+   "texto": "Then I paid our neighbor Gus six dollars...",
+   "escenario": "Calle",
+   "en_pantalla": "Narrador entrega billetes a Gus",
+   "cara": "Pícaro, contento",
+   "camara": "M"
+  },
+  {
+   "n": 32,
+   "inicio": 51.4,
+   "fin": 52.64,
+   "texto": "to say sorry for me.",
+   "escenario": "Pasillo de la casa",
+   "en_pantalla": "Gus frente a la puerta de Nell",
+   "cara": "Confundido",
+   "camara": "M"
+  },
+  {
+   "n": 33,
+   "inicio": 52.64,
+   "fin": 54.36,
+   "texto": "He lost a memory of a waterslide.",
+   "escenario": "Pasillo de la casa",
+   "en_pantalla": "Foto de un tobogán de agua saliendo de la oreja de Gus",
+   "cara": "Susto",
+   "camara": "C"
+  },
+  {
+   "n": 34,
+   "inicio": 54.36,
+   "fin": 55.46,
+   "texto": "Nell felt nothing.",
+   "escenario": "Cuarto de Nell",
+   "en_pantalla": "Nell con la foto del tobogán en la mano",
+   "cara": "Indiferente",
+   "camara": "C"
+  },
+  {
+   "n": 35,
+   "inicio": 55.46,
+   "fin": 57.26,
+   "texto": "Gus wants his waterslide back.",
+   "escenario": "Calle",
+   "en_pantalla": "Gus con flotador y el ceño fruncido",
+   "cara": "Enojado",
+   "camara": "M"
+  },
+  {
+   "n": 36,
+   "inicio": 57.26,
+   "fin": 58.86,
+   "texto": "Sunday, 11:52.",
+   "escenario": "Sala",
+   "en_pantalla": "Reloj de pared en 11:52",
+   "cara": "(sin personaje)",
+   "camara": "C"
+  },
+  {
+   "n": 37,
+   "inicio": 58.86,
+   "fin": 59.98,
+   "texto": "Her car was packed.",
+   "escenario": "Entrada de la casa",
+   "en_pantalla": "Carro con cajas hasta el techo",
+   "cara": "(sin personaje)",
+   "camara": "G"
+  },
+  {
+   "n": 38,
+   "inicio": 59.98,
+   "fin": 61.88,
+   "texto": "I stood in the driveway and said it.",
+   "escenario": "Entrada de la casa",
+   "en_pantalla": "Narrador delante del carro, Nell con las llaves",
+   "cara": "Nervioso, seria",
+   "camara": "G"
+  },
+  {
+   "n": 39,
+   "inicio": 61.88,
+   "fin": 62.32,
+   "texto": "\"I'm sorry.",
+   "escenario": "Entrada de la casa",
+   "en_pantalla": "Narrador",
+   "cara": "Ojos aguados",
+   "camara": "C"
+  },
+  {
+   "n": 40,
+   "inicio": 62.32,
+   "fin": 63.64,
+   "texto": "I don't want your room.",
+   "escenario": "Cuarto de Nell",
+   "en_pantalla": "Cuarto vacío, solo la cama",
+   "cara": "(sin personaje)",
+   "camara": "G"
+  },
+  {
+   "n": 41,
+   "inicio": 63.64,
+   "fin": 64.54,
+   "texto": "I want you in it.\"",
+   "escenario": "Entrada de la casa",
+   "en_pantalla": "Narrador mirando a Nell",
+   "cara": "Llanto contenido",
+   "camara": "C"
+  },
+  {
+   "n": 42,
+   "inicio": 64.54,
+   "fin": 65.34,
+   "texto": "My ear got warm.",
+   "escenario": "Entrada de la casa",
+   "en_pantalla": "Oreja del narrador brillando",
+   "cara": "Susto",
+   "camara": "C"
+  },
+  {
+   "n": 43,
+   "inicio": 65.34,
+   "fin": 67.48,
+   "texto": "I figured I'd lose my laser tag birthday.",
+   "escenario": "(recuerdo)",
+   "en_pantalla": "Foto de un cumpleaños con chalecos de luces",
+   "cara": "(sin personaje)",
+   "camara": "C"
+  },
+  {
+   "n": 44,
+   "inicio": 67.48,
+   "fin": 68.92,
+   "texto": "A little photo slid out.",
+   "escenario": "Entrada de la casa",
+   "en_pantalla": "Foto pequeña saliendo de la oreja",
+   "cara": "Sorpresa",
+   "camara": "C"
+  },
+  {
+   "n": 45,
+   "inicio": 68.92,
+   "fin": 70.84,
+   "texto": "I saw a flashlight. A blanket.",
+   "escenario": "Entrada de la casa",
+   "en_pantalla": "Dentro de la foto: linterna y cobija",
+   "cara": "(sin personaje)",
+   "camara": "C"
+  },
+  {
+   "n": 46,
+   "inicio": 70.84,
+   "fin": 71.6,
+   "texto": "One spoon.",
+   "escenario": "Entrada de la casa",
+   "en_pantalla": "Dentro de la foto: la cuchara",
+   "cara": "Narrador con ojos muy abiertos",
+   "camara": "C"
+  },
+  {
+   "n": 47,
+   "inicio": 71.6,
+   "fin": 73.16,
+   "texto": "Then it flew into Nell's forehead,",
+   "escenario": "Entrada de la casa",
+   "en_pantalla": "La foto entra en la frente de Nell, destello",
+   "cara": "Asombro",
+   "camara": "M"
+  },
+  {
+   "n": 48,
+   "inicio": 73.16,
+   "fin": 74.96,
+   "texto": "and I couldn't tell you what was on it.",
+   "escenario": "Entrada de la casa",
+   "en_pantalla": "Narrador mirando al aire, una foto en blanco",
+   "cara": "Vacía, confundido",
+   "camara": "C"
+  },
+  {
+   "n": 49,
+   "inicio": 74.96,
+   "fin": 75.94,
+   "texto": "Nell started crying.",
+   "escenario": "Entrada de la casa",
+   "en_pantalla": "Nell con lágrimas azules",
+   "cara": "Llanto",
+   "camara": "C"
+  },
+  {
+   "n": 50,
+   "inicio": 75.94,
+   "fin": 78.46,
+   "texto": "She hugged me so hard my shoes left the driveway.",
+   "escenario": "Entrada de la casa",
+   "en_pantalla": "Nell alza al narrador; sus zapatos en el aire",
+   "cara": "Llanto feliz, sorpresa",
+   "camara": "M"
+  },
+  {
+   "n": 51,
+   "inicio": 78.46,
+   "fin": 80.4,
+   "texto": "I don't remember that blackout anymore.",
+   "escenario": "Cuarto",
+   "en_pantalla": "Pared de fotos con un hueco vacío",
+   "cara": "Tranquilo",
+   "camara": "M"
+  },
+  {
+   "n": 52,
+   "inicio": 80.4,
+   "fin": 83.22,
+   "texto": "Everything I told you about the fort, Nell told me.",
+   "escenario": "Sala",
+   "en_pantalla": "Nell contando con las manos; narrador escuchando",
+   "cara": "Animada, atento",
+   "camara": "M"
+  },
+  {
+   "n": 53,
+   "inicio": 83.22,
+   "fin": 84.6,
+   "texto": "She got my copy.",
+   "escenario": "Sala",
+   "en_pantalla": "Dos fotos idénticas flotando sobre Nell",
+   "cara": "Feliz",
+   "camara": "C"
+  },
+  {
+   "n": 54,
+   "inicio": 84.6,
+   "fin": 86.72,
+   "texto": "So now she remembers that night twice.",
+   "escenario": "Sala de noche (recuerdo)",
+   "en_pantalla": "El fuerte de cobijas visto dos veces, pantalla partida",
+   "cara": "(sin personaje)",
+   "camara": "G"
+  },
+  {
+   "n": 55,
+   "inicio": 86.72,
+   "fin": 88.34,
+   "texto": "Once as her. Once as me.",
+   "escenario": "Sala de noche (recuerdo)",
+   "en_pantalla": "Vista desde adentro del fuerte, a la altura de un niño",
+   "cara": "(sin personaje)",
+   "camara": "M"
+  },
+  {
+   "n": 56,
+   "inicio": 88.34,
+   "fin": 90.82,
+   "texto": "She says in my version, she's ten feet tall.",
+   "escenario": "Sala de noche (recuerdo)",
+   "en_pantalla": "Nell gigante con la linterna, vista desde abajo",
+   "cara": "Heroica",
+   "camara": "G"
+  },
+  {
+   "n": 57,
+   "inicio": 90.82,
+   "fin": 93.4,
+   "texto": "She also says I promised her my dessert...",
+   "escenario": "Cocina",
+   "en_pantalla": "Nell se lleva el postre del narrador",
+   "cara": "Pícara",
+   "camara": "M"
+  },
+  {
+   "n": 58,
+   "inicio": 93.4,
+   "fin": 95.079,
+   "texto": "I can't prove I didn't.",
+   "escenario": "Cocina",
+   "en_pantalla": "Narrador con la cuchara vacía en la mano",
+   "cara": "Resignado, sonrisa",
+   "camara": "C"
+  }
+ ]
+}

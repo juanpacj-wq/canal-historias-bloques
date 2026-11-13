@@ -1,0 +1,706 @@
+{
+ "video": "013-hugs-are-counted",
+ "duracion": 99.514,
+ "planos": [
+  {
+   "n": 1,
+   "inicio": 0.0,
+   "fin": 2.84,
+   "texto": "In this world, you're born with exactly one thousand hugs,",
+   "escenario": "Sala",
+   "en_pantalla": "Bebé en una cuna con un \"1000\" brillando en la muñeca",
+   "cara": "Feliz",
+   "camara": "M"
+  },
+  {
+   "n": 2,
+   "inicio": 2.84,
+   "fin": 4.34,
+   "texto": "and there's a counter on your wrist.",
+   "escenario": "Sala",
+   "en_pantalla": "Muñeca con contador digital",
+   "cara": "(sin personaje)",
+   "camara": "C"
+  },
+  {
+   "n": 3,
+   "inicio": 4.34,
+   "fin": 5.88,
+   "texto": "Every hug, it ticks down.",
+   "escenario": "Parque",
+   "en_pantalla": "Dos amigos se abrazan; baja un solo contador",
+   "cara": "Felices",
+   "camara": "M"
+  },
+  {
+   "n": 4,
+   "inicio": 5.88,
+   "fin": 7.94,
+   "texto": "But only for whoever opens their arms first.",
+   "escenario": "Parque",
+   "en_pantalla": "El que abrió los brazos mira su número en rojo; el otro, intacto",
+   "cara": "Susto, alivio",
+   "camara": "C"
+  },
+  {
+   "n": 5,
+   "inicio": 7.94,
+   "fin": 9.32,
+   "texto": "So nobody goes first.",
+   "escenario": "Pueblo",
+   "en_pantalla": "Dos vecinos frente a frente, con los brazos pegados al cuerpo",
+   "cara": "Incómodos",
+   "camara": "G"
+  },
+  {
+   "n": 6,
+   "inicio": 9.32,
+   "fin": 11.14,
+   "texto": "My teacher only gives thumbs-ups.",
+   "escenario": "Colegio, salón",
+   "en_pantalla": "Profesora con el pulgar arriba, muy rígida",
+   "cara": "Sonrisa tensa",
+   "camara": "M"
+  },
+  {
+   "n": 7,
+   "inicio": 11.14,
+   "fin": 13.32,
+   "texto": "At our family reunion, forty people stood around",
+   "escenario": "Patio",
+   "en_pantalla": "Cuarenta familiares de pie, quietos, con los brazos abajo",
+   "cara": "Tensos",
+   "camara": "G"
+  },
+  {
+   "n": 8,
+   "inicio": 13.32,
+   "fin": 15.04,
+   "texto": "with their arms down for six hours.",
+   "escenario": "Patio",
+   "en_pantalla": "Reloj de pared marcando seis horas; nadie se ha movido",
+   "cara": "Agotados",
+   "camara": "M"
+  },
+  {
+   "n": 9,
+   "inicio": 15.04,
+   "fin": 16.58,
+   "texto": "My uncle cracked at his own wedding.",
+   "escenario": "Sala de fiesta",
+   "en_pantalla": "Tío de corbatín abrazando a una fila de invitados",
+   "cara": "Emocionado",
+   "camara": "G"
+  },
+  {
+   "n": 10,
+   "inicio": 16.58,
+   "fin": 18.0,
+   "texto": "He hit zero before the cake.",
+   "escenario": "Sala de fiesta",
+   "en_pantalla": "Contador en \"0\"; torta de bodas sin partir al fondo",
+   "cara": "Susto",
+   "camara": "C"
+  },
+  {
+   "n": 11,
+   "inicio": 18.0,
+   "fin": 19.46,
+   "texto": "Now he does finger guns.",
+   "escenario": "Sala de fiesta",
+   "en_pantalla": "Tío apuntando con dos dedos, guiño",
+   "cara": "Guiño",
+   "camara": "M"
+  },
+  {
+   "n": 12,
+   "inicio": 19.46,
+   "fin": 20.64,
+   "texto": "Dogs don't have counters.",
+   "escenario": "Patio",
+   "en_pantalla": "Perro saltando encima de alguien; pata sin contador",
+   "cara": "Risa",
+   "camara": "M"
+  },
+  {
+   "n": 13,
+   "inicio": 20.64,
+   "fin": 21.64,
+   "texto": "Nobody knows why.",
+   "escenario": "Patio",
+   "en_pantalla": "Narrador rascándose la cabeza",
+   "cara": "Pensativo",
+   "camara": "C"
+  },
+  {
+   "n": 14,
+   "inicio": 21.64,
+   "fin": 22.7,
+   "texto": "Everybody knows why.",
+   "escenario": "Patio",
+   "en_pantalla": "Perro lamiendo la cara del narrador",
+   "cara": "Feliz",
+   "camara": "C"
+  },
+  {
+   "n": 15,
+   "inicio": 22.7,
+   "fin": 23.48,
+   "texto": "I'm a spender.",
+   "escenario": "Parque",
+   "en_pantalla": "Narrador con los brazos abiertos de par en par",
+   "cara": "Feliz",
+   "camara": "M"
+  },
+  {
+   "n": 16,
+   "inicio": 23.48,
+   "fin": 24.72,
+   "texto": "I always go first.",
+   "escenario": "Parque",
+   "en_pantalla": "Narrador abrazando a un extra que no alcanzó a reaccionar",
+   "cara": "Feliz, sorprendido",
+   "camara": "M"
+  },
+  {
+   "n": 17,
+   "inicio": 24.72,
+   "fin": 27.38,
+   "texto": "When I was five, I used eleven hugs on one snowman.",
+   "escenario": "Patio con nieve",
+   "en_pantalla": "Narrador pequeño abrazado a un muñeco de nieve; contador bajando rápido",
+   "cara": "Feliz",
+   "camara": "M"
+  },
+  {
+   "n": 18,
+   "inicio": 27.38,
+   "fin": 28.12,
+   "texto": "His name was Gerald.",
+   "escenario": "Patio con nieve",
+   "en_pantalla": "Muñeco de nieve con bufanda y letrero \"GERALD\"",
+   "cara": "(sin personaje)",
+   "camara": "M"
+  },
+  {
+   "n": 19,
+   "inicio": 28.12,
+   "fin": 30.58,
+   "texto": "I'm fourteen now, and I have four left.",
+   "escenario": "Cuarto",
+   "en_pantalla": "Muñeca del narrador: \"4\" en rojo",
+   "cara": "Susto",
+   "camara": "C"
+  },
+  {
+   "n": 20,
+   "inicio": 30.58,
+   "fin": 32.4,
+   "texto": "My grandma has nine hundred thirty-one.",
+   "escenario": "Sala de la abuela",
+   "en_pantalla": "Abuela en su silla; contador \"931\"",
+   "cara": "Seria",
+   "camara": "M"
+  },
+  {
+   "n": 21,
+   "inicio": 32.4,
+   "fin": 33.9,
+   "texto": "She has never opened her arms.",
+   "escenario": "Sala de la abuela",
+   "en_pantalla": "Abuela con las manos cruzadas sobre el regazo",
+   "cara": "Seria",
+   "camara": "C"
+  },
+  {
+   "n": 22,
+   "inicio": 33.9,
+   "fin": 34.66,
+   "texto": "Not once.",
+   "escenario": "Sala de la abuela",
+   "en_pantalla": "Foto familiar: todos abrazados menos la abuela, tiesa",
+   "cara": "(sin personaje)",
+   "camara": "C"
+  },
+  {
+   "n": 23,
+   "inicio": 34.66,
+   "fin": 36.1,
+   "texto": "She just pats your head twice,",
+   "escenario": "Sala de la abuela",
+   "en_pantalla": "Mano de la abuela dando dos palmaditas en la cabeza del narrador",
+   "cara": "Resignado",
+   "camara": "M"
+  },
+  {
+   "n": 24,
+   "inicio": 36.1,
+   "fin": 37.36,
+   "texto": "like she's checking a melon.",
+   "escenario": "Cocina",
+   "en_pantalla": "La abuela dando las mismas dos palmaditas a un melón",
+   "cara": "Concentrada",
+   "camara": "C"
+  },
+  {
+   "n": 25,
+   "inicio": 37.36,
+   "fin": 38.9,
+   "texto": "I figured she didn't like hugs.",
+   "escenario": "Sala de la abuela",
+   "en_pantalla": "Narrador mirándola de reojo",
+   "cara": "Triste",
+   "camara": "C"
+  },
+  {
+   "n": 26,
+   "inicio": 38.9,
+   "fin": 39.58,
+   "texto": "Four hugs.",
+   "escenario": "Cuarto",
+   "en_pantalla": "El \"4\" rojo parpadeando",
+   "cara": "(sin personaje)",
+   "camara": "C"
+  },
+  {
+   "n": 27,
+   "inicio": 39.58,
+   "fin": 40.72,
+   "texto": "For the rest of my life.",
+   "escenario": "Cuarto",
+   "en_pantalla": "Narrador acostado mirando el techo",
+   "cara": "Angustia",
+   "camara": "M"
+  },
+  {
+   "n": 28,
+   "inicio": 40.72,
+   "fin": 42.56,
+   "texto": "And Grandma turns eighty-one on Sunday.",
+   "escenario": "Cocina",
+   "en_pantalla": "Calendario con el domingo marcado y un \"81\"",
+   "cara": "(sin personaje)",
+   "camara": "C"
+  },
+  {
+   "n": 29,
+   "inicio": 42.56,
+   "fin": 43.72,
+   "texto": "I wanted to give her one.",
+   "escenario": "Cuarto",
+   "en_pantalla": "Narrador mirando una foto de la abuela",
+   "cara": "Ternura",
+   "camara": "C"
+  },
+  {
+   "n": 30,
+   "inicio": 43.72,
+   "fin": 45.12,
+   "texto": "I also wanted to keep it.",
+   "escenario": "Cuarto",
+   "en_pantalla": "Narrador tapando su contador con la otra mano",
+   "cara": "Culpa",
+   "camara": "C"
+  },
+  {
+   "n": 31,
+   "inicio": 45.12,
+   "fin": 46.66,
+   "texto": "So I tried to cheat the counter.",
+   "escenario": "Cuarto",
+   "en_pantalla": "Narrador con lupa sobre su contador",
+   "cara": "Decidido",
+   "camara": "M"
+  },
+  {
+   "n": 32,
+   "inicio": 46.66,
+   "fin": 48.36,
+   "texto": "I hugged my mom wearing oven mitts.",
+   "escenario": "Cocina",
+   "en_pantalla": "Narrador con guantes de horno abrazando a la mamá",
+   "cara": "Esperanzado, confundida",
+   "camara": "M"
+  },
+  {
+   "n": 33,
+   "inicio": 48.36,
+   "fin": 49.52,
+   "texto": "It counted. Three.",
+   "escenario": "Cocina",
+   "en_pantalla": "Contador baja a \"3\"",
+   "cara": "Decepción",
+   "camara": "C"
+  },
+  {
+   "n": 34,
+   "inicio": 49.52,
+   "fin": 50.08,
+   "texto": "I hugged a tree",
+   "escenario": "Parque",
+   "en_pantalla": "Narrador con los brazos alrededor de un tronco",
+   "cara": "Concentrado",
+   "camara": "M"
+  },
+  {
+   "n": 35,
+   "inicio": 50.08,
+   "fin": 51.68,
+   "texto": "and waited for it to go first.",
+   "escenario": "Parque",
+   "en_pantalla": "Narrador frente al árbol, brazos abajo, mirándolo fijo",
+   "cara": "Esperando",
+   "camara": "G"
+  },
+  {
+   "n": 36,
+   "inicio": 51.68,
+   "fin": 52.8,
+   "texto": "Trees never go first.",
+   "escenario": "Parque",
+   "en_pantalla": "El árbol, inmóvil; cae una hoja",
+   "cara": "Narrador ofendido",
+   "camara": "M"
+  },
+  {
+   "n": 37,
+   "inicio": 52.8,
+   "fin": 53.26,
+   "texto": "Two.",
+   "escenario": "Parque",
+   "en_pantalla": "Contador baja a \"2\"",
+   "cara": "Susto",
+   "camara": "C"
+  },
+  {
+   "n": 38,
+   "inicio": 53.26,
+   "fin": 54.84,
+   "texto": "Then my friend Hollis and I counted down",
+   "escenario": "Colegio, pasillo",
+   "en_pantalla": "Narrador y Hollis frente a frente; \"3, 2, 1\" flotando",
+   "cara": "Serios",
+   "camara": "M"
+  },
+  {
+   "n": 39,
+   "inicio": 54.84,
+   "fin": 56.5,
+   "texto": "and opened at the exact same time.",
+   "escenario": "Colegio, pasillo",
+   "en_pantalla": "Los dos abren los brazos en el mismo instante",
+   "cara": "Concentrados",
+   "camara": "M"
+  },
+  {
+   "n": 40,
+   "inicio": 56.5,
+   "fin": 57.32,
+   "texto": "It charged us both.",
+   "escenario": "Colegio, pasillo",
+   "en_pantalla": "Dos contadores bajando al tiempo",
+   "cara": "Susto doble",
+   "camara": "C"
+  },
+  {
+   "n": 41,
+   "inicio": 57.32,
+   "fin": 58.04,
+   "texto": "One.",
+   "escenario": "Colegio, pasillo",
+   "en_pantalla": "Muñeca del narrador: \"1\"",
+   "cara": "Pánico",
+   "camara": "C"
+  },
+  {
+   "n": 42,
+   "inicio": 58.04,
+   "fin": 59.26,
+   "texto": "Hollis is still mad.",
+   "escenario": "Colegio, pasillo",
+   "en_pantalla": "Hollis pasa de largo con los brazos cruzados",
+   "cara": "Enojado",
+   "camara": "M"
+  },
+  {
+   "n": 43,
+   "inicio": 59.26,
+   "fin": 61.38,
+   "texto": "On Sunday, I had one hug and one grandma.",
+   "escenario": "Sala de la abuela",
+   "en_pantalla": "Torta con velas \"81\"; la abuela en su silla; narrador en la puerta",
+   "cara": "Nervioso",
+   "camara": "G"
+  },
+  {
+   "n": 44,
+   "inicio": 61.38,
+   "fin": 63.32,
+   "texto": "She sat in her chair with her hands folded.",
+   "escenario": "Sala de la abuela",
+   "en_pantalla": "Abuela con las manos cruzadas sobre el regazo",
+   "cara": "Seria",
+   "camara": "M"
+  },
+  {
+   "n": 45,
+   "inicio": 63.32,
+   "fin": 64.32,
+   "texto": "Same as always.",
+   "escenario": "Sala de la abuela",
+   "en_pantalla": "Manos de la abuela, quietas",
+   "cara": "(sin personaje)",
+   "camara": "C"
+  },
+  {
+   "n": 46,
+   "inicio": 64.32,
+   "fin": 65.38,
+   "texto": "I looked at my wrist.",
+   "escenario": "Sala de la abuela",
+   "en_pantalla": "Muñeca del narrador: \"1\"",
+   "cara": "(sin personaje)",
+   "camara": "C"
+  },
+  {
+   "n": 47,
+   "inicio": 65.38,
+   "fin": 66.84,
+   "texto": "Then I decided she was worth it.",
+   "escenario": "Sala de la abuela",
+   "en_pantalla": "Narrador levanta la mirada hacia la abuela",
+   "cara": "Decidido",
+   "camara": "C"
+  },
+  {
+   "n": 48,
+   "inicio": 66.84,
+   "fin": 68.46,
+   "texto": "I walked up and opened my arms.",
+   "escenario": "Sala de la abuela",
+   "en_pantalla": "Brazos del narrador empezando a abrirse",
+   "cara": "Ojos aguados",
+   "camara": "M"
+  },
+  {
+   "n": 49,
+   "inicio": 68.46,
+   "fin": 69.6,
+   "texto": "She grabbed my wrists.",
+   "escenario": "Sala de la abuela",
+   "en_pantalla": "Manos de la abuela sujetando las muñecas del narrador",
+   "cara": "(sin personaje)",
+   "camara": "C"
+  },
+  {
+   "n": 50,
+   "inicio": 69.6,
+   "fin": 71.16,
+   "texto": "\"Put those away,\" she said.",
+   "escenario": "Sala de la abuela",
+   "en_pantalla": "Abuela con el ceño fruncido",
+   "cara": "Firme",
+   "camara": "C"
+  },
+  {
+   "n": 51,
+   "inicio": 71.16,
+   "fin": 72.72,
+   "texto": "Then she opened hers. Wide.",
+   "escenario": "Sala de la abuela",
+   "en_pantalla": "Abuela con los brazos abiertos de par en par",
+   "cara": "Ternura",
+   "camara": "M"
+  },
+  {
+   "n": 52,
+   "inicio": 72.72,
+   "fin": 74.02,
+   "texto": "I'd never seen her do that.",
+   "escenario": "Sala de la abuela",
+   "en_pantalla": "Narrador con la boca abierta",
+   "cara": "Asombro",
+   "camara": "C"
+  },
+  {
+   "n": 53,
+   "inicio": 74.02,
+   "fin": 75.08,
+   "texto": "Her counter ticked.",
+   "escenario": "Sala de la abuela",
+   "en_pantalla": "Abuela abrazando al narrador; su contador parpadea",
+   "cara": "Llanto feliz",
+   "camara": "M"
+  },
+  {
+   "n": 54,
+   "inicio": 75.08,
+   "fin": 76.06,
+   "texto": "Nine hundred thirty.",
+   "escenario": "Sala de la abuela",
+   "en_pantalla": "Muñeca de la abuela: de \"931\" a \"930\"",
+   "cara": "(sin personaje)",
+   "camara": "C"
+  },
+  {
+   "n": 55,
+   "inicio": 76.06,
+   "fin": 77.24,
+   "texto": "Mine still said one.",
+   "escenario": "Sala de la abuela",
+   "en_pantalla": "Muñeca del narrador: \"1\"",
+   "cara": "(sin personaje)",
+   "camara": "C"
+  },
+  {
+   "n": 56,
+   "inicio": 77.24,
+   "fin": 78.54,
+   "texto": "She smelled like peppermint.",
+   "escenario": "Sala de la abuela",
+   "en_pantalla": "Frasco de mentas en la mesita; los dos abrazados al fondo",
+   "cara": "Ojos cerrados",
+   "camara": "M"
+  },
+  {
+   "n": 57,
+   "inicio": 78.54,
+   "fin": 80.06,
+   "texto": "\"Eighty-one years,\" she said.",
+   "escenario": "Sala de la abuela",
+   "en_pantalla": "Cara de la abuela",
+   "cara": "Sonrisa pequeña",
+   "camara": "C"
+  },
+  {
+   "n": 58,
+   "inicio": 80.06,
+   "fin": 81.22,
+   "texto": "\"I never went first.",
+   "escenario": "Sala de la abuela (recuerdo)",
+   "en_pantalla": "Abuela joven en una fiesta, brazos pegados al cuerpo, contador casi lleno",
+   "cara": "Seria",
+   "camara": "M"
+  },
+  {
+   "n": 59,
+   "inicio": 81.22,
+   "fin": 82.2,
+   "texto": "I was saving them.",
+   "escenario": "Sala de la abuela (recuerdo)",
+   "en_pantalla": "Contador \"931\" a lo largo de los años: mismas cifras, manos cada vez más viejas",
+   "cara": "(sin personaje)",
+   "camara": "C"
+  },
+  {
+   "n": 60,
+   "inicio": 82.2,
+   "fin": 83.62,
+   "texto": "I just didn't know who for.",
+   "escenario": "Sala de la abuela (recuerdo)",
+   "en_pantalla": "Abuela sola en la ventana",
+   "cara": "Seria",
+   "camara": "M"
+  },
+  {
+   "n": 61,
+   "inicio": 83.62,
+   "fin": 85.86,
+   "texto": "Then I watched a five-year-old hug a snowman eleven times.\"",
+   "escenario": "Patio con nieve (recuerdo)",
+   "en_pantalla": "Abuela en la ventana mirando al niño abrazado a Gerald",
+   "cara": "Sonrisa",
+   "camara": "M"
+  },
+  {
+   "n": 62,
+   "inicio": 85.86,
+   "fin": 87.16,
+   "texto": "She's hugged me every morning since.",
+   "escenario": "Cocina",
+   "en_pantalla": "Abuela abrazando al narrador junto a la mesa del desayuno",
+   "cara": "Felices",
+   "camara": "M"
+  },
+  {
+   "n": 63,
+   "inicio": 87.16,
+   "fin": 88.64,
+   "texto": "She always goes first.",
+   "escenario": "Cocina",
+   "en_pantalla": "Abuela con los brazos abiertos en la puerta de la cocina, esperando",
+   "cara": "Pícara",
+   "camara": "M"
+  },
+  {
+   "n": 64,
+   "inicio": 88.64,
+   "fin": 89.96,
+   "texto": "Her number drops every day.",
+   "escenario": "Cocina",
+   "en_pantalla": "Muñeca de la abuela: \"902\"",
+   "cara": "(sin personaje)",
+   "camara": "C"
+  },
+  {
+   "n": 65,
+   "inicio": 89.96,
+   "fin": 91.14,
+   "texto": "Neither of us looks at it.",
+   "escenario": "Cocina",
+   "en_pantalla": "Los dos abrazados, mirando hacia otro lado",
+   "cara": "Ojos cerrados",
+   "camara": "M"
+  },
+  {
+   "n": 66,
+   "inicio": 91.14,
+   "fin": 92.12,
+   "texto": "I still have my one.",
+   "escenario": "Patio",
+   "en_pantalla": "Muñeca del narrador: \"1\"",
+   "cara": "Sonrisa",
+   "camara": "C"
+  },
+  {
+   "n": 67,
+   "inicio": 92.12,
+   "fin": 93.7,
+   "texto": "I'm saving it for something huge.",
+   "escenario": "Patio",
+   "en_pantalla": "Narrador mirando al cielo",
+   "cara": "Soñador",
+   "camara": "M"
+  },
+  {
+   "n": 68,
+   "inicio": 93.7,
+   "fin": 95.46,
+   "texto": "Or for Gerald, if it snows.",
+   "escenario": "Patio con nieve",
+   "en_pantalla": "Cae un copo; un montoncito de nieve con el letrero \"GERALD\"",
+   "cara": "Sonrisa",
+   "camara": "G"
+  },
+  {
+   "n": 69,
+   "inicio": 95.46,
+   "fin": 97.76,
+   "texto": "Grandma says that's the dumbest plan she's ever heard.",
+   "escenario": "Sala de la abuela",
+   "en_pantalla": "Abuela negando con la cabeza",
+   "cara": "Seria",
+   "camara": "C"
+  },
+  {
+   "n": 70,
+   "inicio": 97.76,
+   "fin": 99.514,
+   "texto": "She's knitting him a scarf.",
+   "escenario": "Sala de la abuela",
+   "en_pantalla": "Agujas de tejer y una bufanda diminuta a medio hacer",
+   "cara": "Abuela pícara",
+   "camara": "C"
+  }
+ ]
+}

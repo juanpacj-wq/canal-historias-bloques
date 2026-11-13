@@ -1,0 +1,15 @@
+Papel de este chat: productor de un video, sin acceso a Roblox Studio (plan B). Tu nombre de chat es chat-A (cambia la letra en cada chat que abras).
+
+Lee CLAUDE.md y sigue sus reglas al pie de la letra.
+
+Corre el estado de los videos y toma el video libre de número más bajo (o el número que te diga aquí: ___). Crea su carpeta si no existe.
+
+No toques Roblox Studio: otro chat, el operador, se encarga de las escenas y la grabación. Tu trabajo es dejarle todo servido y terminar el video cuando vuelva la grabación:
+
+1. Etapas guion, voz y tiempos completas.
+2. escenas/puesta.json completo y validado contra el esquema de studio/README.md, con una nota escenas/notas-operador.md que diga qué escenarios, personajes y utilería nuevos hacen falta.
+3. Metadatos listos.
+4. Deja en estado.md la nota "LISTO PARA STUDIO" y suelta el video para que el operador lo tome.
+5. Cuando exista grabacion/toma.mp4, vuelve a tomar el video y haz montaje, revisión y lista de calidad.
+
+Voz: ___ (escribe "ElevenLabs, voz ID ___" o "voz propia: yo dejo el archivo en la carpeta voz").

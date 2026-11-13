@@ -1,0 +1,57 @@
+VIDEO 008
+Internal name: 008-you-can-lend-your-courage
+Scheduled: día 6 del calendario (videos/CALENDARIO.md), 15:00 Bogota (20:00 UTC)
+
+TITLE (max 45 characters, Title Case, no hashtags, no ALL CAPS)
+In This World, You Can Lend Your Courage
+
+ALT TITLE 1 (the object, 1 to 3 words)
+The Orange Marble
+
+ALT TITLE 2 (the rule without the opener)
+Lend Your Courage and You Have None
+
+DESCRIPTION (1 or 2 sentences, then credits, then hashtags)
+In this world, you can lend your courage to a friend, but you have none until they give it back. Mine has been gone for three weeks.
+An original work of fiction, written and animated by Almostville.
+#roblox #robloxstory #friendship
+
+HASHTAGS (already in the description; 3 at most; no #shorts needed)
+#roblox #robloxstory #friendship
+
+PINNED COMMENT (needs advanced features; a question the story raises)
+Who would you lend your courage to, and what is the first thing you'd be scared of without it?
+
+PLAYLIST
+In This Town: Friendship
+
+SERIES (only if the Shorts series feature is available)
+In This Town, Season 1, Episode 06
+
+COVER FRAME
+Timecode: por definir al montar; es el inicio del plano 1 en tiempos/planos.json
+What is in it: plano 1 de la lista de planos del guion: un niño le entrega a otro la canica naranja que brilla; uno feliz y el otro nervioso. Sin subtítulo encima. Alterno: plano 5 (el amigo en pose de héroe y el que prestó abrazado a una banca).
+
+RELATED VIDEO
+001 In This World, Friendships Have a Battery (día 16, lista In This Town: Friendship)
+Ese video sale después (día 16). Mientras tanto pon el del día anterior y cámbialo cuando salga.
+Pega aquí la URL cuando exista. Cuando haya un video largo de esta familia, reemplázalo por ese.
+
+AUDIENCE: No, it's not made for kids
+VIDEO LANGUAGE: English (United States)
+CATEGORY: Film & Animation (la predeterminada del canal según docs/07, sección 2.5; la otra opción allí es Entertainment)
+ALTERED CONTENT: No
+Nota (docs/07, sección 3.3): animación de ficción claramente irreal y guion asistido no se declaran. Con voz propia la respuesta es No sin duda. Con voz sintética genérica también es No, pero por interpretación: la ayuda de YouTube no menciona voces sintéticas (sin verificar con texto literal). Nunca una voz clonada de otra persona ni música generada con IA.
+
+CHECK BEFORE PUBLISHING
+[ ] Copyright check finished with no claims
+[ ] Title has no hashtag and no word in ALL CAPS
+[ ] First spoken sentence is the rule and matches the title
+[ ] Cover frame chosen in the mobile app
+[ ] Added to playlist; related video set
+
+PARA EL CANAL EN ESPAÑOL
+Título:
+NO PRESTES TU VALENTÍA
+Descripción:
+En este mundo puedes prestarle tu valentía a un amigo, pero te quedas sin nada hasta que te la devuelva.

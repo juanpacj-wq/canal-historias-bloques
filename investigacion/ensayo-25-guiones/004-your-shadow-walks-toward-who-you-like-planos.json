@@ -1,0 +1,556 @@
+{
+ "video": "004-your-shadow-walks-toward-who-you-like",
+ "duracion": 92.214,
+ "planos": [
+  {
+   "n": 1,
+   "inicio": 0.0,
+   "fin": 2.62,
+   "texto": "In this world, your shadow walks...",
+   "escenario": "Parque",
+   "en_pantalla": "Un niño quieto; su sombra se despega del piso y camina hacia una niña",
+   "cara": "Niño con susto",
+   "camara": "M"
+  },
+  {
+   "n": 2,
+   "inicio": 2.62,
+   "fin": 3.84,
+   "texto": "and you can't call it back.",
+   "escenario": "Parque",
+   "en_pantalla": "El niño tira de la sombra por los pies; la sombra sigue avanzando",
+   "cara": "Pánico",
+   "camara": "M"
+  },
+  {
+   "n": 3,
+   "inicio": 3.84,
+   "fin": 5.16,
+   "texto": "It just gets up and goes.",
+   "escenario": "Pueblo de día",
+   "en_pantalla": "Sombra sola cruzando la calle, sin dueño",
+   "cara": "(sin personaje)",
+   "camara": "G"
+  },
+  {
+   "n": 4,
+   "inicio": 5.16,
+   "fin": 6.94,
+   "texto": "My brother's shadow followed a lifeguard...",
+   "escenario": "Parque con piscina",
+   "en_pantalla": "Salvavidas en su silla alta; una sombra sentada a sus pies",
+   "cara": "Salvavidas incómoda",
+   "camara": "M"
+  },
+  {
+   "n": 5,
+   "inicio": 6.94,
+   "fin": 7.96,
+   "texto": "for a whole summer.",
+   "escenario": "Parque con piscina",
+   "en_pantalla": "Hermano en la casa, sin sombra, mirando por la ventana",
+   "cara": "Avergonzado",
+   "camara": "C"
+  },
+  {
+   "n": 6,
+   "inicio": 7.96,
+   "fin": 11.04,
+   "texto": "My math teacher's shadow lies across...",
+   "escenario": "Colegio, cafetería",
+   "en_pantalla": "Sombra del profesor estirada sobre los zapatos de la señora del almuerzo",
+   "cara": "(sin caras)",
+   "camara": "C"
+  },
+  {
+   "n": 7,
+   "inicio": 11.04,
+   "fin": 12.56,
+   "texto": "They both pretend not to notice.",
+   "escenario": "Colegio, cafetería",
+   "en_pantalla": "Profesor y señora mirando al techo, silbando",
+   "cara": "Disimulo",
+   "camara": "M"
+  },
+  {
+   "n": 8,
+   "inicio": 12.56,
+   "fin": 14.24,
+   "texto": "It's not only people, either.",
+   "escenario": "Pueblo de día",
+   "en_pantalla": "Una sombra abrazando un buzón",
+   "cara": "(sin personaje)",
+   "camara": "M"
+  },
+  {
+   "n": 9,
+   "inicio": 14.24,
+   "fin": 16.44,
+   "texto": "My uncle's shadow has been parked...",
+   "escenario": "Pueblo de día",
+   "en_pantalla": "Sombra acostada frente a la tienda de donas, con un parquímetro al lado",
+   "cara": "(sin personaje)",
+   "camara": "G"
+  },
+  {
+   "n": 10,
+   "inicio": 16.44,
+   "fin": 17.98,
+   "texto": "since 2011.",
+   "escenario": "Pueblo de día",
+   "en_pantalla": "La sombra con telarañas y un letrero \"SINCE 2011\"",
+   "cara": "(sin personaje)",
+   "camara": "C"
+  },
+  {
+   "n": 11,
+   "inicio": 17.98,
+   "fin": 20.08,
+   "texto": "Noon is safe, because shadows are tiny.",
+   "escenario": "Patio del colegio, sol alto",
+   "en_pantalla": "Niños con sombras del tamaño de un plato",
+   "cara": "Tranquilos",
+   "camara": "G"
+  },
+  {
+   "n": 12,
+   "inicio": 20.08,
+   "fin": 21.2,
+   "texto": "Sunset is dangerous.",
+   "escenario": "Pueblo al atardecer",
+   "en_pantalla": "Cielo naranja; personajes corriendo a esconderse",
+   "cara": "Susto",
+   "camara": "G"
+  },
+  {
+   "n": 13,
+   "inicio": 21.2,
+   "fin": 23.56,
+   "texto": "At sunset, your shadow is forty feet long.",
+   "escenario": "Pueblo al atardecer",
+   "en_pantalla": "Una sombra larguísima que cruza toda la calle",
+   "cara": "Dueño horrorizado",
+   "camara": "G"
+  },
+  {
+   "n": 14,
+   "inicio": 23.56,
+   "fin": 24.84,
+   "texto": "Mine likes Juniper Vale.",
+   "escenario": "Colegio, salón",
+   "en_pantalla": "La sombra del narrador se estira por el piso hacia un pupitre",
+   "cara": "Narrador con las manos en la cara",
+   "camara": "M"
+  },
+  {
+   "n": 15,
+   "inicio": 24.84,
+   "fin": 26.88,
+   "texto": "She sits two rows ahead of me in science.",
+   "escenario": "Colegio, salón",
+   "en_pantalla": "Juniper de espaldas, dos filas adelante",
+   "cara": "Juniper concentrada",
+   "camara": "M"
+  },
+  {
+   "n": 16,
+   "inicio": 26.88,
+   "fin": 28.66,
+   "texto": "She carries a yellow umbrella everywhere...",
+   "escenario": "Patio del colegio",
+   "en_pantalla": "Juniper bajo una sombrilla amarilla, sol brillante",
+   "cara": "Tranquila",
+   "camara": "M"
+  },
+  {
+   "n": 17,
+   "inicio": 28.66,
+   "fin": 29.64,
+   "texto": "even when it's sunny.",
+   "escenario": "Patio del colegio",
+   "en_pantalla": "El sol con la sombrilla en primer plano; debajo no se ve ninguna sombra",
+   "cara": "(sin personaje)",
+   "camara": "C"
+  },
+  {
+   "n": 18,
+   "inicio": 29.64,
+   "fin": 32.02,
+   "texto": "Everyone says she's hiding her shadow...",
+   "escenario": "Colegio, pasillo",
+   "en_pantalla": "Dos niñas cuchicheando y señalando la sombrilla",
+   "cara": "Chisme",
+   "camara": "M"
+  },
+  {
+   "n": 19,
+   "inicio": 32.02,
+   "fin": 32.96,
+   "texto": "Probably Dax.",
+   "escenario": "Patio del colegio",
+   "en_pantalla": "Dax con chaqueta y pose de héroe",
+   "cara": "Confiado",
+   "camara": "M"
+  },
+  {
+   "n": 20,
+   "inicio": 32.96,
+   "fin": 34.26,
+   "texto": "Dax can do a backflip.",
+   "escenario": "Patio del colegio",
+   "en_pantalla": "Dax en el aire, cabeza abajo; tres niños aplauden",
+   "cara": "Admiración",
+   "camara": "G"
+  },
+  {
+   "n": 21,
+   "inicio": 34.26,
+   "fin": 36.22,
+   "texto": "Then the school announced the Sunset Fair.",
+   "escenario": "Colegio, pasillo",
+   "en_pantalla": "Cartel \"SUNSET FAIR\" con un sol naranja",
+   "cara": "Narrador con susto",
+   "camara": "C"
+  },
+  {
+   "n": 22,
+   "inicio": 36.22,
+   "fin": 37.54,
+   "texto": "Friday. On the soccer field.",
+   "escenario": "Cancha",
+   "en_pantalla": "Cancha vacía con carpas de feria",
+   "cara": "(sin personaje)",
+   "camara": "G"
+  },
+  {
+   "n": 23,
+   "inicio": 37.54,
+   "fin": 40.2,
+   "texto": "At six-thirty, when every shadow...",
+   "escenario": "Cancha al atardecer",
+   "en_pantalla": "Reloj 6:30; sombras larguísimas de los arcos",
+   "cara": "(sin personaje)",
+   "camara": "G"
+  },
+  {
+   "n": 24,
+   "inicio": 40.2,
+   "fin": 41.3,
+   "texto": "Mine would cross the whole field...",
+   "escenario": "Cancha al atardecer (imaginado)",
+   "en_pantalla": "Sombra del narrador cruzando toda la cancha",
+   "cara": "Narrador pánico",
+   "camara": "G"
+  },
+  {
+   "n": 25,
+   "inicio": 41.3,
+   "fin": 43.78,
+   "texto": "and tap her on the shoulder...",
+   "escenario": "Cancha al atardecer (imaginado)",
+   "en_pantalla": "Mano de sombra tocando el hombro de Juniper; multitud mirando",
+   "cara": "Multitud boquiabierta",
+   "camara": "M"
+  },
+  {
+   "n": 26,
+   "inicio": 43.78,
+   "fin": 45.06,
+   "texto": "So I tried to stop it.",
+   "escenario": "Cuarto",
+   "en_pantalla": "Narrador con cuaderno de planes",
+   "cara": "Decidido",
+   "camara": "C"
+  },
+  {
+   "n": 27,
+   "inicio": 45.06,
+   "fin": 47.74,
+   "texto": "First, I tied my shadow to my ankle...",
+   "escenario": "Calle",
+   "en_pantalla": "Lazo de saltar amarrado del tobillo al pie de la sombra",
+   "cara": "Confiado",
+   "camara": "C"
+  },
+  {
+   "n": 28,
+   "inicio": 47.74,
+   "fin": 49.32,
+   "texto": "It dragged me into a trash can.",
+   "escenario": "Calle",
+   "en_pantalla": "Piernas del narrador saliendo de una caneca; la sombra sigue tirando",
+   "cara": "(piernas)",
+   "camara": "M"
+  },
+  {
+   "n": 29,
+   "inicio": 49.32,
+   "fin": 51.98,
+   "texto": "Second, I wore a sombrero the size...",
+   "escenario": "Patio del colegio",
+   "en_pantalla": "Narrador bajo un sombrero gigantesco",
+   "cara": "Orgulloso",
+   "camara": "M"
+  },
+  {
+   "n": 30,
+   "inicio": 51.98,
+   "fin": 53.42,
+   "texto": "My shadow turned into a big circle...",
+   "escenario": "Patio del colegio",
+   "en_pantalla": "Sombra redonda enorme en el piso",
+   "cara": "Narrador dudando",
+   "camara": "G"
+  },
+  {
+   "n": 31,
+   "inicio": 53.42,
+   "fin": 55.06,
+   "texto": "and rolled toward her like a pancake.",
+   "escenario": "Patio del colegio",
+   "en_pantalla": "El círculo rodando hacia Juniper y su sombrilla",
+   "cara": "Narrador horror",
+   "camara": "G"
+  },
+  {
+   "n": 32,
+   "inicio": 55.06,
+   "fin": 58.38,
+   "texto": "Third, at the fair, I pointed nine flashlights...",
+   "escenario": "Cancha al atardecer",
+   "en_pantalla": "Narrador rodeado de nueve linternas encendidas",
+   "cara": "Concentrado",
+   "camara": "M"
+  },
+  {
+   "n": 33,
+   "inicio": 58.38,
+   "fin": 60.04,
+   "texto": "Instead, I got nine shadows.",
+   "escenario": "Cancha al atardecer",
+   "en_pantalla": "Nueve sombras en abanico alrededor del narrador",
+   "cara": "Ojos muy abiertos",
+   "camara": "G"
+  },
+  {
+   "n": 34,
+   "inicio": 60.04,
+   "fin": 61.6,
+   "texto": "All nine ran straight to Juniper.",
+   "escenario": "Cancha al atardecer",
+   "en_pantalla": "Nueve sombras corriendo por la cancha",
+   "cara": "(sin caras)",
+   "camara": "G"
+  },
+  {
+   "n": 35,
+   "inicio": 61.6,
+   "fin": 62.72,
+   "texto": "One of them was waving.",
+   "escenario": "Cancha al atardecer",
+   "en_pantalla": "Una sombra agitando el brazo frente a Juniper",
+   "cara": "Juniper sorprendida",
+   "camara": "C"
+  },
+  {
+   "n": 36,
+   "inicio": 62.72,
+   "fin": 63.98,
+   "texto": "Three hundred people stared.",
+   "escenario": "Cancha al atardecer",
+   "en_pantalla": "Multitud con algodones de azúcar, todos mirando",
+   "cara": "Boquiabiertos",
+   "camara": "G"
+  },
+  {
+   "n": 37,
+   "inicio": 63.98,
+   "fin": 65.48,
+   "texto": "So I did the only thing left.",
+   "escenario": "Cancha al atardecer",
+   "en_pantalla": "Cara del narrador, roja",
+   "cara": "Vergüenza, luego decidido",
+   "camara": "C"
+  },
+  {
+   "n": 38,
+   "inicio": 65.48,
+   "fin": 68.2,
+   "texto": "I walked across the field...",
+   "escenario": "Cancha al atardecer",
+   "en_pantalla": "Narrador caminando detrás de la fila de sombras",
+   "cara": "Decidido",
+   "camara": "G"
+  },
+  {
+   "n": 39,
+   "inicio": 68.2,
+   "fin": 70.08,
+   "texto": "\"Yeah. Those are mine. All nine.\"",
+   "escenario": "Cancha al atardecer",
+   "en_pantalla": "Narrador frente a Juniper, señalando las sombras",
+   "cara": "Vergüenza honesta",
+   "camara": "M"
+  },
+  {
+   "n": 40,
+   "inicio": 70.08,
+   "fin": 70.86,
+   "texto": "\"I like you.\"",
+   "escenario": "Cancha al atardecer",
+   "en_pantalla": "Cara del narrador",
+   "cara": "Vulnerable",
+   "camara": "C"
+  },
+  {
+   "n": 41,
+   "inicio": 70.86,
+   "fin": 72.26,
+   "texto": "\"Sorry about the waving one.\"",
+   "escenario": "Cancha al atardecer",
+   "en_pantalla": "La sombra que saluda, todavía saludando",
+   "cara": "(sin personaje)",
+   "camara": "C"
+  },
+  {
+   "n": 42,
+   "inicio": 72.26,
+   "fin": 73.58,
+   "texto": "Juniper closed her umbrella.",
+   "escenario": "Cancha al atardecer",
+   "en_pantalla": "Sombrilla amarilla cerrándose",
+   "cara": "Juniper seria",
+   "camara": "C"
+  },
+  {
+   "n": 43,
+   "inicio": 73.58,
+   "fin": 74.56,
+   "texto": "First time ever.",
+   "escenario": "Cancha al atardecer",
+   "en_pantalla": "Multitud conteniendo el aire",
+   "cara": "Suspenso",
+   "camara": "G"
+  },
+  {
+   "n": 44,
+   "inicio": 74.56,
+   "fin": 76.08,
+   "texto": "Her shadow stood up, stretched...",
+   "escenario": "Cancha al atardecer",
+   "en_pantalla": "Sombra de Juniper de pie, estirando los brazos",
+   "cara": "(sin personaje)",
+   "camara": "M"
+  },
+  {
+   "n": 45,
+   "inicio": 76.08,
+   "fin": 77.44,
+   "texto": "and walked right past me.",
+   "escenario": "Cancha al atardecer",
+   "en_pantalla": "La sombra pasa junto al narrador sin mirarlo",
+   "cara": "Narrador confundido",
+   "camara": "M"
+  },
+  {
+   "n": 46,
+   "inicio": 77.44,
+   "fin": 79.88,
+   "texto": "It went straight to the nacho stand...",
+   "escenario": "Cancha al atardecer",
+   "en_pantalla": "Sombra abrazando el dispensador de queso del puesto de nachos",
+   "cara": "Vendedor asustado",
+   "camara": "M"
+  },
+  {
+   "n": 47,
+   "inicio": 79.88,
+   "fin": 82.1,
+   "texto": "\"It's been like that since third grade,\"",
+   "escenario": "Cancha al atardecer",
+   "en_pantalla": "Juniper encogiéndose de hombros",
+   "cara": "Resignada",
+   "camara": "M"
+  },
+  {
+   "n": 48,
+   "inicio": 82.1,
+   "fin": 83.7,
+   "texto": "\"My shadow likes nachos.\"",
+   "escenario": "Colegio, cafetería (recuerdo)",
+   "en_pantalla": "Juniper niña; su sombra boca abajo sobre una bandeja de nachos",
+   "cara": "Juniper niña avergonzada",
+   "camara": "M"
+  },
+  {
+   "n": 49,
+   "inicio": 83.7,
+   "fin": 84.66,
+   "texto": "\"I get to pick for myself.\"",
+   "escenario": "Cancha al atardecer",
+   "en_pantalla": "Cara de Juniper",
+   "cara": "Sonrisa",
+   "camara": "C"
+  },
+  {
+   "n": 50,
+   "inicio": 84.66,
+   "fin": 85.74,
+   "texto": "Then she took my hand.",
+   "escenario": "Cancha al atardecer",
+   "en_pantalla": "Dos manos de bloque juntas",
+   "cara": "(sin caras)",
+   "camara": "C"
+  },
+  {
+   "n": 51,
+   "inicio": 85.74,
+   "fin": 87.0,
+   "texto": "We split a large.",
+   "escenario": "Cancha al atardecer",
+   "en_pantalla": "Narrador y Juniper con una bandeja grande de nachos",
+   "cara": "Felices",
+   "camara": "M"
+  },
+  {
+   "n": 52,
+   "inicio": 87.0,
+   "fin": 88.06,
+   "texto": "Dax did a backflip.",
+   "escenario": "Cancha al atardecer",
+   "en_pantalla": "Dax en el aire, al fondo",
+   "cara": "Confiado",
+   "camara": "G"
+  },
+  {
+   "n": 53,
+   "inicio": 88.06,
+   "fin": 88.84,
+   "texto": "Nobody looked.",
+   "escenario": "Cancha al atardecer",
+   "en_pantalla": "Multitud de espaldas a Dax, mirando a la pareja",
+   "cara": "Dax ofendido",
+   "camara": "M"
+  },
+  {
+   "n": 54,
+   "inicio": 88.84,
+   "fin": 90.48,
+   "texto": "Her shadow still lives at the nacho stand.",
+   "escenario": "Cancha al atardecer",
+   "en_pantalla": "Sombra de Juniper sentada junto al dispensador de queso",
+   "cara": "(sin personaje)",
+   "camara": "M"
+  },
+  {
+   "n": 55,
+   "inicio": 90.48,
+   "fin": 92.214,
+   "texto": "Mine brings it napkins.",
+   "escenario": "Cancha al atardecer",
+   "en_pantalla": "Sombra del narrador entregándole servilletas",
+   "cara": "(sin personaje)",
+   "camara": "C"
+  }
+ ]
+}

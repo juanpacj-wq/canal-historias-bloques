@@ -1,0 +1,9 @@
+Papel de este chat: mantenimiento. No tomes ningún video.
+
+Lee CLAUDE.md.
+
+Revisa pendientes-biblioteca.md y resuelve cada línea en la biblioteca compartida (studio/, herramientas/). Por cada arreglo: corrige, prueba (herramientas/prueba/ejecutar_prueba.ps1 para las herramientas; el analizador de Luau y, si hay una ventana de Studio libre, una captura para la biblioteca), vuelve a empaquetar studio/cargar.luau y tacha la línea con la fecha.
+
+Antes de tocar un archivo que un chat productor pueda estar usando, corre el estado de los videos: si hay videos en la etapa escenas o grabación, avísame qué cambia para ellos.
+
+Después, si queda tiempo: ___ (por ejemplo: "escribe 5 guiones nuevos con las premisas 2, 4, 7, 10 y 16 del banco de docs/05, con el mismo formato y exigencias de los guiones existentes", o "haz la revisión semanal de docs/06 con los datos que te pego").

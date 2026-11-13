@@ -1,0 +1,676 @@
+{
+ "video": "016-quietest-kid-controls-the-weather",
+ "duracion": 95.342,
+ "planos": [
+  {
+   "n": 1,
+   "inicio": 0.0,
+   "fin": 1.6,
+   "texto": "In this school, the weather over the building...",
+   "escenario": "Colegio, exterior",
+   "en_pantalla": "El colegio bajo una nube propia; alrededor, cielo despejado",
+   "cara": "(sin personaje)",
+   "camara": "G"
+  },
+  {
+   "n": 2,
+   "inicio": 1.6,
+   "fin": 3.76,
+   "texto": "follows the mood of the kid who talks the least.",
+   "escenario": "Colegio, salón",
+   "en_pantalla": "Un niño callado junto a la ventana; la nube se mueve con él",
+   "cara": "Neutro",
+   "camara": "M"
+  },
+  {
+   "n": 3,
+   "inicio": 3.76,
+   "fin": 4.74,
+   "texto": "That kid is Tobin.",
+   "escenario": "Colegio, salón",
+   "en_pantalla": "Tobin de frente, saco con capucha",
+   "cara": "Tímido",
+   "camara": "C"
+  },
+  {
+   "n": 4,
+   "inicio": 4.74,
+   "fin": 6.56,
+   "texto": "He said eleven words all last year.",
+   "escenario": "Colegio, salón",
+   "en_pantalla": "Tablero con once rayitas de conteo",
+   "cara": "(sin personaje)",
+   "camara": "C"
+  },
+  {
+   "n": 5,
+   "inicio": 6.56,
+   "fin": 7.24,
+   "texto": "Nine of them were \"here.\"",
+   "escenario": "Colegio, salón",
+   "en_pantalla": "Tobin levantando apenas la mano",
+   "cara": "Tímido",
+   "camara": "M"
+  },
+  {
+   "n": 6,
+   "inicio": 7.24,
+   "fin": 8.72,
+   "texto": "When he aced a spelling test...",
+   "escenario": "Colegio, salón",
+   "en_pantalla": "Hoja con un 10 y una estrella; Tobin mirándola",
+   "cara": "Sonrisa pequeña",
+   "camara": "C"
+  },
+  {
+   "n": 7,
+   "inicio": 8.72,
+   "fin": 9.88,
+   "texto": "we got sun for a week.",
+   "escenario": "Colegio, exterior",
+   "en_pantalla": "Sol enorme sobre el colegio; niños con gafas oscuras",
+   "cara": "Felices",
+   "camara": "G"
+  },
+  {
+   "n": 8,
+   "inicio": 9.88,
+   "fin": 11.24,
+   "texto": "When he dropped his sandwich...",
+   "escenario": "Colegio, cafetería",
+   "en_pantalla": "Sándwich boca abajo en el piso",
+   "cara": "Tobin triste",
+   "camara": "C"
+  },
+  {
+   "n": 9,
+   "inicio": 11.24,
+   "fin": 12.26,
+   "texto": "it hailed on the parking lot.",
+   "escenario": "Calle",
+   "en_pantalla": "Granizo rebotando sobre un carro de bloques",
+   "cara": "(sin personaje)",
+   "camara": "G"
+  },
+  {
+   "n": 10,
+   "inicio": 12.26,
+   "fin": 14.32,
+   "texto": "Our weather app is just a photo of his face.",
+   "escenario": "Cuarto",
+   "en_pantalla": "Celular con la cara de Tobin y la palabra \"TODAY\"",
+   "cara": "(foto: neutro)",
+   "camara": "C"
+  },
+  {
+   "n": 11,
+   "inicio": 14.32,
+   "fin": 15.84,
+   "texto": "And every time a cloud moves...",
+   "escenario": "Colegio, exterior",
+   "en_pantalla": "Una nube pasa frente al sol",
+   "cara": "(sin personaje)",
+   "camara": "G"
+  },
+  {
+   "n": 12,
+   "inicio": 15.84,
+   "fin": 17.98,
+   "texto": "six hundred kids turn around and stare at him.",
+   "escenario": "Colegio, salón",
+   "en_pantalla": "Todo el salón volteado hacia Tobin; él encogido",
+   "cara": "Acusadoras, susto",
+   "camara": "G"
+  },
+  {
+   "n": 13,
+   "inicio": 17.98,
+   "fin": 19.52,
+   "texto": "Me, I talk the most.",
+   "escenario": "Colegio, salón",
+   "en_pantalla": "Narrador de pie sobre la silla, boca abierta",
+   "cara": "Hablando feliz",
+   "camara": "M"
+  },
+  {
+   "n": 14,
+   "inicio": 19.52,
+   "fin": 20.62,
+   "texto": "Teachers have timed it.",
+   "escenario": "Colegio, salón",
+   "en_pantalla": "Profesora con cronómetro",
+   "cara": "Cansada",
+   "camara": "C"
+  },
+  {
+   "n": 15,
+   "inicio": 20.62,
+   "fin": 22.6,
+   "texto": "My record is nineteen minutes without a breath.",
+   "escenario": "Colegio, salón",
+   "en_pantalla": "Cronómetro en 19:00; narrador morado",
+   "cara": "Sin aire",
+   "camara": "C"
+  },
+  {
+   "n": 16,
+   "inicio": 22.6,
+   "fin": 24.66,
+   "texto": "So the sky has never once been my problem.",
+   "escenario": "Colegio, exterior",
+   "en_pantalla": "Narrador hablando sin mirar hacia arriba",
+   "cara": "Despreocupado",
+   "camara": "M"
+  },
+  {
+   "n": 17,
+   "inicio": 24.66,
+   "fin": 25.92,
+   "texto": "Then came Field Day week.",
+   "escenario": "Cancha",
+   "en_pantalla": "Pancarta \"FIELD DAY\" entre dos postes",
+   "cara": "(sin personaje)",
+   "camara": "G"
+  },
+  {
+   "n": 18,
+   "inicio": 25.92,
+   "fin": 27.36,
+   "texto": "It rained nine days straight.",
+   "escenario": "Cancha con lluvia",
+   "en_pantalla": "La pancarta escurriendo, charcos",
+   "cara": "(sin personaje)",
+   "camara": "G"
+  },
+  {
+   "n": 19,
+   "inicio": 27.36,
+   "fin": 29.74,
+   "texto": "Principal Ruiz said if it rained Friday...",
+   "escenario": "Colegio, pasillo",
+   "en_pantalla": "Rectora Ruiz con megáfono y paraguas",
+   "cara": "Severa",
+   "camara": "M"
+  },
+  {
+   "n": 20,
+   "inicio": 29.74,
+   "fin": 31.46,
+   "texto": "a three-hour assembly about fire exits.",
+   "escenario": "Colegio, salón",
+   "en_pantalla": "Diapositiva con un letrero verde de salida; niños desplomados",
+   "cara": "Aburridos",
+   "camara": "G"
+  },
+  {
+   "n": 21,
+   "inicio": 31.46,
+   "fin": 32.78,
+   "texto": "Everybody looked at Tobin.",
+   "escenario": "Colegio, pasillo",
+   "en_pantalla": "Multitud mirando a Tobin",
+   "cara": "Tobin asustado",
+   "camara": "G"
+  },
+  {
+   "n": 22,
+   "inicio": 32.78,
+   "fin": 34.14,
+   "texto": "Then everybody looked at me.",
+   "escenario": "Colegio, pasillo",
+   "en_pantalla": "La multitud gira hacia el narrador",
+   "cara": "Expectantes",
+   "camara": "G"
+  },
+  {
+   "n": 23,
+   "inicio": 34.14,
+   "fin": 35.54,
+   "texto": "\"I'll fix him,\" I said.",
+   "escenario": "Colegio, pasillo",
+   "en_pantalla": "Narrador con el puño en alto",
+   "cara": "Confiado",
+   "camara": "C"
+  },
+  {
+   "n": 24,
+   "inicio": 35.54,
+   "fin": 36.82,
+   "texto": "First, cupcakes.",
+   "escenario": "Colegio, salón",
+   "en_pantalla": "Narrador entra con una bandeja",
+   "cara": "Emocionado",
+   "camara": "M"
+  },
+  {
+   "n": 25,
+   "inicio": 36.82,
+   "fin": 38.86,
+   "texto": "Fourteen of them, stacked on his desk.",
+   "escenario": "Colegio, salón",
+   "en_pantalla": "Torre de ponquecitos más alta que Tobin",
+   "cara": "Tobin confundido",
+   "camara": "M"
+  },
+  {
+   "n": 26,
+   "inicio": 38.86,
+   "fin": 40.2,
+   "texto": "We got four minutes of sun.",
+   "escenario": "Colegio, exterior",
+   "en_pantalla": "Un rayo de sol atraviesa la nube",
+   "cara": "(sin personaje)",
+   "camara": "G"
+  },
+  {
+   "n": 27,
+   "inicio": 40.2,
+   "fin": 40.66,
+   "texto": "Then fog.",
+   "escenario": "Colegio, exterior",
+   "en_pantalla": "Niebla cubriendo todo",
+   "cara": "(sin personaje)",
+   "camara": "G"
+  },
+  {
+   "n": 28,
+   "inicio": 40.66,
+   "fin": 43.02,
+   "texto": "Second, the marching band played his favorite song...",
+   "escenario": "Colegio, exterior",
+   "en_pantalla": "Banda con tambores y tuba bajo la ventana",
+   "cara": "Entusiastas",
+   "camara": "G"
+  },
+  {
+   "n": 29,
+   "inicio": 43.02,
+   "fin": 43.72,
+   "texto": "under his window.",
+   "escenario": "Colegio, salón",
+   "en_pantalla": "Tobin asomado, rojo de la vergüenza",
+   "cara": "Vergüenza",
+   "camara": "C"
+  },
+  {
+   "n": 30,
+   "inicio": 43.72,
+   "fin": 45.36,
+   "texto": "Hail, the size of meatballs.",
+   "escenario": "Colegio, exterior",
+   "en_pantalla": "Bolas blancas cayendo sobre la banda",
+   "cara": "Pánico",
+   "camara": "G"
+  },
+  {
+   "n": 31,
+   "inicio": 45.36,
+   "fin": 46.48,
+   "texto": "The tuba filled up.",
+   "escenario": "Colegio, exterior",
+   "en_pantalla": "Tuba llena de granizo hasta el borde",
+   "cara": "Músico resignado",
+   "camara": "C"
+  },
+  {
+   "n": 32,
+   "inicio": 46.48,
+   "fin": 48.38,
+   "texto": "Third, I got six hundred kids in the gym...",
+   "escenario": "Colegio, cafetería (hace de coliseo)",
+   "en_pantalla": "Multitud con carteles",
+   "cara": "Gritando",
+   "camara": "G"
+  },
+  {
+   "n": 33,
+   "inicio": 48.38,
+   "fin": 49.42,
+   "texto": "chanting WE LOVE TOBIN.",
+   "escenario": "Colegio, cafetería",
+   "en_pantalla": "Pancarta \"WE LOVE TOBIN\"; narrador dirigiendo con megáfono",
+   "cara": "Gritando",
+   "camara": "M"
+  },
+  {
+   "n": 34,
+   "inicio": 49.42,
+   "fin": 50.68,
+   "texto": "Lightning hit the flagpole.",
+   "escenario": "Colegio, exterior",
+   "en_pantalla": "Rayo sobre el asta de la bandera",
+   "cara": "(sin personaje)",
+   "camara": "G"
+  },
+  {
+   "n": 35,
+   "inicio": 50.68,
+   "fin": 51.22,
+   "texto": "Twice.",
+   "escenario": "Colegio, exterior",
+   "en_pantalla": "Segundo rayo; el asta humeando",
+   "cara": "(sin personaje)",
+   "camara": "C"
+  },
+  {
+   "n": 36,
+   "inicio": 51.22,
+   "fin": 52.32,
+   "texto": "Tobin ran.",
+   "escenario": "Colegio, pasillo",
+   "en_pantalla": "Tobin corriendo, capucha puesta",
+   "cara": "Llanto",
+   "camara": "M"
+  },
+  {
+   "n": 37,
+   "inicio": 52.32,
+   "fin": 53.84,
+   "texto": "I found him under a library table.",
+   "escenario": "Colegio, salón (biblioteca)",
+   "en_pantalla": "Tobin hecho bolita bajo una mesa",
+   "cara": "Triste",
+   "camara": "M"
+  },
+  {
+   "n": 38,
+   "inicio": 53.84,
+   "fin": 54.86,
+   "texto": "I opened my mouth.",
+   "escenario": "Colegio, salón (biblioteca)",
+   "en_pantalla": "Narrador agachado, boca abierta",
+   "cara": "A punto de hablar",
+   "camara": "C"
+  },
+  {
+   "n": 39,
+   "inicio": 54.86,
+   "fin": 57.2,
+   "texto": "And for the first time in my life, I closed it.",
+   "escenario": "Colegio, salón (biblioteca)",
+   "en_pantalla": "Narrador cierra la boca",
+   "cara": "Labios apretados",
+   "camara": "C"
+  },
+  {
+   "n": 40,
+   "inicio": 57.2,
+   "fin": 58.36,
+   "texto": "I sat down next to him.",
+   "escenario": "Colegio, salón (biblioteca)",
+   "en_pantalla": "Los dos bajo la mesa",
+   "cara": "Serio, sorprendido",
+   "camara": "M"
+  },
+  {
+   "n": 41,
+   "inicio": 58.36,
+   "fin": 59.18,
+   "texto": "I said nothing.",
+   "escenario": "Colegio, salón (biblioteca)",
+   "en_pantalla": "Los dos en silencio; lluvia en la ventana",
+   "cara": "Serios",
+   "camara": "M"
+  },
+  {
+   "n": 42,
+   "inicio": 59.18,
+   "fin": 60.24,
+   "texto": "Not that afternoon.",
+   "escenario": "Colegio, pasillo",
+   "en_pantalla": "Narrador caminando callado; compañeros lo miran raro",
+   "cara": "Labios apretados",
+   "camara": "M"
+  },
+  {
+   "n": 43,
+   "inicio": 60.24,
+   "fin": 61.4,
+   "texto": "Not all of Thursday.",
+   "escenario": "Colegio, salón",
+   "en_pantalla": "Narrador en su pupitre, manos sobre la boca",
+   "cara": "Esforzado",
+   "camara": "C"
+  },
+  {
+   "n": 44,
+   "inicio": 61.4,
+   "fin": 62.76,
+   "texto": "The nurse took my temperature.",
+   "escenario": "Colegio, salón",
+   "en_pantalla": "Enfermera con un termómetro gigante",
+   "cara": "Preocupada",
+   "camara": "M"
+  },
+  {
+   "n": 45,
+   "inicio": 62.76,
+   "fin": 64.16,
+   "texto": "Tobin said \"here\" at attendance.",
+   "escenario": "Colegio, salón",
+   "en_pantalla": "Tobin levantando la mano",
+   "cara": "Tímido",
+   "camara": "M"
+  },
+  {
+   "n": 46,
+   "inicio": 64.16,
+   "fin": 65.02,
+   "texto": "I didn't.",
+   "escenario": "Colegio, salón",
+   "en_pantalla": "Narrador con la mano levantada y la boca cerrada",
+   "cara": "Labios apretados",
+   "camara": "C"
+  },
+  {
+   "n": 47,
+   "inicio": 65.02,
+   "fin": 66.34,
+   "texto": "By noon, the rain stopped.",
+   "escenario": "Colegio, exterior",
+   "en_pantalla": "Última gota cayendo en un charco",
+   "cara": "(sin personaje)",
+   "camara": "C"
+  },
+  {
+   "n": 48,
+   "inicio": 66.34,
+   "fin": 67.54,
+   "texto": "The sky was mine now.",
+   "escenario": "Colegio, exterior",
+   "en_pantalla": "La nube se desliza hasta quedar sobre el narrador",
+   "cara": "Susto",
+   "camara": "G"
+  },
+  {
+   "n": 49,
+   "inicio": 67.54,
+   "fin": 68.42,
+   "texto": "It wasn't sunny.",
+   "escenario": "Colegio, exterior",
+   "en_pantalla": "Narrador mirando hacia arriba",
+   "cara": "Nervioso",
+   "camara": "C"
+  },
+  {
+   "n": 50,
+   "inicio": 68.42,
+   "fin": 69.2,
+   "texto": "It was fog.",
+   "escenario": "Colegio, exterior",
+   "en_pantalla": "Niebla espesa tapando el colegio",
+   "cara": "(sin personaje)",
+   "camara": "G"
+  },
+  {
+   "n": 51,
+   "inicio": 69.2,
+   "fin": 72.18,
+   "texto": "Thick, nervous fog, with one tiny cloud going in circles.",
+   "escenario": "Colegio, exterior",
+   "en_pantalla": "Nubecita dando vueltas sobre su cabeza",
+   "cara": "Avergonzado",
+   "camara": "M"
+  },
+  {
+   "n": 52,
+   "inicio": 72.18,
+   "fin": 74.54,
+   "texto": "Six hundred kids turned around and stared at me.",
+   "escenario": "Colegio, exterior",
+   "en_pantalla": "Multitud mirando al narrador",
+   "cara": "Sorprendidos",
+   "camara": "G"
+  },
+  {
+   "n": 53,
+   "inicio": 74.54,
+   "fin": 76.82,
+   "texto": "Now they knew what the loud kid looks like on the inside.",
+   "escenario": "Colegio, exterior",
+   "en_pantalla": "Narrador pequeño en medio de la niebla",
+   "cara": "Vulnerable",
+   "camara": "G"
+  },
+  {
+   "n": 54,
+   "inicio": 76.82,
+   "fin": 78.18,
+   "texto": "Tobin looked up at my fog.",
+   "escenario": "Colegio, exterior",
+   "en_pantalla": "Tobin mirando hacia arriba, capucha abajo",
+   "cara": "Curioso",
+   "camara": "C"
+  },
+  {
+   "n": 55,
+   "inicio": 78.18,
+   "fin": 80.44,
+   "texto": "Then he said three words. \"Oh. You too?\"",
+   "escenario": "Colegio, exterior",
+   "en_pantalla": "Tobin y el narrador frente a frente",
+   "cara": "Sonrisa pequeña, ojos aguados",
+   "camara": "M"
+  },
+  {
+   "n": 56,
+   "inicio": 80.44,
+   "fin": 81.5,
+   "texto": "And he started talking.",
+   "escenario": "Colegio, exterior",
+   "en_pantalla": "Tobin con la boca abierta, manos en el aire",
+   "cara": "Animado",
+   "camara": "M"
+  },
+  {
+   "n": 57,
+   "inicio": 81.5,
+   "fin": 82.44,
+   "texto": "About frogs.",
+   "escenario": "Colegio, exterior",
+   "en_pantalla": "Globo de diálogo con una rana verde",
+   "cara": "(sin personaje)",
+   "camara": "C"
+  },
+  {
+   "n": 58,
+   "inicio": 82.44,
+   "fin": 83.62,
+   "texto": "For nineteen minutes.",
+   "escenario": "Colegio, exterior",
+   "en_pantalla": "Cronómetro en 19:00",
+   "cara": "(sin personaje)",
+   "camara": "C"
+  },
+  {
+   "n": 59,
+   "inicio": 83.62,
+   "fin": 85.08,
+   "texto": "Nobody was watching him.",
+   "escenario": "Colegio, exterior",
+   "en_pantalla": "Los demás siguen mirando al narrador; Tobin libre",
+   "cara": "Feliz",
+   "camara": "G"
+  },
+  {
+   "n": 60,
+   "inicio": 85.08,
+   "fin": 86.06,
+   "texto": "The fog burned off.",
+   "escenario": "Colegio, exterior",
+   "en_pantalla": "La niebla se abre y entra el sol",
+   "cara": "Narrador sonríe",
+   "camara": "G"
+  },
+  {
+   "n": 61,
+   "inicio": 86.06,
+   "fin": 87.94,
+   "texto": "Friday, I kept my mouth shut.",
+   "escenario": "Cancha",
+   "en_pantalla": "Narrador con cinta sobre la boca y el pulgar arriba",
+   "cara": "Ojos sonrientes",
+   "camara": "C"
+  },
+  {
+   "n": 62,
+   "inicio": 87.94,
+   "fin": 89.24,
+   "texto": "Seventy-four and sunny.",
+   "escenario": "Cancha",
+   "en_pantalla": "Cielo azul sobre la pancarta \"FIELD DAY\"",
+   "cara": "(sin personaje)",
+   "camara": "G"
+  },
+  {
+   "n": 63,
+   "inicio": 89.24,
+   "fin": 90.54,
+   "texto": "Tobin won the sack race...",
+   "escenario": "Cancha",
+   "en_pantalla": "Tobin saltando en un costal, adelante de todos",
+   "cara": "Feliz",
+   "camara": "G"
+  },
+  {
+   "n": 64,
+   "inicio": 90.54,
+   "fin": 91.6,
+   "texto": "screaming the whole way.",
+   "escenario": "Cancha",
+   "en_pantalla": "Tobin con la boca enorme",
+   "cara": "Grito de alegría",
+   "camara": "C"
+  },
+  {
+   "n": 65,
+   "inicio": 91.6,
+   "fin": 92.68,
+   "texto": "We take turns now.",
+   "escenario": "Colegio, salón",
+   "en_pantalla": "Calendario con caritas de los dos alternadas",
+   "cara": "(sin personaje)",
+   "camara": "C"
+  },
+  {
+   "n": 66,
+   "inicio": 92.68,
+   "fin": 94.14,
+   "texto": "I've got the sky on Mondays.",
+   "escenario": "Colegio, exterior",
+   "en_pantalla": "Narrador callado bajo una nube gris pequeña",
+   "cara": "Resignado",
+   "camara": "M"
+  },
+  {
+   "n": 67,
+   "inicio": 94.14,
+   "fin": 95.342,
+   "texto": "Bring a jacket.",
+   "escenario": "Colegio, exterior",
+   "en_pantalla": "Tobin con chaqueta impermeable y el pulgar arriba",
+   "cara": "Sonrisa",
+   "camara": "M"
+  }
+ ]
+}

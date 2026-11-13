@@ -1,0 +1,58 @@
+VIDEO 022
+Internal name: 022-excuses-become-true
+Scheduled: día 24 del calendario (videos/CALENDARIO.md), 15:00 Bogota (20:00 UTC)
+Notas internas (no van a YouTube):
+Advertencia de guiones/INDICE.md: si la portada sale de la piscina, que haya un salvavidas en el cuadro y el agua por las rodillas.
+
+TITLE (max 45 characters, Title Case, no hashtags, no ALL CAPS)
+In This World, Excuses Become True
+
+ALT TITLE 1 (the object, 1 to 3 words)
+No Take-Backs
+
+ALT TITLE 2 (the rule without the opener)
+Every Excuse You Say Comes True
+
+DESCRIPTION (1 or 2 sentences, then credits, then hashtags)
+In this world, every excuse you say out loud comes true, instantly, and there are no take-backs. I have been dodging one pool party for a very long time.
+An original work of fiction, written and animated by Almostville.
+#roblox #robloxstory #funny
+
+HASHTAGS (already in the description; 3 at most; no #shorts needed)
+#roblox #robloxstory #funny
+
+PINNED COMMENT (needs advanced features; a question the story raises)
+What excuse do you use the most, and what would happen if it came true?
+
+PLAYLIST
+In This Town: Funny
+
+SERIES (only if the Shorts series feature is available)
+In This Town, Season 1, Episode 24
+
+COVER FRAME
+Timecode: por definir al montar; es el inicio del plano 16 en tiempos/planos.json
+What is in it: plano 16 de la lista de planos del guion: la Cosa, una bola morada con dos ojitos, y el narrador sin palabras a su lado. Sin subtítulo encima. Alterno: plano 10 (el mapache con chaleco y silbato dirigiendo el tráfico).
+
+RELATED VIDEO
+023 In This World, Pets Write Reviews of Their Owners (día 1, lista In This Town: Funny)
+Pega aquí la URL cuando exista. Cuando haya un video largo de esta familia, reemplázalo por ese.
+
+AUDIENCE: No, it's not made for kids
+VIDEO LANGUAGE: English (United States)
+CATEGORY: Film & Animation (la predeterminada del canal según docs/07, sección 2.5; la otra opción allí es Entertainment)
+ALTERED CONTENT: No
+Nota (docs/07, sección 3.3): animación de ficción claramente irreal y guion asistido no se declaran. Con voz propia la respuesta es No sin duda. Con voz sintética genérica también es No, pero por interpretación: la ayuda de YouTube no menciona voces sintéticas (sin verificar con texto literal). Nunca una voz clonada de otra persona ni música generada con IA.
+
+CHECK BEFORE PUBLISHING
+[ ] Copyright check finished with no claims
+[ ] Title has no hashtag and no word in ALL CAPS
+[ ] First spoken sentence is the rule and matches the title
+[ ] Cover frame chosen in the mobile app
+[ ] Added to playlist; related video set
+
+PARA EL CANAL EN ESPAÑOL
+Título:
+TODA EXCUSA SE VUELVE VERDAD
+Descripción:
+En este mundo toda excusa que dices en voz alta se vuelve verdad al instante y no hay devoluciones.

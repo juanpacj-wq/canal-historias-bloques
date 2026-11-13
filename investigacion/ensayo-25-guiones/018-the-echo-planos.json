@@ -1,0 +1,746 @@
+{
+ "video": "018-the-echo",
+ "duracion": 115.168,
+ "planos": [
+  {
+   "n": 1,
+   "inicio": 0.0,
+   "fin": 2.6,
+   "texto": "In this town, the echo doesn't repeat what you say.",
+   "escenario": "Pueblo de noche",
+   "en_pantalla": "El pueblo pequeño bajo dos cerros negros con una grieta en medio",
+   "cara": "(sin personaje)",
+   "camara": "G"
+  },
+  {
+   "n": 2,
+   "inicio": 2.6,
+   "fin": 4.0,
+   "texto": "It says what you really think.",
+   "escenario": "Bosque de noche",
+   "en_pantalla": "Un niño grita \"HELLO\"; de la grieta vuelve un texto distinto en letras pálidas",
+   "cara": "Susto",
+   "camara": "M"
+  },
+  {
+   "n": 3,
+   "inicio": 4.0,
+   "fin": 5.78,
+   "texto": "It lives in the Notch...",
+   "escenario": "Bosque de noche",
+   "en_pantalla": "La grieta entre los cerros, niebla saliendo",
+   "cara": "(sin personaje)",
+   "camara": "G"
+  },
+  {
+   "n": 4,
+   "inicio": 5.78,
+   "fin": 7.28,
+   "texto": "past the last streetlight.",
+   "escenario": "Calle de noche",
+   "en_pantalla": "Último poste de luz, parpadeando; después, oscuridad",
+   "cara": "(sin personaje)",
+   "camara": "G"
+  },
+  {
+   "n": 5,
+   "inicio": 7.28,
+   "fin": 9.72,
+   "texto": "It answers in your own voice, one breath late...",
+   "escenario": "Bosque de noche",
+   "en_pantalla": "Mujer con la mano en la boca, mirando la grieta",
+   "cara": "Miedo",
+   "camara": "C"
+  },
+  {
+   "n": 6,
+   "inicio": 9.72,
+   "fin": 11.0,
+   "texto": "and the whole town hears it.",
+   "escenario": "Pueblo de noche",
+   "en_pantalla": "Ondas de sonido bajando sobre los techos",
+   "cara": "(sin personaje)",
+   "camara": "G"
+  },
+  {
+   "n": 7,
+   "inicio": 11.0,
+   "fin": 13.3,
+   "texto": "Mr. Dabney once yelled, \"I love it here!\"",
+   "escenario": "Bosque",
+   "en_pantalla": "Mr. Dabney con los brazos abiertos frente a la grieta",
+   "cara": "Feliz exagerado",
+   "camara": "M"
+  },
+  {
+   "n": 8,
+   "inicio": 13.3,
+   "fin": 14.78,
+   "texto": "The Notch said, \"I'd leave tomorrow.\"",
+   "escenario": "Bosque",
+   "en_pantalla": "Mr. Dabney congelado; vecinos mirándolo",
+   "cara": "Vergüenza",
+   "camara": "C"
+  },
+  {
+   "n": 9,
+   "inicio": 14.78,
+   "fin": 15.96,
+   "texto": "He moved in June.",
+   "escenario": "Calle",
+   "en_pantalla": "Camión de trasteo alejándose; letrero \"FOR SALE\"",
+   "cara": "(sin personaje)",
+   "camara": "G"
+  },
+  {
+   "n": 10,
+   "inicio": 15.96,
+   "fin": 17.74,
+   "texto": "Our mayor gave one speech up there.",
+   "escenario": "Bosque",
+   "en_pantalla": "Alcalde en un atril frente a la grieta",
+   "cara": "Sonrisa de político",
+   "camara": "M"
+  },
+  {
+   "n": 11,
+   "inicio": 17.74,
+   "fin": 19.14,
+   "texto": "That's why we have a new mayor.",
+   "escenario": "Pueblo",
+   "en_pantalla": "Otro alcalde, con la banda puesta al revés",
+   "cara": "Nervioso",
+   "camara": "C"
+  },
+  {
+   "n": 12,
+   "inicio": 19.14,
+   "fin": 20.92,
+   "texto": "So we whisper. All of us.",
+   "escenario": "Pueblo",
+   "en_pantalla": "Vecinos hablándose al oído en la calle",
+   "cara": "Cautelosos",
+   "camara": "G"
+  },
+  {
+   "n": 13,
+   "inicio": 20.92,
+   "fin": 22.94,
+   "texto": "We clap at football games like it's golf.",
+   "escenario": "Cancha",
+   "en_pantalla": "Tribuna aplaudiendo con dos dedos",
+   "cara": "Serios",
+   "camara": "M"
+  },
+  {
+   "n": 14,
+   "inicio": 22.94,
+   "fin": 24.46,
+   "texto": "Even the dogs bark quietly.",
+   "escenario": "Calle",
+   "en_pantalla": "Perro de bloques con un \"woof\" diminuto",
+   "cara": "Perro tímido",
+   "camara": "C"
+  },
+  {
+   "n": 15,
+   "inicio": 24.46,
+   "fin": 26.42,
+   "texto": "Only one person ever got her own words back.",
+   "escenario": "Patio de noche",
+   "en_pantalla": "Silueta de una mujer en el corredor de atrás, luz cálida",
+   "cara": "(silueta)",
+   "camara": "G"
+  },
+  {
+   "n": 16,
+   "inicio": 26.42,
+   "fin": 27.12,
+   "texto": "My mom.",
+   "escenario": "Patio de noche",
+   "en_pantalla": "La mamá de frente",
+   "cara": "Sonrisa cálida",
+   "camara": "C"
+  },
+  {
+   "n": 17,
+   "inicio": 27.12,
+   "fin": 28.94,
+   "texto": "Every night she leaned off the back porch...",
+   "escenario": "Patio de noche",
+   "en_pantalla": "La mamá inclinada sobre la baranda, manos en bocina",
+   "cara": "Feliz",
+   "camara": "M"
+  },
+  {
+   "n": 18,
+   "inicio": 28.94,
+   "fin": 30.52,
+   "texto": "and yelled, \"Goodnight, bug!\"",
+   "escenario": "Cuarto de noche",
+   "en_pantalla": "Narradora pequeña en la cama, mirando la ventana",
+   "cara": "Sonrisa",
+   "camara": "C"
+  },
+  {
+   "n": 19,
+   "inicio": 30.52,
+   "fin": 32.88,
+   "texto": "And the hills said it right back, word for word.",
+   "escenario": "Bosque de noche",
+   "en_pantalla": "\"GOODNIGHT, BUG\" saliendo de la grieta en letras doradas",
+   "cara": "(sin personaje)",
+   "camara": "G"
+  },
+  {
+   "n": 20,
+   "inicio": 32.88,
+   "fin": 34.18,
+   "texto": "We lost her last winter.",
+   "escenario": "Patio de noche",
+   "en_pantalla": "El corredor vacío con nieve; la luz apagada",
+   "cara": "(sin personaje)",
+   "camara": "G"
+  },
+  {
+   "n": 21,
+   "inicio": 34.18,
+   "fin": 36.28,
+   "texto": "Now Dad says the same thing every morning.",
+   "escenario": "Cocina",
+   "en_pantalla": "Papá de espaldas frente a la estufa",
+   "cara": "(de espaldas)",
+   "camara": "M"
+  },
+  {
+   "n": 22,
+   "inicio": 36.28,
+   "fin": 37.78,
+   "texto": "\"We're doing great, kiddo.\"",
+   "escenario": "Cocina",
+   "en_pantalla": "Papá se voltea con una sonrisa fija",
+   "cara": "Sonrisa forzada, ojeras",
+   "camara": "C"
+  },
+  {
+   "n": 23,
+   "inicio": 37.78,
+   "fin": 38.32,
+   "texto": "Thumbs up.",
+   "escenario": "Cocina",
+   "en_pantalla": "El pulgar arriba del papá",
+   "cara": "(sin cara)",
+   "camara": "C"
+  },
+  {
+   "n": 24,
+   "inicio": 38.32,
+   "fin": 38.96,
+   "texto": "Burnt toast.",
+   "escenario": "Cocina",
+   "en_pantalla": "Tostada negra humeando en un plato",
+   "cara": "(sin personaje)",
+   "camara": "C"
+  },
+  {
+   "n": 25,
+   "inicio": 38.96,
+   "fin": 40.36,
+   "texto": "Then the night echoes started.",
+   "escenario": "Pueblo de noche",
+   "en_pantalla": "El pueblo dormido, todas las ventanas oscuras",
+   "cara": "(sin personaje)",
+   "camara": "G"
+  },
+  {
+   "n": 26,
+   "inicio": 40.36,
+   "fin": 41.52,
+   "texto": "2:07 a.m.",
+   "escenario": "Cuarto de noche",
+   "en_pantalla": "Reloj despertador en 2:07",
+   "cara": "(sin personaje)",
+   "camara": "C"
+  },
+  {
+   "n": 27,
+   "inicio": 41.52,
+   "fin": 43.24,
+   "texto": "A man's voice rolled down off the hills...",
+   "escenario": "Pueblo de noche",
+   "en_pantalla": "Ondas de sonido bajando de los cerros",
+   "cara": "(sin personaje)",
+   "camara": "G"
+  },
+  {
+   "n": 28,
+   "inicio": 43.24,
+   "fin": 44.84,
+   "texto": "loud enough to rattle the spoons.",
+   "escenario": "Cocina de noche",
+   "en_pantalla": "Cucharas temblando en un cajón abierto",
+   "cara": "(sin personaje)",
+   "camara": "C"
+  },
+  {
+   "n": 29,
+   "inicio": 44.84,
+   "fin": 45.86,
+   "texto": "\"I can't do this.\"",
+   "escenario": "Cuarto de noche",
+   "en_pantalla": "Narradora sentada en la cama de golpe",
+   "cara": "Susto",
+   "camara": "C"
+  },
+  {
+   "n": 30,
+   "inicio": 45.86,
+   "fin": 47.74,
+   "texto": "Nobody heard a shout. Just the answer.",
+   "escenario": "Bosque de noche",
+   "en_pantalla": "La grieta sola; nadie al borde",
+   "cara": "(sin personaje)",
+   "camara": "G"
+  },
+  {
+   "n": 31,
+   "inicio": 47.74,
+   "fin": 49.62,
+   "texto": "Every dog in town went under a bed.",
+   "escenario": "Cuarto de noche",
+   "en_pantalla": "Cola de perro asomando bajo una cama",
+   "cara": "(sin cara)",
+   "camara": "C"
+  },
+  {
+   "n": 32,
+   "inicio": 49.62,
+   "fin": 51.54,
+   "texto": "The second night, it came again.",
+   "escenario": "Cuarto de noche",
+   "en_pantalla": "Narradora despierta, cobija hasta la nariz",
+   "cara": "Miedo",
+   "camara": "C"
+  },
+  {
+   "n": 33,
+   "inicio": 51.54,
+   "fin": 52.56,
+   "texto": "\"The house is too quiet.\"",
+   "escenario": "Sala de noche",
+   "en_pantalla": "La sala vacía; un sillón con una cobija doblada",
+   "cara": "(sin personaje)",
+   "camara": "G"
+  },
+  {
+   "n": 34,
+   "inicio": 52.56,
+   "fin": 54.02,
+   "texto": "Forty windows lit up at once.",
+   "escenario": "Pueblo de noche",
+   "en_pantalla": "Las ventanas se encienden todas a la vez",
+   "cara": "(sin personaje)",
+   "camara": "G"
+  },
+  {
+   "n": 35,
+   "inicio": 54.02,
+   "fin": 55.86,
+   "texto": "I got up and checked Dad's room.",
+   "escenario": "Cuarto de noche (pasillo)",
+   "en_pantalla": "Narradora empujando una puerta entreabierta",
+   "cara": "Nerviosa",
+   "camara": "M"
+  },
+  {
+   "n": 36,
+   "inicio": 55.86,
+   "fin": 56.9,
+   "texto": "The bed was empty.",
+   "escenario": "Cuarto de noche",
+   "en_pantalla": "Cama destendida, vacía",
+   "cara": "(sin personaje)",
+   "camara": "G"
+  },
+  {
+   "n": 37,
+   "inicio": 56.9,
+   "fin": 57.98,
+   "texto": "His boots were gone.",
+   "escenario": "Sala de noche",
+   "en_pantalla": "Tapete junto a la puerta con la marca de dos botas",
+   "cara": "(sin personaje)",
+   "camara": "C"
+  },
+  {
+   "n": 38,
+   "inicio": 57.98,
+   "fin": 59.74,
+   "texto": "The third night, I followed his boot prints...",
+   "escenario": "Bosque de noche",
+   "en_pantalla": "Huellas en el barro subiendo por un sendero",
+   "cara": "(sin personaje)",
+   "camara": "C"
+  },
+  {
+   "n": 39,
+   "inicio": 59.74,
+   "fin": 61.36,
+   "texto": "up the trail with a flashlight.",
+   "escenario": "Bosque de noche",
+   "en_pantalla": "Narradora con linterna entre árboles negros",
+   "cara": "Miedo, decidida",
+   "camara": "G"
+  },
+  {
+   "n": 40,
+   "inicio": 61.36,
+   "fin": 63.38,
+   "texto": "The fog swallowed the beam three feet out.",
+   "escenario": "Bosque de noche",
+   "en_pantalla": "El rayo de la linterna cortado por la niebla",
+   "cara": "Miedo",
+   "camara": "M"
+  },
+  {
+   "n": 41,
+   "inicio": 63.38,
+   "fin": 64.98,
+   "texto": "Somebody was shouting up ahead.",
+   "escenario": "Bosque de noche",
+   "en_pantalla": "Narradora se detiene; ondas de sonido entre los troncos",
+   "cara": "Susto",
+   "camara": "C"
+  },
+  {
+   "n": 42,
+   "inicio": 64.98,
+   "fin": 66.74,
+   "texto": "I found him at the edge of the Notch...",
+   "escenario": "Bosque de noche",
+   "en_pantalla": "Silueta de un hombre al borde de la grieta",
+   "cara": "(silueta)",
+   "camara": "G"
+  },
+  {
+   "n": 43,
+   "inicio": 66.74,
+   "fin": 68.16,
+   "texto": "hands cupped around his mouth.",
+   "escenario": "Bosque de noche",
+   "en_pantalla": "El papá de perfil, manos en bocina",
+   "cara": "Desesperado",
+   "camara": "C"
+  },
+  {
+   "n": 44,
+   "inicio": 68.16,
+   "fin": 70.0,
+   "texto": "\"I'M FINE!\" he yelled into the dark.",
+   "escenario": "Bosque de noche",
+   "en_pantalla": "\"I'M FINE\" entrando en la grieta",
+   "cara": "Grito",
+   "camara": "M"
+  },
+  {
+   "n": 45,
+   "inicio": 70.0,
+   "fin": 70.68,
+   "texto": "One breath.",
+   "escenario": "Bosque de noche",
+   "en_pantalla": "Silencio; vaho saliendo de su boca",
+   "cara": "Esperando",
+   "camara": "C"
+  },
+  {
+   "n": 46,
+   "inicio": 70.68,
+   "fin": 72.28,
+   "texto": "Then the dark answered in his voice.",
+   "escenario": "Bosque de noche",
+   "en_pantalla": "La grieta, letras pálidas formándose",
+   "cara": "(sin personaje)",
+   "camara": "G"
+  },
+  {
+   "n": 47,
+   "inicio": 72.28,
+   "fin": 73.74,
+   "texto": "\"I don't know how to be both of them.\"",
+   "escenario": "Bosque de noche",
+   "en_pantalla": "El papá baja las manos",
+   "cara": "Roto",
+   "camara": "C"
+  },
+  {
+   "n": 48,
+   "inicio": 73.74,
+   "fin": 75.1,
+   "texto": "He yelled it seven times.",
+   "escenario": "Bosque de noche",
+   "en_pantalla": "El papá gritando otra vez, más encorvado",
+   "cara": "Grito, llanto",
+   "camara": "M"
+  },
+  {
+   "n": 49,
+   "inicio": 75.1,
+   "fin": 76.26,
+   "texto": "It never once agreed.",
+   "escenario": "Bosque de noche",
+   "en_pantalla": "El papá de rodillas frente a la grieta",
+   "cara": "Derrotado",
+   "camara": "G"
+  },
+  {
+   "n": 50,
+   "inicio": 76.26,
+   "fin": 77.6,
+   "texto": "I stepped up beside him.",
+   "escenario": "Bosque de noche",
+   "en_pantalla": "La narradora sale de la niebla a su lado",
+   "cara": "Decidida",
+   "camara": "M"
+  },
+  {
+   "n": 51,
+   "inicio": 77.6,
+   "fin": 78.38,
+   "texto": "He jumped.",
+   "escenario": "Bosque de noche",
+   "en_pantalla": "El papá voltea de un salto",
+   "cara": "Susto",
+   "camara": "C"
+  },
+  {
+   "n": 52,
+   "inicio": 78.38,
+   "fin": 80.24,
+   "texto": "\"Go home, kiddo. We're doing great.\"",
+   "escenario": "Bosque de noche",
+   "en_pantalla": "El papá se limpia la cara y sonríe",
+   "cara": "Sonrisa forzada",
+   "camara": "C"
+  },
+  {
+   "n": 53,
+   "inicio": 80.24,
+   "fin": 81.76,
+   "texto": "Thumbs up. His thumb was shaking.",
+   "escenario": "Bosque de noche",
+   "en_pantalla": "El pulgar arriba, temblando",
+   "cara": "(sin cara)",
+   "camara": "C"
+  },
+  {
+   "n": 54,
+   "inicio": 81.76,
+   "fin": 84.48,
+   "texto": "So I turned to the Notch...",
+   "escenario": "Bosque de noche",
+   "en_pantalla": "La narradora frente a la grieta, pequeña",
+   "cara": "Decidida",
+   "camara": "G"
+  },
+  {
+   "n": 55,
+   "inicio": 84.48,
+   "fin": 85.32,
+   "texto": "\"I'M FINE TOO!\"",
+   "escenario": "Bosque de noche",
+   "en_pantalla": "La narradora gritando, ojos cerrados",
+   "cara": "Grito",
+   "camara": "C"
+  },
+  {
+   "n": 56,
+   "inicio": 85.32,
+   "fin": 86.02,
+   "texto": "One breath.",
+   "escenario": "Bosque de noche",
+   "en_pantalla": "Padre e hija mirando la oscuridad",
+   "cara": "Tensos",
+   "camara": "M"
+  },
+  {
+   "n": 57,
+   "inicio": 86.02,
+   "fin": 88.48,
+   "texto": "Then my own voice came back, small and clear.",
+   "escenario": "Bosque de noche",
+   "en_pantalla": "Letras pequeñas y blancas saliendo de la grieta",
+   "cara": "(sin personaje)",
+   "camara": "G"
+  },
+  {
+   "n": 58,
+   "inicio": 88.48,
+   "fin": 89.94,
+   "texto": "\"I hear you leave every night.\"",
+   "escenario": "Bosque de noche",
+   "en_pantalla": "El papá mirándola",
+   "cara": "Golpe de realidad",
+   "camara": "C"
+  },
+  {
+   "n": 59,
+   "inicio": 89.94,
+   "fin": 91.56,
+   "texto": "\"I'm scared you won't come back.\"",
+   "escenario": "Bosque de noche",
+   "en_pantalla": "La narradora mirando al piso, lágrima azul",
+   "cara": "Llanto",
+   "camara": "C"
+  },
+  {
+   "n": 60,
+   "inicio": 91.56,
+   "fin": 92.7,
+   "texto": "Dad's thumb came down.",
+   "escenario": "Bosque de noche",
+   "en_pantalla": "La mano del papá se abre despacio",
+   "cara": "(sin cara)",
+   "camara": "C"
+  },
+  {
+   "n": 61,
+   "inicio": 92.7,
+   "fin": 93.92,
+   "texto": "He didn't say anything.",
+   "escenario": "Bosque de noche",
+   "en_pantalla": "El papá con los ojos aguados",
+   "cara": "Llanto contenido",
+   "camara": "C"
+  },
+  {
+   "n": 62,
+   "inicio": 93.92,
+   "fin": 95.28,
+   "texto": "He just took my hand.",
+   "escenario": "Bosque de noche",
+   "en_pantalla": "Dos manos de bloques juntas",
+   "cara": "(sin cara)",
+   "camara": "C"
+  },
+  {
+   "n": 63,
+   "inicio": 95.28,
+   "fin": 97.58,
+   "texto": "Then we yelled together, as loud as we could.",
+   "escenario": "Bosque de noche",
+   "en_pantalla": "Los dos al borde, manos en bocina",
+   "cara": "Grito",
+   "camara": "M"
+  },
+  {
+   "n": 64,
+   "inicio": 97.58,
+   "fin": 98.36,
+   "texto": "\"WE MISS YOU!\"",
+   "escenario": "Bosque de noche",
+   "en_pantalla": "\"WE MISS YOU\" entrando en la grieta en letras grandes",
+   "cara": "(sin personaje)",
+   "camara": "G"
+  },
+  {
+   "n": 65,
+   "inicio": 98.36,
+   "fin": 99.08,
+   "texto": "One breath.",
+   "escenario": "Bosque de noche",
+   "en_pantalla": "Silencio; la niebla quieta",
+   "cara": "Esperando",
+   "camara": "M"
+  },
+  {
+   "n": 66,
+   "inicio": 99.08,
+   "fin": 101.2,
+   "texto": "And the hills did something they hadn't done in a year.",
+   "escenario": "Bosque de noche",
+   "en_pantalla": "La grieta empieza a brillar dorado",
+   "cara": "Asombro",
+   "camara": "G"
+  },
+  {
+   "n": 67,
+   "inicio": 101.2,
+   "fin": 103.04,
+   "texto": "They said it back. Word for word.",
+   "escenario": "Bosque de noche",
+   "en_pantalla": "\"WE MISS YOU\" volviendo en letras doradas",
+   "cara": "Llanto, sonrisa",
+   "camara": "G"
+  },
+  {
+   "n": 68,
+   "inicio": 103.04,
+   "fin": 104.24,
+   "texto": "The night echoes stopped.",
+   "escenario": "Pueblo de noche",
+   "en_pantalla": "El pueblo dormido; perro roncando en un corredor",
+   "cara": "(sin personaje)",
+   "camara": "G"
+  },
+  {
+   "n": 69,
+   "inicio": 104.24,
+   "fin": 105.66,
+   "texto": "Dad still burns the toast...",
+   "escenario": "Cocina",
+   "en_pantalla": "Tostada negra; papá encogiendo los hombros",
+   "cara": "Sonrisa de verdad",
+   "camara": "M"
+  },
+  {
+   "n": 70,
+   "inicio": 105.66,
+   "fin": 106.94,
+   "texto": "but he quit the thumbs up.",
+   "escenario": "Cocina",
+   "en_pantalla": "Papá e hija comiendo juntos, las manos sobre la mesa",
+   "cara": "Tranquilos",
+   "camara": "M"
+  },
+  {
+   "n": 71,
+   "inicio": 106.94,
+   "fin": 110.44,
+   "texto": "And last night, half asleep, I heard the hills one more time.",
+   "escenario": "Cuarto de noche",
+   "en_pantalla": "Narradora con los ojos entrecerrados; ventana abierta",
+   "cara": "Adormilada",
+   "camara": "C"
+  },
+  {
+   "n": 72,
+   "inicio": 110.44,
+   "fin": 112.08,
+   "texto": "Two words. \"Goodnight, bug.\"",
+   "escenario": "Bosque de noche",
+   "en_pantalla": "\"GOODNIGHT, BUG\" en letras doradas saliendo de la grieta",
+   "cara": "(sin personaje)",
+   "camara": "G"
+  },
+  {
+   "n": 73,
+   "inicio": 112.08,
+   "fin": 113.22,
+   "texto": "Nobody had yelled it.",
+   "escenario": "Patio de noche",
+   "en_pantalla": "El corredor de atrás vacío, la baranda sola",
+   "cara": "(sin personaje)",
+   "camara": "G"
+  },
+  {
+   "n": 74,
+   "inicio": 113.22,
+   "fin": 115.168,
+   "texto": "Somebody was just thinking it.",
+   "escenario": "Patio de noche",
+   "en_pantalla": "La luz del corredor se enciende sola",
+   "cara": "(sin personaje)",
+   "camara": "C"
+  }
+ ]
+}

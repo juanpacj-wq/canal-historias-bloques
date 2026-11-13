@@ -1,0 +1,4 @@
+﻿gen_meta.py genero los archivos videos/NNN-slug/metadatos/publicacion.txt, videos/CALENDARIO.md y videos/LISTAS.md.
+check_meta.py los verifica. Uso, desde la raiz del proyecto:
+  python herramientas\metadatos\check_meta.py .
+Ojo: gen_meta.py sobrescribe los 25 archivos de metadatos. No lo corras si ya los editaste a mano.

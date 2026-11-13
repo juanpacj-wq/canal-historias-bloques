@@ -1,0 +1,24 @@
+# Entornos y cachés (se regeneran con preparar-equipo.ps1)
+herramientas/.venv/
+**/__pycache__/
+
+# Capturas de un tercero: no son de este proyecto y no se publican
+Tiktok tips/
+
+# Material pesado de cada video (se respalda aparte, no en git)
+videos/*/voz/*.wav
+videos/*/voz/*.mp3
+videos/*/grabacion/
+videos/*/montaje/*.mp4
+videos/*/*.rbxl
+videos/*/*.rbxl.lock
+canal/imagen/studio/*.rbxl
+canal/imagen/studio/*.rbxl.lock
+
+# Reclamos y turnos de los chats
+videos/*/.tomado
+grabacion.lock
+
+# Claves: nunca en el repositorio
+.env
+*.key
