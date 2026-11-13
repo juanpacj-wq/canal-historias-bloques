@@ -116,7 +116,7 @@ abre).
 
 | Qué | Por qué | Cómo se recupera |
 |---|---|---|
-| El entorno de Python (`herramientas/.venv`) | Pesa 350 MB y depende del equipo | `preparar-equipo.ps1` lo crea |
-| El video de referencia descargado y sus cuadros | Es contenido de otro canal | El enlace y el análisis están en `docs/01` |
+| El entorno de Python (`herramientas/.venv`) | Son 350 MB de paquetes de terceros compilados para el primer equipo; copiado a otro equipo no funciona | `preparar-equipo.ps1` lo crea. Las versiones exactas que se usaron están en `herramientas/requirements-exactos.txt` |
+| El video de referencia descargado, sus cuadros y los subtítulos de los tutoriales | Son contenido de otros canales: se puede estudiar, no republicar | `investigacion/descargar-referencia.ps1` los vuelve a bajar; el análisis está en `docs/01` y `docs/03` |
 | Música y efectos | Hay que descargarlos leyendo la licencia vigente | `docs/09` y `audio/README.md` |
 | Lugares de Studio (`.rbxl`) | Todavía no existe ninguno | Se crean en este equipo |

@@ -19,3 +19,6 @@ grabacion.lock
 # Claves: nunca en el repositorio
 .env
 *.key
+
+# Material de referencia de otros canales (se baja con descargar-referencia.ps1)
+investigacion/referencia/
