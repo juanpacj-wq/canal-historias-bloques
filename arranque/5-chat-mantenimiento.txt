@@ -1,8 +1,8 @@
 Papel de este chat: mantenimiento. No tomes ningún video.
 
-Lee CLAUDE.md.
+Lee CLAUDE.md y docs/11-metodo-probado.md.
 
-Revisa pendientes-biblioteca.md y resuelve cada línea en la biblioteca compartida (studio/, herramientas/). Por cada arreglo: corrige, prueba (herramientas/prueba/ejecutar_prueba.ps1 para las herramientas; el analizador de Luau y, si hay una ventana de Studio libre, una captura para la biblioteca), vuelve a empaquetar studio/cargar.luau y tacha la línea con la fecha.
+Revisa pendientes-biblioteca.md y resuelve cada línea en la biblioteca compartida (studio/, herramientas/). Por cada arreglo: corrige, prueba y tacha la línea con la fecha. Para probar la biblioteca de Studio usa el lugar del video 001: herramientas/studio/puente.py --video 001 instalar y reconstruir, y herramientas/studio/ver.py para mirar los planos afectados. Para las herramientas de voz y montaje: herramientas/prueba/ejecutar_prueba.ps1.
 
 Antes de tocar un archivo que un chat productor pueda estar usando, corre el estado de los videos: si hay videos en la etapa escenas o grabación, avísame qué cambia para ellos.
 

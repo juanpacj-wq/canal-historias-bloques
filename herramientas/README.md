@@ -4,6 +4,44 @@ Scripts de Python para llevar un guion hasta un Short listo para subir: voz con
 ritmo, tiempos por palabra, tiempos de cada plano, subtítulos, montaje, hoja de
 contactos y control de calidad. Todo corre en Windows, en CPU, con ffmpeg.
 
+## Uso normal: tres órdenes y la carpeta `studio/`
+
+Desde el video 001 (2026-11-13) un video no se arma llamando los scripts uno
+por uno. Se usa `producir.py`, que los encadena y muestra solo el resumen, y
+las herramientas de `studio/` para todo lo que toca Roblox Studio. El paso a
+paso está en la skill `producir-video`; el porqué, en
+`docs/11-metodo-probado.md`.
+
+```powershell
+$py = "herramientas\.venv\Scripts\python.exe"; $s = "herramientas\studio"
+& $py $s\puente.py --video NNN abrir          # crea y abre el lugar del video
+& $py $s\puente.py --video NNN instalar       # instala la biblioteca de studio/
+& $py herramientas\producir.py voz NNN        # voz Kokoro, ritmo, palabras, planos, subtítulos
+& $py videos\NNN-slug\escenas\hacer_puesta.py # la puesta (se escribe con $s\puesta.py)
+& $py $s\puente.py --video NNN reconstruir
+& $py $s\ver.py --video NNN videos\NNN-slug\escenas\capturas\p.png todos
+& $py $s\rodar.py --video NNN previa          # vista previa a 10 cps y hojas
+& $py $s\rodar.py --video NNN toma            # toma final a 60 cps
+& $py herramientas\producir.py montar NNN     # efectos, montaje, hoja de contactos, revisión
+& $py herramientas\producir.py limpiar NNN
+```
+
+| Archivo | Para qué sirve |
+|---|---|
+| `producir.py` | Orquestador: `voz`, `tiempos`, `montar`, `limpiar`. El detalle de cada paso queda en `revision/registro.txt`. |
+| `voz_kokoro.py` y `kokoro/` | Voz sintética local Kokoro-82M. Entorno y modelos aparte; instalación en `kokoro/LEEME.txt`. |
+| `studio/base.py` | Ubica la carpeta de un video y mantiene el puente con el servidor MCP de Studio. |
+| `studio/puente.py` | Órdenes sueltas contra Studio: `abrir`, `instalar`, `reconstruir`, `luau`, `dir`, `call`, `guardar`. |
+| `studio/puesta.py` | Ayudas y reglas de encuadre para escribir `hacer_puesta.py`. |
+| `studio/ver.py` | Hojas con el encuadre final de los planos, en modo edición, y panorámicas de escenarios con sus anclas. |
+| `studio/rodar.py` | Rodaje cuadro a cuadro: `previa`, `tramo`, `toma`. Reemplaza a OBS. |
+| `studio/hojas.py` | Dos cuadros por plano de una toma o del video final. |
+| `studio/ui.py` | Trae la ventana de Studio al frente, teclas y clics; pasos para dejarla en pantalla completa. |
+| `studio/efectos.py` | 17 efectos de sonido propios, sintetizados, y el `efectos.json` de cada video. |
+
+Lo que sigue describe cada script por separado. Sirve de referencia y para
+casos fuera de lo normal (voz de ElevenLabs, clips por plano, otra música).
+
 ## Requisitos
 
 - Windows 10 u 11 con PowerShell.
@@ -59,7 +97,8 @@ Todos los scripts tienen ayuda: `& $py herramientas\montar.py --help`.
 4. `transcribir.py --guion` sobre la voz que salió de `ritmo.py`.
 5. `planos_tiempos.py`. El `planos.json` que sale es el que lee el script
    director de Luau, así que este paso va antes de grabar.
-6. Grabar en Roblox Studio (una sola toma continua, o un clip por plano).
+6. Rodar en Roblox Studio con `studio/rodar.py` (una sola toma continua,
+   girada: se monta con `--rotar antihorario`).
 7. `subtitulos.py`.
 8. `montar.py`.
 9. `hoja_contactos.py` y `revisar.py`.

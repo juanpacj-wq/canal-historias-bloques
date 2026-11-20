@@ -9,8 +9,11 @@ se va a ver en los videos. La meta es rehacerlas con **capturas reales de
 Studio**, usando los mismos personajes, escenarios y luz de los videos, para
 que el canal y su contenido se vean como una sola cosa.
 
-Esta tarea va **después** de validar la biblioteca
-(`arranque/1-primera-prueba-en-studio.txt`) y **antes** de crear el canal en
+La biblioteca ya está validada (2026-11-13) y cambió de aspecto: pelo redondo,
+batería verde con borde en el texto. Los personajes del video 001 están en
+`videos/001-friendships-have-a-battery/escenas/hacer_puesta.py`; las capturas
+se toman con `herramientas/studio/ver.py` o con un cuadro de `rodar.py`. Esta
+tarea va **antes** de crear el canal en
 YouTube, para subirlo ya con la imagen definitiva.
 
 ## Qué hay que entregar

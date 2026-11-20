@@ -14,6 +14,9 @@ Every Friendship Runs on a Battery
 DESCRIPTION (1 or 2 sentences, then credits, then hashtags)
 In this world, every friendship has a battery that everybody can see. Ours was at two percent, and I thought I knew whose fault that was.
 An original work of fiction, written and animated by Almostville.
+Music: "Carefree" Kevin MacLeod (incompetech.com)
+Licensed under Creative Commons: By Attribution 4.0 License
+https://creativecommons.org/licenses/by/4.0/
 #roblox #robloxstory #friendship
 
 HASHTAGS (already in the description; 3 at most; no #shorts needed)
@@ -29,7 +32,7 @@ SERIES (only if the Shorts series feature is available)
 In This Town, Season 1, Episode 16
 
 COVER FRAME
-Timecode: por definir al montar; es el inicio del plano 24 en tiempos/planos.json
+Timecode: 00:37.9 (plano 24 del video montado; el subtítulo "TWO percent" queda por encima de la barra, no sobre ella)
 What is in it: plano 24 de la lista de planos del guion: la barra de batería en rojo, en 2 %, con la cara de susto del narrador en el pasillo del colegio. Sin subtítulo encima. Alterno: plano 14 (el narrador y Theo con la barra en 98 entre los dos).
 
 RELATED VIDEO
@@ -48,6 +51,7 @@ CHECK BEFORE PUBLISHING
 [ ] First spoken sentence is the rule and matches the title
 [ ] Cover frame chosen in the mobile app
 [ ] Added to playlist; related video set
+[ ] Music credit is in the description (obligatorio con "Carefree", CC BY 4.0)
 
 PARA EL CANAL EN ESPAÑOL
 Título:

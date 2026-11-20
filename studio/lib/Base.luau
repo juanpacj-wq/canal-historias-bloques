@@ -188,6 +188,11 @@ function Base.pieza(p: any): BasePart
 		parte = Instance.new("Part")
 		if forma == "bola" then
 			parte.Shape = Enum.PartType.Ball
+		elseif forma == "ovalo" then
+			-- Elipsoide: la bola de Roblox solo admite tamaño uniforme; la malla esférica no.
+			local malla = Instance.new("SpecialMesh")
+			malla.MeshType = Enum.MeshType.Sphere
+			malla.Parent = parte
 		elseif forma == "cilindro" or forma == "cilindro_x" then
 			parte.Shape = Enum.PartType.Cylinder
 		end

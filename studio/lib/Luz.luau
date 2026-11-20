@@ -51,8 +51,8 @@ Luz.PREAJUSTES = {
 		foco = { 0.15, 30, 25, 0 },
 	},
 	noche_azul = {
-		luz = { ClockTime = 0.5, GeographicLatitude = 35, Brightness = 1.2, Ambient = "#1C203A", OutdoorAmbient = "#242A4E",
-			ColorShift_Top = "#6E82FF", ExposureCompensation = 0.1, ShadowSoftness = 0.4 },
+		luz = { ClockTime = 0.5, GeographicLatitude = 35, Brightness = 1.8, Ambient = "#4A5488", OutdoorAmbient = "#56609A",
+			ColorShift_Top = "#6E82FF", ExposureCompensation = 0.45, ShadowSoftness = 0.4 },
 		atm = { Density = 0.35, Offset = 0, Color = "#28325A", Decay = "#141830", Glare = 0, Haze = 1 },
 		bloom = { 0.9, 32, 1.1 }, color = { -0.02, 0.2, -0.1, "#CDD7FF" },
 		foco = { 0.2, 30, 20, 0 },
@@ -65,10 +65,10 @@ Luz.PREAJUSTES = {
 		foco = { 0.2, 30, 20, 0 },
 	},
 	lluvia = {
-		luz = { ClockTime = 13, GeographicLatitude = 35, Brightness = 1, Ambient = "#464C54", OutdoorAmbient = "#60666E",
-			ColorShift_Top = "#BEC8D7", ExposureCompensation = -0.1, ShadowSoftness = 0.8 },
-		atm = { Density = 0.5, Offset = 0, Color = "#969EA8", Decay = "#606870", Glare = 0, Haze = 2.8 },
-		bloom = { 0.3, 24, 2 }, color = { -0.02, 0.1, -0.25, "#D7E1EB" },
+		luz = { ClockTime = 13, GeographicLatitude = 35, Brightness = 1.4, Ambient = "#6C7684", OutdoorAmbient = "#8A94A4",
+			ColorShift_Top = "#BEC8D7", ExposureCompensation = 0.15, ShadowSoftness = 0.8 },
+		atm = { Density = 0.42, Offset = 0, Color = "#8E9CB4", Decay = "#566074", Glare = 0, Haze = 2.4 },
+		bloom = { 0.4, 24, 1.8 }, color = { 0, 0.12, -0.08, "#D2E0F4" },
 		foco = { 0.25, 30, 18, 0 },
 	},
 	niebla = {
@@ -86,10 +86,10 @@ Luz.PREAJUSTES = {
 		foco = { 0.15, 25, 20, 0 },
 	},
 	interior_noche = {
-		luz = { ClockTime = 0, GeographicLatitude = 35, Brightness = 0.8, Ambient = "#262C46", OutdoorAmbient = "#2A3050",
-			ColorShift_Top = "#7088FF", ExposureCompensation = 0.2, ShadowSoftness = 0.5 },
+		luz = { ClockTime = 0, GeographicLatitude = 35, Brightness = 1.6, Ambient = "#6A74A8", OutdoorAmbient = "#6A74A8",
+			ColorShift_Top = "#7088FF", ExposureCompensation = 0.55, ShadowSoftness = 0.5 },
 		atm = { Density = 0.25, Offset = 0, Color = "#20284A", Decay = "#101428", Glare = 0, Haze = 0 },
-		bloom = { 1.0, 30, 0.9 }, color = { -0.03, 0.15, -0.15, "#BFD0FF" },
+		bloom = { 0.8, 30, 1.0 }, color = { 0, 0.12, -0.05, "#C8D4FF" },
 		foco = { 0.2, 25, 18, 0 },
 	},
 }

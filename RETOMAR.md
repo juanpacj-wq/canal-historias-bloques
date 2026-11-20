@@ -1,5 +1,16 @@
 # Cómo retomar este proyecto en otro equipo
 
+> **Estado al 2026-11-13.** El traslado ya se hizo: en el equipo de casa
+> Studio abre, la biblioteca quedó validada y el video 001 está producido
+> (falta que el dueño lo apruebe y lo publique). De la tabla "Orden de trabajo"
+> están hechas las tareas 1 y 4. Para producir el siguiente video no hace
+> falta leer este archivo: usa la skill `producir-video`; el método está en
+> `docs/11-metodo-probado.md`. Este archivo solo sirve para montar el proyecto
+> en un equipo nuevo, con dos cambios: OBS ya no se necesita, y la voz local
+> se instala con `herramientas/kokoro/LEEME.txt`. Los mensajes
+> `arranque/0-retomar-en-casa.txt` y `arranque/1-primera-prueba-en-studio.txt`
+> ya cumplieron su función y se borraron.
+
 Este repositorio es el traslado completo del trabajo hecho en un primer
 equipo, donde Roblox Studio no abría. Aquí está todo: investigación, plan,
 guiones, herramientas, biblioteca de Studio, identidad del canal y el contexto

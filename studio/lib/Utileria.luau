@@ -43,7 +43,7 @@ end
 -- Batería (objeto estrella del guion 001)
 ----------------------------------------------------------------------------------------
 
-Utileria.COLOR_BATERIA = { alto = "#3CD070", medio = "#F2B01E", bajo = "#E5383B", vacio = "#3A4152" }
+Utileria.COLOR_BATERIA = { alto = "#2BD94E", medio = "#F2B01E", bajo = "#E5383B", vacio = "#3A4152" }
 
 -- Color del relleno según el porcentaje (más de 50 verde, de 20 a 50 ámbar, menos de 20 rojo).
 function Utileria.colorBateria(porcentaje: number): string
@@ -88,8 +88,16 @@ local function crearBateria(p: any): Model
 	if p.texto ~= false then
 		local pantalla = agregar(modelo, { nombre = "Pantalla", tam = { ancho - 0.6, alto - 0.6, 0.66 }, pos = { 0, cy, 0 },
 			transparencia = 1, sombra = false, consultable = false })
-		Base.rotulo(pantalla, Enum.NormalId.Back, "", "#FFFFFF", "RotuloFrente")
-		Base.rotulo(pantalla, Enum.NormalId.Front, "", "#FFFFFF", "RotuloAtras")
+		-- Borde oscuro en el texto: sin él, el número blanco se pierde sobre el relleno ámbar.
+		for _, etiqueta in {
+			Base.rotulo(pantalla, Enum.NormalId.Back, "", "#FFFFFF", "RotuloFrente"),
+			Base.rotulo(pantalla, Enum.NormalId.Front, "", "#FFFFFF", "RotuloAtras"),
+		} do
+			local borde = Instance.new("UIStroke")
+			borde.Color = Color3.fromRGB(20, 24, 34)
+			borde.Thickness = 5
+			borde.Parent = etiqueta
+		end
 	end
 	if p.telaranas then
 		for _, lado in { -1, 1 } do
@@ -99,6 +107,13 @@ local function crearBateria(p: any): Model
 				rot = { 0, 0, lado * 30 }, color = "#E8E8EE", transparencia = 0.3, sombra = false })
 		end
 	end
+	-- Resplandor: la barra ilumina lo que tiene cerca con el color de su carga.
+	local resplandor = Instance.new("PointLight")
+	resplandor.Name = "Resplandor"
+	resplandor.Range = 9
+	resplandor.Brightness = 0.4
+	resplandor.Shadows = false
+	resplandor.Parent = modelo.PrimaryPart
 	Utileria.actualizar(modelo, p)
 	return modelo
 end
@@ -136,6 +151,19 @@ local function actualizarBateria(modelo: Model, p: any)
 		poner("RellenoDer", der, 0.06, x1, p.colorDer or p.color)
 	else
 		poner("Relleno", pct, x0, x1, p.color)
+	end
+	local resplandor = base:FindFirstChild("Resplandor")
+	if resplandor and resplandor:IsA("PointLight") then
+		local color = p.color
+		if not color then
+			if modelo:GetAttribute("Mitades") == true then
+				color = Utileria.colorBateria(math.max(p.izq or pct, p.der or pct))
+			else
+				color = Utileria.colorBateria(pct)
+			end
+		end
+		resplandor.Color = Base.color(color)
+		resplandor.Enabled = not p.apagada
 	end
 	local pantalla = modelo:FindFirstChild("Pantalla")
 	if pantalla then

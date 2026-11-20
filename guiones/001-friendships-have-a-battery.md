@@ -78,7 +78,7 @@ Una frase, un plano. Cámara: G (general), M (medio), C (cerca).
 | 16 | We built a treehouse... | Patio | Casa del árbol torcida | Orgullosos | G |
 | 17 | with one nail... | Patio | Un clavo enorme en una tabla | (sin personaje) | C |
 | 18 | He named it Fort Maybe. | Patio | Letrero "FORT MAYBE" | Theo pícaro | M |
-| 19 | so I stopped checking it. | Patio | Narrador de espaldas a la barra | Tranquilo | M |
+| 19 | Our bar never moved, so I stopped checking it. | Patio | Narrador de espaldas a la barra | Tranquilo | M |
 | 20 | Then Theo joined the soccer team. | Cancha | Theo con uniforme y balón | Feliz | M |
 | 21 | New friends. | Cancha | Theo rodeado de compañeros | Risa | G |
 | 22 | New jokes I wasn't in. | Colegio, pasillo | Grupo riendo; narrador aparte | Triste | M |

@@ -1,0 +1,166 @@
+[Script Info]
+; Generado por subtitulos.py. Fuente: Lilita One (se carga con fontsdir, no hace falta instalarla).
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+YCbCr Matrix: None
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Base,Lilita One,120,&H00FFFFFF,&H00FFFFFF,&H00000000,&H78000000,0,0,0,0,100,100,0,0,1,9,3,5,70,70,70,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:00.82,Base,,0,0,0,,{\an5\pos(540,461)\fscx78\fscy78\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}In this world
+Dialogue: 0,0:00:00.82,0:00:01.30,Base,,0,0,0,,{\an5\pos(540,461)\fscx78\fscy78\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}every friendship
+Dialogue: 0,0:00:01.30,0:00:01.56,Base,,0,0,0,,{\an5\pos(540,461)\fscx78\fscy78\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}has
+Dialogue: 0,0:00:01.56,0:00:02.28,Base,,0,0,0,,{\an5\pos(540,461)\fscx78\fscy78\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}a {\c&H0000E6FF&}BATTERY{\c&H00FFFFFF&}
+Dialogue: 0,0:00:02.28,0:00:02.70,Base,,0,0,0,,{\an5\pos(540,461)\fscx78\fscy78\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}and everybody
+Dialogue: 0,0:00:02.70,0:00:02.96,Base,,0,0,0,,{\an5\pos(540,461)\fscx78\fscy78\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}can
+Dialogue: 0,0:00:02.96,0:00:03.46,Base,,0,0,0,,{\an5\pos(540,461)\fscx78\fscy78\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}see how much
+Dialogue: 0,0:00:03.46,0:00:04.48,Base,,0,0,0,,{\an5\pos(540,461)\fscx78\fscy78\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}charge is left
+Dialogue: 0,0:00:04.48,0:00:04.78,Base,,0,0,0,,{\an5\pos(540,461)\fscx78\fscy78\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}It floats
+Dialogue: 0,0:00:04.78,0:00:05.12,Base,,0,0,0,,{\an5\pos(540,461)\fscx78\fscy78\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}between
+Dialogue: 0,0:00:05.12,0:00:05.68,Base,,0,0,0,,{\an5\pos(540,461)\fscx78\fscy78\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}you like a
+Dialogue: 0,0:00:05.68,0:00:06.68,Base,,0,0,0,,{\an5\pos(540,461)\fscx78\fscy78\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}little green bar
+Dialogue: 0,0:00:06.68,0:00:07.24,Base,,0,0,0,,{\an5\pos(540,461)\fscx78\fscy78\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}Laugh together
+Dialogue: 0,0:00:07.24,0:00:07.98,Base,,0,0,0,,{\an5\pos(540,461)\fscx78\fscy78\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}it goes up
+Dialogue: 0,0:00:07.98,0:00:08.58,Base,,0,0,0,,{\an5\pos(540,461)\fscx78\fscy78\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}Ignore a text
+Dialogue: 0,0:00:08.58,0:00:09.28,Base,,0,0,0,,{\an5\pos(540,461)\fscx78\fscy78\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}it drops
+Dialogue: 0,0:00:09.28,0:00:10.06,Base,,0,0,0,,{\an5\pos(540,461)\fscx78\fscy78\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}My grandpa and
+Dialogue: 0,0:00:10.06,0:00:10.60,Base,,0,0,0,,{\an5\pos(540,461)\fscx78\fscy78\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}his chess buddy
+Dialogue: 0,0:00:10.60,0:00:11.14,Base,,0,0,0,,{\an5\pos(540,461)\fscx78\fscy78\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}have been at
+Dialogue: 0,0:00:11.14,0:00:11.40,Base,,0,0,0,,{\an5\pos(540,461)\fscx78\fscy78\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}one hundred
+Dialogue: 0,0:00:11.40,0:00:11.88,Base,,0,0,0,,{\an5\pos(540,461)\fscx78\fscy78\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}percent
+Dialogue: 0,0:00:11.88,0:00:13.72,Base,,0,0,0,,{\an5\pos(540,461)\fscx78\fscy78\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}since 1974
+Dialogue: 0,0:00:13.72,0:00:14.18,Base,,0,0,0,,{\an5\pos(540,461)\fscx78\fscy78\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}They have never
+Dialogue: 0,0:00:14.18,0:00:15.06,Base,,0,0,0,,{\an5\pos(540,461)\fscx78\fscy78\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}finished a game
+Dialogue: 0,0:00:15.06,0:00:15.60,Base,,0,0,0,,{\an5\pos(540,461)\fscx78\fscy78\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}My sister lost
+Dialogue: 0,0:00:15.60,0:00:16.34,Base,,0,0,0,,{\an5\pos(540,461)\fscx78\fscy78\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}three friends in
+Dialogue: 0,0:00:16.34,0:00:17.20,Base,,0,0,0,,{\an5\pos(540,461)\fscx78\fscy78\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}one group chat
+Dialogue: 0,0:00:17.20,0:00:17.60,Base,,0,0,0,,{\an5\pos(540,461)\fscx78\fscy78\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}You could hear
+Dialogue: 0,0:00:17.60,0:00:18.14,Base,,0,0,0,,{\an5\pos(540,461)\fscx78\fscy78\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}the beeping from
+Dialogue: 0,0:00:18.14,0:00:18.84,Base,,0,0,0,,{\an5\pos(540,461)\fscx78\fscy78\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}the kitchen
+Dialogue: 0,0:00:18.84,0:00:19.30,Base,,0,0,0,,{\an5\pos(540,461)\fscx78\fscy78\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}My mom and
+Dialogue: 0,0:00:19.30,0:00:19.96,Base,,0,0,0,,{\an5\pos(540,461)\fscx78\fscy78\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}the mailman are
+Dialogue: 0,0:00:19.96,0:00:20.84,Base,,0,0,0,,{\an5\pos(540,461)\fscx78\fscy78\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}at forty percent
+Dialogue: 0,0:00:20.84,0:00:22.14,Base,,0,0,0,,{\an5\pos(540,461)\fs119\fscx78\fscy78\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}Nobody knows how
+Dialogue: 0,0:00:22.14,0:00:22.62,Base,,0,0,0,,{\an5\pos(540,461)\fscx78\fscy78\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}Mom says he
+Dialogue: 0,0:00:22.62,0:00:23.06,Base,,0,0,0,,{\an5\pos(540,461)\fscx78\fscy78\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}respects her
+Dialogue: 0,0:00:23.06,0:00:23.82,Base,,0,0,0,,{\an5\pos(540,461)\fscx78\fscy78\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}mailbox
+Dialogue: 0,0:00:23.82,0:00:24.22,Base,,0,0,0,,{\an5\pos(540,461)\fscx78\fscy78\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}Me and Theo
+Dialogue: 0,0:00:24.22,0:00:24.50,Base,,0,0,0,,{\an5\pos(540,461)\fscx78\fscy78\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}were at
+Dialogue: 0,0:00:24.50,0:00:25.28,Base,,0,0,0,,{\an5\pos(540,461)\fscx78\fscy78\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}ninety-eight
+Dialogue: 0,0:00:25.28,0:00:26.00,Base,,0,0,0,,{\an5\pos(540,461)\fscx78\fscy78\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}Always
+Dialogue: 0,0:00:26.00,0:00:26.38,Base,,0,0,0,,{\an5\pos(540,461)\fscx78\fscy78\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}We built a
+Dialogue: 0,0:00:26.38,0:00:26.86,Base,,0,0,0,,{\an5\pos(540,461)\fscx78\fscy78\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}treehouse with
+Dialogue: 0,0:00:26.86,0:00:27.04,Base,,0,0,0,,{\an5\pos(540,461)\fscx78\fscy78\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}one
+Dialogue: 0,0:00:27.04,0:00:27.76,Base,,0,0,0,,{\an5\pos(540,461)\fscx78\fscy78\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}nail and a
+Dialogue: 0,0:00:27.76,0:00:28.48,Base,,0,0,0,,{\an5\pos(540,461)\fscx78\fscy78\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}lot of hope
+Dialogue: 0,0:00:28.48,0:00:28.98,Base,,0,0,0,,{\an5\pos(540,461)\fscx78\fscy78\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}He named it
+Dialogue: 0,0:00:28.98,0:00:29.38,Base,,0,0,0,,{\an5\pos(540,461)\fscx78\fscy78\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}Fort Maybe
+Dialogue: 0,0:00:29.38,0:00:29.94,Base,,0,0,0,,{\an5\pos(540,461)\fscx78\fscy78\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}Our bar
+Dialogue: 0,0:00:29.94,0:00:30.64,Base,,0,0,0,,{\an5\pos(540,461)\fscx78\fscy78\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}never moved
+Dialogue: 0,0:00:30.64,0:00:31.02,Base,,0,0,0,,{\an5\pos(540,461)\fscx78\fscy78\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}so I stopped
+Dialogue: 0,0:00:31.02,0:00:31.82,Base,,0,0,0,,{\an5\pos(540,461)\fscx78\fscy78\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}checking it
+Dialogue: 0,0:00:31.82,0:00:32.36,Base,,0,0,0,,{\an5\pos(540,461)\fscx78\fscy78\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}Then Theo joined
+Dialogue: 0,0:00:32.36,0:00:33.42,Base,,0,0,0,,{\an5\pos(540,461)\fscx78\fscy78\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}the soccer team
+Dialogue: 0,0:00:33.42,0:00:34.12,Base,,0,0,0,,{\an5\pos(540,461)\fscx78\fscy78\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}New friends
+Dialogue: 0,0:00:34.12,0:00:34.72,Base,,0,0,0,,{\an5\pos(540,461)\fscx78\fscy78\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}New jokes I
+Dialogue: 0,0:00:34.72,0:00:35.48,Base,,0,0,0,,{\an5\pos(540,461)\fscx78\fscy78\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}wasn't in
+Dialogue: 0,0:00:35.48,0:00:36.12,Base,,0,0,0,,{\an5\pos(540,461)\fscx78\fscy78\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}One Monday I
+Dialogue: 0,0:00:36.12,0:00:36.60,Base,,0,0,0,,{\an5\pos(540,461)\fscx78\fscy78\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}finally looked
+Dialogue: 0,0:00:36.60,0:00:37.18,Base,,0,0,0,,{\an5\pos(540,461)\fscx78\fscy78\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}up
+Dialogue: 0,0:00:37.18,0:00:37.54,Base,,0,0,0,,{\an5\pos(540,461)\fscx78\fscy78\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}{\c&H0000E6FF&}RED{\c&H00FFFFFF&}
+Dialogue: 0,0:00:37.54,0:00:38.38,Base,,0,0,0,,{\an5\pos(540,461)\fscx78\fscy78\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}{\c&H0000E6FF&}TWO{\c&H00FFFFFF&} percent
+Dialogue: 0,0:00:38.38,0:00:39.00,Base,,0,0,0,,{\an5\pos(540,461)\fscx78\fscy78\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}At {\c&H0000E6FF&}ZERO{\c&H00FFFFFF&}
+Dialogue: 0,0:00:39.00,0:00:39.28,Base,,0,0,0,,{\an5\pos(540,461)\fscx78\fscy78\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}a friendship
+Dialogue: 0,0:00:39.28,0:00:40.02,Base,,0,0,0,,{\an5\pos(540,461)\fscx78\fscy78\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}shuts off
+Dialogue: 0,0:00:40.02,0:00:40.50,Base,,0,0,0,,{\an5\pos(540,461)\fscx78\fscy78\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}You pass each
+Dialogue: 0,0:00:40.50,0:00:40.80,Base,,0,0,0,,{\an5\pos(540,461)\fscx78\fscy78\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}other like
+Dialogue: 0,0:00:40.80,0:00:41.66,Base,,0,0,0,,{\an5\pos(540,461)\fscx78\fscy78\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}strangers
+Dialogue: 0,0:00:41.66,0:00:42.26,Base,,0,0,0,,{\an5\pos(540,461)\fscx78\fscy78\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}My dad waves
+Dialogue: 0,0:00:42.26,0:00:42.60,Base,,0,0,0,,{\an5\pos(540,461)\fscx78\fscy78\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}at a guy
+Dialogue: 0,0:00:42.60,0:00:43.10,Base,,0,0,0,,{\an5\pos(540,461)\fscx78\fscy78\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}named Rick
+Dialogue: 0,0:00:43.10,0:00:44.02,Base,,0,0,0,,{\an5\pos(540,461)\fscx78\fscy78\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}every morning
+Dialogue: 0,0:00:44.02,0:00:44.52,Base,,0,0,0,,{\an5\pos(540,461)\fscx78\fscy78\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}Neither of them
+Dialogue: 0,0:00:44.52,0:00:45.46,Base,,0,0,0,,{\an5\pos(540,461)\fscx78\fscy78\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}remembers why
+Dialogue: 0,0:00:45.46,0:00:45.92,Base,,0,0,0,,{\an5\pos(540,461)\fscx78\fscy78\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}So I tried
+Dialogue: 0,0:00:45.92,0:00:46.70,Base,,0,0,0,,{\an5\pos(540,461)\fscx78\fscy78\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}to charge it
+Dialogue: 0,0:00:46.70,0:00:47.16,Base,,0,0,0,,{\an5\pos(540,461)\fscx78\fscy78\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}I bought his
+Dialogue: 0,0:00:47.16,0:00:48.06,Base,,0,0,0,,{\an5\pos(540,461)\fscx78\fscy78\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}favorite chips
+Dialogue: 0,0:00:48.06,0:00:48.70,Base,,0,0,0,,{\an5\pos(540,461)\fscx78\fscy78\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}Three percent
+Dialogue: 0,0:00:48.70,0:00:48.98,Base,,0,0,0,,{\an5\pos(540,461)\fscx78\fscy78\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}then back
+Dialogue: 0,0:00:48.98,0:00:49.58,Base,,0,0,0,,{\an5\pos(540,461)\fscx78\fscy78\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}to {\c&H0000E6FF&}TWO{\c&H00FFFFFF&}
+Dialogue: 0,0:00:49.58,0:00:50.06,Base,,0,0,0,,{\an5\pos(540,461)\fscx78\fscy78\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}I laughed at
+Dialogue: 0,0:00:50.06,0:00:50.48,Base,,0,0,0,,{\an5\pos(540,461)\fscx78\fscy78\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}everything he
+Dialogue: 0,0:00:50.48,0:00:50.96,Base,,0,0,0,,{\an5\pos(540,461)\fscx78\fscy78\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}said
+Dialogue: 0,0:00:50.96,0:00:51.44,Base,,0,0,0,,{\an5\pos(540,461)\fscx78\fscy78\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}even pass
+Dialogue: 0,0:00:51.44,0:00:52.20,Base,,0,0,0,,{\an5\pos(540,461)\fscx78\fscy78\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}the ketchup
+Dialogue: 0,0:00:52.20,0:00:52.86,Base,,0,0,0,,{\an5\pos(540,461)\fscx78\fscy78\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}Still {\c&H0000E6FF&}TWO{\c&H00FFFFFF&}
+Dialogue: 0,0:00:52.86,0:00:53.34,Base,,0,0,0,,{\an5\pos(540,461)\fscx78\fscy78\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}I threw him
+Dialogue: 0,0:00:53.34,0:00:54.36,Base,,0,0,0,,{\an5\pos(540,461)\fscx78\fscy78\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}a surprise party
+Dialogue: 0,0:00:54.36,0:00:54.98,Base,,0,0,0,,{\an5\pos(540,461)\fscx78\fscy78\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}His birthday is
+Dialogue: 0,0:00:54.98,0:00:55.72,Base,,0,0,0,,{\an5\pos(540,461)\fscx78\fscy78\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}in March
+Dialogue: 0,0:00:55.72,0:00:56.72,Base,,0,0,0,,{\an5\pos(540,461)\fscx78\fscy78\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}It was October
+Dialogue: 0,0:00:56.72,0:00:57.58,Base,,0,0,0,,{\an5\pos(540,461)\fscx78\fscy78\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}One percent
+Dialogue: 0,0:00:57.58,0:00:58.10,Base,,0,0,0,,{\an5\pos(540,461)\fscx78\fscy78\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}That night the
+Dialogue: 0,0:00:58.10,0:00:58.56,Base,,0,0,0,,{\an5\pos(540,461)\fscx78\fscy78\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}bar started
+Dialogue: 0,0:00:58.56,0:00:58.82,Base,,0,0,0,,{\an5\pos(540,461)\fscx78\fscy78\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}beeping
+Dialogue: 0,0:00:58.82,0:00:59.54,Base,,0,0,0,,{\an5\pos(540,461)\fscx78\fscy78\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}I sat on
+Dialogue: 0,0:00:59.54,0:01:00.12,Base,,0,0,0,,{\an5\pos(540,461)\fscx78\fscy78\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}my floor and
+Dialogue: 0,0:01:00.12,0:01:00.88,Base,,0,0,0,,{\an5\pos(540,461)\fscx78\fscy78\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}stared at it
+Dialogue: 0,0:01:00.88,0:01:01.28,Base,,0,0,0,,{\an5\pos(540,461)\fscx78\fscy78\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}And I noticed
+Dialogue: 0,0:01:01.28,0:01:01.80,Base,,0,0,0,,{\an5\pos(540,461)\fscx78\fscy78\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}something I'd
+Dialogue: 0,0:01:01.80,0:01:02.62,Base,,0,0,0,,{\an5\pos(540,461)\fscx78\fscy78\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}never checked
+Dialogue: 0,0:01:02.62,0:01:03.02,Base,,0,0,0,,{\an5\pos(540,461)\fscx78\fscy78\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}The bar has
+Dialogue: 0,0:01:03.02,0:01:03.76,Base,,0,0,0,,{\an5\pos(540,461)\fscx78\fscy78\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}{\c&H0000E6FF&}TWO{\c&H00FFFFFF&} {\c&H0000E6FF&}HALVES{\c&H00FFFFFF&}
+Dialogue: 0,0:01:03.76,0:01:04.12,Base,,0,0,0,,{\an5\pos(540,461)\fscx78\fscy78\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}His half
+Dialogue: 0,0:01:04.12,0:01:04.88,Base,,0,0,0,,{\an5\pos(540,461)\fscx78\fscy78\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}was full
+Dialogue: 0,0:01:04.88,0:01:06.02,Base,,0,0,0,,{\an5\pos(540,461)\fscx78\fscy78\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}Mine was {\c&H0000E6FF&}EMPTY{\c&H00FFFFFF&}
+Dialogue: 0,0:01:06.02,0:01:06.50,Base,,0,0,0,,{\an5\pos(540,461)\fscx78\fscy78\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}Theo had invited
+Dialogue: 0,0:01:06.50,0:01:07.22,Base,,0,0,0,,{\an5\pos(540,461)\fscx78\fscy78\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}me to every
+Dialogue: 0,0:01:07.22,0:01:08.00,Base,,0,0,0,,{\an5\pos(540,461)\fscx78\fscy78\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}single game
+Dialogue: 0,0:01:08.00,0:01:08.52,Base,,0,0,0,,{\an5\pos(540,461)\fscx78\fscy78\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}I'd said no
+Dialogue: 0,0:01:08.52,0:01:09.46,Base,,0,0,0,,{\an5\pos(540,461)\fscx78\fscy78\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}eleven times
+Dialogue: 0,0:01:09.46,0:01:09.98,Base,,0,0,0,,{\an5\pos(540,461)\fscx78\fscy78\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}I told him
+Dialogue: 0,0:01:09.98,0:01:10.40,Base,,0,0,0,,{\an5\pos(540,461)\fscx78\fscy78\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}soccer was
+Dialogue: 0,0:01:10.40,0:01:11.02,Base,,0,0,0,,{\an5\pos(540,461)\fscx78\fscy78\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}boring
+Dialogue: 0,0:01:11.02,0:01:11.78,Base,,0,0,0,,{\an5\pos(540,461)\fscx78\fscy78\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}Really I just
+Dialogue: 0,0:01:11.78,0:01:12.24,Base,,0,0,0,,{\an5\pos(540,461)\fscx78\fscy78\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}didn't want to
+Dialogue: 0,0:01:12.24,0:01:12.72,Base,,0,0,0,,{\an5\pos(540,461)\fscx78\fscy78\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}watch him not
+Dialogue: 0,0:01:12.72,0:01:13.30,Base,,0,0,0,,{\an5\pos(540,461)\fscx78\fscy78\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}need me
+Dialogue: 0,0:01:13.30,0:01:13.88,Base,,0,0,0,,{\an5\pos(540,461)\fscx78\fscy78\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}So on Saturday
+Dialogue: 0,0:01:13.88,0:01:14.62,Base,,0,0,0,,{\an5\pos(540,461)\fscx78\fscy78\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}I went
+Dialogue: 0,0:01:14.62,0:01:15.46,Base,,0,0,0,,{\an5\pos(540,461)\fscx78\fscy78\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}It was pouring
+Dialogue: 0,0:01:15.46,0:01:15.86,Base,,0,0,0,,{\an5\pos(540,461)\fscx78\fscy78\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}I stood at
+Dialogue: 0,0:01:15.86,0:01:16.20,Base,,0,0,0,,{\an5\pos(540,461)\fscx78\fscy78\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}the fence
+Dialogue: 0,0:01:16.20,0:01:17.26,Base,,0,0,0,,{\an5\pos(540,461)\fscx78\fscy78\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}alone soaked
+Dialogue: 0,0:01:17.26,0:01:17.66,Base,,0,0,0,,{\an5\pos(540,461)\fscx78\fscy78\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}And I yelled
+Dialogue: 0,0:01:17.66,0:01:18.44,Base,,0,0,0,,{\an5\pos(540,461)\fscx78\fscy78\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}his name until
+Dialogue: 0,0:01:18.44,0:01:19.40,Base,,0,0,0,,{\an5\pos(540,461)\fscx78\fscy78\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}my voice cracked
+Dialogue: 0,0:01:19.40,0:01:19.66,Base,,0,0,0,,{\an5\pos(540,461)\fscx78\fscy78\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}He missed
+Dialogue: 0,0:01:19.66,0:01:20.40,Base,,0,0,0,,{\an5\pos(540,461)\fscx78\fscy78\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}the shot
+Dialogue: 0,0:01:20.40,0:01:21.16,Base,,0,0,0,,{\an5\pos(540,461)\fscx78\fscy78\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}Completely
+Dialogue: 0,0:01:21.16,0:01:21.56,Base,,0,0,0,,{\an5\pos(540,461)\fscx78\fscy78\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}Because he was
+Dialogue: 0,0:01:21.56,0:01:22.30,Base,,0,0,0,,{\an5\pos(540,461)\fscx78\fscy78\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}staring at me
+Dialogue: 0,0:01:22.30,0:01:22.78,Base,,0,0,0,,{\an5\pos(540,461)\fscx78\fscy78\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}grinning like
+Dialogue: 0,0:01:22.78,0:01:23.42,Base,,0,0,0,,{\an5\pos(540,461)\fscx78\fscy78\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}an idiot
+Dialogue: 0,0:01:23.42,0:01:23.72,Base,,0,0,0,,{\an5\pos(540,461)\fscx78\fscy78\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}The bar
+Dialogue: 0,0:01:23.72,0:01:24.54,Base,,0,0,0,,{\an5\pos(540,461)\fscx78\fscy78\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}didn't climb
+Dialogue: 0,0:01:24.54,0:01:25.48,Base,,0,0,0,,{\an5\pos(540,461)\fscx78\fscy78\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}It {\c&H0000E6FF&}EXPLODED{\c&H00FFFFFF&}
+Dialogue: 0,0:01:25.48,0:01:25.94,Base,,0,0,0,,{\an5\pos(540,461)\fscx78\fscy78\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}Green light
+Dialogue: 0,0:01:25.94,0:01:26.60,Base,,0,0,0,,{\an5\pos(540,461)\fscx78\fscy78\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}everywhere
+Dialogue: 0,0:01:26.60,0:01:27.06,Base,,0,0,0,,{\an5\pos(540,461)\fscx78\fscy78\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}The scoreboard
+Dialogue: 0,0:01:27.06,0:01:27.68,Base,,0,0,0,,{\an5\pos(540,461)\fscx78\fscy78\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}shorted out
+Dialogue: 0,0:01:27.68,0:01:28.50,Base,,0,0,0,,{\an5\pos(540,461)\fscx78\fscy78\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}They lost nine
+Dialogue: 0,0:01:28.50,0:01:29.18,Base,,0,0,0,,{\an5\pos(540,461)\fscx78\fscy78\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}to nothing
+Dialogue: 0,0:01:29.18,0:01:29.57,Base,,0,0,0,,{\an5\pos(540,461)\fscx78\fscy78\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}We're at one
+Dialogue: 0,0:01:29.57,0:01:30.28,Base,,0,0,0,,{\an5\pos(540,461)\fscx78\fscy78\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}hundred percent
+Dialogue: 0,0:01:30.28,0:01:31.04,Base,,0,0,0,,{\an5\pos(540,461)\fscx78\fscy78\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}Fort Maybe still
+Dialogue: 0,0:01:31.04,0:01:31.94,Base,,0,0,0,,{\an5\pos(540,461)\fscx78\fscy78\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}has one nail
+Dialogue: 0,0:01:31.94,0:01:32.32,Base,,0,0,0,,{\an5\pos(540,461)\fscx78\fscy78\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}And I check
+Dialogue: 0,0:01:32.32,0:01:32.94,Base,,0,0,0,,{\an5\pos(540,461)\fscx78\fscy78\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}the bar every
+Dialogue: 0,0:01:32.94,0:01:33.62,Base,,0,0,0,,{\an5\pos(540,461)\fscx78\fscy78\t(0,70,\fscx108\fscy108)\t(70,140,\fscx100\fscy100)}day now

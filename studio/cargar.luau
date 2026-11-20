@@ -216,6 +216,11 @@ function Base.pieza(p: any): BasePart
 		parte = Instance.new("Part")
 		if forma == "bola" then
 			parte.Shape = Enum.PartType.Ball
+		elseif forma == "ovalo" then
+			-- Elipsoide: la bola de Roblox solo admite tamaño uniforme; la malla esférica no.
+			local malla = Instance.new("SpecialMesh")
+			malla.MeshType = Enum.MeshType.Sphere
+			malla.Parent = parte
 		elseif forma == "cilindro" or forma == "cilindro_x" then
 			parte.Shape = Enum.PartType.Cylinder
 		end
@@ -1036,34 +1041,45 @@ end
 -- Peinados de piezas. Medidas en radios de cabeza; +Z es la nuca (el personaje mira a -Z).
 local PELOS: { [string]: { any } } = {
 	ninguno = {}, calvo = {},
+	-- El "Casco" es una bola un poco mayor que la cabeza, corrida hacia arriba y hacia la
+	-- nuca: deja la cara libre y da una línea de pelo redonda (comprobado en Studio; las tapas
+	-- de bloque se veían como un sombrero cuadrado en los planos cercanos).
 	corto = {
-		{ n = "Tapa", tam = { 2.15, 0.7, 2.15 }, pos = { 0, 0.8, 0 } },
-		{ n = "Nuca", tam = { 2.15, 1.1, 0.6 }, pos = { 0, 0.3, 0.85 } },
+		{ n = "Casco", tam = { 2.24, 2.24, 2.24 }, pos = { 0, 0.36, 0.26 }, forma = "bola" },
 	},
 	largo = {
-		{ n = "Tapa", tam = { 2.15, 0.7, 2.15 }, pos = { 0, 0.8, 0 } },
-		{ n = "Espalda", tam = { 2.2, 2.6, 0.6 }, pos = { 0, -0.4, 0.9 } },
-		{ n = "LadoDer", tam = { 0.4, 1.7, 1.5 }, pos = { 1.0, 0, 0.2 } },
-		{ n = "LadoIzq", tam = { 0.4, 1.7, 1.5 }, pos = { -1.0, 0, 0.2 } },
+		{ n = "Casco", tam = { 2.26, 2.26, 2.26 }, pos = { 0, 0.36, 0.26 }, forma = "bola" },
+		{ n = "Melena", tam = { 2.1, 2.3, 1.5 }, pos = { 0, -0.75, 0.62 }, forma = "ovalo" },
 	},
 	coletas = {
-		{ n = "Tapa", tam = { 2.15, 0.7, 2.15 }, pos = { 0, 0.8, 0 } },
-		{ n = "ColetaDer", tam = { 1, 1, 1 }, pos = { 1.35, 0.2, 0.2 }, forma = "bola" },
-		{ n = "ColetaIzq", tam = { 1, 1, 1 }, pos = { -1.35, 0.2, 0.2 }, forma = "bola" },
+		{ n = "Casco", tam = { 2.24, 2.24, 2.24 }, pos = { 0, 0.36, 0.26 }, forma = "bola" },
+		{ n = "ColetaDer", tam = { 1.05, 1.05, 1.05 }, pos = { 1.3, 0.25, 0.35 }, forma = "bola" },
+		{ n = "ColetaIzq", tam = { 1.05, 1.05, 1.05 }, pos = { -1.3, 0.25, 0.35 }, forma = "bola" },
 	},
 	copete = {
-		{ n = "Tapa", tam = { 2.15, 0.7, 2.15 }, pos = { 0, 0.8, 0 } },
-		{ n = "Nuca", tam = { 2.15, 1.1, 0.6 }, pos = { 0, 0.3, 0.85 } },
-		{ n = "Copete", tam = { 1.6, 0.55, 0.6 }, pos = { 0, 1.2, -0.7 } },
+		{ n = "Casco", tam = { 2.24, 2.24, 2.24 }, pos = { 0, 0.36, 0.26 }, forma = "bola" },
+		{ n = "Copete", tam = { 1.5, 0.75, 1.0 }, pos = { 0.15, 1.12, -0.5 }, forma = "ovalo" },
+	},
+	rizado = {
+		{ n = "Casco", tam = { 2.24, 2.24, 2.24 }, pos = { 0, 0.36, 0.26 }, forma = "bola" },
+		{ n = "Rizo1", tam = { 1.1, 1.1, 1.1 }, pos = { -0.75, 1.0, -0.1 }, forma = "bola" },
+		{ n = "Rizo2", tam = { 1.2, 1.2, 1.2 }, pos = { 0, 1.2, 0.05 }, forma = "bola" },
+		{ n = "Rizo3", tam = { 1.1, 1.1, 1.1 }, pos = { 0.75, 1.0, -0.1 }, forma = "bola" },
+		{ n = "Rizo4", tam = { 1.1, 1.1, 1.1 }, pos = { -1.0, 0.45, 0.45 }, forma = "bola" },
+		{ n = "Rizo5", tam = { 1.1, 1.1, 1.1 }, pos = { 1.0, 0.45, 0.45 }, forma = "bola" },
+	},
+	mono = {
+		{ n = "Casco", tam = { 2.24, 2.24, 2.24 }, pos = { 0, 0.36, 0.26 }, forma = "bola" },
+		{ n = "Mono", tam = { 1.0, 1.0, 1.0 }, pos = { 0, 1.45, 0.45 }, forma = "bola" },
 	},
 	abuelo = {
-		{ n = "Nuca", tam = { 2.15, 1.0, 0.6 }, pos = { 0, 0.1, 0.85 } },
-		{ n = "LadoDer", tam = { 0.4, 0.9, 1.5 }, pos = { 1.0, 0.1, 0.2 } },
-		{ n = "LadoIzq", tam = { 0.4, 0.9, 1.5 }, pos = { -1.0, 0.1, 0.2 } },
+		{ n = "LadoDer", tam = { 0.95, 0.95, 0.95 }, pos = { 0.92, 0.25, 0.25 }, forma = "bola" },
+		{ n = "LadoIzq", tam = { 0.95, 0.95, 0.95 }, pos = { -0.92, 0.25, 0.25 }, forma = "bola" },
+		{ n = "Nuca", tam = { 1.7, 1.1, 0.9 }, pos = { 0, 0.1, 0.75 }, forma = "ovalo" },
 	},
 	gorra = {
-		{ n = "Tapa", tam = { 2.2, 0.75, 2.2 }, pos = { 0, 0.8, 0 } },
-		{ n = "Visera", tam = { 1.6, 0.2, 0.9 }, pos = { 0, 0.55, -1.4 } },
+		{ n = "Casco", tam = { 2.26, 2.26, 2.26 }, pos = { 0, 0.42, 0.2 }, forma = "bola" },
+		{ n = "Visera", tam = { 1.7, 0.18, 1.0 }, pos = { 0, 0.62, -1.25 } },
 	},
 }
 Elenco.PELOS = PELOS
@@ -1479,8 +1495,8 @@ Luz.PREAJUSTES = {
 		foco = { 0.15, 30, 25, 0 },
 	},
 	noche_azul = {
-		luz = { ClockTime = 0.5, GeographicLatitude = 35, Brightness = 1.2, Ambient = "#1C203A", OutdoorAmbient = "#242A4E",
-			ColorShift_Top = "#6E82FF", ExposureCompensation = 0.1, ShadowSoftness = 0.4 },
+		luz = { ClockTime = 0.5, GeographicLatitude = 35, Brightness = 1.8, Ambient = "#4A5488", OutdoorAmbient = "#56609A",
+			ColorShift_Top = "#6E82FF", ExposureCompensation = 0.45, ShadowSoftness = 0.4 },
 		atm = { Density = 0.35, Offset = 0, Color = "#28325A", Decay = "#141830", Glare = 0, Haze = 1 },
 		bloom = { 0.9, 32, 1.1 }, color = { -0.02, 0.2, -0.1, "#CDD7FF" },
 		foco = { 0.2, 30, 20, 0 },
@@ -1493,10 +1509,10 @@ Luz.PREAJUSTES = {
 		foco = { 0.2, 30, 20, 0 },
 	},
 	lluvia = {
-		luz = { ClockTime = 13, GeographicLatitude = 35, Brightness = 1, Ambient = "#464C54", OutdoorAmbient = "#60666E",
-			ColorShift_Top = "#BEC8D7", ExposureCompensation = -0.1, ShadowSoftness = 0.8 },
-		atm = { Density = 0.5, Offset = 0, Color = "#969EA8", Decay = "#606870", Glare = 0, Haze = 2.8 },
-		bloom = { 0.3, 24, 2 }, color = { -0.02, 0.1, -0.25, "#D7E1EB" },
+		luz = { ClockTime = 13, GeographicLatitude = 35, Brightness = 1.4, Ambient = "#6C7684", OutdoorAmbient = "#8A94A4",
+			ColorShift_Top = "#BEC8D7", ExposureCompensation = 0.15, ShadowSoftness = 0.8 },
+		atm = { Density = 0.42, Offset = 0, Color = "#8E9CB4", Decay = "#566074", Glare = 0, Haze = 2.4 },
+		bloom = { 0.4, 24, 1.8 }, color = { 0, 0.12, -0.08, "#D2E0F4" },
 		foco = { 0.25, 30, 18, 0 },
 	},
 	niebla = {
@@ -1514,10 +1530,10 @@ Luz.PREAJUSTES = {
 		foco = { 0.15, 25, 20, 0 },
 	},
 	interior_noche = {
-		luz = { ClockTime = 0, GeographicLatitude = 35, Brightness = 0.8, Ambient = "#262C46", OutdoorAmbient = "#2A3050",
-			ColorShift_Top = "#7088FF", ExposureCompensation = 0.2, ShadowSoftness = 0.5 },
+		luz = { ClockTime = 0, GeographicLatitude = 35, Brightness = 1.6, Ambient = "#6A74A8", OutdoorAmbient = "#6A74A8",
+			ColorShift_Top = "#7088FF", ExposureCompensation = 0.55, ShadowSoftness = 0.5 },
 		atm = { Density = 0.25, Offset = 0, Color = "#20284A", Decay = "#101428", Glare = 0, Haze = 0 },
-		bloom = { 1.0, 30, 0.9 }, color = { -0.03, 0.15, -0.15, "#BFD0FF" },
+		bloom = { 0.8, 30, 1.0 }, color = { 0, 0.12, -0.05, "#C8D4FF" },
 		foco = { 0.2, 25, 18, 0 },
 	},
 }
@@ -1738,7 +1754,7 @@ end
 -- Batería (objeto estrella del guion 001)
 ----------------------------------------------------------------------------------------
 
-Utileria.COLOR_BATERIA = { alto = "#3CD070", medio = "#F2B01E", bajo = "#E5383B", vacio = "#3A4152" }
+Utileria.COLOR_BATERIA = { alto = "#2BD94E", medio = "#F2B01E", bajo = "#E5383B", vacio = "#3A4152" }
 
 -- Color del relleno según el porcentaje (más de 50 verde, de 20 a 50 ámbar, menos de 20 rojo).
 function Utileria.colorBateria(porcentaje: number): string
@@ -1783,8 +1799,16 @@ local function crearBateria(p: any): Model
 	if p.texto ~= false then
 		local pantalla = agregar(modelo, { nombre = "Pantalla", tam = { ancho - 0.6, alto - 0.6, 0.66 }, pos = { 0, cy, 0 },
 			transparencia = 1, sombra = false, consultable = false })
-		Base.rotulo(pantalla, Enum.NormalId.Back, "", "#FFFFFF", "RotuloFrente")
-		Base.rotulo(pantalla, Enum.NormalId.Front, "", "#FFFFFF", "RotuloAtras")
+		-- Borde oscuro en el texto: sin él, el número blanco se pierde sobre el relleno ámbar.
+		for _, etiqueta in {
+			Base.rotulo(pantalla, Enum.NormalId.Back, "", "#FFFFFF", "RotuloFrente"),
+			Base.rotulo(pantalla, Enum.NormalId.Front, "", "#FFFFFF", "RotuloAtras"),
+		} do
+			local borde = Instance.new("UIStroke")
+			borde.Color = Color3.fromRGB(20, 24, 34)
+			borde.Thickness = 5
+			borde.Parent = etiqueta
+		end
 	end
 	if p.telaranas then
 		for _, lado in { -1, 1 } do
@@ -1794,6 +1818,13 @@ local function crearBateria(p: any): Model
 				rot = { 0, 0, lado * 30 }, color = "#E8E8EE", transparencia = 0.3, sombra = false })
 		end
 	end
+	-- Resplandor: la barra ilumina lo que tiene cerca con el color de su carga.
+	local resplandor = Instance.new("PointLight")
+	resplandor.Name = "Resplandor"
+	resplandor.Range = 9
+	resplandor.Brightness = 0.4
+	resplandor.Shadows = false
+	resplandor.Parent = modelo.PrimaryPart
 	Utileria.actualizar(modelo, p)
 	return modelo
 end
@@ -1831,6 +1862,19 @@ local function actualizarBateria(modelo: Model, p: any)
 		poner("RellenoDer", der, 0.06, x1, p.colorDer or p.color)
 	else
 		poner("Relleno", pct, x0, x1, p.color)
+	end
+	local resplandor = base:FindFirstChild("Resplandor")
+	if resplandor and resplandor:IsA("PointLight") then
+		local color = p.color
+		if not color then
+			if modelo:GetAttribute("Mitades") == true then
+				color = Utileria.colorBateria(math.max(p.izq or pct, p.der or pct))
+			else
+				color = Utileria.colorBateria(pct)
+			end
+		end
+		resplandor.Color = Base.color(color)
+		resplandor.Enabled = not p.apagada
 	end
 	local pantalla = modelo:FindFirstChild("Pantalla")
 	if pantalla then
@@ -2804,7 +2848,9 @@ function Escenarios.clima(modelo: Model, clima: string, opciones: any?): string?
 			e.Speed = NumberRange.new(75, 90)
 			e.SpreadAngle = Vector2.new(3, 3)
 			e.Size = NumberSequence.new(0.35)
-			e.Squash = NumberSequence.new(2.4)
+			-- Negativo: alarga la gota a lo largo de su velocidad. Con el valor positivo las
+			-- rayas salían atravesadas (comprobado en Studio).
+			e.Squash = NumberSequence.new(-2.4)
 			e.Orientation = Enum.ParticleOrientation.VelocityParallel
 			e.Transparency = NumberSequence.new(0.45)
 			e.Color = ColorSequence.new(Color3.fromRGB(200, 220, 245))
@@ -3463,6 +3509,11 @@ end
 -- Convierte una referencia de la puesta en algo que Camara.objetivo entiende.
 --   "narrador" (id del elenco) | "util:barra" | "ancla:centro" | "escena:CasaDelArbol"
 local function referencia(ctx: any, escena: Model, ref: any): any?
+	if typeof(ref) == "table" and typeof(ref[1]) == "number" then
+		-- Punto [x, y, z] relativo al origen del escenario.
+		local origen: CFrame = escena:GetAttribute("Origen") or CFrame.new()
+		return origen * Base.vec(ref)
+	end
 	if typeof(ref) ~= "string" then
 		return nil
 	end
@@ -3762,11 +3813,50 @@ function Director.aplicarPlano(ctx: any, i: number): { string }
 			table.insert(avisos, quien .. ": ancla de cámara inexistente: " .. tostring(cam.ancla))
 		end
 	end
-	local estadoCamara = Camara.encuadrar(Camara.objetivo(cosas, tipo), tipo, {
+	-- Ajustes finos del encuadre: "ancho" / "alto" (studs que deben caber en el cuadro final;
+	-- con solo "ancho" manda el ancho) y "desplazar" [dx, dy, dz] sobre el centro calculado.
+	local objetivoCamara = Camara.objetivo(cosas, tipo)
+	if cam.ancho or cam.alto then
+		objetivoCamara.ancho = cam.ancho or 0
+		objetivoCamara.alto = cam.alto or 0
+	end
+	if cam.desplazar then
+		objetivoCamara.centro += Base.vec(cam.desplazar)
+	end
+	local estadoCamara = Camara.encuadrar(objetivoCamara, tipo, {
 		movimiento = cam.movimiento, inclinacion = cam.inclinacion, desde = cam.desde, azimut = cam.azimut,
 		elevacion = cam.elevacion, fov = cam.fov, margen = cam.margen, vertical = ctx.vertical,
 		duracion = p.fin - p.inicio, fija = fija,
 	})
+
+	-- Lluvia cercana: la nube del escenario cubre toda la celda y deja muy pocas gotas frente
+	-- a la cámara (comprobado en Studio). Se agrega una nube pequeña y densa sobre el encuadre.
+	local carpetaClima = escena:FindFirstChild("Clima")
+	if carpetaClima and clima == "lluvia" and escena:GetAttribute("Interior") ~= true then
+		local placa = carpetaClima:FindFirstChild("LluviaCerca") :: BasePart?
+		if not placa then
+			placa = Base.pieza({
+				nombre = "LluviaCerca", tam = Vector3.new(30, 1, 26), transparencia = 1, sombra = false,
+				consultable = false, padre = carpetaClima,
+			})
+			local e = Instance.new("ParticleEmitter")
+			e.Name = "Lluvia"
+			e.EmissionDirection = Enum.NormalId.Bottom
+			e.Rate = 5000
+			e.Lifetime = NumberRange.new(0.45, 0.6)
+			e.Speed = NumberRange.new(62, 74)
+			e.SpreadAngle = Vector2.new(4, 4)
+			e.Size = NumberSequence.new(0.5)
+			e.Squash = NumberSequence.new(-3.2)
+			e.Orientation = Enum.ParticleOrientation.VelocityParallel
+			e.Transparency = NumberSequence.new(0.25)
+			e.Color = ColorSequence.new(Color3.fromRGB(215, 230, 255))
+			e.LightEmission = 0.35
+			e.LightInfluence = 0.6
+			e.Parent = placa
+		end
+		(placa :: BasePart).CFrame = CFrame.new(estadoCamara.centro + Vector3.new(0, 26, 4))
+	end
 
 	-- Miradas (después de ubicar a todos y de saber dónde queda la cámara)
 	local posCamara = Camara.cframeEn(estadoCamara, 0).Position
@@ -3797,6 +3887,40 @@ function Director.aplicarPlano(ctx: any, i: number): { string }
 		end
 	end
 
+	-- Vida: movimiento dentro del plano (Director.cuadro lo aplica en cada cuadro).
+	--   personaje: "anim" (respirar por defecto, quieto, saltar, reir, temblar, caminar, negar,
+	--   asentir, llorar), "mover" [dx, dy, dz] recorrido durante el plano, "cambios"
+	--   [[fraccion, { cara = ..., pose = ... }], ...] para cambiar de cara o pose a mitad de plano.
+	--   utilería: "anim" (flotar por defecto en baterías, quieto, girar, rebotar, latir) y
+	--   "mover" [dx, dy, dz] con "arco" (altura extra en la mitad del recorrido).
+	local vivos = {}
+	local orden = 0
+	for id, spec in presentes do
+		orden += 1
+		local pj = ctx.elenco[id]
+		table.insert(vivos, {
+			pj = pj, base = Elenco.pies(pj), anim = Base.normalizar(tostring(spec.anim or "respirar")),
+			mover = spec.mover and Base.vec(spec.mover) or nil, fase = orden * 1.7,
+			cambios = spec.cambios, hecho = 0, amplitud = spec.amplitud or 1,
+		})
+	end
+	local utilVivos = {}
+	for _, spec in p.utileria or {} do
+		local modelo: Model = ctx.utileria[spec.id]
+		if modelo and not spec.pegado then
+			local porDefecto = (modelo:GetAttribute("Tipo") == "bateria") and "flotar" or "quieto"
+			local anim = Base.normalizar(tostring(spec.anim or porDefecto))
+			if anim ~= "quieto" or spec.mover then
+				orden += 1
+				table.insert(utilVivos, {
+					modelo = modelo, base = modelo:GetPivot(), anim = anim, fase = orden * 1.3,
+					mover = spec.mover and Base.vec(spec.mover) or nil, arco = spec.arco or 0,
+					amplitud = spec.amplitud or 1,
+				})
+			end
+		end
+	end
+
 	-- Efectos
 	local efectos = {}
 	for _, ef in lista(p.efecto) do
@@ -3809,8 +3933,53 @@ function Director.aplicarPlano(ctx: any, i: number): { string }
 		end
 	end
 
-	ctx.estado = { indice = i, camara = estadoCamara, animados = animados, efectos = efectos, escena = escena }
+	ctx.estado = {
+		indice = i, camara = estadoCamara, animados = animados, efectos = efectos, escena = escena,
+		vivos = vivos, utilVivos = utilVivos, pegados = pegados,
+	}
 	return avisos
+end
+
+local TAU = math.pi * 2
+
+-- Desplazamiento (Vector3) y giro (CFrame) de un personaje según su animación en el instante t.
+local function vidaPersonaje(anim: string, t: number, fase: number, k: number): (Vector3, CFrame)
+	if anim == "quieto" then
+		return Vector3.zero, CFrame.new()
+	elseif anim == "saltar" then
+		return Vector3.new(0, math.abs(math.sin(math.pi * 2.3 * t)) * 0.9 * k, 0), CFrame.new()
+	elseif anim == "reir" then
+		return Vector3.new(0, math.abs(math.sin(math.pi * 5 * t + fase)) * 0.16 * k, 0), CFrame.Angles(0, 0, math.rad(3 * k) * math.sin(TAU * 2.5 * t + fase))
+	elseif anim == "temblar" then
+		return Vector3.new(0.05 * k * math.sin(t * 63 + fase), 0, 0.03 * k * math.sin(t * 51)), CFrame.new()
+	elseif anim == "caminar" then
+		return Vector3.new(0, math.abs(math.sin(math.pi * 3.4 * t + fase)) * 0.14 * k, 0), CFrame.Angles(0, 0, math.rad(4 * k) * math.sin(math.pi * 3.4 * t + fase))
+	elseif anim == "negar" then
+		return Vector3.zero, CFrame.Angles(0, math.rad(16 * k) * math.sin(TAU * 1.9 * t), 0)
+	elseif anim == "asentir" then
+		return Vector3.new(0, -0.07 * k * (1 - math.cos(TAU * 1.8 * t)), 0), CFrame.Angles(math.rad(-4 * k) * (1 - math.cos(TAU * 1.8 * t)), 0, 0)
+	elseif anim == "llorar" then
+		return Vector3.new(0, 0.05 * k * math.sin(TAU * 3.2 * t), 0), CFrame.Angles(math.rad(-3 * k), 0, math.rad(1.5 * k) * math.sin(TAU * 3.2 * t))
+	end
+	-- respirar: sube y baja apenas, con un balanceo mínimo; evita que el plano parezca una foto.
+	return Vector3.new(0, 0.045 * k * math.sin(TAU * 0.85 * t + fase), 0), CFrame.Angles(0, 0, math.rad(0.8 * k) * math.sin(TAU * 0.5 * t + fase))
+end
+
+local function vidaUtileria(anim: string, t: number, fase: number, k: number): (Vector3, CFrame)
+	if anim == "flotar" then
+		return Vector3.new(0, 0.11 * k * math.sin(TAU * 0.55 * t + fase), 0), CFrame.Angles(0, 0, math.rad(1.2 * k) * math.sin(TAU * 0.4 * t + fase))
+	elseif anim == "girar" then
+		return Vector3.zero, CFrame.Angles(0, TAU * 0.6 * t * k, 0)
+	elseif anim == "rodar" then
+		return Vector3.zero, CFrame.Angles(-TAU * 1.4 * t * k, 0, 0)
+	elseif anim == "rebotar" then
+		return Vector3.new(0, math.abs(math.sin(math.pi * 2.2 * t + fase)) * 0.7 * k, 0), CFrame.new()
+	elseif anim == "latir" then
+		return Vector3.new(0, 0.05 * k * math.sin(TAU * 2.4 * t), 0), CFrame.Angles(0, 0, math.rad(2.5 * k) * math.sin(TAU * 2.4 * t))
+	elseif anim == "temblar" then
+		return Vector3.new(0.06 * k * math.sin(t * 67 + fase), 0.05 * k * math.sin(t * 53), 0), CFrame.new()
+	end
+	return Vector3.zero, CFrame.new()
 end
 
 -- Actualiza lo que cambia en cada cuadro: cámara, utilería animada y efectos.
@@ -3825,6 +3994,43 @@ function Director.cuadro(ctx: any, t: number)
 	Camara.aplicar(cf, fov, e.centro)
 	Luz.enfocar((cf.Position - e.centro).Magnitude, math.max(8, e.alto))
 	local u = math.clamp(t / e.duracion, 0, 1)
+	for _, v in estado.vivos or {} do
+		if v.cambios then
+			for k, cambio in v.cambios do
+				if k > v.hecho and u >= (cambio[1] or 0) then
+					v.hecho = k
+					local c = cambio[2] or {}
+					if c.pose then
+						Elenco.posar(v.pj, c.pose)
+					end
+					if c.cara then
+						Caras.aplicar(v.pj, c.cara)
+					end
+					if c.anim then
+						v.anim = Base.normalizar(tostring(c.anim))
+					end
+				end
+			end
+		end
+		local d, giro = vidaPersonaje(v.anim, t, v.fase, v.amplitud)
+		if v.mover then
+			d += v.mover * Base.suavizar(u, "entrada_salida")
+		end
+		Elenco.ubicar(v.pj, (v.base + d) * giro)
+	end
+	for _, g in estado.pegados or {} do
+		local punto = Elenco.punto(g.dueno, g.pegado.parte or "mano_der")
+		if punto then
+			g.modelo:PivotTo(punto * MEDIA_VUELTA * CFrame.new(Base.vec(g.pegado.rel)))
+		end
+	end
+	for _, v in estado.utilVivos or {} do
+		local d, giro = vidaUtileria(v.anim, t, v.fase, v.amplitud)
+		if v.mover then
+			d += v.mover * u + Vector3.new(0, v.arco * 4 * u * (1 - u), 0)
+		end
+		v.modelo:PivotTo((v.base + d) * giro)
+	end
 	for _, a in estado.animados do
 		local cambio = false
 		local params = table.clone(a.params)

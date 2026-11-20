@@ -1,9 +1,18 @@
 # 10. Producción en paralelo: varios chats, varios videos
 
+> **Actualización del 2026-11-13.** Este documento se escribió antes de poder
+> abrir Studio. El primer video ya se produjo y el método real está en
+> `docs/11-metodo-probado.md`, que manda sobre este. Quedaron superadas las
+> secciones 2 y 3 (traslado y validación, ya hechos), la grabación con OBS, la
+> versión gris y el plan B con un chat operador (sección 5). Sigue vigente la
+> idea de un chat por video con su propia ventana de Studio, con un cambio: el
+> rodaje captura la pantalla, así que solo un chat puede rodar a la vez y el
+> equipo queda ocupado mientras tanto. Varios chats pueden escribir puestas y
+> revisar planos en paralelo; el rodaje se turna con `grabacion.lock`. Eso
+> (paso C) sigue **sin probar**.
+
 Cómo pasar del kit al primer video, y de ahí a varios chats de Claude Code
-produciendo al mismo tiempo. Todo lo de este documento que toca Roblox Studio
-está **sin probar**: Studio no abre en el equipo donde se preparó. La primera
-tarea en el equipo de casa es validarlo (sección 3).
+produciendo al mismo tiempo.
 
 ## 1. Qué está listo y qué no
 

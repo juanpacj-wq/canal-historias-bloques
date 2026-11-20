@@ -1,0 +1,1792 @@
+[
+ {
+  "palabra": "In",
+  "inicio": 0.0,
+  "fin": 0.1
+ },
+ {
+  "palabra": "this",
+  "inicio": 0.1,
+  "fin": 0.26
+ },
+ {
+  "palabra": "world,",
+  "inicio": 0.26,
+  "fin": 0.58
+ },
+ {
+  "palabra": "every",
+  "inicio": 0.82,
+  "fin": 1.02
+ },
+ {
+  "palabra": "friendship",
+  "inicio": 1.02,
+  "fin": 1.3
+ },
+ {
+  "palabra": "has",
+  "inicio": 1.3,
+  "fin": 1.56
+ },
+ {
+  "palabra": "a",
+  "inicio": 1.56,
+  "fin": 1.68
+ },
+ {
+  "palabra": "BATTERY,",
+  "inicio": 1.68,
+  "fin": 1.96
+ },
+ {
+  "palabra": "and",
+  "inicio": 2.28,
+  "fin": 2.36
+ },
+ {
+  "palabra": "everybody",
+  "inicio": 2.36,
+  "fin": 2.7
+ },
+ {
+  "palabra": "can",
+  "inicio": 2.7,
+  "fin": 2.96
+ },
+ {
+  "palabra": "see",
+  "inicio": 2.96,
+  "fin": 3.12
+ },
+ {
+  "palabra": "how",
+  "inicio": 3.12,
+  "fin": 3.28
+ },
+ {
+  "palabra": "much",
+  "inicio": 3.28,
+  "fin": 3.46
+ },
+ {
+  "palabra": "charge",
+  "inicio": 3.46,
+  "fin": 3.7
+ },
+ {
+  "palabra": "is",
+  "inicio": 3.7,
+  "fin": 3.9
+ },
+ {
+  "palabra": "left.",
+  "inicio": 3.9,
+  "fin": 4.18
+ },
+ {
+  "palabra": "It",
+  "inicio": 4.48,
+  "fin": 4.56
+ },
+ {
+  "palabra": "floats",
+  "inicio": 4.56,
+  "fin": 4.78
+ },
+ {
+  "palabra": "between",
+  "inicio": 4.78,
+  "fin": 5.12
+ },
+ {
+  "palabra": "you",
+  "inicio": 5.12,
+  "fin": 5.34
+ },
+ {
+  "palabra": "like",
+  "inicio": 5.34,
+  "fin": 5.56
+ },
+ {
+  "palabra": "a",
+  "inicio": 5.56,
+  "fin": 5.68
+ },
+ {
+  "palabra": "little",
+  "inicio": 5.68,
+  "fin": 5.82
+ },
+ {
+  "palabra": "green",
+  "inicio": 5.82,
+  "fin": 6.04
+ },
+ {
+  "palabra": "bar.",
+  "inicio": 6.04,
+  "fin": 6.3
+ },
+ {
+  "palabra": "Laugh",
+  "inicio": 6.68,
+  "fin": 6.76
+ },
+ {
+  "palabra": "together,",
+  "inicio": 6.76,
+  "fin": 7.06
+ },
+ {
+  "palabra": "it",
+  "inicio": 7.24,
+  "fin": 7.32
+ },
+ {
+  "palabra": "goes",
+  "inicio": 7.32,
+  "fin": 7.46
+ },
+ {
+  "palabra": "up.",
+  "inicio": 7.46,
+  "fin": 7.74
+ },
+ {
+  "palabra": "Ignore",
+  "inicio": 7.98,
+  "fin": 8.18
+ },
+ {
+  "palabra": "a",
+  "inicio": 8.18,
+  "fin": 8.3
+ },
+ {
+  "palabra": "text,",
+  "inicio": 8.3,
+  "fin": 8.48
+ },
+ {
+  "palabra": "it",
+  "inicio": 8.58,
+  "fin": 8.68
+ },
+ {
+  "palabra": "drops.",
+  "inicio": 8.68,
+  "fin": 8.96
+ },
+ {
+  "palabra": "My",
+  "inicio": 9.28,
+  "fin": 9.4
+ },
+ {
+  "palabra": "grandpa",
+  "inicio": 9.4,
+  "fin": 9.88
+ },
+ {
+  "palabra": "and",
+  "inicio": 9.88,
+  "fin": 10.06
+ },
+ {
+  "palabra": "his",
+  "inicio": 10.06,
+  "fin": 10.18
+ },
+ {
+  "palabra": "chess",
+  "inicio": 10.18,
+  "fin": 10.38
+ },
+ {
+  "palabra": "buddy",
+  "inicio": 10.38,
+  "fin": 10.6
+ },
+ {
+  "palabra": "have",
+  "inicio": 10.6,
+  "fin": 10.88
+ },
+ {
+  "palabra": "been",
+  "inicio": 10.88,
+  "fin": 11.0
+ },
+ {
+  "palabra": "at",
+  "inicio": 11.0,
+  "fin": 11.14
+ },
+ {
+  "palabra": "one",
+  "inicio": 11.14,
+  "fin": 11.218
+ },
+ {
+  "palabra": "hundred",
+  "inicio": 11.218,
+  "fin": 11.399
+ },
+ {
+  "palabra": "percent",
+  "inicio": 11.399,
+  "fin": 11.58
+ },
+ {
+  "palabra": "since",
+  "inicio": 11.88,
+  "fin": 12.38
+ },
+ {
+  "palabra": "1974.",
+  "inicio": 12.38,
+  "fin": 13.2
+ },
+ {
+  "palabra": "They",
+  "inicio": 13.72,
+  "fin": 13.8
+ },
+ {
+  "palabra": "have",
+  "inicio": 13.8,
+  "fin": 13.94
+ },
+ {
+  "palabra": "never",
+  "inicio": 13.94,
+  "fin": 14.18
+ },
+ {
+  "palabra": "finished",
+  "inicio": 14.18,
+  "fin": 14.42
+ },
+ {
+  "palabra": "a",
+  "inicio": 14.42,
+  "fin": 14.56
+ },
+ {
+  "palabra": "game.",
+  "inicio": 14.56,
+  "fin": 14.72
+ },
+ {
+  "palabra": "My",
+  "inicio": 15.06,
+  "fin": 15.16
+ },
+ {
+  "palabra": "sister",
+  "inicio": 15.16,
+  "fin": 15.34
+ },
+ {
+  "palabra": "lost",
+  "inicio": 15.34,
+  "fin": 15.6
+ },
+ {
+  "palabra": "three",
+  "inicio": 15.6,
+  "fin": 15.82
+ },
+ {
+  "palabra": "friends",
+  "inicio": 15.82,
+  "fin": 16.1
+ },
+ {
+  "palabra": "in",
+  "inicio": 16.1,
+  "fin": 16.34
+ },
+ {
+  "palabra": "one",
+  "inicio": 16.34,
+  "fin": 16.52
+ },
+ {
+  "palabra": "group",
+  "inicio": 16.52,
+  "fin": 16.68
+ },
+ {
+  "palabra": "chat.",
+  "inicio": 16.68,
+  "fin": 16.92
+ },
+ {
+  "palabra": "You",
+  "inicio": 17.2,
+  "fin": 17.28
+ },
+ {
+  "palabra": "could",
+  "inicio": 17.28,
+  "fin": 17.42
+ },
+ {
+  "palabra": "hear",
+  "inicio": 17.42,
+  "fin": 17.6
+ },
+ {
+  "palabra": "the",
+  "inicio": 17.6,
+  "fin": 17.72
+ },
+ {
+  "palabra": "beeping",
+  "inicio": 17.72,
+  "fin": 17.96
+ },
+ {
+  "palabra": "from",
+  "inicio": 17.96,
+  "fin": 18.14
+ },
+ {
+  "palabra": "the",
+  "inicio": 18.14,
+  "fin": 18.26
+ },
+ {
+  "palabra": "kitchen.",
+  "inicio": 18.26,
+  "fin": 18.54
+ },
+ {
+  "palabra": "My",
+  "inicio": 18.84,
+  "fin": 18.94
+ },
+ {
+  "palabra": "mom",
+  "inicio": 18.94,
+  "fin": 19.16
+ },
+ {
+  "palabra": "and",
+  "inicio": 19.16,
+  "fin": 19.3
+ },
+ {
+  "palabra": "the",
+  "inicio": 19.3,
+  "fin": 19.4
+ },
+ {
+  "palabra": "mailman",
+  "inicio": 19.4,
+  "fin": 19.7
+ },
+ {
+  "palabra": "are",
+  "inicio": 19.7,
+  "fin": 19.96
+ },
+ {
+  "palabra": "at",
+  "inicio": 19.96,
+  "fin": 20.08
+ },
+ {
+  "palabra": "forty",
+  "inicio": 20.08,
+  "fin": 20.397
+ },
+ {
+  "palabra": "percent.",
+  "inicio": 20.397,
+  "fin": 20.84
+ },
+ {
+  "palabra": "Nobody",
+  "inicio": 20.84,
+  "fin": 21.2
+ },
+ {
+  "palabra": "knows",
+  "inicio": 21.2,
+  "fin": 21.5
+ },
+ {
+  "palabra": "how.",
+  "inicio": 21.5,
+  "fin": 21.82
+ },
+ {
+  "palabra": "Mom",
+  "inicio": 22.14,
+  "fin": 22.3
+ },
+ {
+  "palabra": "says",
+  "inicio": 22.3,
+  "fin": 22.48
+ },
+ {
+  "palabra": "he",
+  "inicio": 22.48,
+  "fin": 22.62
+ },
+ {
+  "palabra": "respects",
+  "inicio": 22.62,
+  "fin": 22.9
+ },
+ {
+  "palabra": "her",
+  "inicio": 22.9,
+  "fin": 23.06
+ },
+ {
+  "palabra": "mailbox.",
+  "inicio": 23.06,
+  "fin": 23.36
+ },
+ {
+  "palabra": "Me",
+  "inicio": 23.82,
+  "fin": 23.94
+ },
+ {
+  "palabra": "and",
+  "inicio": 23.94,
+  "fin": 24.06
+ },
+ {
+  "palabra": "Theo",
+  "inicio": 24.06,
+  "fin": 24.22
+ },
+ {
+  "palabra": "were",
+  "inicio": 24.22,
+  "fin": 24.4
+ },
+ {
+  "palabra": "at",
+  "inicio": 24.4,
+  "fin": 24.5
+ },
+ {
+  "palabra": "ninety-eight.",
+  "inicio": 24.5,
+  "fin": 24.82
+ },
+ {
+  "palabra": "Always.",
+  "inicio": 25.28,
+  "fin": 25.6
+ },
+ {
+  "palabra": "We",
+  "inicio": 26.0,
+  "fin": 26.08
+ },
+ {
+  "palabra": "built",
+  "inicio": 26.08,
+  "fin": 26.24
+ },
+ {
+  "palabra": "a",
+  "inicio": 26.24,
+  "fin": 26.38
+ },
+ {
+  "palabra": "treehouse",
+  "inicio": 26.38,
+  "fin": 26.7
+ },
+ {
+  "palabra": "with",
+  "inicio": 26.7,
+  "fin": 26.86
+ },
+ {
+  "palabra": "one",
+  "inicio": 26.86,
+  "fin": 27.04
+ },
+ {
+  "palabra": "nail",
+  "inicio": 27.04,
+  "fin": 27.28
+ },
+ {
+  "palabra": "and",
+  "inicio": 27.28,
+  "fin": 27.66
+ },
+ {
+  "palabra": "a",
+  "inicio": 27.66,
+  "fin": 27.76
+ },
+ {
+  "palabra": "lot",
+  "inicio": 27.76,
+  "fin": 27.88
+ },
+ {
+  "palabra": "of",
+  "inicio": 27.88,
+  "fin": 28.0
+ },
+ {
+  "palabra": "hope.",
+  "inicio": 28.0,
+  "fin": 28.18
+ },
+ {
+  "palabra": "He",
+  "inicio": 28.48,
+  "fin": 28.58
+ },
+ {
+  "palabra": "named",
+  "inicio": 28.58,
+  "fin": 28.8
+ },
+ {
+  "palabra": "it",
+  "inicio": 28.8,
+  "fin": 28.98
+ },
+ {
+  "palabra": "Fort",
+  "inicio": 28.98,
+  "fin": 29.12
+ },
+ {
+  "palabra": "Maybe.",
+  "inicio": 29.12,
+  "fin": 29.38
+ },
+ {
+  "palabra": "Our",
+  "inicio": 29.38,
+  "fin": 29.76
+ },
+ {
+  "palabra": "bar",
+  "inicio": 29.76,
+  "fin": 29.94
+ },
+ {
+  "palabra": "never",
+  "inicio": 29.94,
+  "fin": 30.12
+ },
+ {
+  "palabra": "moved,",
+  "inicio": 30.12,
+  "fin": 30.48
+ },
+ {
+  "palabra": "so",
+  "inicio": 30.64,
+  "fin": 30.74
+ },
+ {
+  "palabra": "I",
+  "inicio": 30.74,
+  "fin": 30.84
+ },
+ {
+  "palabra": "stopped",
+  "inicio": 30.84,
+  "fin": 31.02
+ },
+ {
+  "palabra": "checking",
+  "inicio": 31.02,
+  "fin": 31.28
+ },
+ {
+  "palabra": "it.",
+  "inicio": 31.28,
+  "fin": 31.58
+ },
+ {
+  "palabra": "Then",
+  "inicio": 31.82,
+  "fin": 31.82
+ },
+ {
+  "palabra": "Theo",
+  "inicio": 31.82,
+  "fin": 32.08
+ },
+ {
+  "palabra": "joined",
+  "inicio": 32.08,
+  "fin": 32.36
+ },
+ {
+  "palabra": "the",
+  "inicio": 32.36,
+  "fin": 32.5
+ },
+ {
+  "palabra": "soccer",
+  "inicio": 32.5,
+  "fin": 32.7
+ },
+ {
+  "palabra": "team.",
+  "inicio": 32.7,
+  "fin": 33.08
+ },
+ {
+  "palabra": "New",
+  "inicio": 33.42,
+  "fin": 33.44
+ },
+ {
+  "palabra": "friends.",
+  "inicio": 33.44,
+  "fin": 33.72
+ },
+ {
+  "palabra": "New",
+  "inicio": 34.12,
+  "fin": 34.26
+ },
+ {
+  "palabra": "jokes",
+  "inicio": 34.26,
+  "fin": 34.54
+ },
+ {
+  "palabra": "I",
+  "inicio": 34.54,
+  "fin": 34.72
+ },
+ {
+  "palabra": "wasn't",
+  "inicio": 34.72,
+  "fin": 34.94
+ },
+ {
+  "palabra": "in.",
+  "inicio": 34.94,
+  "fin": 35.18
+ },
+ {
+  "palabra": "One",
+  "inicio": 35.48,
+  "fin": 35.6
+ },
+ {
+  "palabra": "Monday",
+  "inicio": 35.6,
+  "fin": 35.8
+ },
+ {
+  "palabra": "I",
+  "inicio": 35.96,
+  "fin": 36.12
+ },
+ {
+  "palabra": "finally",
+  "inicio": 36.12,
+  "fin": 36.4
+ },
+ {
+  "palabra": "looked",
+  "inicio": 36.4,
+  "fin": 36.6
+ },
+ {
+  "palabra": "up.",
+  "inicio": 36.6,
+  "fin": 36.94
+ },
+ {
+  "palabra": "RED.",
+  "inicio": 37.18,
+  "fin": 37.26
+ },
+ {
+  "palabra": "TWO",
+  "inicio": 37.54,
+  "fin": 37.74
+ },
+ {
+  "palabra": "percent.",
+  "inicio": 37.74,
+  "fin": 38.04
+ },
+ {
+  "palabra": "At",
+  "inicio": 38.38,
+  "fin": 38.5
+ },
+ {
+  "palabra": "ZERO,",
+  "inicio": 38.5,
+  "fin": 38.78
+ },
+ {
+  "palabra": "a",
+  "inicio": 39.0,
+  "fin": 39.06
+ },
+ {
+  "palabra": "friendship",
+  "inicio": 39.06,
+  "fin": 39.28
+ },
+ {
+  "palabra": "shuts",
+  "inicio": 39.28,
+  "fin": 39.54
+ },
+ {
+  "palabra": "off.",
+  "inicio": 39.54,
+  "fin": 39.82
+ },
+ {
+  "palabra": "You",
+  "inicio": 40.02,
+  "fin": 40.1
+ },
+ {
+  "palabra": "pass",
+  "inicio": 40.1,
+  "fin": 40.34
+ },
+ {
+  "palabra": "each",
+  "inicio": 40.34,
+  "fin": 40.5
+ },
+ {
+  "palabra": "other",
+  "inicio": 40.5,
+  "fin": 40.58
+ },
+ {
+  "palabra": "like",
+  "inicio": 40.58,
+  "fin": 40.8
+ },
+ {
+  "palabra": "strangers.",
+  "inicio": 40.8,
+  "fin": 41.24
+ },
+ {
+  "palabra": "My",
+  "inicio": 41.66,
+  "fin": 41.76
+ },
+ {
+  "palabra": "dad",
+  "inicio": 41.76,
+  "fin": 41.96
+ },
+ {
+  "palabra": "waves",
+  "inicio": 41.96,
+  "fin": 42.26
+ },
+ {
+  "palabra": "at",
+  "inicio": 42.26,
+  "fin": 42.4
+ },
+ {
+  "palabra": "a",
+  "inicio": 42.4,
+  "fin": 42.46
+ },
+ {
+  "palabra": "guy",
+  "inicio": 42.46,
+  "fin": 42.6
+ },
+ {
+  "palabra": "named",
+  "inicio": 42.6,
+  "fin": 42.86
+ },
+ {
+  "palabra": "Rick",
+  "inicio": 42.86,
+  "fin": 43.1
+ },
+ {
+  "palabra": "every",
+  "inicio": 43.1,
+  "fin": 43.38
+ },
+ {
+  "palabra": "morning.",
+  "inicio": 43.38,
+  "fin": 43.66
+ },
+ {
+  "palabra": "Neither",
+  "inicio": 44.02,
+  "fin": 44.14
+ },
+ {
+  "palabra": "of",
+  "inicio": 44.14,
+  "fin": 44.34
+ },
+ {
+  "palabra": "them",
+  "inicio": 44.34,
+  "fin": 44.52
+ },
+ {
+  "palabra": "remembers",
+  "inicio": 44.52,
+  "fin": 44.88
+ },
+ {
+  "palabra": "why.",
+  "inicio": 44.88,
+  "fin": 45.24
+ },
+ {
+  "palabra": "So",
+  "inicio": 45.46,
+  "fin": 45.62
+ },
+ {
+  "palabra": "I",
+  "inicio": 45.62,
+  "fin": 45.74
+ },
+ {
+  "palabra": "tried",
+  "inicio": 45.74,
+  "fin": 45.92
+ },
+ {
+  "palabra": "to",
+  "inicio": 45.92,
+  "fin": 46.06
+ },
+ {
+  "palabra": "charge",
+  "inicio": 46.06,
+  "fin": 46.28
+ },
+ {
+  "palabra": "it.",
+  "inicio": 46.28,
+  "fin": 46.5
+ },
+ {
+  "palabra": "I",
+  "inicio": 46.7,
+  "fin": 46.82
+ },
+ {
+  "palabra": "bought",
+  "inicio": 46.82,
+  "fin": 47.0
+ },
+ {
+  "palabra": "his",
+  "inicio": 47.0,
+  "fin": 47.16
+ },
+ {
+  "palabra": "favorite",
+  "inicio": 47.16,
+  "fin": 47.36
+ },
+ {
+  "palabra": "chips.",
+  "inicio": 47.36,
+  "fin": 47.72
+ },
+ {
+  "palabra": "Three",
+  "inicio": 48.06,
+  "fin": 48.2
+ },
+ {
+  "palabra": "percent,",
+  "inicio": 48.2,
+  "fin": 48.52
+ },
+ {
+  "palabra": "then",
+  "inicio": 48.7,
+  "fin": 48.8
+ },
+ {
+  "palabra": "back",
+  "inicio": 48.8,
+  "fin": 48.98
+ },
+ {
+  "palabra": "to",
+  "inicio": 48.98,
+  "fin": 49.14
+ },
+ {
+  "palabra": "two.",
+  "inicio": 49.14,
+  "fin": 49.32
+ },
+ {
+  "palabra": "I",
+  "inicio": 49.58,
+  "fin": 49.7
+ },
+ {
+  "palabra": "laughed",
+  "inicio": 49.7,
+  "fin": 49.92
+ },
+ {
+  "palabra": "at",
+  "inicio": 49.92,
+  "fin": 50.06
+ },
+ {
+  "palabra": "everything",
+  "inicio": 50.06,
+  "fin": 50.3
+ },
+ {
+  "palabra": "he",
+  "inicio": 50.3,
+  "fin": 50.48
+ },
+ {
+  "palabra": "said,",
+  "inicio": 50.48,
+  "fin": 50.7
+ },
+ {
+  "palabra": "even",
+  "inicio": 50.96,
+  "fin": 51.16
+ },
+ {
+  "palabra": "\"pass",
+  "inicio": 51.16,
+  "fin": 51.44
+ },
+ {
+  "palabra": "the",
+  "inicio": 51.44,
+  "fin": 51.6
+ },
+ {
+  "palabra": "ketchup.\"",
+  "inicio": 51.6,
+  "fin": 51.86
+ },
+ {
+  "palabra": "Still",
+  "inicio": 52.2,
+  "fin": 52.36
+ },
+ {
+  "palabra": "two.",
+  "inicio": 52.36,
+  "fin": 52.6
+ },
+ {
+  "palabra": "I",
+  "inicio": 52.86,
+  "fin": 53.04
+ },
+ {
+  "palabra": "threw",
+  "inicio": 53.04,
+  "fin": 53.24
+ },
+ {
+  "palabra": "him",
+  "inicio": 53.24,
+  "fin": 53.34
+ },
+ {
+  "palabra": "a",
+  "inicio": 53.34,
+  "fin": 53.44
+ },
+ {
+  "palabra": "surprise",
+  "inicio": 53.44,
+  "fin": 53.74
+ },
+ {
+  "palabra": "party.",
+  "inicio": 53.74,
+  "fin": 54.1
+ },
+ {
+  "palabra": "His",
+  "inicio": 54.36,
+  "fin": 54.5
+ },
+ {
+  "palabra": "birthday",
+  "inicio": 54.5,
+  "fin": 54.78
+ },
+ {
+  "palabra": "is",
+  "inicio": 54.78,
+  "fin": 54.98
+ },
+ {
+  "palabra": "in",
+  "inicio": 54.98,
+  "fin": 55.12
+ },
+ {
+  "palabra": "March.",
+  "inicio": 55.12,
+  "fin": 55.36
+ },
+ {
+  "palabra": "It",
+  "inicio": 55.72,
+  "fin": 55.8
+ },
+ {
+  "palabra": "was",
+  "inicio": 55.8,
+  "fin": 55.9
+ },
+ {
+  "palabra": "October.",
+  "inicio": 55.9,
+  "fin": 56.32
+ },
+ {
+  "palabra": "One",
+  "inicio": 56.72,
+  "fin": 56.88
+ },
+ {
+  "palabra": "percent.",
+  "inicio": 56.88,
+  "fin": 57.22
+ },
+ {
+  "palabra": "That",
+  "inicio": 57.58,
+  "fin": 57.7
+ },
+ {
+  "palabra": "night",
+  "inicio": 57.7,
+  "fin": 57.9
+ },
+ {
+  "palabra": "the",
+  "inicio": 58.02,
+  "fin": 58.1
+ },
+ {
+  "palabra": "bar",
+  "inicio": 58.1,
+  "fin": 58.26
+ },
+ {
+  "palabra": "started",
+  "inicio": 58.26,
+  "fin": 58.56
+ },
+ {
+  "palabra": "beeping.",
+  "inicio": 58.56,
+  "fin": 58.82
+ },
+ {
+  "palabra": "I",
+  "inicio": 58.82,
+  "fin": 59.22
+ },
+ {
+  "palabra": "sat",
+  "inicio": 59.22,
+  "fin": 59.42
+ },
+ {
+  "palabra": "on",
+  "inicio": 59.42,
+  "fin": 59.54
+ },
+ {
+  "palabra": "my",
+  "inicio": 59.54,
+  "fin": 59.7
+ },
+ {
+  "palabra": "floor",
+  "inicio": 59.7,
+  "fin": 59.92
+ },
+ {
+  "palabra": "and",
+  "inicio": 59.92,
+  "fin": 60.12
+ },
+ {
+  "palabra": "stared",
+  "inicio": 60.12,
+  "fin": 60.3
+ },
+ {
+  "palabra": "at",
+  "inicio": 60.3,
+  "fin": 60.52
+ },
+ {
+  "palabra": "it.",
+  "inicio": 60.52,
+  "fin": 60.72
+ },
+ {
+  "palabra": "And",
+  "inicio": 60.88,
+  "fin": 60.96
+ },
+ {
+  "palabra": "I",
+  "inicio": 60.96,
+  "fin": 61.08
+ },
+ {
+  "palabra": "noticed",
+  "inicio": 61.08,
+  "fin": 61.28
+ },
+ {
+  "palabra": "something",
+  "inicio": 61.28,
+  "fin": 61.54
+ },
+ {
+  "palabra": "I'd",
+  "inicio": 61.54,
+  "fin": 61.8
+ },
+ {
+  "palabra": "never",
+  "inicio": 61.8,
+  "fin": 62.0
+ },
+ {
+  "palabra": "checked.",
+  "inicio": 62.0,
+  "fin": 62.3
+ },
+ {
+  "palabra": "The",
+  "inicio": 62.62,
+  "fin": 62.66
+ },
+ {
+  "palabra": "bar",
+  "inicio": 62.66,
+  "fin": 62.82
+ },
+ {
+  "palabra": "has",
+  "inicio": 62.82,
+  "fin": 63.02
+ },
+ {
+  "palabra": "TWO",
+  "inicio": 63.02,
+  "fin": 63.2
+ },
+ {
+  "palabra": "HALVES.",
+  "inicio": 63.2,
+  "fin": 63.46
+ },
+ {
+  "palabra": "His",
+  "inicio": 63.76,
+  "fin": 63.9
+ },
+ {
+  "palabra": "half",
+  "inicio": 63.9,
+  "fin": 64.12
+ },
+ {
+  "palabra": "was",
+  "inicio": 64.12,
+  "fin": 64.28
+ },
+ {
+  "palabra": "full.",
+  "inicio": 64.28,
+  "fin": 64.56
+ },
+ {
+  "palabra": "Mine",
+  "inicio": 64.88,
+  "fin": 65.02
+ },
+ {
+  "palabra": "was",
+  "inicio": 65.02,
+  "fin": 65.22
+ },
+ {
+  "palabra": "EMPTY.",
+  "inicio": 65.22,
+  "fin": 65.54
+ },
+ {
+  "palabra": "Theo",
+  "inicio": 66.02,
+  "fin": 66.02
+ },
+ {
+  "palabra": "had",
+  "inicio": 66.02,
+  "fin": 66.22
+ },
+ {
+  "palabra": "invited",
+  "inicio": 66.22,
+  "fin": 66.5
+ },
+ {
+  "palabra": "me",
+  "inicio": 66.5,
+  "fin": 66.74
+ },
+ {
+  "palabra": "to",
+  "inicio": 66.74,
+  "fin": 66.96
+ },
+ {
+  "palabra": "every",
+  "inicio": 66.96,
+  "fin": 67.22
+ },
+ {
+  "palabra": "single",
+  "inicio": 67.22,
+  "fin": 67.48
+ },
+ {
+  "palabra": "game.",
+  "inicio": 67.48,
+  "fin": 67.74
+ },
+ {
+  "palabra": "I'd",
+  "inicio": 68.0,
+  "fin": 68.18
+ },
+ {
+  "palabra": "said",
+  "inicio": 68.18,
+  "fin": 68.32
+ },
+ {
+  "palabra": "no",
+  "inicio": 68.32,
+  "fin": 68.52
+ },
+ {
+  "palabra": "eleven",
+  "inicio": 68.52,
+  "fin": 68.76
+ },
+ {
+  "palabra": "times.",
+  "inicio": 68.76,
+  "fin": 69.2
+ },
+ {
+  "palabra": "I",
+  "inicio": 69.46,
+  "fin": 69.6
+ },
+ {
+  "palabra": "told",
+  "inicio": 69.6,
+  "fin": 69.76
+ },
+ {
+  "palabra": "him",
+  "inicio": 69.76,
+  "fin": 69.98
+ },
+ {
+  "palabra": "soccer",
+  "inicio": 69.98,
+  "fin": 70.2
+ },
+ {
+  "palabra": "was",
+  "inicio": 70.2,
+  "fin": 70.4
+ },
+ {
+  "palabra": "boring.",
+  "inicio": 70.4,
+  "fin": 70.7
+ },
+ {
+  "palabra": "Really,",
+  "inicio": 71.02,
+  "fin": 71.24
+ },
+ {
+  "palabra": "I",
+  "inicio": 71.54,
+  "fin": 71.62
+ },
+ {
+  "palabra": "just",
+  "inicio": 71.62,
+  "fin": 71.78
+ },
+ {
+  "palabra": "didn't",
+  "inicio": 71.78,
+  "fin": 72.04
+ },
+ {
+  "palabra": "want",
+  "inicio": 72.04,
+  "fin": 72.12
+ },
+ {
+  "palabra": "to",
+  "inicio": 72.12,
+  "fin": 72.24
+ },
+ {
+  "palabra": "watch",
+  "inicio": 72.24,
+  "fin": 72.4
+ },
+ {
+  "palabra": "him",
+  "inicio": 72.4,
+  "fin": 72.58
+ },
+ {
+  "palabra": "not",
+  "inicio": 72.58,
+  "fin": 72.72
+ },
+ {
+  "palabra": "need",
+  "inicio": 72.72,
+  "fin": 72.92
+ },
+ {
+  "palabra": "me.",
+  "inicio": 72.92,
+  "fin": 73.18
+ },
+ {
+  "palabra": "So",
+  "inicio": 73.3,
+  "fin": 73.5
+ },
+ {
+  "palabra": "on",
+  "inicio": 73.5,
+  "fin": 73.62
+ },
+ {
+  "palabra": "Saturday,",
+  "inicio": 73.62,
+  "fin": 73.88
+ },
+ {
+  "palabra": "I",
+  "inicio": 73.88,
+  "fin": 74.18
+ },
+ {
+  "palabra": "went.",
+  "inicio": 74.18,
+  "fin": 74.36
+ },
+ {
+  "palabra": "It",
+  "inicio": 74.62,
+  "fin": 74.74
+ },
+ {
+  "palabra": "was",
+  "inicio": 74.74,
+  "fin": 74.86
+ },
+ {
+  "palabra": "pouring.",
+  "inicio": 74.86,
+  "fin": 75.14
+ },
+ {
+  "palabra": "I",
+  "inicio": 75.46,
+  "fin": 75.6
+ },
+ {
+  "palabra": "stood",
+  "inicio": 75.6,
+  "fin": 75.76
+ },
+ {
+  "palabra": "at",
+  "inicio": 75.76,
+  "fin": 75.86
+ },
+ {
+  "palabra": "the",
+  "inicio": 75.86,
+  "fin": 75.96
+ },
+ {
+  "palabra": "fence,",
+  "inicio": 75.96,
+  "fin": 76.2
+ },
+ {
+  "palabra": "alone,",
+  "inicio": 76.2,
+  "fin": 76.54
+ },
+ {
+  "palabra": "soaked.",
+  "inicio": 76.72,
+  "fin": 76.94
+ },
+ {
+  "palabra": "And",
+  "inicio": 77.26,
+  "fin": 77.36
+ },
+ {
+  "palabra": "I",
+  "inicio": 77.36,
+  "fin": 77.5
+ },
+ {
+  "palabra": "yelled",
+  "inicio": 77.5,
+  "fin": 77.66
+ },
+ {
+  "palabra": "his",
+  "inicio": 77.66,
+  "fin": 77.86
+ },
+ {
+  "palabra": "name",
+  "inicio": 77.86,
+  "fin": 78.1
+ },
+ {
+  "palabra": "until",
+  "inicio": 78.1,
+  "fin": 78.44
+ },
+ {
+  "palabra": "my",
+  "inicio": 78.44,
+  "fin": 78.6
+ },
+ {
+  "palabra": "voice",
+  "inicio": 78.6,
+  "fin": 78.8
+ },
+ {
+  "palabra": "cracked.",
+  "inicio": 78.8,
+  "fin": 79.1
+ },
+ {
+  "palabra": "He",
+  "inicio": 79.4,
+  "fin": 79.52
+ },
+ {
+  "palabra": "missed",
+  "inicio": 79.52,
+  "fin": 79.66
+ },
+ {
+  "palabra": "the",
+  "inicio": 79.66,
+  "fin": 79.84
+ },
+ {
+  "palabra": "shot.",
+  "inicio": 79.84,
+  "fin": 80.04
+ },
+ {
+  "palabra": "Completely.",
+  "inicio": 80.4,
+  "fin": 80.72
+ },
+ {
+  "palabra": "Because",
+  "inicio": 81.16,
+  "fin": 81.32
+ },
+ {
+  "palabra": "he",
+  "inicio": 81.32,
+  "fin": 81.44
+ },
+ {
+  "palabra": "was",
+  "inicio": 81.44,
+  "fin": 81.56
+ },
+ {
+  "palabra": "staring",
+  "inicio": 81.56,
+  "fin": 81.74
+ },
+ {
+  "palabra": "at",
+  "inicio": 81.74,
+  "fin": 81.94
+ },
+ {
+  "palabra": "me,",
+  "inicio": 81.94,
+  "fin": 82.16
+ },
+ {
+  "palabra": "grinning",
+  "inicio": 82.3,
+  "fin": 82.52
+ },
+ {
+  "palabra": "like",
+  "inicio": 82.52,
+  "fin": 82.78
+ },
+ {
+  "palabra": "an",
+  "inicio": 82.78,
+  "fin": 82.88
+ },
+ {
+  "palabra": "idiot.",
+  "inicio": 82.88,
+  "fin": 83.1
+ },
+ {
+  "palabra": "The",
+  "inicio": 83.42,
+  "fin": 83.52
+ },
+ {
+  "palabra": "bar",
+  "inicio": 83.52,
+  "fin": 83.72
+ },
+ {
+  "palabra": "didn't",
+  "inicio": 83.72,
+  "fin": 84.02
+ },
+ {
+  "palabra": "climb.",
+  "inicio": 84.02,
+  "fin": 84.22
+ },
+ {
+  "palabra": "It",
+  "inicio": 84.54,
+  "fin": 84.64
+ },
+ {
+  "palabra": "EXPLODED.",
+  "inicio": 84.64,
+  "fin": 85.08
+ },
+ {
+  "palabra": "Green",
+  "inicio": 85.48,
+  "fin": 85.7
+ },
+ {
+  "palabra": "light",
+  "inicio": 85.7,
+  "fin": 85.94
+ },
+ {
+  "palabra": "everywhere.",
+  "inicio": 85.94,
+  "fin": 86.34
+ },
+ {
+  "palabra": "The",
+  "inicio": 86.6,
+  "fin": 86.78
+ },
+ {
+  "palabra": "scoreboard",
+  "inicio": 86.78,
+  "fin": 87.06
+ },
+ {
+  "palabra": "shorted",
+  "inicio": 87.06,
+  "fin": 87.46
+ },
+ {
+  "palabra": "out.",
+  "inicio": 87.46,
+  "fin": 87.68
+ },
+ {
+  "palabra": "They",
+  "inicio": 87.68,
+  "fin": 88.02
+ },
+ {
+  "palabra": "lost",
+  "inicio": 88.02,
+  "fin": 88.22
+ },
+ {
+  "palabra": "nine",
+  "inicio": 88.22,
+  "fin": 88.5
+ },
+ {
+  "palabra": "to",
+  "inicio": 88.5,
+  "fin": 88.64
+ },
+ {
+  "palabra": "nothing.",
+  "inicio": 88.64,
+  "fin": 88.9
+ },
+ {
+  "palabra": "We're",
+  "inicio": 89.18,
+  "fin": 89.34
+ },
+ {
+  "palabra": "at",
+  "inicio": 89.34,
+  "fin": 89.42
+ },
+ {
+  "palabra": "one",
+  "inicio": 89.42,
+  "fin": 89.572
+ },
+ {
+  "palabra": "hundred",
+  "inicio": 89.572,
+  "fin": 89.928
+ },
+ {
+  "palabra": "percent.",
+  "inicio": 89.928,
+  "fin": 90.283
+ },
+ {
+  "palabra": "Fort",
+  "inicio": 90.283,
+  "fin": 90.486
+ },
+ {
+  "palabra": "Maybe",
+  "inicio": 90.486,
+  "fin": 90.74
+ },
+ {
+  "palabra": "still",
+  "inicio": 90.74,
+  "fin": 91.04
+ },
+ {
+  "palabra": "has",
+  "inicio": 91.04,
+  "fin": 91.24
+ },
+ {
+  "palabra": "one",
+  "inicio": 91.24,
+  "fin": 91.42
+ },
+ {
+  "palabra": "nail.",
+  "inicio": 91.42,
+  "fin": 91.66
+ },
+ {
+  "palabra": "And",
+  "inicio": 91.94,
+  "fin": 92.02
+ },
+ {
+  "palabra": "I",
+  "inicio": 92.02,
+  "fin": 92.14
+ },
+ {
+  "palabra": "check",
+  "inicio": 92.14,
+  "fin": 92.32
+ },
+ {
+  "palabra": "the",
+  "inicio": 92.32,
+  "fin": 92.46
+ },
+ {
+  "palabra": "bar",
+  "inicio": 92.46,
+  "fin": 92.64
+ },
+ {
+  "palabra": "every",
+  "inicio": 92.64,
+  "fin": 92.94
+ },
+ {
+  "palabra": "day",
+  "inicio": 92.94,
+  "fin": 93.12
+ },
+ {
+  "palabra": "now.",
+  "inicio": 93.12,
+  "fin": 93.32
+ }
+]

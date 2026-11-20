@@ -655,7 +655,9 @@ function Escenarios.clima(modelo: Model, clima: string, opciones: any?): string?
 			e.Speed = NumberRange.new(75, 90)
 			e.SpreadAngle = Vector2.new(3, 3)
 			e.Size = NumberSequence.new(0.35)
-			e.Squash = NumberSequence.new(2.4)
+			-- Negativo: alarga la gota a lo largo de su velocidad. Con el valor positivo las
+			-- rayas salían atravesadas (comprobado en Studio).
+			e.Squash = NumberSequence.new(-2.4)
 			e.Orientation = Enum.ParticleOrientation.VelocityParallel
 			e.Transparency = NumberSequence.new(0.45)
 			e.Color = ColorSequence.new(Color3.fromRGB(200, 220, 245))

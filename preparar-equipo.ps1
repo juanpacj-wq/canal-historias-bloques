@@ -50,7 +50,6 @@ $paquetes = @(
     @{ Id = 'Gyan.FFmpeg';          Comando = 'ffmpeg'; Nombre = 'FFmpeg' },
     @{ Id = 'OpenJS.NodeJS.LTS';    Comando = 'node';   Nombre = 'Node.js' },
     @{ Id = 'Anthropic.ClaudeCode'; Comando = 'claude'; Nombre = 'Claude Code' },
-    @{ Id = 'OBSProject.OBSStudio'; Comando = $null;    Nombre = 'OBS Studio';    Ruta = "$env:ProgramFiles\obs-studio\bin\64bit\obs64.exe" },
     @{ Id = 'Roblox.RobloxStudio';  Comando = $null;    Nombre = 'Roblox Studio'; Ruta = "$env:LOCALAPPDATA\Roblox\Versions" }
 )
 function Instalado($p) {

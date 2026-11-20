@@ -1,6 +1,15 @@
 # Entornos y cachés (se regeneran con preparar-equipo.ps1)
 herramientas/.venv/
+herramientas/kokoro/.venv/
+herramientas/kokoro/modelos/
 **/__pycache__/
+
+# Material de trabajo que se regenera
+videos/*/escenas/capturas/
+videos/*/escenas/vista.json
+videos/*/montaje/efectos/
+videos/*/montaje/*.mp3
+videos/*/revision/registro.txt
 
 # Material pesado de cada video (se respalda aparte, no en git)
 videos/*/voz/*.wav

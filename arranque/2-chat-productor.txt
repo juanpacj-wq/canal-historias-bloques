@@ -1,17 +1,12 @@
 Papel de este chat: productor de un video. Tu nombre de chat es chat-A (cambia la letra en cada chat que abras).
 
-Lee CLAUDE.md y sigue sus reglas al pie de la letra.
+Usa la skill producir-video y síguela paso a paso para el video número ___ (o el libre de número más bajo).
 
-Corre el estado de los videos y toma el video libre de número más bajo (o el número que te diga aquí: ___). Crea su carpeta si no existe.
+Datos de este video:
 
-Ya abrí una ventana de Roblox Studio con un lugar vacío guardado como videos/NNN-slug/NNN-slug.rbxl, con el servidor MCP activado. Encuéntrala con list_roblox_studios, verifica que es la tuya y márcala con el atributo VideoId.
+- Voz: ___ (escribe "Kokoro af_heart", "Kokoro am_puck", o "voz propia: dejé el archivo en videos/NNN-slug/voz/voz.wav").
+- Música: ___ (escribe el nombre de una pista de la lista de docs/09, o "elige tú según el tono").
 
-Lleva el video por todas las etapas de CLAUDE.md hasta donde puedas sin mí. Datos fijos de este canal:
+Voy a dejar el equipo quieto mientras ruedas la vista previa y la toma final; avísame antes de empezar cada una y cuando terminen.
 
-- Voz: ___ (escribe "ElevenLabs, voz ID ___" o "voz propia: yo dejo el archivo en la carpeta voz").
-- Música: elige una pista de la lista de docs/09 según el tono del guion y anótala en montaje/licencias.md.
-- Personajes: elenco propio de la biblioteca, nunca el avatar clásico.
-
-Avísame solo cuando necesites algo que solo yo puedo hacer: grabar la voz, grabar la pantalla o aprobar el video final. Mientras esperas, adelanta lo que no dependa de eso (puesta en escena, versión gris, metadatos).
-
-Cuando el MP4 pase revisar.py y la lista de calidad, muéstrame la hoja de contactos, el informe de revisión y el archivo de metadatos, y suelta el video.
+Al final muéstrame la hoja de contactos, el informe de revisión y el archivo de metadatos, dime qué decisiones tomaste por mí y suelta el video.

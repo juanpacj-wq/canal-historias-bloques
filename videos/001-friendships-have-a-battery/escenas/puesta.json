@@ -1,0 +1,6448 @@
+{
+ "video": "001-friendships-have-a-battery",
+ "esquema": 1,
+ "vertical": true,
+ "estilo": "propio",
+ "predeterminados": {
+  "clima": "sol"
+ },
+ "elenco": {
+  "narrador": {
+   "piel": "#F5CFA8",
+   "camisa": "#FFC233",
+   "pantalon": "#33415C",
+   "pelo": {
+    "tipo": "corto",
+    "color": "#6B3A1E"
+   }
+  },
+  "theo": {
+   "piel": "#C98F5B",
+   "camisa": "#E5383B",
+   "pantalon": "#2B2D42",
+   "pelo": {
+    "tipo": "copete",
+    "color": "#1B1B1F"
+   }
+  },
+  "theo_f": {
+   "piel": "#C98F5B",
+   "camisa": "#7B4DFF",
+   "pantalon": "#F4F4F8",
+   "pelo": {
+    "tipo": "copete",
+    "color": "#1B1B1F"
+   }
+  },
+  "f1": {
+   "piel": "#F2D3B3",
+   "camisa": "#7B4DFF",
+   "pantalon": "#F4F4F8",
+   "pelo": {
+    "tipo": "corto",
+    "color": "#C98A2B"
+   }
+  },
+  "f2": {
+   "piel": "#8D5A3B",
+   "camisa": "#7B4DFF",
+   "pantalon": "#F4F4F8",
+   "pelo": {
+    "tipo": "rizado",
+    "color": "#1B1B1F"
+   }
+  },
+  "f3": {
+   "piel": "#F5CFA8",
+   "camisa": "#7B4DFF",
+   "pantalon": "#F4F4F8",
+   "pelo": {
+    "tipo": "mono",
+    "color": "#B5451F"
+   }
+  },
+  "f4": {
+   "piel": "#D9A066",
+   "camisa": "#7B4DFF",
+   "pantalon": "#F4F4F8",
+   "pelo": {
+    "tipo": "gorra",
+    "color": "#22252E"
+   }
+  },
+  "hermana": {
+   "piel": "#F5CFA8",
+   "camisa": "#F0569F",
+   "pantalon": "#5B4B8A",
+   "pelo": {
+    "tipo": "coletas",
+    "color": "#6B3A1E"
+   }
+  },
+  "abuelo": {
+   "piel": "#EBC39C",
+   "camisa": "#8A9A5B",
+   "pantalon": "#6B4A2E",
+   "pelo": {
+    "tipo": "abuelo",
+    "color": "#E4E4EA"
+   },
+   "mangas": "largas"
+  },
+  "amigo_ajedrez": {
+   "piel": "#A9683F",
+   "camisa": "#D9A441",
+   "pantalon": "#3A3D45",
+   "pelo": {
+    "tipo": "abuelo",
+    "color": "#F4F4F4"
+   },
+   "mangas": "largas"
+  },
+  "mama": {
+   "piel": "#F5CFA8",
+   "camisa": "#2EC4B6",
+   "pantalon": "#3D405B",
+   "pelo": {
+    "tipo": "largo",
+    "color": "#6B3A1E"
+   }
+  },
+  "papa": {
+   "piel": "#EBC39C",
+   "camisa": "#4F772D",
+   "pantalon": "#3A3D45",
+   "pelo": {
+    "tipo": "corto",
+    "color": "#3B2414"
+   },
+   "mangas": "largas"
+  },
+  "cartero": {
+   "piel": "#D9A066",
+   "camisa": "#3B6FD6",
+   "pantalon": "#22335C",
+   "pelo": {
+    "tipo": "gorra",
+    "color": "#22335C"
+   },
+   "mangas": "largas"
+  },
+  "rick": {
+   "piel": "#F2D3B3",
+   "camisa": "#F28B30",
+   "pantalon": "#4A4E69",
+   "pelo": {
+    "tipo": "rizado",
+    "color": "#B5451F"
+   }
+  },
+  "e1": {
+   "piel": "#F2D3B3",
+   "camisa": "#3CD070",
+   "pantalon": "#28303F",
+   "pelo": {
+    "tipo": "corto",
+    "color": "#C98A2B"
+   }
+  },
+  "e2": {
+   "piel": "#8D5A3B",
+   "camisa": "#F2C230",
+   "pantalon": "#1F2937",
+   "pelo": {
+    "tipo": "rizado",
+    "color": "#1B1B1F"
+   }
+  },
+  "e3": {
+   "piel": "#F5CFA8",
+   "camisa": "#B07CF2",
+   "pantalon": "#28303F",
+   "pelo": {
+    "tipo": "largo",
+    "color": "#7A3B1E"
+   }
+  },
+  "e4": {
+   "piel": "#D9A066",
+   "camisa": "#F28B30",
+   "pantalon": "#3A3D45",
+   "pelo": {
+    "tipo": "gorra",
+    "color": "#22252E"
+   }
+  },
+  "e5": {
+   "piel": "#F2D3B3",
+   "camisa": "#30B8C9",
+   "pantalon": "#28303F",
+   "pelo": {
+    "tipo": "mono",
+    "color": "#E8C36A"
+   }
+  },
+  "extrano1": {
+   "piel": "#CFC8C0",
+   "camisa": "#8A8F98",
+   "pantalon": "#5A5F6A",
+   "pelo": {
+    "tipo": "corto",
+    "color": "#6E7178"
+   }
+  },
+  "extrano2": {
+   "piel": "#BEB7B0",
+   "camisa": "#7C818A",
+   "pantalon": "#4E535E",
+   "pelo": {
+    "tipo": "largo",
+    "color": "#5E6168"
+   }
+  }
+ },
+ "planos": [
+  {
+   "n": 1,
+   "texto": "In this world, every friendship has a BATTERY,",
+   "escenario": "pueblo",
+   "personajes": [
+    {
+     "id": "narrador",
+     "pos": [
+      -1.7,
+      0,
+      3
+     ],
+     "giro": 30,
+     "pose": "de_pie",
+     "cara": "feliz"
+    },
+    {
+     "id": "theo",
+     "pos": [
+      1.7,
+      0,
+      3
+     ],
+     "giro": -30,
+     "pose": "saludar",
+     "cara": "feliz"
+    }
+   ],
+   "utileria": [
+    {
+     "id": "barra",
+     "tipo": "bateria",
+     "pos": [
+      0,
+      5.8,
+      3
+     ],
+     "params": {
+      "porcentaje": 98,
+      "ancho": 3.4,
+      "alto": 1.4
+     }
+    }
+   ],
+   "camara": {
+    "objetivo": [
+     [
+      0,
+      5.0,
+      3
+     ]
+    ],
+    "tipo": "M",
+    "ancho": 7.4,
+    "margen": 1.0,
+    "movimiento": "acercar_brusco"
+   },
+   "inicio": 0.0,
+   "fin": 1.5
+  },
+  {
+   "n": 2,
+   "texto": "and everybody can see how much charge is left.",
+   "escenario": "pueblo",
+   "personajes": [
+    {
+     "id": "e1",
+     "pos": [
+      -9.5,
+      0,
+      3
+     ],
+     "giro": 40,
+     "pose": "de_pie",
+     "cara": "feliz"
+    },
+    {
+     "id": "e2",
+     "pos": [
+      -7.0,
+      0,
+      3
+     ],
+     "giro": -40,
+     "pose": "de_pie",
+     "cara": "feliz"
+    },
+    {
+     "id": "e3",
+     "pos": [
+      -4.0,
+      0,
+      3
+     ],
+     "giro": 40,
+     "pose": "de_pie",
+     "cara": "neutra"
+    },
+    {
+     "id": "e4",
+     "pos": [
+      -1.5,
+      0,
+      3
+     ],
+     "giro": -40,
+     "pose": "de_pie",
+     "cara": "incomodo"
+    },
+    {
+     "id": "hermana",
+     "pos": [
+      1.5,
+      0,
+      3
+     ],
+     "giro": 40,
+     "pose": "de_pie",
+     "cara": "rabia"
+    },
+    {
+     "id": "e5",
+     "pos": [
+      4.0,
+      0,
+      3
+     ],
+     "giro": -40,
+     "pose": "de_pie",
+     "cara": "rabia"
+    },
+    {
+     "id": "abuelo",
+     "pos": [
+      7.0,
+      0,
+      3
+     ],
+     "giro": 40,
+     "pose": "de_pie",
+     "cara": "feliz"
+    },
+    {
+     "id": "amigo_ajedrez",
+     "pos": [
+      9.5,
+      0,
+      3
+     ],
+     "giro": -40,
+     "pose": "de_pie",
+     "cara": "feliz"
+    }
+   ],
+   "utileria": [
+    {
+     "id": "p1",
+     "tipo": "bateria",
+     "pos": [
+      -8.25,
+      5.7,
+      3
+     ],
+     "params": {
+      "porcentaje": 80,
+      "ancho": 2.6,
+      "alto": 1.1
+     }
+    },
+    {
+     "id": "p2",
+     "tipo": "bateria",
+     "pos": [
+      -2.75,
+      5.7,
+      3
+     ],
+     "params": {
+      "porcentaje": 45,
+      "ancho": 2.6,
+      "alto": 1.1
+     }
+    },
+    {
+     "id": "p3",
+     "tipo": "bateria",
+     "pos": [
+      2.75,
+      5.7,
+      3
+     ],
+     "params": {
+      "porcentaje": 15,
+      "ancho": 2.6,
+      "alto": 1.1
+     }
+    },
+    {
+     "id": "p4",
+     "tipo": "bateria",
+     "pos": [
+      8.25,
+      5.7,
+      3
+     ],
+     "params": {
+      "porcentaje": 100,
+      "ancho": 2.6,
+      "alto": 1.1
+     }
+    }
+   ],
+   "camara": {
+    "objetivo": [
+     [
+      -0.5,
+      4.2,
+      3
+     ]
+    ],
+    "tipo": "M",
+    "ancho": 15.5,
+    "margen": 1.0,
+    "movimiento": "paneo_der",
+    "azimut": 30,
+    "elevacion": 9
+   },
+   "inicio": 1.5,
+   "fin": 3.0
+  },
+  {
+   "n": 3,
+   "texto": "It floats between you like a little green bar.",
+   "escenario": "pueblo",
+   "personajes": [
+    {
+     "id": "narrador",
+     "pos": [
+      -1.7,
+      0,
+      3
+     ],
+     "giro": 30,
+     "pose": "mirar_arriba",
+     "cara": "feliz"
+    },
+    {
+     "id": "theo",
+     "pos": [
+      1.7,
+      0,
+      3
+     ],
+     "giro": -30,
+     "pose": "mirar_arriba",
+     "cara": "feliz"
+    }
+   ],
+   "utileria": [
+    {
+     "id": "barra",
+     "tipo": "bateria",
+     "pos": [
+      0,
+      5.8,
+      3
+     ],
+     "params": {
+      "porcentaje": 98,
+      "ancho": 3.4,
+      "alto": 1.4
+     }
+    }
+   ],
+   "camara": {
+    "objetivo": [
+     [
+      0,
+      5.9,
+      3
+     ]
+    ],
+    "tipo": "M",
+    "ancho": 5.4,
+    "margen": 1.0,
+    "movimiento": "acercar_lento"
+   },
+   "inicio": 3.0,
+   "fin": 4.5
+  },
+  {
+   "n": 4,
+   "texto": "Laugh together, it goes up.",
+   "escenario": "parque",
+   "personajes": [
+    {
+     "id": "narrador",
+     "pos": [
+      -1.7,
+      0,
+      2
+     ],
+     "giro": 30,
+     "pose": "de_pie",
+     "cara": "risa",
+     "anim": "reir"
+    },
+    {
+     "id": "theo",
+     "pos": [
+      1.7,
+      0,
+      2
+     ],
+     "giro": -30,
+     "pose": "de_pie",
+     "cara": "risa",
+     "anim": "reir"
+    }
+   ],
+   "utileria": [
+    {
+     "id": "barra",
+     "tipo": "bateria",
+     "pos": [
+      0,
+      5.8,
+      2
+     ],
+     "params": {
+      "porcentaje": 70,
+      "ancho": 3.4,
+      "alto": 1.4
+     },
+     "claves": {
+      "porcentaje": [
+       [
+        0,
+        70
+       ],
+       [
+        0.75,
+        96
+       ]
+      ]
+     }
+    }
+   ],
+   "camara": {
+    "objetivo": [
+     [
+      0,
+      5.0,
+      2
+     ]
+    ],
+    "tipo": "M",
+    "ancho": 7.2,
+    "margen": 1.0,
+    "movimiento": "acercar_lento",
+    "inclinacion": 4
+   },
+   "inicio": 4.5,
+   "fin": 6.0
+  },
+  {
+   "n": 5,
+   "texto": "Ignore a text, it drops.",
+   "escenario": "cuarto",
+   "personajes": [
+    {
+     "id": "e1",
+     "pos": [
+      0.9,
+      0,
+      1
+     ],
+     "giro": 15,
+     "pose": "celular",
+     "cara": "indiferente"
+    }
+   ],
+   "utileria": [
+    {
+     "id": "celular",
+     "tipo": "celular",
+     "pegado": {
+      "personaje": "e1",
+      "parte": "mano_der",
+      "rel": [
+       0,
+       -0.4,
+       0.3
+      ]
+     }
+    },
+    {
+     "id": "barra",
+     "tipo": "bateria",
+     "pos": [
+      3.9,
+      4.3,
+      1
+     ],
+     "params": {
+      "porcentaje": 60,
+      "ancho": 3.4,
+      "alto": 1.4
+     },
+     "claves": {
+      "porcentaje": [
+       [
+        0,
+        62
+       ],
+       [
+        0.75,
+        31
+       ]
+      ]
+     }
+    }
+   ],
+   "camara": {
+    "objetivo": [
+     [
+      2.3,
+      4.5,
+      1
+     ]
+    ],
+    "tipo": "M",
+    "ancho": 6.6,
+    "margen": 1.0,
+    "movimiento": "acercar_lento",
+    "inclinacion": -3
+   },
+   "inicio": 6.0,
+   "fin": 7.5
+  },
+  {
+   "n": 6,
+   "texto": "My grandpa and his chess buddy have been at one hundred percent",
+   "escenario": "sala",
+   "personajes": [
+    {
+     "id": "abuelo",
+     "ancla": "sofa_1",
+     "pose": "sentado",
+     "cara": "decidido",
+     "giro": 22
+    },
+    {
+     "id": "amigo_ajedrez",
+     "ancla": "sofa_2",
+     "pose": "sentado",
+     "cara": "decidido",
+     "giro": -22
+    }
+   ],
+   "utileria": [
+    {
+     "id": "ajedrez",
+     "tipo": "ajedrez",
+     "ancla": "mesa"
+    },
+    {
+     "id": "barra_vieja",
+     "tipo": "bateria",
+     "pos": [
+      -8,
+      5.0,
+      -8.2
+     ],
+     "params": {
+      "porcentaje": 100,
+      "ancho": 3.4,
+      "alto": 1.4,
+      "telaranas": true
+     }
+    }
+   ],
+   "camara": {
+    "objetivo": [
+     [
+      -8,
+      4.6,
+      -6
+     ]
+    ],
+    "tipo": "M",
+    "ancho": 8.6,
+    "margen": 1.0,
+    "movimiento": "acercar_lento"
+   },
+   "inicio": 7.5,
+   "fin": 9.0
+  },
+  {
+   "n": 7,
+   "texto": "since 1974.",
+   "escenario": "sala",
+   "personajes": [
+    {
+     "id": "abuelo",
+     "ancla": "sofa_1",
+     "pose": "sentado",
+     "cara": "decidido",
+     "giro": 22
+    },
+    {
+     "id": "amigo_ajedrez",
+     "ancla": "sofa_2",
+     "pose": "sentado",
+     "cara": "decidido",
+     "giro": -22
+    }
+   ],
+   "utileria": [
+    {
+     "id": "ajedrez",
+     "tipo": "ajedrez",
+     "ancla": "mesa"
+    },
+    {
+     "id": "barra_vieja",
+     "tipo": "bateria",
+     "pos": [
+      -8,
+      5.0,
+      -8.2
+     ],
+     "params": {
+      "porcentaje": 100,
+      "ancho": 3.4,
+      "alto": 1.4,
+      "telaranas": true
+     }
+    }
+   ],
+   "camara": {
+    "objetivo": [
+     [
+      -8,
+      5.6,
+      -8.2
+     ]
+    ],
+    "tipo": "M",
+    "ancho": 5.0,
+    "margen": 1.0,
+    "movimiento": "acercar_brusco",
+    "inclinacion": 3,
+    "elevacion": 17
+   },
+   "inicio": 9.0,
+   "fin": 10.5
+  },
+  {
+   "n": 8,
+   "texto": "They have never finished a game.",
+   "escenario": "sala",
+   "personajes": [
+    {
+     "id": "abuelo",
+     "ancla": "sofa_1",
+     "pose": {
+      "bajar": "sentado",
+      "caderaDer": {
+       "x": 90
+      },
+      "caderaIzq": {
+       "x": 90
+      },
+      "hombroDer": {
+       "x": 15
+      },
+      "hombroIzq": {
+       "x": 15
+      },
+      "cuello": {
+       "x": -28,
+       "z": 12
+      }
+     },
+     "cara": "dormido",
+     "giro": 22,
+     "anim": "quieto"
+    },
+    {
+     "id": "amigo_ajedrez",
+     "ancla": "sofa_2",
+     "pose": {
+      "bajar": "sentado",
+      "caderaDer": {
+       "x": 90
+      },
+      "caderaIzq": {
+       "x": 90
+      },
+      "hombroDer": {
+       "x": 15
+      },
+      "hombroIzq": {
+       "x": 15
+      },
+      "cuello": {
+       "x": 22,
+       "z": -14
+      }
+     },
+     "cara": "dormido",
+     "giro": -22,
+     "anim": "quieto"
+    }
+   ],
+   "utileria": [
+    {
+     "id": "ajedrez",
+     "tipo": "ajedrez",
+     "ancla": "mesa"
+    },
+    {
+     "id": "telarana",
+     "tipo": "telarana",
+     "ancla": "mesa",
+     "desplazar": [
+      0.5,
+      0.75,
+      0.4
+     ]
+    },
+    {
+     "id": "barra_vieja",
+     "tipo": "bateria",
+     "pos": [
+      -8,
+      5.0,
+      -8.2
+     ],
+     "params": {
+      "porcentaje": 100,
+      "ancho": 3.4,
+      "alto": 1.4,
+      "telaranas": true
+     }
+    }
+   ],
+   "camara": {
+    "objetivo": [
+     [
+      -8,
+      3.6,
+      -5
+     ]
+    ],
+    "tipo": "M",
+    "ancho": 7.8,
+    "margen": 1.0,
+    "movimiento": "alejar_lento",
+    "elevacion": 20
+   },
+   "inicio": 10.5,
+   "fin": 12.0
+  },
+  {
+   "n": 9,
+   "texto": "My sister lost three friends in one group chat.",
+   "escenario": "cuarto",
+   "personajes": [
+    {
+     "id": "hermana",
+     "pos": [
+      2,
+      0,
+      1
+     ],
+     "giro": 0,
+     "pose": "celular",
+     "cara": "susto",
+     "cambios": [
+      [
+       0.6,
+       {
+        "cara": "llanto"
+       }
+      ]
+     ]
+    }
+   ],
+   "utileria": [
+    {
+     "id": "celular",
+     "tipo": "celular",
+     "pegado": {
+      "personaje": "hermana",
+      "parte": "mano_der",
+      "rel": [
+       0,
+       -0.4,
+       0.3
+      ]
+     }
+    },
+    {
+     "id": "r1",
+     "tipo": "bateria",
+     "pos": [
+      -0.7,
+      6.0,
+      1
+     ],
+     "params": {
+      "porcentaje": 60,
+      "ancho": 2.4,
+      "alto": 1.0
+     },
+     "claves": {
+      "porcentaje": [
+       [
+        0,
+        60
+       ],
+       [
+        0.22,
+        3
+       ],
+       [
+        1,
+        3
+       ]
+      ]
+     },
+     "anim": "temblar"
+    },
+    {
+     "id": "r2",
+     "tipo": "bateria",
+     "pos": [
+      2.0,
+      7.2,
+      1
+     ],
+     "params": {
+      "porcentaje": 55,
+      "ancho": 2.4,
+      "alto": 1.0
+     },
+     "claves": {
+      "porcentaje": [
+       [
+        0,
+        55
+       ],
+       [
+        0.2,
+        55
+       ],
+       [
+        0.42,
+        2
+       ],
+       [
+        1,
+        2
+       ]
+      ]
+     },
+     "anim": "temblar"
+    },
+    {
+     "id": "r3",
+     "tipo": "bateria",
+     "pos": [
+      4.7,
+      6.0,
+      1
+     ],
+     "params": {
+      "porcentaje": 70,
+      "ancho": 2.4,
+      "alto": 1.0
+     },
+     "claves": {
+      "porcentaje": [
+       [
+        0,
+        70
+       ],
+       [
+        0.4,
+        70
+       ],
+       [
+        0.62,
+        1
+       ],
+       [
+        1,
+        1
+       ]
+      ]
+     },
+     "anim": "temblar"
+    }
+   ],
+   "camara": {
+    "objetivo": [
+     [
+      2,
+      5.3,
+      1
+     ]
+    ],
+    "tipo": "M",
+    "ancho": 8.4,
+    "margen": 1.0,
+    "movimiento": "acercar_brusco",
+    "inclinacion": -5
+   },
+   "inicio": 12.0,
+   "fin": 13.5
+  },
+  {
+   "n": 10,
+   "texto": "You could hear the beeping from the kitchen.",
+   "escenario": "cocina",
+   "personajes": [
+    {
+     "id": "narrador",
+     "ancla": "silla_1",
+     "pose": {
+      "bajar": "sentado",
+      "caderaDer": {
+       "x": 90
+      },
+      "caderaIzq": {
+       "x": 90
+      },
+      "hombroDer": {
+       "x": 20
+      },
+      "hombroIzq": {
+       "x": 20
+      },
+      "cuello": {
+       "x": 26
+      }
+     },
+     "cara": "incomodo",
+     "anim": "quieto"
+    }
+   ],
+   "utileria": [
+    {
+     "id": "tazon",
+     "tipo": "tazon_cereal",
+     "ancla": "mesa"
+    }
+   ],
+   "camara": {
+    "objetivo": [
+     [
+      0,
+      4.3,
+      -2.6
+     ]
+    ],
+    "tipo": "M",
+    "ancho": 5.4,
+    "margen": 1.0,
+    "movimiento": "temblor"
+   },
+   "inicio": 13.5,
+   "fin": 15.0
+  },
+  {
+   "n": 11,
+   "texto": "My mom and the mailman are at forty percent.",
+   "escenario": "pueblo",
+   "personajes": [
+    {
+     "id": "mama",
+     "pos": [
+      -1.9,
+      0,
+      3
+     ],
+     "giro": 35,
+     "pose": "de_pie",
+     "cara": "feliz"
+    },
+    {
+     "id": "cartero",
+     "pos": [
+      1.9,
+      0,
+      3
+     ],
+     "giro": -35,
+     "pose": "ofrecer",
+     "cara": "feliz"
+    }
+   ],
+   "utileria": [
+    {
+     "id": "carta",
+     "tipo": "carta",
+     "pegado": {
+      "personaje": "cartero",
+      "parte": "mano_der",
+      "rel": [
+       0,
+       -0.5,
+       0.2
+      ]
+     }
+    },
+    {
+     "id": "barra",
+     "tipo": "bateria",
+     "pos": [
+      0,
+      5.8,
+      3
+     ],
+     "params": {
+      "porcentaje": 40,
+      "ancho": 3.4,
+      "alto": 1.4
+     }
+    }
+   ],
+   "camara": {
+    "objetivo": [
+     [
+      0,
+      5.0,
+      3
+     ]
+    ],
+    "tipo": "M",
+    "ancho": 7.6,
+    "margen": 1.0,
+    "movimiento": "acercar_lento"
+   },
+   "inicio": 15.0,
+   "fin": 16.5
+  },
+  {
+   "n": 12,
+   "texto": "Nobody knows how.",
+   "escenario": "pueblo",
+   "personajes": [
+    {
+     "id": "narrador",
+     "pos": [
+      -1.5,
+      0,
+      3
+     ],
+     "giro": 8,
+     "pose": "encogerse",
+     "cara": "confundido"
+    },
+    {
+     "id": "papa",
+     "pos": [
+      1.5,
+      0,
+      3
+     ],
+     "giro": -8,
+     "pose": "encogerse",
+     "cara": "confundido"
+    }
+   ],
+   "utileria": [],
+   "camara": {
+    "objetivo": [
+     [
+      0,
+      4.5,
+      3
+     ]
+    ],
+    "tipo": "M",
+    "ancho": 6.0,
+    "margen": 1.0,
+    "movimiento": "acercar_lento"
+   },
+   "inicio": 16.5,
+   "fin": 18.0
+  },
+  {
+   "n": 13,
+   "texto": "Mom says he respects her mailbox.",
+   "escenario": "pueblo",
+   "personajes": [
+    {
+     "id": "cartero",
+     "pos": [
+      1.7,
+      0,
+      3.2
+     ],
+     "giro": -42,
+     "pose": "ofrecer",
+     "cara": "orgulloso"
+    },
+    {
+     "id": "mama",
+     "pos": [
+      -3.0,
+      0,
+      2.0
+     ],
+     "giro": 30,
+     "pose": "de_pie",
+     "cara": "enamorado"
+    }
+   ],
+   "utileria": [
+    {
+     "id": "buzon",
+     "tipo": "cajas",
+     "pos": [
+      -0.6,
+      0,
+      3.4
+     ],
+     "params": {
+      "piezas": [
+       {
+        "nombre": "Poste",
+        "tam": [
+         0.4,
+         3.0,
+         0.4
+        ],
+        "pos": [
+         0,
+         1.5,
+         0
+        ],
+        "color": "#6B4A2E",
+        "material": "Wood"
+       },
+       {
+        "nombre": "Caja",
+        "tam": [
+         1.5,
+         1.2,
+         2.2
+        ],
+        "pos": [
+         0,
+         3.5,
+         0
+        ],
+        "color": "#E5383B"
+       },
+       {
+        "nombre": "Tapa",
+        "tam": [
+         1.52,
+         1.22,
+         0.15
+        ],
+        "pos": [
+         0,
+         3.5,
+         1.15
+        ],
+        "color": "#C22A2D"
+       },
+       {
+        "nombre": "Bandera",
+        "tam": [
+         0.12,
+         0.9,
+         0.35
+        ],
+        "pos": [
+         0.82,
+         4.1,
+         0.3
+        ],
+        "color": "#FFC233"
+       }
+      ]
+     },
+     "giro": 90
+    },
+    {
+     "id": "carta",
+     "tipo": "carta",
+     "pegado": {
+      "personaje": "cartero",
+      "parte": "mano_der",
+      "rel": [
+       0,
+       -0.5,
+       0.2
+      ]
+     }
+    }
+   ],
+   "camara": {
+    "objetivo": [
+     [
+      -0.6,
+      4.1,
+      3.2
+     ]
+    ],
+    "tipo": "M",
+    "ancho": 7.4,
+    "margen": 1.0,
+    "movimiento": "acercar_lento"
+   },
+   "inicio": 18.0,
+   "fin": 19.5
+  },
+  {
+   "n": 14,
+   "texto": "Me and Theo were at ninety-eight.",
+   "escenario": "parque",
+   "personajes": [
+    {
+     "id": "narrador",
+     "pos": [
+      -1.75,
+      0,
+      2
+     ],
+     "giro": 12,
+     "pose": {
+      "hombroIzq": {
+       "z": -148
+      }
+     },
+     "cara": "sonrisa_enorme"
+    },
+    {
+     "id": "theo",
+     "pos": [
+      1.75,
+      0,
+      2
+     ],
+     "giro": -12,
+     "pose": {
+      "hombroDer": {
+       "z": 148
+      }
+     },
+     "cara": "sonrisa_enorme"
+    }
+   ],
+   "utileria": [
+    {
+     "id": "barra",
+     "tipo": "bateria",
+     "pos": [
+      0,
+      6.9,
+      2
+     ],
+     "params": {
+      "porcentaje": 98,
+      "ancho": 3.4,
+      "alto": 1.4
+     }
+    }
+   ],
+   "camara": {
+    "objetivo": [
+     [
+      0,
+      6.0,
+      2
+     ]
+    ],
+    "tipo": "M",
+    "ancho": 7.6,
+    "margen": 1.0,
+    "movimiento": "acercar_lento"
+   },
+   "inicio": 19.5,
+   "fin": 21.0
+  },
+  {
+   "n": 15,
+   "texto": "Always.",
+   "escenario": "parque",
+   "personajes": [
+    {
+     "id": "narrador",
+     "pos": [
+      -1.75,
+      0,
+      2
+     ],
+     "giro": 12,
+     "pose": {
+      "hombroIzq": {
+       "z": -148
+      }
+     },
+     "cara": "sonrisa_enorme"
+    },
+    {
+     "id": "theo",
+     "pos": [
+      1.75,
+      0,
+      2
+     ],
+     "giro": -12,
+     "pose": {
+      "hombroDer": {
+       "z": 148
+      }
+     },
+     "cara": "sonrisa_enorme"
+    }
+   ],
+   "utileria": [
+    {
+     "id": "barra",
+     "tipo": "bateria",
+     "pos": [
+      0,
+      6.9,
+      2
+     ],
+     "params": {
+      "porcentaje": 98,
+      "ancho": 3.4,
+      "alto": 1.4
+     }
+    }
+   ],
+   "camara": {
+    "objetivo": [
+     [
+      0,
+      7.5,
+      2
+     ]
+    ],
+    "tipo": "M",
+    "ancho": 4.8,
+    "margen": 1.0,
+    "movimiento": "acercar_brusco"
+   },
+   "inicio": 21.0,
+   "fin": 22.5
+  },
+  {
+   "n": 16,
+   "texto": "We built a treehouse",
+   "escenario": "patio",
+   "personajes": [
+    {
+     "id": "narrador",
+     "pos": [
+      7.2,
+      0,
+      -3
+     ],
+     "giro": 15,
+     "pose": "senalar_arriba",
+     "cara": "orgulloso"
+    },
+    {
+     "id": "theo",
+     "pos": [
+      16.0,
+      0,
+      -2.5
+     ],
+     "giro": -15,
+     "pose": "brazos_arriba",
+     "cara": "orgulloso",
+     "anim": "saltar",
+     "amplitud": 0.5
+    }
+   ],
+   "utileria": [],
+   "camara": {
+    "objetivo": [
+     [
+      12,
+      7.4,
+      -8
+     ]
+    ],
+    "tipo": "M",
+    "ancho": 17,
+    "margen": 1.0,
+    "movimiento": "subir"
+   },
+   "inicio": 22.5,
+   "fin": 24.0
+  },
+  {
+   "n": 17,
+   "texto": "with one nail and a lot of hope.",
+   "escenario": "patio",
+   "personajes": [],
+   "utileria": [
+    {
+     "id": "clavo",
+     "tipo": "clavo",
+     "ancla": "clavo",
+     "params": {
+      "escala": 0.8
+     }
+    }
+   ],
+   "camara": {
+    "objetivo": [
+     "util:clavo"
+    ],
+    "tipo": "C",
+    "movimiento": "acercar_brusco",
+    "margen": 1.5
+   },
+   "inicio": 24.0,
+   "fin": 25.5
+  },
+  {
+   "n": 18,
+   "texto": "He named it Fort Maybe.",
+   "escenario": "patio",
+   "personajes": [
+    {
+     "id": "theo",
+     "pos": [
+      9.4,
+      0,
+      -2.2
+     ],
+     "giro": 10,
+     "pose": "senalar_arriba",
+     "cara": "picaro"
+    }
+   ],
+   "utileria": [
+    {
+     "id": "letrero",
+     "tipo": "letrero",
+     "ancla": "letrero",
+     "params": {
+      "texto": "FORT MAYBE",
+      "ancho": 6,
+      "alto": 1.8,
+      "poste": false,
+      "torcido": 6
+     }
+    },
+    {
+     "id": "clavo",
+     "tipo": "clavo",
+     "ancla": "clavo",
+     "params": {
+      "escala": 0.8
+     }
+    }
+   ],
+   "camara": {
+    "objetivo": [
+     [
+      11.4,
+      9.9,
+      -4.5
+     ]
+    ],
+    "tipo": "M",
+    "ancho": 9.4,
+    "margen": 1.0,
+    "movimiento": "acercar_lento",
+    "inclinacion": -4
+   },
+   "inicio": 25.5,
+   "fin": 27.0
+  },
+  {
+   "n": 19,
+   "texto": "Our bar never moved, so I stopped checking it.",
+   "escenario": "patio",
+   "personajes": [
+    {
+     "id": "narrador",
+     "pos": [
+      -6.2,
+      0,
+      4
+     ],
+     "giro": -28,
+     "pose": "caminar",
+     "cara": "feliz",
+     "anim": "caminar",
+     "mover": [
+      -1.6,
+      0,
+      1.6
+     ]
+    }
+   ],
+   "utileria": [
+    {
+     "id": "barra",
+     "tipo": "bateria",
+     "pos": [
+      -3.2,
+      5.4,
+      4
+     ],
+     "params": {
+      "porcentaje": 98,
+      "ancho": 3.4,
+      "alto": 1.4
+     }
+    }
+   ],
+   "camara": {
+    "objetivo": [
+     [
+      -5.6,
+      4.8,
+      4
+     ]
+    ],
+    "tipo": "M",
+    "ancho": 8.2,
+    "margen": 1.0,
+    "movimiento": "alejar_lento"
+   },
+   "inicio": 27.0,
+   "fin": 28.5
+  },
+  {
+   "n": 20,
+   "texto": "Then Theo joined the soccer team.",
+   "escenario": "cancha",
+   "personajes": [
+    {
+     "id": "theo_f",
+     "pos": [
+      0,
+      0,
+      6
+     ],
+     "giro": 0,
+     "pose": "saludar",
+     "cara": "feliz"
+    }
+   ],
+   "utileria": [
+    {
+     "id": "balon",
+     "tipo": "balon",
+     "pos": [
+      1.7,
+      0,
+      7.4
+     ]
+    }
+   ],
+   "camara": {
+    "objetivo": [
+     [
+      0.3,
+      3.7,
+      6
+     ]
+    ],
+    "tipo": "M",
+    "ancho": 6.2,
+    "margen": 1.0,
+    "movimiento": "acercar_brusco"
+   },
+   "luz": "dia_claro",
+   "inicio": 28.5,
+   "fin": 30.0
+  },
+  {
+   "n": 21,
+   "texto": "New friends.",
+   "escenario": "cancha",
+   "personajes": [
+    {
+     "id": "theo_f",
+     "pos": [
+      0,
+      0,
+      6.6
+     ],
+     "giro": 0,
+     "pose": "brazos_arriba",
+     "cara": "risa",
+     "anim": "saltar",
+     "amplitud": 0.6
+    },
+    {
+     "id": "f1",
+     "pos": [
+      -2.9,
+      0,
+      5.2
+     ],
+     "giro": 25,
+     "pose": "de_pie",
+     "cara": "risa",
+     "anim": "reir"
+    },
+    {
+     "id": "f2",
+     "pos": [
+      2.9,
+      0,
+      5.2
+     ],
+     "giro": -25,
+     "pose": "de_pie",
+     "cara": "risa",
+     "anim": "reir"
+    },
+    {
+     "id": "f3",
+     "pos": [
+      -1.6,
+      0,
+      3.4
+     ],
+     "giro": 15,
+     "pose": "brazos_arriba",
+     "cara": "feliz",
+     "anim": "saltar",
+     "amplitud": 0.4
+    },
+    {
+     "id": "f4",
+     "pos": [
+      1.6,
+      0,
+      3.4
+     ],
+     "giro": -15,
+     "pose": "de_pie",
+     "cara": "feliz",
+     "anim": "reir"
+    }
+   ],
+   "utileria": [
+    {
+     "id": "balon",
+     "tipo": "balon",
+     "pos": [
+      0,
+      0,
+      8.4
+     ]
+    }
+   ],
+   "camara": {
+    "objetivo": [
+     [
+      0,
+      4.3,
+      5
+     ]
+    ],
+    "tipo": "M",
+    "ancho": 9.4,
+    "margen": 1.0,
+    "movimiento": "paneo_izq"
+   },
+   "luz": "dia_claro",
+   "inicio": 30.0,
+   "fin": 31.5
+  },
+  {
+   "n": 22,
+   "texto": "New jokes I wasn't in.",
+   "escenario": "pasillo",
+   "personajes": [
+    {
+     "id": "theo",
+     "pos": [
+      1.6,
+      0,
+      -6.0
+     ],
+     "giro": 50,
+     "pose": "de_pie",
+     "cara": "risa",
+     "anim": "reir"
+    },
+    {
+     "id": "e1",
+     "pos": [
+      4.8,
+      0,
+      -6.0
+     ],
+     "giro": -50,
+     "pose": "de_pie",
+     "cara": "risa",
+     "anim": "reir"
+    },
+    {
+     "id": "e3",
+     "pos": [
+      3.2,
+      0,
+      -8.0
+     ],
+     "giro": 0,
+     "pose": "de_pie",
+     "cara": "risa",
+     "anim": "reir"
+    },
+    {
+     "id": "narrador",
+     "pos": [
+      -2.4,
+      0,
+      1.6
+     ],
+     "giro": -10,
+     "pose": {
+      "cuello": {
+       "x": -16
+      }
+     },
+     "cara": "triste"
+    }
+   ],
+   "utileria": [],
+   "camara": {
+    "objetivo": [
+     [
+      0.3,
+      4.3,
+      -1.5
+     ]
+    ],
+    "tipo": "M",
+    "ancho": 9.6,
+    "margen": 1.0,
+    "movimiento": "acercar_lento",
+    "inclinacion": -4,
+    "azimut": -8
+   },
+   "inicio": 31.5,
+   "fin": 33.0
+  },
+  {
+   "n": 23,
+   "texto": "One Monday I finally looked up.",
+   "escenario": "pasillo",
+   "personajes": [
+    {
+     "id": "narrador",
+     "pos": [
+      0,
+      0,
+      0
+     ],
+     "giro": 0,
+     "pose": "cabeza_abajo",
+     "cara": "triste",
+     "cambios": [
+      [
+       0.45,
+       {
+        "pose": "mirar_arriba",
+        "cara": "neutra"
+       }
+      ]
+     ]
+    }
+   ],
+   "utileria": [],
+   "camara": {
+    "objetivo": [
+     [
+      0,
+      4.5,
+      0
+     ]
+    ],
+    "tipo": "M",
+    "ancho": 4.8,
+    "margen": 1.0,
+    "movimiento": "subir"
+   },
+   "inicio": 33.0,
+   "fin": 34.5
+  },
+  {
+   "n": 24,
+   "texto": "RED. TWO percent.",
+   "escenario": "pasillo",
+   "personajes": [
+    {
+     "id": "narrador",
+     "pos": [
+      0,
+      0,
+      0
+     ],
+     "giro": 0,
+     "pose": "mirar_arriba",
+     "cara": "susto",
+     "anim": "temblar"
+    }
+   ],
+   "utileria": [
+    {
+     "id": "barra",
+     "tipo": "bateria",
+     "pos": [
+      0,
+      6.3,
+      0
+     ],
+     "params": {
+      "porcentaje": 2,
+      "ancho": 3.4,
+      "alto": 1.4
+     }
+    }
+   ],
+   "camara": {
+    "objetivo": [
+     [
+      0,
+      6.0,
+      0
+     ]
+    ],
+    "tipo": "M",
+    "ancho": 5.4,
+    "margen": 1.0,
+    "movimiento": "acercar_brusco",
+    "inclinacion": 6
+   },
+   "efecto": {
+    "tipo": "vibrar",
+    "en": "util:barra"
+   },
+   "inicio": 34.5,
+   "fin": 36.0
+  },
+  {
+   "n": 25,
+   "texto": "At ZERO, a friendship shuts off.",
+   "escenario": "pueblo",
+   "personajes": [],
+   "utileria": [
+    {
+     "id": "barra0",
+     "tipo": "bateria",
+     "pos": [
+      0,
+      5.8,
+      3
+     ],
+     "params": {
+      "porcentaje": 3,
+      "ancho": 3.4,
+      "alto": 1.4
+     },
+     "claves": {
+      "porcentaje": [
+       [
+        0,
+        3
+       ],
+       [
+        0.5,
+        0
+       ],
+       [
+        1,
+        0
+       ]
+      ]
+     },
+     "anim": "quieto"
+    }
+   ],
+   "camara": {
+    "objetivo": [
+     [
+      0,
+      6.5,
+      3
+     ]
+    ],
+    "tipo": "M",
+    "ancho": 5.0,
+    "margen": 1.0,
+    "movimiento": "acercar_lento"
+   },
+   "efecto": "recuerdo",
+   "inicio": 36.0,
+   "fin": 37.5
+  },
+  {
+   "n": 26,
+   "texto": "You pass each other like strangers.",
+   "escenario": "pueblo",
+   "personajes": [
+    {
+     "id": "extrano1",
+     "pos": [
+      -4.6,
+      0,
+      3.0
+     ],
+     "giro": 38,
+     "pose": "caminar",
+     "cara": "vacia",
+     "anim": "caminar",
+     "mover": [
+      5.4,
+      0,
+      0
+     ]
+    },
+    {
+     "id": "extrano2",
+     "pos": [
+      4.6,
+      0,
+      4.4
+     ],
+     "giro": -38,
+     "pose": "caminar",
+     "cara": "vacia",
+     "anim": "caminar",
+     "mover": [
+      -5.4,
+      0,
+      0
+     ]
+    }
+   ],
+   "utileria": [
+    {
+     "id": "barra0",
+     "tipo": "bateria",
+     "pos": [
+      0,
+      5.8,
+      3
+     ],
+     "params": {
+      "porcentaje": 0,
+      "ancho": 3.4,
+      "alto": 1.4
+     },
+     "anim": "quieto"
+    }
+   ],
+   "camara": {
+    "objetivo": [
+     [
+      0,
+      4.6,
+      3.6
+     ]
+    ],
+    "tipo": "M",
+    "ancho": 9.0,
+    "margen": 1.0,
+    "movimiento": "fijo"
+   },
+   "efecto": "recuerdo",
+   "inicio": 37.5,
+   "fin": 39.0
+  },
+  {
+   "n": 27,
+   "texto": "My dad waves at a guy named Rick every morning.",
+   "escenario": "pueblo",
+   "personajes": [
+    {
+     "id": "papa",
+     "pos": [
+      -1.9,
+      0,
+      3
+     ],
+     "giro": 30,
+     "pose": "saludar",
+     "cara": "confundido"
+    },
+    {
+     "id": "rick",
+     "pos": [
+      1.9,
+      0,
+      3
+     ],
+     "giro": -30,
+     "pose": "de_pie",
+     "cara": "confundido"
+    }
+   ],
+   "utileria": [
+    {
+     "id": "barra0",
+     "tipo": "bateria",
+     "pos": [
+      0,
+      5.8,
+      3
+     ],
+     "params": {
+      "porcentaje": 0,
+      "ancho": 3.4,
+      "alto": 1.4
+     },
+     "anim": "quieto"
+    }
+   ],
+   "camara": {
+    "objetivo": [
+     [
+      0,
+      5.0,
+      3
+     ]
+    ],
+    "tipo": "M",
+    "ancho": 7.6,
+    "margen": 1.0,
+    "movimiento": "acercar_lento"
+   },
+   "inicio": 39.0,
+   "fin": 40.5
+  },
+  {
+   "n": 28,
+   "texto": "Neither of them remembers why.",
+   "escenario": "pueblo",
+   "personajes": [
+    {
+     "id": "rick",
+     "pos": [
+      1.9,
+      0,
+      3
+     ],
+     "giro": -12,
+     "pose": "saludar",
+     "cara": "confundido"
+    }
+   ],
+   "utileria": [],
+   "camara": {
+    "objetivo": [
+     [
+      1.9,
+      4.5,
+      3
+     ]
+    ],
+    "tipo": "M",
+    "ancho": 4.8,
+    "margen": 1.0,
+    "movimiento": "acercar_lento",
+    "inclinacion": 4
+   },
+   "inicio": 40.5,
+   "fin": 42.0
+  },
+  {
+   "n": 29,
+   "texto": "So I tried to charge it.",
+   "escenario": "cuarto",
+   "personajes": [
+    {
+     "id": "narrador",
+     "pos": [
+      2,
+      0,
+      1
+     ],
+     "giro": 0,
+     "pose": {
+      "hombroDer": {
+       "x": 165,
+       "z": 12
+      },
+      "hombroIzq": {
+       "x": -10,
+       "z": -12
+      },
+      "cuello": {
+       "x": 8
+      }
+     },
+     "cara": "decidido"
+    }
+   ],
+   "utileria": [],
+   "camara": {
+    "objetivo": [
+     [
+      2,
+      4.6,
+      1
+     ]
+    ],
+    "tipo": "M",
+    "ancho": 4.8,
+    "margen": 1.0,
+    "movimiento": "acercar_brusco"
+   },
+   "inicio": 42.0,
+   "fin": 43.5
+  },
+  {
+   "n": 30,
+   "texto": "I bought his favorite chips.",
+   "escenario": "cafeteria",
+   "personajes": [
+    {
+     "id": "narrador",
+     "pos": [
+      -11.7,
+      0,
+      5
+     ],
+     "giro": 35,
+     "pose": "ofrecer",
+     "cara": "sonrisa_enorme"
+    },
+    {
+     "id": "theo",
+     "pos": [
+      -8.3,
+      0,
+      5
+     ],
+     "giro": -35,
+     "pose": "de_pie",
+     "cara": "neutra"
+    }
+   ],
+   "utileria": [
+    {
+     "id": "papas",
+     "tipo": "bolsa_papas",
+     "pegado": {
+      "personaje": "narrador",
+      "parte": "mano_der",
+      "rel": [
+       0,
+       -0.9,
+       0
+      ]
+     }
+    }
+   ],
+   "camara": {
+    "objetivo": [
+     [
+      -10,
+      4.5,
+      5
+     ]
+    ],
+    "tipo": "M",
+    "ancho": 7.2,
+    "margen": 1.0,
+    "movimiento": "acercar_lento"
+   },
+   "inicio": 43.5,
+   "fin": 45.0
+  },
+  {
+   "n": 31,
+   "texto": "Three percent, then back to two.",
+   "escenario": "cafeteria",
+   "personajes": [
+    {
+     "id": "narrador",
+     "pos": [
+      -11.7,
+      0,
+      5
+     ],
+     "giro": 35,
+     "pose": "mirar_arriba",
+     "cara": "sonrisa_enorme",
+     "cambios": [
+      [
+       0.62,
+       {
+        "cara": "triste"
+       }
+      ]
+     ]
+    },
+    {
+     "id": "theo",
+     "pos": [
+      -8.3,
+      0,
+      5
+     ],
+     "giro": -35,
+     "pose": "de_pie",
+     "cara": "neutra"
+    }
+   ],
+   "utileria": [
+    {
+     "id": "barra",
+     "tipo": "bateria",
+     "pos": [
+      -10,
+      5.8,
+      5
+     ],
+     "params": {
+      "porcentaje": 2,
+      "ancho": 3.4,
+      "alto": 1.4
+     },
+     "claves": {
+      "porcentaje": [
+       [
+        0,
+        2
+       ],
+       [
+        0.25,
+        3
+       ],
+       [
+        0.55,
+        3
+       ],
+       [
+        0.7,
+        2
+       ],
+       [
+        1,
+        2
+       ]
+      ]
+     }
+    }
+   ],
+   "camara": {
+    "objetivo": [
+     [
+      -10,
+      6.1,
+      5
+     ]
+    ],
+    "tipo": "M",
+    "ancho": 5.2,
+    "margen": 1.0,
+    "movimiento": "fijo"
+   },
+   "inicio": 45.0,
+   "fin": 46.5
+  },
+  {
+   "n": 32,
+   "texto": "I laughed at everything he said,",
+   "escenario": "cafeteria",
+   "personajes": [
+    {
+     "id": "narrador",
+     "pos": [
+      -11.7,
+      0,
+      5
+     ],
+     "giro": 35,
+     "pose": "gritar",
+     "cara": "risa_forzada",
+     "anim": "reir",
+     "amplitud": 2.2
+    },
+    {
+     "id": "theo",
+     "pos": [
+      -8.3,
+      0,
+      5
+     ],
+     "giro": -35,
+     "pose": "de_pie",
+     "cara": "confundido"
+    }
+   ],
+   "utileria": [],
+   "camara": {
+    "objetivo": [
+     [
+      -10,
+      4.5,
+      5
+     ]
+    ],
+    "tipo": "M",
+    "ancho": 7.0,
+    "margen": 1.0,
+    "movimiento": "acercar_lento",
+    "inclinacion": 5
+   },
+   "inicio": 46.5,
+   "fin": 48.0
+  },
+  {
+   "n": 33,
+   "texto": "even \"pass the ketchup.\"",
+   "escenario": "cafeteria",
+   "personajes": [],
+   "utileria": [
+    {
+     "id": "salsa",
+     "tipo": "botella_salsa",
+     "ancla": "mesa_frente"
+    }
+   ],
+   "camara": {
+    "objetivo": [
+     "util:salsa"
+    ],
+    "tipo": "C",
+    "movimiento": "acercar_brusco",
+    "margen": 1.5
+   },
+   "inicio": 48.0,
+   "fin": 49.5
+  },
+  {
+   "n": 34,
+   "texto": "Still two.",
+   "escenario": "cafeteria",
+   "personajes": [
+    {
+     "id": "narrador",
+     "pos": [
+      -10,
+      0,
+      5
+     ],
+     "giro": 0,
+     "pose": {
+      "cuello": {
+       "x": -14
+      },
+      "hombroDer": {
+       "x": 6
+      },
+      "hombroIzq": {
+       "x": 6
+      }
+     },
+     "cara": "triste"
+    }
+   ],
+   "utileria": [
+    {
+     "id": "barra",
+     "tipo": "bateria",
+     "pos": [
+      -10,
+      6.0,
+      5
+     ],
+     "params": {
+      "porcentaje": 2,
+      "ancho": 3.4,
+      "alto": 1.4
+     }
+    }
+   ],
+   "camara": {
+    "objetivo": [
+     [
+      -10,
+      5.6,
+      5
+     ]
+    ],
+    "tipo": "M",
+    "ancho": 6.0,
+    "margen": 1.0,
+    "movimiento": "fijo"
+   },
+   "inicio": 49.5,
+   "fin": 51.0
+  },
+  {
+   "n": 35,
+   "texto": "I threw him a surprise party.",
+   "escenario": "sala",
+   "personajes": [
+    {
+     "id": "narrador",
+     "pos": [
+      2,
+      0,
+      1
+     ],
+     "giro": 0,
+     "pose": "brazos_arriba",
+     "cara": "sonrisa_enorme",
+     "anim": "saltar",
+     "amplitud": 0.7
+    }
+   ],
+   "utileria": [
+    {
+     "id": "gorro",
+     "tipo": "gorro_fiesta",
+     "pegado": {
+      "personaje": "narrador",
+      "parte": "cabeza_arriba",
+      "rel": [
+       0,
+       -0.1,
+       0
+      ]
+     }
+    },
+    {
+     "id": "globos",
+     "tipo": "globos",
+     "pos": [
+      5.4,
+      0,
+      -0.5
+     ],
+     "params": {
+      "cantidad": 5
+     }
+    },
+    {
+     "id": "globos2",
+     "tipo": "globos",
+     "pos": [
+      -1.6,
+      0,
+      -0.5
+     ],
+     "params": {
+      "cantidad": 4
+     }
+    },
+    {
+     "id": "cartel",
+     "tipo": "letrero",
+     "pos": [
+      2,
+      7.4,
+      -2.5
+     ],
+     "params": {
+      "texto": "HAPPY B-DAY THEO!",
+      "ancho": 9,
+      "alto": 1.7,
+      "poste": false,
+      "color": "#F0569F",
+      "colorTexto": "#FFFFFF",
+      "torcido": -3
+     }
+    }
+   ],
+   "camara": {
+    "objetivo": [
+     [
+      2,
+      6.2,
+      0
+     ]
+    ],
+    "tipo": "M",
+    "ancho": 9.6,
+    "margen": 1.0,
+    "movimiento": "acercar_lento"
+   },
+   "efecto": {
+    "tipo": "confeti",
+    "en": "util:cartel"
+   },
+   "inicio": 51.0,
+   "fin": 52.5
+  },
+  {
+   "n": 36,
+   "texto": "His birthday is in March.",
+   "escenario": "sala",
+   "personajes": [
+    {
+     "id": "theo",
+     "ancla": "puerta",
+     "pose": "de_pie",
+     "cara": "confundido"
+    }
+   ],
+   "utileria": [],
+   "camara": {
+    "objetivo": [
+     [
+      15,
+      4.5,
+      -10.5
+     ]
+    ],
+    "tipo": "M",
+    "ancho": 4.8,
+    "margen": 1.0,
+    "movimiento": "acercar_lento"
+   },
+   "inicio": 52.5,
+   "fin": 54.0
+  },
+  {
+   "n": 37,
+   "texto": "It was October.",
+   "escenario": "sala",
+   "personajes": [],
+   "utileria": [
+    {
+     "id": "calabaza",
+     "tipo": "calabaza",
+     "ancla": "mesa"
+    }
+   ],
+   "camara": {
+    "objetivo": [
+     "util:calabaza"
+    ],
+    "tipo": "C",
+    "movimiento": "acercar_brusco",
+    "margen": 1.5
+   },
+   "inicio": 54.0,
+   "fin": 55.5
+  },
+  {
+   "n": 38,
+   "texto": "One percent.",
+   "escenario": "sala",
+   "personajes": [
+    {
+     "id": "narrador",
+     "pos": [
+      2,
+      0,
+      1
+     ],
+     "giro": 0,
+     "pose": "mirar_arriba",
+     "cara": "susto",
+     "anim": "temblar"
+    }
+   ],
+   "utileria": [
+    {
+     "id": "gorro",
+     "tipo": "gorro_fiesta",
+     "pegado": {
+      "personaje": "narrador",
+      "parte": "cabeza_arriba",
+      "rel": [
+       0,
+       -0.1,
+       0
+      ]
+     }
+    },
+    {
+     "id": "barra",
+     "tipo": "bateria",
+     "pos": [
+      2,
+      7.3,
+      1
+     ],
+     "params": {
+      "porcentaje": 1,
+      "ancho": 3.4,
+      "alto": 1.4
+     }
+    }
+   ],
+   "camara": {
+    "objetivo": [
+     [
+      2,
+      6.9,
+      1
+     ]
+    ],
+    "tipo": "M",
+    "ancho": 5.8,
+    "margen": 1.0,
+    "movimiento": "acercar_brusco",
+    "inclinacion": 6
+   },
+   "inicio": 55.5,
+   "fin": 57.0
+  },
+  {
+   "n": 39,
+   "texto": "That night the bar started beeping.",
+   "escenario": "cuarto",
+   "personajes": [
+    {
+     "id": "narrador",
+     "ancla": "cama_borde",
+     "pose": "sentado",
+     "cara": "angustia",
+     "giro": 0,
+     "anim": "quieto"
+    }
+   ],
+   "utileria": [
+    {
+     "id": "barra",
+     "tipo": "bateria",
+     "pos": [
+      -11,
+      6.4,
+      -1.4
+     ],
+     "params": {
+      "porcentaje": 1,
+      "ancho": 3.4,
+      "alto": 1.4
+     },
+     "anim": "quieto"
+    }
+   ],
+   "camara": {
+    "objetivo": [
+     [
+      -11,
+      6.0,
+      -1.3
+     ]
+    ],
+    "tipo": "M",
+    "ancho": 6.4,
+    "margen": 1.0,
+    "movimiento": "acercar_lento",
+    "elevacion": 8
+   },
+   "efecto": {
+    "tipo": "parpadeo",
+    "en": "util:barra",
+    "ritmo": 3
+   },
+   "clima": "noche",
+   "inicio": 57.0,
+   "fin": 58.5
+  },
+  {
+   "n": 40,
+   "texto": "I sat on my floor and stared at it.",
+   "escenario": "cuarto",
+   "personajes": [
+    {
+     "id": "narrador",
+     "pos": [
+      1.0,
+      0,
+      1.5
+     ],
+     "giro": 20,
+     "pose": {
+      "bajar": "sentado",
+      "caderaDer": {
+       "x": 90
+      },
+      "caderaIzq": {
+       "x": 90
+      },
+      "hombroDer": {
+       "x": 35,
+       "z": -10
+      },
+      "hombroIzq": {
+       "x": 35,
+       "z": 10
+      },
+      "cuello": {
+       "x": 12
+      }
+     },
+     "cara": "angustia",
+     "anim": "quieto"
+    }
+   ],
+   "utileria": [
+    {
+     "id": "barra",
+     "tipo": "bateria",
+     "pos": [
+      4.3,
+      2.3,
+      1.5
+     ],
+     "params": {
+      "porcentaje": 1,
+      "ancho": 3.4,
+      "alto": 1.4
+     },
+     "anim": "flotar"
+    }
+   ],
+   "camara": {
+    "objetivo": [
+     [
+      2.6,
+      3.0,
+      1.5
+     ]
+    ],
+    "tipo": "M",
+    "ancho": 7.0,
+    "margen": 1.0,
+    "movimiento": "acercar_lento"
+   },
+   "efecto": {
+    "tipo": "parpadeo",
+    "en": "util:barra",
+    "ritmo": 3
+   },
+   "clima": "noche",
+   "inicio": 58.5,
+   "fin": 60.0
+  },
+  {
+   "n": 41,
+   "texto": "And I noticed something I'd never checked.",
+   "escenario": "cuarto",
+   "personajes": [
+    {
+     "id": "narrador",
+     "pos": [
+      1.0,
+      0,
+      1.5
+     ],
+     "giro": 12,
+     "pose": {
+      "bajar": "sentado",
+      "caderaDer": {
+       "x": 90
+      },
+      "caderaIzq": {
+       "x": 90
+      },
+      "hombroDer": {
+       "x": 35,
+       "z": -10
+      },
+      "hombroIzq": {
+       "x": 35,
+       "z": 10
+      },
+      "cuello": {
+       "x": 12
+      }
+     },
+     "cara": "confundido",
+     "anim": "quieto",
+     "cambios": [
+      [
+       0.55,
+       {
+        "cara": "susto"
+       }
+      ]
+     ]
+    }
+   ],
+   "utileria": [],
+   "camara": {
+    "objetivo": [
+     [
+      1.0,
+      3.2,
+      1.5
+     ]
+    ],
+    "tipo": "M",
+    "ancho": 4.4,
+    "margen": 1.0,
+    "movimiento": "acercar_lento"
+   },
+   "clima": "noche",
+   "inicio": 60.0,
+   "fin": 61.5
+  },
+  {
+   "n": 42,
+   "texto": "The bar has TWO HALVES.",
+   "escenario": "cuarto",
+   "personajes": [],
+   "utileria": [
+    {
+     "id": "barra_mitades",
+     "tipo": "bateria",
+     "pos": [
+      2,
+      5.2,
+      1
+     ],
+     "params": {
+      "porcentaje": 50,
+      "ancho": 4.6,
+      "alto": 1.7,
+      "mitades": true,
+      "izq": 100,
+      "der": 0,
+      "leyenda": ""
+     },
+     "anim": "latir"
+    }
+   ],
+   "camara": {
+    "objetivo": [
+     [
+      2,
+      6.0,
+      1
+     ]
+    ],
+    "tipo": "M",
+    "ancho": 6.0,
+    "margen": 1.0,
+    "movimiento": "acercar_brusco"
+   },
+   "clima": "noche",
+   "inicio": 61.5,
+   "fin": 63.0
+  },
+  {
+   "n": 43,
+   "texto": "His half was full.",
+   "escenario": "cuarto",
+   "personajes": [],
+   "utileria": [
+    {
+     "id": "barra_mitades",
+     "tipo": "bateria",
+     "pos": [
+      2,
+      5.2,
+      1
+     ],
+     "params": {
+      "porcentaje": 50,
+      "ancho": 4.6,
+      "alto": 1.7,
+      "mitades": true,
+      "izq": 100,
+      "der": 0,
+      "leyenda": ""
+     },
+     "anim": "quieto"
+    }
+   ],
+   "camara": {
+    "objetivo": [
+     [
+      0.85,
+      6.05,
+      1
+     ]
+    ],
+    "tipo": "M",
+    "ancho": 3.3,
+    "margen": 1.0,
+    "movimiento": "acercar_lento"
+   },
+   "clima": "noche",
+   "inicio": 63.0,
+   "fin": 64.5
+  },
+  {
+   "n": 44,
+   "texto": "Mine was EMPTY.",
+   "escenario": "cuarto",
+   "personajes": [
+    {
+     "id": "narrador",
+     "pos": [
+      3.2,
+      0,
+      0.2
+     ],
+     "giro": -8,
+     "pose": "mirar_arriba",
+     "cara": "susto"
+    }
+   ],
+   "utileria": [
+    {
+     "id": "barra_mitades",
+     "tipo": "bateria",
+     "pos": [
+      2,
+      5.2,
+      1
+     ],
+     "params": {
+      "porcentaje": 50,
+      "ancho": 4.6,
+      "alto": 1.7,
+      "mitades": true,
+      "izq": 100,
+      "der": 0,
+      "leyenda": ""
+     },
+     "anim": "quieto"
+    }
+   ],
+   "camara": {
+    "objetivo": [
+     [
+      3.15,
+      5.2,
+      1
+     ]
+    ],
+    "tipo": "M",
+    "ancho": 4.6,
+    "margen": 1.0,
+    "movimiento": "acercar_brusco",
+    "inclinacion": -5
+   },
+   "clima": "noche",
+   "inicio": 64.5,
+   "fin": 66.0
+  },
+  {
+   "n": 45,
+   "texto": "Theo had invited me to every single game.",
+   "escenario": "pasillo",
+   "personajes": [
+    {
+     "id": "theo",
+     "pos": [
+      -1.7,
+      0,
+      0
+     ],
+     "giro": 32,
+     "pose": "ofrecer",
+     "cara": "sonrisa_enorme"
+    },
+    {
+     "id": "narrador",
+     "pos": [
+      1.7,
+      0,
+      0
+     ],
+     "giro": -32,
+     "pose": "de_pie",
+     "cara": "indiferente"
+    }
+   ],
+   "utileria": [
+    {
+     "id": "boleta",
+     "tipo": "boleta",
+     "pegado": {
+      "personaje": "theo",
+      "parte": "mano_der",
+      "rel": [
+       0,
+       -0.4,
+       0
+      ]
+     }
+    }
+   ],
+   "camara": {
+    "objetivo": [
+     [
+      0,
+      4.4,
+      0
+     ]
+    ],
+    "tipo": "M",
+    "ancho": 7.0,
+    "margen": 1.0,
+    "movimiento": "acercar_lento"
+   },
+   "efecto": "recuerdo",
+   "inicio": 66.0,
+   "fin": 67.5
+  },
+  {
+   "n": 46,
+   "texto": "I'd said no eleven times.",
+   "escenario": "pasillo",
+   "personajes": [
+    {
+     "id": "theo",
+     "pos": [
+      -1.7,
+      0,
+      0
+     ],
+     "giro": 32,
+     "pose": "cabeza_abajo",
+     "cara": "triste"
+    },
+    {
+     "id": "narrador",
+     "pos": [
+      1.7,
+      0,
+      0
+     ],
+     "giro": -20,
+     "pose": "de_pie",
+     "cara": "indiferente",
+     "anim": "negar"
+    }
+   ],
+   "utileria": [
+    {
+     "id": "boleta",
+     "tipo": "boleta",
+     "pegado": {
+      "personaje": "theo",
+      "parte": "mano_der",
+      "rel": [
+       0,
+       -0.4,
+       0
+      ]
+     }
+    }
+   ],
+   "camara": {
+    "objetivo": [
+     [
+      0,
+      4.4,
+      0
+     ]
+    ],
+    "tipo": "M",
+    "ancho": 6.8,
+    "margen": 1.0,
+    "movimiento": "acercar_lento"
+   },
+   "efecto": "recuerdo",
+   "inicio": 67.5,
+   "fin": 69.0
+  },
+  {
+   "n": 47,
+   "texto": "I told him soccer was boring.",
+   "escenario": "pasillo",
+   "personajes": [
+    {
+     "id": "narrador",
+     "pos": [
+      0.4,
+      0,
+      -0.6
+     ],
+     "giro": 0,
+     "pose": "encogerse",
+     "cara": "indiferente"
+    }
+   ],
+   "utileria": [
+    {
+     "id": "boletas",
+     "tipo": "cajas",
+     "pos": [
+      0.2,
+      0,
+      1.6
+     ],
+     "params": {
+      "piezas": [
+       {
+        "nombre": "Papel0",
+        "tam": [
+         1.2,
+         0.05,
+         0.6
+        ],
+        "pos": [
+         -0.9160696228675558,
+         0.04,
+         -0.583216734758546
+        ],
+        "rot": [
+         0,
+         21.130826225579526,
+         0
+        ],
+        "color": "#FFE9A8"
+       },
+       {
+        "nombre": "Franja0",
+        "tam": [
+         0.26,
+         0.06,
+         0.6
+        ],
+        "pos": [
+         -0.9160696228675558,
+         0.045,
+         -0.583216734758546
+        ],
+        "rot": [
+         0,
+         21.130826225579526,
+         0
+        ],
+        "color": "#3B82F6"
+       },
+       {
+        "nombre": "Papel1",
+        "tam": [
+         1.2,
+         0.05,
+         0.6
+        ],
+        "pos": [
+         -2.2233313093287776,
+         0.052000000000000005,
+         0.2253522090440473
+        ],
+        "rot": [
+         0,
+         -18.803551632238026,
+         0
+        ],
+        "color": "#FFE9A8"
+       },
+       {
+        "nombre": "Franja1",
+        "tam": [
+         0.26,
+         0.06,
+         0.6
+        ],
+        "pos": [
+         -2.2233313093287776,
+         0.056999999999999995,
+         0.2253522090440473
+        ],
+        "rot": [
+         0,
+         -18.803551632238026,
+         0
+        ],
+        "color": "#3B82F6"
+       },
+       {
+        "nombre": "Papel2",
+        "tam": [
+         1.2,
+         0.05,
+         0.6
+        ],
+        "pos": [
+         -2.298405591171525,
+         0.064,
+         0.16561503969778257
+        ],
+        "rot": [
+         0,
+         -64.75060781812212,
+         0
+        ],
+        "color": "#FFE9A8"
+       },
+       {
+        "nombre": "Franja2",
+        "tam": [
+         0.26,
+         0.06,
+         0.6
+        ],
+        "pos": [
+         -2.298405591171525,
+         0.069,
+         0.16561503969778257
+        ],
+        "rot": [
+         0,
+         -64.75060781812212,
+         0
+        ],
+        "color": "#3B82F6"
+       },
+       {
+        "nombre": "Papel3",
+        "tam": [
+         1.2,
+         0.05,
+         0.6
+        ],
+        "pos": [
+         -0.34504244495559355,
+         0.07600000000000001,
+         -0.7533036104933002
+        ],
+        "rot": [
+         0,
+         -57.30017813185889,
+         0
+        ],
+        "color": "#FFE9A8"
+       },
+       {
+        "nombre": "Franja3",
+        "tam": [
+         0.26,
+         0.06,
+         0.6
+        ],
+        "pos": [
+         -0.34504244495559355,
+         0.081,
+         -0.7533036104933002
+        ],
+        "rot": [
+         0,
+         -57.30017813185889,
+         0
+        ],
+        "color": "#3B82F6"
+       },
+       {
+        "nombre": "Papel4",
+        "tam": [
+         1.2,
+         0.05,
+         0.6
+        ],
+        "pos": [
+         -0.3925002164589273,
+         0.088,
+         0.83638946181128
+        ],
+        "rot": [
+         0,
+         -52.66772543904962,
+         0
+        ],
+        "color": "#FFE9A8"
+       },
+       {
+        "nombre": "Franja4",
+        "tam": [
+         0.26,
+         0.06,
+         0.6
+        ],
+        "pos": [
+         -0.3925002164589273,
+         0.093,
+         0.83638946181128
+        ],
+        "rot": [
+         0,
+         -52.66772543904962,
+         0
+        ],
+        "color": "#3B82F6"
+       },
+       {
+        "nombre": "Papel5",
+        "tam": [
+         1.2,
+         0.05,
+         0.6
+        ],
+        "pos": [
+         -1.4391573840435246,
+         0.1,
+         0.41760976705173747
+        ],
+        "rot": [
+         0,
+         62.6792519439808,
+         0
+        ],
+        "color": "#FFE9A8"
+       },
+       {
+        "nombre": "Franja5",
+        "tam": [
+         0.26,
+         0.06,
+         0.6
+        ],
+        "pos": [
+         -1.4391573840435246,
+         0.105,
+         0.41760976705173747
+        ],
+        "rot": [
+         0,
+         62.6792519439808,
+         0
+        ],
+        "color": "#3B82F6"
+       },
+       {
+        "nombre": "Papel6",
+        "tam": [
+         1.2,
+         0.05,
+         0.6
+        ],
+        "pos": [
+         0.40093533281099303,
+         0.11200000000000002,
+         -0.06697100323336169
+        ],
+        "rot": [
+         0,
+         66.6757147830088,
+         0
+        ],
+        "color": "#FFE9A8"
+       },
+       {
+        "nombre": "Franja6",
+        "tam": [
+         0.26,
+         0.06,
+         0.6
+        ],
+        "pos": [
+         0.40093533281099303,
+         0.117,
+         -0.06697100323336169
+        ],
+        "rot": [
+         0,
+         66.6757147830088,
+         0
+        ],
+        "color": "#3B82F6"
+       },
+       {
+        "nombre": "Papel7",
+        "tam": [
+         1.2,
+         0.05,
+         0.6
+        ],
+        "pos": [
+         -2.3577700607876673,
+         0.124,
+         0.902783764002227
+        ],
+        "rot": [
+         0,
+         -29.45469991356532,
+         0
+        ],
+        "color": "#FFE9A8"
+       },
+       {
+        "nombre": "Franja7",
+        "tam": [
+         0.26,
+         0.06,
+         0.6
+        ],
+        "pos": [
+         -2.3577700607876673,
+         0.129,
+         0.902783764002227
+        ],
+        "rot": [
+         0,
+         -29.45469991356532,
+         0
+        ],
+        "color": "#3B82F6"
+       },
+       {
+        "nombre": "Papel8",
+        "tam": [
+         1.2,
+         0.05,
+         0.6
+        ],
+        "pos": [
+         -1.849873566541325,
+         0.136,
+         -0.6526363000354265
+        ],
+        "rot": [
+         0,
+         -26.81254462572919,
+         0
+        ],
+        "color": "#FFE9A8"
+       },
+       {
+        "nombre": "Franja8",
+        "tam": [
+         0.26,
+         0.06,
+         0.6
+        ],
+        "pos": [
+         -1.849873566541325,
+         0.14100000000000001,
+         -0.6526363000354265
+        ],
+        "rot": [
+         0,
+         -26.81254462572919,
+         0
+        ],
+        "color": "#3B82F6"
+       },
+       {
+        "nombre": "Papel9",
+        "tam": [
+         1.2,
+         0.05,
+         0.6
+        ],
+        "pos": [
+         1.6438570674241633,
+         0.148,
+         -0.5204746021597313
+        ],
+        "rot": [
+         0,
+         11.424022912745272,
+         0
+        ],
+        "color": "#FFE9A8"
+       },
+       {
+        "nombre": "Franja9",
+        "tam": [
+         0.26,
+         0.06,
+         0.6
+        ],
+        "pos": [
+         1.6438570674241633,
+         0.153,
+         -0.5204746021597313
+        ],
+        "rot": [
+         0,
+         11.424022912745272,
+         0
+        ],
+        "color": "#3B82F6"
+       },
+       {
+        "nombre": "Papel10",
+        "tam": [
+         1.2,
+         0.05,
+         0.6
+        ],
+        "pos": [
+         0.722350038416157,
+         0.16,
+         -0.11796516027596438
+        ],
+        "rot": [
+         0,
+         6.684225199338101,
+         0
+        ],
+        "color": "#FFE9A8"
+       },
+       {
+        "nombre": "Franja10",
+        "tam": [
+         0.26,
+         0.06,
+         0.6
+        ],
+        "pos": [
+         0.722350038416157,
+         0.16499999999999998,
+         -0.11796516027596438
+        ],
+        "rot": [
+         0,
+         6.684225199338101,
+         0
+        ],
+        "color": "#3B82F6"
+       }
+      ]
+     }
+    }
+   ],
+   "camara": {
+    "objetivo": [
+     [
+      0.3,
+      2.9,
+      0.6
+     ]
+    ],
+    "tipo": "M",
+    "ancho": 6.4,
+    "margen": 1.0,
+    "movimiento": "alejar_lento",
+    "elevacion": 18
+   },
+   "efecto": "recuerdo",
+   "inicio": 69.0,
+   "fin": 70.5
+  },
+  {
+   "n": 48,
+   "texto": "Really, I just didn't want to watch him not need me.",
+   "escenario": "cancha",
+   "personajes": [
+    {
+     "id": "theo_f",
+     "pos": [
+      -0.2,
+      0,
+      9
+     ],
+     "giro": 0,
+     "pose": "brazos_arriba",
+     "cara": "risa",
+     "anim": "saltar",
+     "amplitud": 0.7
+    },
+    {
+     "id": "f1",
+     "pos": [
+      -3.0,
+      0,
+      8.4
+     ],
+     "giro": 30,
+     "pose": "brazos_arriba",
+     "cara": "risa",
+     "anim": "saltar",
+     "amplitud": 0.5
+    },
+    {
+     "id": "f2",
+     "pos": [
+      3.1,
+      0,
+      8.4
+     ],
+     "giro": -30,
+     "pose": "de_pie",
+     "cara": "risa",
+     "anim": "reir"
+    },
+    {
+     "id": "narrador",
+     "pos": [
+      1.5,
+      0,
+      -4.0
+     ],
+     "giro": -10,
+     "pose": {
+      "cuello": {
+       "x": -14
+      }
+     },
+     "cara": "triste"
+    }
+   ],
+   "utileria": [],
+   "camara": {
+    "objetivo": [
+     [
+      0.4,
+      4.6,
+      4
+     ]
+    ],
+    "tipo": "M",
+    "ancho": 10.0,
+    "margen": 1.0,
+    "movimiento": "acercar_lento",
+    "elevacion": 20
+   },
+   "luz": "dia_claro",
+   "efecto": "recuerdo",
+   "inicio": 70.5,
+   "fin": 72.0
+  },
+  {
+   "n": 49,
+   "texto": "So on Saturday, I went.",
+   "escenario": "cancha",
+   "personajes": [
+    {
+     "id": "narrador",
+     "pos": [
+      -2.6,
+      0,
+      -2.6
+     ],
+     "giro": 55,
+     "pose": "caminar",
+     "cara": "decidido",
+     "anim": "caminar",
+     "mover": [
+      4.2,
+      0,
+      0
+     ]
+    }
+   ],
+   "utileria": [
+    {
+     "id": "malla",
+     "tipo": "cajas",
+     "pos": [
+      0,
+      0,
+      -1.4
+     ],
+     "params": {
+      "piezas": [
+       {
+        "nombre": "Poste0",
+        "tam": [
+         0.3,
+         6.0,
+         0.3
+        ],
+        "pos": [
+         -9,
+         3.0,
+         0
+        ],
+        "color": "#8A919C",
+        "material": "Metal"
+       },
+       {
+        "nombre": "Poste1",
+        "tam": [
+         0.3,
+         6.0,
+         0.3
+        ],
+        "pos": [
+         -4.5,
+         3.0,
+         0
+        ],
+        "color": "#8A919C",
+        "material": "Metal"
+       },
+       {
+        "nombre": "Poste2",
+        "tam": [
+         0.3,
+         6.0,
+         0.3
+        ],
+        "pos": [
+         0,
+         3.0,
+         0
+        ],
+        "color": "#8A919C",
+        "material": "Metal"
+       },
+       {
+        "nombre": "Poste3",
+        "tam": [
+         0.3,
+         6.0,
+         0.3
+        ],
+        "pos": [
+         4.5,
+         3.0,
+         0
+        ],
+        "color": "#8A919C",
+        "material": "Metal"
+       },
+       {
+        "nombre": "Poste4",
+        "tam": [
+         0.3,
+         6.0,
+         0.3
+        ],
+        "pos": [
+         9,
+         3.0,
+         0
+        ],
+        "color": "#8A919C",
+        "material": "Metal"
+       },
+       {
+        "nombre": "Riel0",
+        "tam": [
+         18.3,
+         0.22,
+         0.22
+        ],
+        "pos": [
+         0,
+         0.4,
+         0
+        ],
+        "color": "#8A919C",
+        "material": "Metal"
+       },
+       {
+        "nombre": "Riel1",
+        "tam": [
+         18.3,
+         0.22,
+         0.22
+        ],
+        "pos": [
+         0,
+         2.3,
+         0
+        ],
+        "color": "#8A919C",
+        "material": "Metal"
+       },
+       {
+        "nombre": "Riel2",
+        "tam": [
+         18.3,
+         0.22,
+         0.22
+        ],
+        "pos": [
+         0,
+         5.9,
+         0
+        ],
+        "color": "#8A919C",
+        "material": "Metal"
+       },
+       {
+        "nombre": "Alambre1",
+        "tam": [
+         0.06,
+         5.6,
+         0.06
+        ],
+        "pos": [
+         -8.25,
+         3.1,
+         0
+        ],
+        "color": "#AEB4BD",
+        "material": "Metal",
+        "sombra": false
+       },
+       {
+        "nombre": "Alambre2",
+        "tam": [
+         0.06,
+         5.6,
+         0.06
+        ],
+        "pos": [
+         -7.5,
+         3.1,
+         0
+        ],
+        "color": "#AEB4BD",
+        "material": "Metal",
+        "sombra": false
+       },
+       {
+        "nombre": "Alambre3",
+        "tam": [
+         0.06,
+         5.6,
+         0.06
+        ],
+        "pos": [
+         -6.75,
+         3.1,
+         0
+        ],
+        "color": "#AEB4BD",
+        "material": "Metal",
+        "sombra": false
+       },
+       {
+        "nombre": "Alambre4",
+        "tam": [
+         0.06,
+         5.6,
+         0.06
+        ],
+        "pos": [
+         -6.0,
+         3.1,
+         0
+        ],
+        "color": "#AEB4BD",
+        "material": "Metal",
+        "sombra": false
+       },
+       {
+        "nombre": "Alambre5",
+        "tam": [
+         0.06,
+         5.6,
+         0.06
+        ],
+        "pos": [
+         -5.25,
+         3.1,
+         0
+        ],
+        "color": "#AEB4BD",
+        "material": "Metal",
+        "sombra": false
+       },
+       {
+        "nombre": "Alambre6",
+        "tam": [
+         0.06,
+         5.6,
+         0.06
+        ],
+        "pos": [
+         -4.5,
+         3.1,
+         0
+        ],
+        "color": "#AEB4BD",
+        "material": "Metal",
+        "sombra": false
+       },
+       {
+        "nombre": "Alambre7",
+        "tam": [
+         0.06,
+         5.6,
+         0.06
+        ],
+        "pos": [
+         -3.75,
+         3.1,
+         0
+        ],
+        "color": "#AEB4BD",
+        "material": "Metal",
+        "sombra": false
+       },
+       {
+        "nombre": "Alambre8",
+        "tam": [
+         0.06,
+         5.6,
+         0.06
+        ],
+        "pos": [
+         -3.0,
+         3.1,
+         0
+        ],
+        "color": "#AEB4BD",
+        "material": "Metal",
+        "sombra": false
+       },
+       {
+        "nombre": "Alambre9",
+        "tam": [
+         0.06,
+         5.6,
+         0.06
+        ],
+        "pos": [
+         -2.25,
+         3.1,
+         0
+        ],
+        "color": "#AEB4BD",
+        "material": "Metal",
+        "sombra": false
+       },
+       {
+        "nombre": "Alambre10",
+        "tam": [
+         0.06,
+         5.6,
+         0.06
+        ],
+        "pos": [
+         -1.5,
+         3.1,
+         0
+        ],
+        "color": "#AEB4BD",
+        "material": "Metal",
+        "sombra": false
+       },
+       {
+        "nombre": "Alambre11",
+        "tam": [
+         0.06,
+         5.6,
+         0.06
+        ],
+        "pos": [
+         -0.75,
+         3.1,
+         0
+        ],
+        "color": "#AEB4BD",
+        "material": "Metal",
+        "sombra": false
+       },
+       {
+        "nombre": "Alambre12",
+        "tam": [
+         0.06,
+         5.6,
+         0.06
+        ],
+        "pos": [
+         0.0,
+         3.1,
+         0
+        ],
+        "color": "#AEB4BD",
+        "material": "Metal",
+        "sombra": false
+       },
+       {
+        "nombre": "Alambre13",
+        "tam": [
+         0.06,
+         5.6,
+         0.06
+        ],
+        "pos": [
+         0.75,
+         3.1,
+         0
+        ],
+        "color": "#AEB4BD",
+        "material": "Metal",
+        "sombra": false
+       },
+       {
+        "nombre": "Alambre14",
+        "tam": [
+         0.06,
+         5.6,
+         0.06
+        ],
+        "pos": [
+         1.5,
+         3.1,
+         0
+        ],
+        "color": "#AEB4BD",
+        "material": "Metal",
+        "sombra": false
+       },
+       {
+        "nombre": "Alambre15",
+        "tam": [
+         0.06,
+         5.6,
+         0.06
+        ],
+        "pos": [
+         2.25,
+         3.1,
+         0
+        ],
+        "color": "#AEB4BD",
+        "material": "Metal",
+        "sombra": false
+       },
+       {
+        "nombre": "Alambre16",
+        "tam": [
+         0.06,
+         5.6,
+         0.06
+        ],
+        "pos": [
+         3.0,
+         3.1,
+         0
+        ],
+        "color": "#AEB4BD",
+        "material": "Metal",
+        "sombra": false
+       },
+       {
+        "nombre": "Alambre17",
+        "tam": [
+         0.06,
+         5.6,
+         0.06
+        ],
+        "pos": [
+         3.75,
+         3.1,
+         0
+        ],
+        "color": "#AEB4BD",
+        "material": "Metal",
+        "sombra": false
+       },
+       {
+        "nombre": "Alambre18",
+        "tam": [
+         0.06,
+         5.6,
+         0.06
+        ],
+        "pos": [
+         4.5,
+         3.1,
+         0
+        ],
+        "color": "#AEB4BD",
+        "material": "Metal",
+        "sombra": false
+       },
+       {
+        "nombre": "Alambre19",
+        "tam": [
+         0.06,
+         5.6,
+         0.06
+        ],
+        "pos": [
+         5.25,
+         3.1,
+         0
+        ],
+        "color": "#AEB4BD",
+        "material": "Metal",
+        "sombra": false
+       },
+       {
+        "nombre": "Alambre20",
+        "tam": [
+         0.06,
+         5.6,
+         0.06
+        ],
+        "pos": [
+         6.0,
+         3.1,
+         0
+        ],
+        "color": "#AEB4BD",
+        "material": "Metal",
+        "sombra": false
+       },
+       {
+        "nombre": "Alambre21",
+        "tam": [
+         0.06,
+         5.6,
+         0.06
+        ],
+        "pos": [
+         6.75,
+         3.1,
+         0
+        ],
+        "color": "#AEB4BD",
+        "material": "Metal",
+        "sombra": false
+       },
+       {
+        "nombre": "Alambre22",
+        "tam": [
+         0.06,
+         5.6,
+         0.06
+        ],
+        "pos": [
+         7.5,
+         3.1,
+         0
+        ],
+        "color": "#AEB4BD",
+        "material": "Metal",
+        "sombra": false
+       },
+       {
+        "nombre": "Alambre23",
+        "tam": [
+         0.06,
+         5.6,
+         0.06
+        ],
+        "pos": [
+         8.25,
+         3.1,
+         0
+        ],
+        "color": "#AEB4BD",
+        "material": "Metal",
+        "sombra": false
+       }
+      ]
+     }
+    }
+   ],
+   "camara": {
+    "objetivo": [
+     [
+      0.4,
+      4.3,
+      -2.4
+     ]
+    ],
+    "tipo": "M",
+    "ancho": 9.0,
+    "margen": 1.0,
+    "movimiento": "alejar_lento"
+   },
+   "clima": "lluvia",
+   "inicio": 72.0,
+   "fin": 73.5
+  },
+  {
+   "n": 50,
+   "texto": "It was pouring.",
+   "escenario": "cancha",
+   "personajes": [],
+   "utileria": [
+    {
+     "id": "malla",
+     "tipo": "cajas",
+     "pos": [
+      0,
+      0,
+      -1.4
+     ],
+     "params": {
+      "piezas": [
+       {
+        "nombre": "Poste0",
+        "tam": [
+         0.3,
+         6.0,
+         0.3
+        ],
+        "pos": [
+         -9,
+         3.0,
+         0
+        ],
+        "color": "#8A919C",
+        "material": "Metal"
+       },
+       {
+        "nombre": "Poste1",
+        "tam": [
+         0.3,
+         6.0,
+         0.3
+        ],
+        "pos": [
+         -4.5,
+         3.0,
+         0
+        ],
+        "color": "#8A919C",
+        "material": "Metal"
+       },
+       {
+        "nombre": "Poste2",
+        "tam": [
+         0.3,
+         6.0,
+         0.3
+        ],
+        "pos": [
+         0,
+         3.0,
+         0
+        ],
+        "color": "#8A919C",
+        "material": "Metal"
+       },
+       {
+        "nombre": "Poste3",
+        "tam": [
+         0.3,
+         6.0,
+         0.3
+        ],
+        "pos": [
+         4.5,
+         3.0,
+         0
+        ],
+        "color": "#8A919C",
+        "material": "Metal"
+       },
+       {
+        "nombre": "Poste4",
+        "tam": [
+         0.3,
+         6.0,
+         0.3
+        ],
+        "pos": [
+         9,
+         3.0,
+         0
+        ],
+        "color": "#8A919C",
+        "material": "Metal"
+       },
+       {
+        "nombre": "Riel0",
+        "tam": [
+         18.3,
+         0.22,
+         0.22
+        ],
+        "pos": [
+         0,
+         0.4,
+         0
+        ],
+        "color": "#8A919C",
+        "material": "Metal"
+       },
+       {
+        "nombre": "Riel1",
+        "tam": [
+         18.3,
+         0.22,
+         0.22
+        ],
+        "pos": [
+         0,
+         2.3,
+         0
+        ],
+        "color": "#8A919C",
+        "material": "Metal"
+       },
+       {
+        "nombre": "Riel2",
+        "tam": [
+         18.3,
+         0.22,
+         0.22
+        ],
+        "pos": [
+         0,
+         5.9,
+         0
+        ],
+        "color": "#8A919C",
+        "material": "Metal"
+       },
+       {
+        "nombre": "Alambre1",
+        "tam": [
+         0.06,
+         5.6,
+         0.06
+        ],
+        "pos": [
+         -8.25,
+         3.1,
+         0
+        ],
+        "color": "#AEB4BD",
+        "material": "Metal",
+        "sombra": false
+       },
+       {
+        "nombre": "Alambre2",
+        "tam": [
+         0.06,
+         5.6,
+         0.06
+        ],
+        "pos": [
+         -7.5,
+         3.1,
+         0
+        ],
+        "color": "#AEB4BD",
+        "material": "Metal",
+        "sombra": false
+       },
+       {
+        "nombre": "Alambre3",
+        "tam": [
+         0.06,
+         5.6,
+         0.06
+        ],
+        "pos": [
+         -6.75,
+         3.1,
+         0
+        ],
+        "color": "#AEB4BD",
+        "material": "Metal",
+        "sombra": false
+       },
+       {
+        "nombre": "Alambre4",
+        "tam": [
+         0.06,
+         5.6,
+         0.06
+        ],
+        "pos": [
+         -6.0,
+         3.1,
+         0
+        ],
+        "color": "#AEB4BD",
+        "material": "Metal",
+        "sombra": false
+       },
+       {
+        "nombre": "Alambre5",
+        "tam": [
+         0.06,
+         5.6,
+         0.06
+        ],
+        "pos": [
+         -5.25,
+         3.1,
+         0
+        ],
+        "color": "#AEB4BD",
+        "material": "Metal",
+        "sombra": false
+       },
+       {
+        "nombre": "Alambre6",
+        "tam": [
+         0.06,
+         5.6,
+         0.06
+        ],
+        "pos": [
+         -4.5,
+         3.1,
+         0
+        ],
+        "color": "#AEB4BD",
+        "material": "Metal",
+        "sombra": false
+       },
+       {
+        "nombre": "Alambre7",
+        "tam": [
+         0.06,
+         5.6,
+         0.06
+        ],
+        "pos": [
+         -3.75,
+         3.1,
+         0
+        ],
+        "color": "#AEB4BD",
+        "material": "Metal",
+        "sombra": false
+       },
+       {
+        "nombre": "Alambre8",
+        "tam": [
+         0.06,
+         5.6,
+         0.06
+        ],
+        "pos": [
+         -3.0,
+         3.1,
+         0
+        ],
+        "color": "#AEB4BD",
+        "material": "Metal",
+        "sombra": false
+       },
+       {
+        "nombre": "Alambre9",
+        "tam": [
+         0.06,
+         5.6,
+         0.06
+        ],
+        "pos": [
+         -2.25,
+         3.1,
+         0
+        ],
+        "color": "#AEB4BD",
+        "material": "Metal",
+        "sombra": false
+       },
+       {
+        "nombre": "Alambre10",
+        "tam": [
+         0.06,
+         5.6,
+         0.06
+        ],
+        "pos": [
+         -1.5,
+         3.1,
+         0
+        ],
+        "color": "#AEB4BD",
+        "material": "Metal",
+        "sombra": false
+       },
+       {
+        "nombre": "Alambre11",
+        "tam": [
+         0.06,
+         5.6,
+         0.06
+        ],
+        "pos": [
+         -0.75,
+         3.1,
+         0
+        ],
+        "color": "#AEB4BD",
+        "material": "Metal",
+        "sombra": false
+       },
+       {
+        "nombre": "Alambre12",
+        "tam": [
+         0.06,
+         5.6,
+         0.06
+        ],
+        "pos": [
+         0.0,
+         3.1,
+         0
+        ],
+        "color": "#AEB4BD",
+        "material": "Metal",
+        "sombra": false
+       },
+       {
+        "nombre": "Alambre13",
+        "tam": [
+         0.06,
+         5.6,
+         0.06
+        ],
+        "pos": [
+         0.75,
+         3.1,
+         0
+        ],
+        "color": "#AEB4BD",
+        "material": "Metal",
+        "sombra": false
+       },
+       {
+        "nombre": "Alambre14",
+        "tam": [
+         0.06,
+         5.6,
+         0.06
+        ],
+        "pos": [
+         1.5,
+         3.1,
+         0
+        ],
+        "color": "#AEB4BD",
+        "material": "Metal",
+        "sombra": false
+       },
+       {
+        "nombre": "Alambre15",
+        "tam": [
+         0.06,
+         5.6,
+         0.06
+        ],
+        "pos": [
+         2.25,
+         3.1,
+         0
+        ],
+        "color": "#AEB4BD",
+        "material": "Metal",
+        "sombra": false
+       },
+       {
+        "nombre": "Alambre16",
+        "tam": [
+         0.06,
+         5.6,
+         0.06
+        ],
+        "pos": [
+         3.0,
+         3.1,
+         0
+        ],
+        "color": "#AEB4BD",
+        "material": "Metal",
+        "sombra": false
+       },
+       {
+        "nombre": "Alambre17",
+        "tam": [
+         0.06,
+         5.6,
+         0.06
+        ],
+        "pos": [
+         3.75,
+         3.1,
+         0
+        ],
+        "color": "#AEB4BD",
+        "material": "Metal",
+        "sombra": false
+       },
+       {
+        "nombre": "Alambre18",
+        "tam": [
+         0.06,
+         5.6,
+         0.06
+        ],
+        "pos": [
+         4.5,
+         3.1,
+         0
+        ],
+        "color": "#AEB4BD",
+        "material": "Metal",
+        "sombra": false
+       },
+       {
+        "nombre": "Alambre19",
+        "tam": [
+         0.06,
+         5.6,
+         0.06
+        ],
+        "pos": [
+         5.25,
+         3.1,
+         0
+        ],
+        "color": "#AEB4BD",
+        "material": "Metal",
+        "sombra": false
+       },
+       {
+        "nombre": "Alambre20",
+        "tam": [
+         0.06,
+         5.6,
+         0.06
+        ],
+        "pos": [
+         6.0,
+         3.1,
+         0
+        ],
+        "color": "#AEB4BD",
+        "material": "Metal",
+        "sombra": false
+       },
+       {
+        "nombre": "Alambre21",
+        "tam": [
+         0.06,
+         5.6,
+         0.06
+        ],
+        "pos": [
+         6.75,
+         3.1,
+         0
+        ],
+        "color": "#AEB4BD",
+        "material": "Metal",
+        "sombra": false
+       },
+       {
+        "nombre": "Alambre22",
+        "tam": [
+         0.06,
+         5.6,
+         0.06
+        ],
+        "pos": [
+         7.5,
+         3.1,
+         0
+        ],
+        "color": "#AEB4BD",
+        "material": "Metal",
+        "sombra": false
+       },
+       {
+        "nombre": "Alambre23",
+        "tam": [
+         0.06,
+         5.6,
+         0.06
+        ],
+        "pos": [
+         8.25,
+         3.1,
+         0
+        ],
+        "color": "#AEB4BD",
+        "material": "Metal",
+        "sombra": false
+       }
+      ]
+     }
+    }
+   ],
+   "camara": {
+    "objetivo": [
+     [
+      0,
+      6.5,
+      -24
+     ]
+    ],
+    "tipo": "M",
+    "ancho": 17,
+    "margen": 1.0,
+    "movimiento": "paneo_der",
+    "elevacion": 12
+   },
+   "clima": "lluvia",
+   "inicio": 73.5,
+   "fin": 75.0
+  },
+  {
+   "n": 51,
+   "texto": "I stood at the fence, alone, soaked.",
+   "escenario": "cancha",
+   "personajes": [
+    {
+     "id": "narrador",
+     "pos": [
+      1.9,
+      0,
+      -2.5
+     ],
+     "giro": 0,
+     "pose": {
+      "hombroDer": {
+       "x": 62,
+       "z": 8
+      },
+      "hombroIzq": {
+       "x": 62,
+       "z": -8
+      },
+      "cuello": {
+       "x": 6
+      }
+     },
+     "cara": "incomodo",
+     "anim": "temblar"
+    }
+   ],
+   "utileria": [
+    {
+     "id": "malla",
+     "tipo": "cajas",
+     "pos": [
+      0,
+      0,
+      -1.4
+     ],
+     "params": {
+      "piezas": [
+       {
+        "nombre": "Poste0",
+        "tam": [
+         0.3,
+         6.0,
+         0.3
+        ],
+        "pos": [
+         -9,
+         3.0,
+         0
+        ],
+        "color": "#8A919C",
+        "material": "Metal"
+       },
+       {
+        "nombre": "Poste1",
+        "tam": [
+         0.3,
+         6.0,
+         0.3
+        ],
+        "pos": [
+         -4.5,
+         3.0,
+         0
+        ],
+        "color": "#8A919C",
+        "material": "Metal"
+       },
+       {
+        "nombre": "Poste2",
+        "tam": [
+         0.3,
+         6.0,
+         0.3
+        ],
+        "pos": [
+         0,
+         3.0,
+         0
+        ],
+        "color": "#8A919C",
+        "material": "Metal"
+       },
+       {
+        "nombre": "Poste3",
+        "tam": [
+         0.3,
+         6.0,
+         0.3
+        ],
+        "pos": [
+         4.5,
+         3.0,
+         0
+        ],
+        "color": "#8A919C",
+        "material": "Metal"
+       },
+       {
+        "nombre": "Poste4",
+        "tam": [
+         0.3,
+         6.0,
+         0.3
+        ],
+        "pos": [
+         9,
+         3.0,
+         0
+        ],
+        "color": "#8A919C",
+        "material": "Metal"
+       },
+       {
+        "nombre": "Riel0",
+        "tam": [
+         18.3,
+         0.22,
+         0.22
+        ],
+        "pos": [
+         0,
+         0.4,
+         0
+        ],
+        "color": "#8A919C",
+        "material": "Metal"
+       },
+       {
+        "nombre": "Riel1",
+        "tam": [
+         18.3,
+         0.22,
+         0.22
+        ],
+        "pos": [
+         0,
+         2.3,
+         0
+        ],
+        "color": "#8A919C",
+        "material": "Metal"
+       },
+       {
+        "nombre": "Riel2",
+        "tam": [
+         18.3,
+         0.22,
+         0.22
+        ],
+        "pos": [
+         0,
+         5.9,
+         0
+        ],
+        "color": "#8A919C",
+        "material": "Metal"
+       },
+       {
+        "nombre": "Alambre1",
+        "tam": [
+         0.06,
+         5.6,
+         0.06
+        ],
+        "pos": [
+         -8.25,
+         3.1,
+         0
+        ],
+        "color": "#AEB4BD",
+        "material": "Metal",
+        "sombra": false
+       },
+       {
+        "nombre": "Alambre2",
+        "tam": [
+         0.06,
+         5.6,
+         0.06
+        ],
+        "pos": [
+         -7.5,
+         3.1,
+         0
+        ],
+        "color": "#AEB4BD",
+        "material": "Metal",
+        "sombra": false
+       },
+       {
+        "nombre": "Alambre3",
+        "tam": [
+         0.06,
+         5.6,
+         0.06
+        ],
+        "pos": [
+         -6.75,
+         3.1,
+         0
+        ],
+        "color": "#AEB4BD",
+        "material": "Metal",
+        "sombra": false
+       },
+       {
+        "nombre": "Alambre4",
+        "tam": [
+         0.06,
+         5.6,
+         0.06
+        ],
+        "pos": [
+         -6.0,
+         3.1,
+         0
+        ],
+        "color": "#AEB4BD",
+        "material": "Metal",
+        "sombra": false
+       },
+       {
+        "nombre": "Alambre5",
+        "tam": [
+         0.06,
+         5.6,
+         0.06
+        ],
+        "pos": [
+         -5.25,
+         3.1,
+         0
+        ],
+        "color": "#AEB4BD",
+        "material": "Metal",
+        "sombra": false
+       },
+       {
+        "nombre": "Alambre6",
+        "tam": [
+         0.06,
+         5.6,
+         0.06
+        ],
+        "pos": [
+         -4.5,
+         3.1,
+         0
+        ],
+        "color": "#AEB4BD",
+        "material": "Metal",
+        "sombra": false
+       },
+       {
+        "nombre": "Alambre7",
+        "tam": [
+         0.06,
+         5.6,
+         0.06
+        ],
+        "pos": [
+         -3.75,
+         3.1,
+         0
+        ],
+        "color": "#AEB4BD",
+        "material": "Metal",
+        "sombra": false
+       },
+       {
+        "nombre": "Alambre8",
+        "tam": [
+         0.06,
+         5.6,
+         0.06
+        ],
+        "pos": [
+         -3.0,
+         3.1,
+         0
+        ],
+        "color": "#AEB4BD",
+        "material": "Metal",
+        "sombra": false
+       },
+       {
+        "nombre": "Alambre9",
+        "tam": [
+         0.06,
+         5.6,
+         0.06
+        ],
+        "pos": [
+         -2.25,
+         3.1,
+         0
+        ],
+        "color": "#AEB4BD",
+        "material": "Metal",
+        "sombra": false
+       },
+       {
+        "nombre": "Alambre10",
+        "tam": [
+         0.06,
+         5.6,
+         0.06
+        ],
+        "pos": [
+         -1.5,
+         3.1,
+         0
+        ],
+        "color": "#AEB4BD",
+        "material": "Metal",
+        "sombra": false
+       },
+       {
+        "nombre": "Alambre11",
+        "tam": [
+         0.06,
+         5.6,
+         0.06
+        ],
+        "pos": [
+         -0.75,
+         3.1,
+         0
+        ],
+        "color": "#AEB4BD",
+        "material": "Metal",
+        "sombra": false
+       },
+       {
+        "nombre": "Alambre12",
+        "tam": [
+         0.06,
+         5.6,
+         0.06
+        ],
+        "pos": [
+         0.0,
+         3.1,
+         0
+        ],
+        "color": "#AEB4BD",
+        "material": "Metal",
+        "sombra": false
+       },
+       {
+        "nombre": "Alambre13",
+        "tam": [
+         0.06,
+         5.6,
+         0.06
+        ],
+        "pos": [
+         0.75,
+         3.1,
+         0
+        ],
+        "color": "#AEB4BD",
+        "material": "Metal",
+        "sombra": false
+       },
+       {
+        "nombre": "Alambre14",
+        "tam": [
+         0.06,
+         5.6,
+         0.06
+        ],
+        "pos": [
+         1.5,
+         3.1,
+         0
+        ],
+        "color": "#AEB4BD",
+        "material": "Metal",
+        "sombra": false
+       },
+       {
+        "nombre": "Alambre15",
+        "tam": [
+         0.06,
+         5.6,
+         0.06
+        ],
+        "pos": [
+         2.25,
+         3.1,
+         0
+        ],
+        "color": "#AEB4BD",
+        "material": "Metal",
+        "sombra": false
+       },
+       {
+        "nombre": "Alambre16",
+        "tam": [
+         0.06,
+         5.6,
+         0.06
+        ],
+        "pos": [
+         3.0,
+         3.1,
+         0
+        ],
+        "color": "#AEB4BD",
+        "material": "Metal",
+        "sombra": false
+       },
+       {
+        "nombre": "Alambre17",
+        "tam": [
+         0.06,
+         5.6,
+         0.06
+        ],
+        "pos": [
+         3.75,
+         3.1,
+         0
+        ],
+        "color": "#AEB4BD",
+        "material": "Metal",
+        "sombra": false
+       },
+       {
+        "nombre": "Alambre18",
+        "tam": [
+         0.06,
+         5.6,
+         0.06
+        ],
+        "pos": [
+         4.5,
+         3.1,
+         0
+        ],
+        "color": "#AEB4BD",
+        "material": "Metal",
+        "sombra": false
+       },
+       {
+        "nombre": "Alambre19",
+        "tam": [
+         0.06,
+         5.6,
+         0.06
+        ],
+        "pos": [
+         5.25,
+         3.1,
+         0
+        ],
+        "color": "#AEB4BD",
+        "material": "Metal",
+        "sombra": false
+       },
+       {
+        "nombre": "Alambre20",
+        "tam": [
+         0.06,
+         5.6,
+         0.06
+        ],
+        "pos": [
+         6.0,
+         3.1,
+         0
+        ],
+        "color": "#AEB4BD",
+        "material": "Metal",
+        "sombra": false
+       },
+       {
+        "nombre": "Alambre21",
+        "tam": [
+         0.06,
+         5.6,
+         0.06
+        ],
+        "pos": [
+         6.75,
+         3.1,
+         0
+        ],
+        "color": "#AEB4BD",
+        "material": "Metal",
+        "sombra": false
+       },
+       {
+        "nombre": "Alambre22",
+        "tam": [
+         0.06,
+         5.6,
+         0.06
+        ],
+        "pos": [
+         7.5,
+         3.1,
+         0
+        ],
+        "color": "#AEB4BD",
+        "material": "Metal",
+        "sombra": false
+       },
+       {
+        "nombre": "Alambre23",
+        "tam": [
+         0.06,
+         5.6,
+         0.06
+        ],
+        "pos": [
+         8.25,
+         3.1,
+         0
+        ],
+        "color": "#AEB4BD",
+        "material": "Metal",
+        "sombra": false
+       }
+      ]
+     }
+    }
+   ],
+   "camara": {
+    "objetivo": [
+     [
+      1.9,
+      3.9,
+      -2
+     ]
+    ],
+    "tipo": "M",
+    "ancho": 6.4,
+    "margen": 1.0,
+    "movimiento": "acercar_lento"
+   },
+   "clima": "lluvia",
+   "inicio": 75.0,
+   "fin": 76.5
+  },
+  {
+   "n": 52,
+   "texto": "And I yelled his name until my voice cracked.",
+   "escenario": "cancha",
+   "personajes": [
+    {
+     "id": "narrador",
+     "pos": [
+      1.9,
+      0,
+      -2.5
+     ],
+     "giro": 0,
+     "pose": "gritar",
+     "cara": "llanto",
+     "anim": "temblar",
+     "amplitud": 1.6
+    }
+   ],
+   "utileria": [
+    {
+     "id": "malla",
+     "tipo": "cajas",
+     "pos": [
+      0,
+      0,
+      -1.4
+     ],
+     "params": {
+      "piezas": [
+       {
+        "nombre": "Poste0",
+        "tam": [
+         0.3,
+         6.0,
+         0.3
+        ],
+        "pos": [
+         -9,
+         3.0,
+         0
+        ],
+        "color": "#8A919C",
+        "material": "Metal"
+       },
+       {
+        "nombre": "Poste1",
+        "tam": [
+         0.3,
+         6.0,
+         0.3
+        ],
+        "pos": [
+         -4.5,
+         3.0,
+         0
+        ],
+        "color": "#8A919C",
+        "material": "Metal"
+       },
+       {
+        "nombre": "Poste2",
+        "tam": [
+         0.3,
+         6.0,
+         0.3
+        ],
+        "pos": [
+         0,
+         3.0,
+         0
+        ],
+        "color": "#8A919C",
+        "material": "Metal"
+       },
+       {
+        "nombre": "Poste3",
+        "tam": [
+         0.3,
+         6.0,
+         0.3
+        ],
+        "pos": [
+         4.5,
+         3.0,
+         0
+        ],
+        "color": "#8A919C",
+        "material": "Metal"
+       },
+       {
+        "nombre": "Poste4",
+        "tam": [
+         0.3,
+         6.0,
+         0.3
+        ],
+        "pos": [
+         9,
+         3.0,
+         0
+        ],
+        "color": "#8A919C",
+        "material": "Metal"
+       },
+       {
+        "nombre": "Riel0",
+        "tam": [
+         18.3,
+         0.22,
+         0.22
+        ],
+        "pos": [
+         0,
+         0.4,
+         0
+        ],
+        "color": "#8A919C",
+        "material": "Metal"
+       },
+       {
+        "nombre": "Riel1",
+        "tam": [
+         18.3,
+         0.22,
+         0.22
+        ],
+        "pos": [
+         0,
+         2.3,
+         0
+        ],
+        "color": "#8A919C",
+        "material": "Metal"
+       },
+       {
+        "nombre": "Riel2",
+        "tam": [
+         18.3,
+         0.22,
+         0.22
+        ],
+        "pos": [
+         0,
+         5.9,
+         0
+        ],
+        "color": "#8A919C",
+        "material": "Metal"
+       },
+       {
+        "nombre": "Alambre1",
+        "tam": [
+         0.06,
+         5.6,
+         0.06
+        ],
+        "pos": [
+         -8.25,
+         3.1,
+         0
+        ],
+        "color": "#AEB4BD",
+        "material": "Metal",
+        "sombra": false
+       },
+       {
+        "nombre": "Alambre2",
+        "tam": [
+         0.06,
+         5.6,
+         0.06
+        ],
+        "pos": [
+         -7.5,
+         3.1,
+         0
+        ],
+        "color": "#AEB4BD",
+        "material": "Metal",
+        "sombra": false
+       },
+       {
+        "nombre": "Alambre3",
+        "tam": [
+         0.06,
+         5.6,
+         0.06
+        ],
+        "pos": [
+         -6.75,
+         3.1,
+         0
+        ],
+        "color": "#AEB4BD",
+        "material": "Metal",
+        "sombra": false
+       },
+       {
+        "nombre": "Alambre4",
+        "tam": [
+         0.06,
+         5.6,
+         0.06
+        ],
+        "pos": [
+         -6.0,
+         3.1,
+         0
+        ],
+        "color": "#AEB4BD",
+        "material": "Metal",
+        "sombra": false
+       },
+       {
+        "nombre": "Alambre5",
+        "tam": [
+         0.06,
+         5.6,
+         0.06
+        ],
+        "pos": [
+         -5.25,
+         3.1,
+         0
+        ],
+        "color": "#AEB4BD",
+        "material": "Metal",
+        "sombra": false
+       },
+       {
+        "nombre": "Alambre6",
+        "tam": [
+         0.06,
+         5.6,
+         0.06
+        ],
+        "pos": [
+         -4.5,
+         3.1,
+         0
+        ],
+        "color": "#AEB4BD",
+        "material": "Metal",
+        "sombra": false
+       },
+       {
+        "nombre": "Alambre7",
+        "tam": [
+         0.06,
+         5.6,
+         0.06
+        ],
+        "pos": [
+         -3.75,
+         3.1,
+         0
+        ],
+        "color": "#AEB4BD",
+        "material": "Metal",
+        "sombra": false
+       },
+       {
+        "nombre": "Alambre8",
+        "tam": [
+         0.06,
+         5.6,
+         0.06
+        ],
+        "pos": [
+         -3.0,
+         3.1,
+         0
+        ],
+        "color": "#AEB4BD",
+        "material": "Metal",
+        "sombra": false
+       },
+       {
+        "nombre": "Alambre9",
+        "tam": [
+         0.06,
+         5.6,
+         0.06
+        ],
+        "pos": [
+         -2.25,
+         3.1,
+         0
+        ],
+        "color": "#AEB4BD",
+        "material": "Metal",
+        "sombra": false
+       },
+       {
+        "nombre": "Alambre10",
+        "tam": [
+         0.06,
+         5.6,
+         0.06
+        ],
+        "pos": [
+         -1.5,
+         3.1,
+         0
+        ],
+        "color": "#AEB4BD",
+        "material": "Metal",
+        "sombra": false
+       },
+       {
+        "nombre": "Alambre11",
+        "tam": [
+         0.06,
+         5.6,
+         0.06
+        ],
+        "pos": [
+         -0.75,
+         3.1,
+         0
+        ],
+        "color": "#AEB4BD",
+        "material": "Metal",
+        "sombra": false
+       },
+       {
+        "nombre": "Alambre12",
+        "tam": [
+         0.06,
+         5.6,
+         0.06
+        ],
+        "pos": [
+         0.0,
+         3.1,
+         0
+        ],
+        "color": "#AEB4BD",
+        "material": "Metal",
+        "sombra": false
+       },
+       {
+        "nombre": "Alambre13",
+        "tam": [
+         0.06,
+         5.6,
+         0.06
+        ],
+        "pos": [
+         0.75,
+         3.1,
+         0
+        ],
+        "color": "#AEB4BD",
+        "material": "Metal",
+        "sombra": false
+       },
+       {
+        "nombre": "Alambre14",
+        "tam": [
+         0.06,
+         5.6,
+         0.06
+        ],
+        "pos": [
+         1.5,
+         3.1,
+         0
+        ],
+        "color": "#AEB4BD",
+        "material": "Metal",
+        "sombra": false
+       },
+       {
+        "nombre": "Alambre15",
+        "tam": [
+         0.06,
+         5.6,
+         0.06
+        ],
+        "pos": [
+         2.25,
+         3.1,
+         0
+        ],
+        "color": "#AEB4BD",
+        "material": "Metal",
+        "sombra": false
+       },
+       {
+        "nombre": "Alambre16",
+        "tam": [
+         0.06,
+         5.6,
+         0.06
+        ],
+        "pos": [
+         3.0,
+         3.1,
+         0
+        ],
+        "color": "#AEB4BD",
+        "material": "Metal",
+        "sombra": false
+       },
+       {
+        "nombre": "Alambre17",
+        "tam": [
+         0.06,
+         5.6,
+         0.06
+        ],
+        "pos": [
+         3.75,
+         3.1,
+         0
+        ],
+        "color": "#AEB4BD",
+        "material": "Metal",
+        "sombra": false
+       },
+       {
+        "nombre": "Alambre18",
+        "tam": [
+         0.06,
+         5.6,
+         0.06
+        ],
+        "pos": [
+         4.5,
+         3.1,
+         0
+        ],
+        "color": "#AEB4BD",
+        "material": "Metal",
+        "sombra": false
+       },
+       {
+        "nombre": "Alambre19",
+        "tam": [
+         0.06,
+         5.6,
+         0.06
+        ],
+        "pos": [
+         5.25,
+         3.1,
+         0
+        ],
+        "color": "#AEB4BD",
+        "material": "Metal",
+        "sombra": false
+       },
+       {
+        "nombre": "Alambre20",
+        "tam": [
+         0.06,
+         5.6,
+         0.06
+        ],
+        "pos": [
+         6.0,
+         3.1,
+         0
+        ],
+        "color": "#AEB4BD",
+        "material": "Metal",
+        "sombra": false
+       },
+       {
+        "nombre": "Alambre21",
+        "tam": [
+         0.06,
+         5.6,
+         0.06
+        ],
+        "pos": [
+         6.75,
+         3.1,
+         0
+        ],
+        "color": "#AEB4BD",
+        "material": "Metal",
+        "sombra": false
+       },
+       {
+        "nombre": "Alambre22",
+        "tam": [
+         0.06,
+         5.6,
+         0.06
+        ],
+        "pos": [
+         7.5,
+         3.1,
+         0
+        ],
+        "color": "#AEB4BD",
+        "material": "Metal",
+        "sombra": false
+       },
+       {
+        "nombre": "Alambre23",
+        "tam": [
+         0.06,
+         5.6,
+         0.06
+        ],
+        "pos": [
+         8.25,
+         3.1,
+         0
+        ],
+        "color": "#AEB4BD",
+        "material": "Metal",
+        "sombra": false
+       }
+      ]
+     }
+    }
+   ],
+   "camara": {
+    "objetivo": [
+     [
+      1.9,
+      4.5,
+      -2.5
+     ]
+    ],
+    "tipo": "M",
+    "ancho": 4.8,
+    "margen": 1.0,
+    "movimiento": "temblor",
+    "inclinacion": 5
+   },
+   "clima": "lluvia",
+   "inicio": 76.5,
+   "fin": 78.0
+  },
+  {
+   "n": 53,
+   "texto": "He missed the shot. Completely.",
+   "escenario": "cancha",
+   "personajes": [
+    {
+     "id": "theo_f",
+     "pos": [
+      28,
+      0,
+      2
+     ],
+     "giro": -18,
+     "pose": {
+      "raiz": {
+       "x": 8
+      },
+      "hombroDer": {
+       "x": 40
+      },
+      "hombroIzq": {
+       "x": -45
+      },
+      "caderaDer": {
+       "x": 70
+      },
+      "caderaIzq": {
+       "x": -15
+      }
+     },
+     "cara": "sonrisa_enorme",
+     "cambios": [
+      [
+       0.35,
+       {
+        "pose": "de_pie"
+       }
+      ]
+     ]
+    }
+   ],
+   "utileria": [
+    {
+     "id": "balon",
+     "tipo": "balon",
+     "pos": [
+      30.2,
+      0.3,
+      1.5
+     ],
+     "mover": [
+      13,
+      0,
+      -19
+     ],
+     "arco": 9,
+     "anim": "rodar"
+    }
+   ],
+   "camara": {
+    "objetivo": [
+     [
+      31.5,
+      5.2,
+      0
+     ]
+    ],
+    "tipo": "M",
+    "ancho": 11.5,
+    "margen": 1.0,
+    "movimiento": "paneo_der",
+    "azimut": -30,
+    "elevacion": 10
+   },
+   "clima": "lluvia",
+   "inicio": 78.0,
+   "fin": 79.5
+  },
+  {
+   "n": 54,
+   "texto": "Because he was staring at me, grinning like an idiot.",
+   "escenario": "cancha",
+   "personajes": [
+    {
+     "id": "theo_f",
+     "pos": [
+      28,
+      0,
+      2
+     ],
+     "giro": -70,
+     "pose": "de_pie",
+     "cara": "sonrisa_enorme"
+    }
+   ],
+   "utileria": [],
+   "camara": {
+    "objetivo": [
+     [
+      28,
+      4.5,
+      2
+     ]
+    ],
+    "tipo": "M",
+    "ancho": 4.8,
+    "margen": 1.0,
+    "movimiento": "acercar_lento",
+    "azimut": -62
+   },
+   "clima": "lluvia",
+   "inicio": 79.5,
+   "fin": 81.0
+  },
+  {
+   "n": 55,
+   "texto": "The bar didn't climb.",
+   "escenario": "cancha",
+   "personajes": [],
+   "utileria": [
+    {
+     "id": "barra",
+     "tipo": "bateria",
+     "pos": [
+      14,
+      5.6,
+      0
+     ],
+     "params": {
+      "porcentaje": 2,
+      "ancho": 3.4,
+      "alto": 1.4
+     },
+     "anim": "quieto"
+    }
+   ],
+   "camara": {
+    "objetivo": [
+     [
+      14,
+      6.3,
+      0
+     ]
+    ],
+    "tipo": "M",
+    "ancho": 5.2,
+    "margen": 1.0,
+    "movimiento": "temblor"
+   },
+   "efecto": {
+    "tipo": "vibrar",
+    "en": "util:barra",
+    "fuerza": 0.2
+   },
+   "clima": "lluvia",
+   "inicio": 81.0,
+   "fin": 82.5
+  },
+  {
+   "n": 56,
+   "texto": "It EXPLODED. Green light everywhere.",
+   "escenario": "cancha",
+   "personajes": [
+    {
+     "id": "narrador",
+     "pos": [
+      12.3,
+      0,
+      0
+     ],
+     "giro": 30,
+     "pose": "saltar",
+     "cara": "susto",
+     "cambios": [
+      [
+       0.45,
+       {
+        "cara": "sonrisa_enorme"
+       }
+      ]
+     ]
+    },
+    {
+     "id": "theo_f",
+     "pos": [
+      15.7,
+      0,
+      0
+     ],
+     "giro": -30,
+     "pose": "saltar",
+     "cara": "susto",
+     "cambios": [
+      [
+       0.45,
+       {
+        "cara": "sonrisa_enorme"
+       }
+      ]
+     ]
+    }
+   ],
+   "utileria": [
+    {
+     "id": "barra",
+     "tipo": "bateria",
+     "pos": [
+      14,
+      6.6,
+      0
+     ],
+     "params": {
+      "porcentaje": 100,
+      "ancho": 3.4,
+      "alto": 1.4
+     },
+     "anim": "latir"
+    }
+   ],
+   "camara": {
+    "objetivo": [
+     [
+      14,
+      6.3,
+      0
+     ]
+    ],
+    "tipo": "M",
+    "ancho": 8.6,
+    "margen": 1.0,
+    "movimiento": "alejar_lento"
+   },
+   "efecto": {
+    "tipo": "destello_verde",
+    "en": "util:barra"
+   },
+   "clima": "lluvia",
+   "inicio": 82.5,
+   "fin": 84.0
+  },
+  {
+   "n": 57,
+   "texto": "The scoreboard shorted out.",
+   "escenario": "cancha",
+   "personajes": [],
+   "utileria": [
+    {
+     "id": "marcador",
+     "tipo": "marcador",
+     "pos": [
+      0,
+      0,
+      -8
+     ],
+     "params": {
+      "local": 0,
+      "visita": 9
+     }
+    }
+   ],
+   "camara": {
+    "objetivo": [
+     [
+      0,
+      8.2,
+      -8
+     ]
+    ],
+    "tipo": "M",
+    "ancho": 10.5,
+    "margen": 1.0,
+    "movimiento": "temblor"
+   },
+   "efecto": {
+    "tipo": "chispas",
+    "en": "util:marcador"
+   },
+   "clima": "lluvia",
+   "inicio": 84.0,
+   "fin": 85.5
+  },
+  {
+   "n": 58,
+   "texto": "They lost nine to nothing.",
+   "escenario": "cancha",
+   "personajes": [
+    {
+     "id": "f1",
+     "pos": [
+      -3.3,
+      0,
+      4.6
+     ],
+     "giro": 10,
+     "pose": {
+      "cuello": {
+       "x": -16
+      }
+     },
+     "cara": "triste"
+    },
+    {
+     "id": "f2",
+     "pos": [
+      -1.1,
+      0,
+      5.4
+     ],
+     "giro": 0,
+     "pose": {
+      "cuello": {
+       "x": -14
+      }
+     },
+     "cara": "llanto",
+     "anim": "llorar"
+    },
+    {
+     "id": "f3",
+     "pos": [
+      1.1,
+      0,
+      4.6
+     ],
+     "giro": 0,
+     "pose": {
+      "cuello": {
+       "x": -16
+      }
+     },
+     "cara": "triste"
+    },
+    {
+     "id": "f4",
+     "pos": [
+      3.3,
+      0,
+      5.4
+     ],
+     "giro": -10,
+     "pose": {
+      "cuello": {
+       "x": -12
+      }
+     },
+     "cara": "rabia"
+    }
+   ],
+   "utileria": [
+    {
+     "id": "marcador",
+     "tipo": "marcador",
+     "pos": [
+      0,
+      0,
+      -8
+     ],
+     "params": {
+      "local": 0,
+      "visita": 9
+     }
+    }
+   ],
+   "camara": {
+    "objetivo": [
+     [
+      0,
+      5.9,
+      4
+     ]
+    ],
+    "tipo": "M",
+    "ancho": 11.5,
+    "margen": 1.0,
+    "movimiento": "alejar_lento"
+   },
+   "luz": "atardecer",
+   "inicio": 85.5,
+   "fin": 87.0
+  },
+  {
+   "n": 59,
+   "texto": "We're at one hundred percent.",
+   "escenario": "parque",
+   "personajes": [
+    {
+     "id": "narrador",
+     "pos": [
+      -1.75,
+      0,
+      2
+     ],
+     "giro": 12,
+     "pose": {
+      "hombroIzq": {
+       "z": -148
+      }
+     },
+     "cara": "sonrisa_enorme",
+     "anim": "reir"
+    },
+    {
+     "id": "theo",
+     "pos": [
+      1.75,
+      0,
+      2
+     ],
+     "giro": -12,
+     "pose": {
+      "hombroDer": {
+       "z": 148
+      }
+     },
+     "cara": "sonrisa_enorme",
+     "anim": "reir"
+    }
+   ],
+   "utileria": [
+    {
+     "id": "barra",
+     "tipo": "bateria",
+     "pos": [
+      0,
+      6.9,
+      2
+     ],
+     "params": {
+      "porcentaje": 100,
+      "ancho": 3.4,
+      "alto": 1.4
+     },
+     "anim": "latir"
+    }
+   ],
+   "camara": {
+    "objetivo": [
+     [
+      0,
+      6.0,
+      2
+     ]
+    ],
+    "tipo": "M",
+    "ancho": 7.6,
+    "margen": 1.0,
+    "movimiento": "acercar_lento"
+   },
+   "luz": "atardecer",
+   "inicio": 87.0,
+   "fin": 88.5
+  },
+  {
+   "n": 60,
+   "texto": "Fort Maybe still has one nail.",
+   "escenario": "patio",
+   "personajes": [],
+   "utileria": [
+    {
+     "id": "clavo",
+     "tipo": "clavo",
+     "ancla": "clavo",
+     "params": {
+      "escala": 0.8
+     }
+    },
+    {
+     "id": "letrero",
+     "tipo": "letrero",
+     "ancla": "letrero",
+     "params": {
+      "texto": "FORT MAYBE",
+      "ancho": 6,
+      "alto": 1.8,
+      "poste": false,
+      "torcido": 6
+     }
+    }
+   ],
+   "camara": {
+    "objetivo": [
+     [
+      12,
+      10.8,
+      -5
+     ]
+    ],
+    "tipo": "M",
+    "ancho": 7.4,
+    "margen": 1.0,
+    "movimiento": "acercar_lento"
+   },
+   "luz": "atardecer",
+   "inicio": 88.5,
+   "fin": 90.0
+  },
+  {
+   "n": 61,
+   "texto": "And I check the bar every day now.",
+   "escenario": "patio",
+   "personajes": [
+    {
+     "id": "narrador",
+     "pos": [
+      -7.7,
+      0,
+      4
+     ],
+     "giro": 30,
+     "pose": "mirar_arriba",
+     "cara": "feliz"
+    },
+    {
+     "id": "theo",
+     "pos": [
+      -4.3,
+      0,
+      4
+     ],
+     "giro": -30,
+     "pose": "de_pie",
+     "cara": "feliz"
+    }
+   ],
+   "utileria": [
+    {
+     "id": "barra",
+     "tipo": "bateria",
+     "pos": [
+      -6,
+      5.8,
+      4
+     ],
+     "params": {
+      "porcentaje": 100,
+      "ancho": 3.4,
+      "alto": 1.4
+     }
+    }
+   ],
+   "camara": {
+    "objetivo": [
+     [
+      -6,
+      5.0,
+      4
+     ]
+    ],
+    "tipo": "M",
+    "ancho": 7.4,
+    "margen": 1.0,
+    "movimiento": "alejar_lento"
+   },
+   "luz": "atardecer",
+   "inicio": 90.0,
+   "fin": 91.5
+  }
+ ]
+}

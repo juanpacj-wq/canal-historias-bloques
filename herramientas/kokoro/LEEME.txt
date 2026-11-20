@@ -1,0 +1,30 @@
+Voz sintetica local del canal: Kokoro-82M (probada en el video 001).
+
+Que hay aqui
+.venv\       entorno de Python solo para Kokoro (no se sube al repositorio)
+modelos\     kokoro-v1.0.onnx (325 MB) y voices-v1.0.bin (28 MB) (no se suben)
+
+Como se usa
+herramientas\.venv\Scripts\python.exe herramientas\producir.py voz NNN
+(corre voz_kokoro.py con este entorno y sigue con ritmo, tiempos y subtitulos)
+
+Instalacion en un equipo nuevo, desde la raiz del repositorio
+python -m venv herramientas\kokoro\.venv
+herramientas\kokoro\.venv\Scripts\python.exe -m pip install kokoro-onnx soundfile
+curl.exe -sSL --fail --create-dirs -o herramientas\kokoro\modelos\kokoro-v1.0.onnx https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.0/kokoro-v1.0.onnx
+curl.exe -sSL --fail -o herramientas\kokoro\modelos\voices-v1.0.bin https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.0/voices-v1.0.bin
+
+Licencias
+Kokoro-82M v1.0, de hexgrad: Apache 2.0 (modelo y voces). https://huggingface.co/hexgrad/Kokoro-82M
+kokoro-onnx 0.6.1: MIT. La fonetizacion usa espeak-ng (GPL 3.0) empaquetado en espeakng-loader; no hay que instalarlo.
+SHA256 kokoro-v1.0.onnx: 7D5DF8ECF7D4B1878015A32686053FD0EEBE2BC377234608764CC0EF3636A6C5
+SHA256 voices-v1.0.bin: BCA610B8308E8D99F32E6FE4197E7EC01679264EFED0CAC9140FE9C29F1FBF7D
+
+Versiones probadas
+Python 3.13, kokoro-onnx 0.6.1, onnxruntime 1.32.0, soundfile 0.14.0, numpy 2.5.4.
+
+Datos medidos en el video 001
+Sintesis: unos 3 segundos de maquina por segundo de audio (con Studio abierto).
+af_heart sale a 185 palabras por minuto y ritmo.py la acelera 1,22 veces para llegar a 230.
+am_puck sale a 196 palabras por minuto y se acelera 1,14 veces.
+Nadie ha escuchado todavia el resultado para aprobarlo: la voz definitiva la decide el dueno.

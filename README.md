@@ -54,7 +54,8 @@ Fecha de la investigación: 12 de noviembre de 2026.
 | [docs/07-canal-y-cuenta.md](docs/07-canal-y-cuenta.md) | Guía paso a paso para crear la cuenta y el canal, configurarlo, solicitar la monetización, AdSense desde Colombia y el formulario fiscal. |
 | [docs/08-descubrimiento-y-metadatos.md](docs/08-descubrimiento-y-metadatos.md) | Cómo recomienda YouTube los Shorts, medición de los canales líderes, plantilla de metadatos y calendario de publicación. |
 | [docs/09-audio-voz-musica-efectos.md](docs/09-audio-voz-musica-efectos.md) | Voz sintética y propia, música y efectos con sus licencias, y la cadena de mezcla. |
-| [docs/10-produccion-en-paralelo.md](docs/10-produccion-en-paralelo.md) | Cómo llevar el proyecto al equipo de casa, validarlo y producir con varios chats a la vez. **Empieza por aquí cuando tengas el equipo.** |
+| [docs/10-produccion-en-paralelo.md](docs/10-produccion-en-paralelo.md) | Plan original para producir con varios chats a la vez. Escrito antes de abrir Studio; en parte superado por el 11. |
+| [docs/11-metodo-probado.md](docs/11-metodo-probado.md) | **El método real**, salido de producir el video 001: los siete pasos, lo que funcionó, lo que se descartó y los límites conocidos. |
 
 ## El kit de producción
 
@@ -64,23 +65,27 @@ Fecha de la investigación: 12 de noviembre de 2026.
 | [contexto/](contexto/) | Historial curado, memoria del proyecto y la conversación completa, sin datos personales. |
 | [CLAUDE.md](CLAUDE.md) | Reglas que lee cada chat de Claude Code: papeles, reclamo de videos, uso de Studio, camino de un video. |
 | [preparar-equipo.ps1](preparar-equipo.ps1) | Instala y comprueba todo en el equipo de casa. |
-| [arranque/](arranque/) | Cinco mensajes listos para pegar al abrir cada tipo de chat. |
+| [.claude/skills/producir-video/](.claude/skills/producir-video/SKILL.md) | La skill que sigue un chat para producir un video de punta a punta. |
+| [arranque/](arranque/) | Dos mensajes listos para pegar: chat productor y chat de mantenimiento. |
 | [guiones/](guiones/) | 25 guiones con lista de planos (`.md`) y narración para la voz (`.txt`). Índice y orden de producción en `guiones/INDICE.md`. |
-| [herramientas/](herramientas/) | Scripts probados: voz, ritmo, tiempos por palabra, subtítulos, montaje, hoja de contactos, control de calidad y reclamo de videos. |
-| [studio/](studio/) | Biblioteca Luau (elenco propio, caras, escenarios, luz, utilería, cámara) y script director. Sin probar en Studio. |
+| [herramientas/](herramientas/) | `producir.py` (voz, tiempos y montaje en una orden), la voz local Kokoro, y `studio/`: puente con Studio, revisión de planos, rodaje cuadro a cuadro, ayudas de puesta y efectos de sonido propios. |
+| [studio/](studio/) | Biblioteca Luau (elenco propio, caras, escenarios, luz, utilería, cámara) y director de planos. Validada en Studio con el video 001. |
 | [canal/](canal/) | Nombre recomendado con disponibilidad comprobada, textos del canal e imágenes (perfil, banner, marca de agua, plantilla de miniatura). |
 | [videos/](videos/) | Una carpeta de trabajo por video, con su `estado.md` y sus metadatos de publicación ya escritos (`metadatos/publicacion.txt`). Calendario de los primeros 25 días en `videos/CALENDARIO.md` y listas de reproducción en `videos/LISTAS.md`. |
 | [investigacion/](investigacion/) | Informe técnico del MCP de Studio y datos crudos de la competencia. |
 
 ## Siguiente paso
 
-1. Tú, cuando quieras: crear la cuenta y el canal con
+El video 001 ya está producido (2026-11-13) en
+`videos/001-friendships-have-a-battery/montaje/final.mp4`.
+
+1. Tú: verlo y escucharlo, y decidir la voz definitiva (hoy es Kokoro
+   `af_heart`; ver [docs/09](docs/09-audio-voz-musica-efectos.md)).
+2. Tú, cuando quieras: crear la cuenta y el canal con
    [docs/07-canal-y-cuenta.md](docs/07-canal-y-cuenta.md) y los textos e
-   imágenes de `canal/`. No depende del equipo de casa.
-2. Tú: elegir la voz ([docs/09](docs/09-audio-voz-musica-efectos.md)) y darle
-   una pasada al gancho y al remate de los primeros guiones.
-3. En el equipo de casa: seguir
-   [docs/10-produccion-en-paralelo.md](docs/10-produccion-en-paralelo.md).
+   imágenes de `canal/`.
+3. Para cada video siguiente: abrir un chat con
+   `arranque/2-chat-productor.txt`. El chat sigue la skill `producir-video`.
 
 ## Sobre la confiabilidad de los datos
 

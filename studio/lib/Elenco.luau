@@ -177,34 +177,45 @@ end
 -- Peinados de piezas. Medidas en radios de cabeza; +Z es la nuca (el personaje mira a -Z).
 local PELOS: { [string]: { any } } = {
 	ninguno = {}, calvo = {},
+	-- El "Casco" es una bola un poco mayor que la cabeza, corrida hacia arriba y hacia la
+	-- nuca: deja la cara libre y da una línea de pelo redonda (comprobado en Studio; las tapas
+	-- de bloque se veían como un sombrero cuadrado en los planos cercanos).
 	corto = {
-		{ n = "Tapa", tam = { 2.15, 0.7, 2.15 }, pos = { 0, 0.8, 0 } },
-		{ n = "Nuca", tam = { 2.15, 1.1, 0.6 }, pos = { 0, 0.3, 0.85 } },
+		{ n = "Casco", tam = { 2.24, 2.24, 2.24 }, pos = { 0, 0.36, 0.26 }, forma = "bola" },
 	},
 	largo = {
-		{ n = "Tapa", tam = { 2.15, 0.7, 2.15 }, pos = { 0, 0.8, 0 } },
-		{ n = "Espalda", tam = { 2.2, 2.6, 0.6 }, pos = { 0, -0.4, 0.9 } },
-		{ n = "LadoDer", tam = { 0.4, 1.7, 1.5 }, pos = { 1.0, 0, 0.2 } },
-		{ n = "LadoIzq", tam = { 0.4, 1.7, 1.5 }, pos = { -1.0, 0, 0.2 } },
+		{ n = "Casco", tam = { 2.26, 2.26, 2.26 }, pos = { 0, 0.36, 0.26 }, forma = "bola" },
+		{ n = "Melena", tam = { 2.1, 2.3, 1.5 }, pos = { 0, -0.75, 0.62 }, forma = "ovalo" },
 	},
 	coletas = {
-		{ n = "Tapa", tam = { 2.15, 0.7, 2.15 }, pos = { 0, 0.8, 0 } },
-		{ n = "ColetaDer", tam = { 1, 1, 1 }, pos = { 1.35, 0.2, 0.2 }, forma = "bola" },
-		{ n = "ColetaIzq", tam = { 1, 1, 1 }, pos = { -1.35, 0.2, 0.2 }, forma = "bola" },
+		{ n = "Casco", tam = { 2.24, 2.24, 2.24 }, pos = { 0, 0.36, 0.26 }, forma = "bola" },
+		{ n = "ColetaDer", tam = { 1.05, 1.05, 1.05 }, pos = { 1.3, 0.25, 0.35 }, forma = "bola" },
+		{ n = "ColetaIzq", tam = { 1.05, 1.05, 1.05 }, pos = { -1.3, 0.25, 0.35 }, forma = "bola" },
 	},
 	copete = {
-		{ n = "Tapa", tam = { 2.15, 0.7, 2.15 }, pos = { 0, 0.8, 0 } },
-		{ n = "Nuca", tam = { 2.15, 1.1, 0.6 }, pos = { 0, 0.3, 0.85 } },
-		{ n = "Copete", tam = { 1.6, 0.55, 0.6 }, pos = { 0, 1.2, -0.7 } },
+		{ n = "Casco", tam = { 2.24, 2.24, 2.24 }, pos = { 0, 0.36, 0.26 }, forma = "bola" },
+		{ n = "Copete", tam = { 1.5, 0.75, 1.0 }, pos = { 0.15, 1.12, -0.5 }, forma = "ovalo" },
+	},
+	rizado = {
+		{ n = "Casco", tam = { 2.24, 2.24, 2.24 }, pos = { 0, 0.36, 0.26 }, forma = "bola" },
+		{ n = "Rizo1", tam = { 1.1, 1.1, 1.1 }, pos = { -0.75, 1.0, -0.1 }, forma = "bola" },
+		{ n = "Rizo2", tam = { 1.2, 1.2, 1.2 }, pos = { 0, 1.2, 0.05 }, forma = "bola" },
+		{ n = "Rizo3", tam = { 1.1, 1.1, 1.1 }, pos = { 0.75, 1.0, -0.1 }, forma = "bola" },
+		{ n = "Rizo4", tam = { 1.1, 1.1, 1.1 }, pos = { -1.0, 0.45, 0.45 }, forma = "bola" },
+		{ n = "Rizo5", tam = { 1.1, 1.1, 1.1 }, pos = { 1.0, 0.45, 0.45 }, forma = "bola" },
+	},
+	mono = {
+		{ n = "Casco", tam = { 2.24, 2.24, 2.24 }, pos = { 0, 0.36, 0.26 }, forma = "bola" },
+		{ n = "Mono", tam = { 1.0, 1.0, 1.0 }, pos = { 0, 1.45, 0.45 }, forma = "bola" },
 	},
 	abuelo = {
-		{ n = "Nuca", tam = { 2.15, 1.0, 0.6 }, pos = { 0, 0.1, 0.85 } },
-		{ n = "LadoDer", tam = { 0.4, 0.9, 1.5 }, pos = { 1.0, 0.1, 0.2 } },
-		{ n = "LadoIzq", tam = { 0.4, 0.9, 1.5 }, pos = { -1.0, 0.1, 0.2 } },
+		{ n = "LadoDer", tam = { 0.95, 0.95, 0.95 }, pos = { 0.92, 0.25, 0.25 }, forma = "bola" },
+		{ n = "LadoIzq", tam = { 0.95, 0.95, 0.95 }, pos = { -0.92, 0.25, 0.25 }, forma = "bola" },
+		{ n = "Nuca", tam = { 1.7, 1.1, 0.9 }, pos = { 0, 0.1, 0.75 }, forma = "ovalo" },
 	},
 	gorra = {
-		{ n = "Tapa", tam = { 2.2, 0.75, 2.2 }, pos = { 0, 0.8, 0 } },
-		{ n = "Visera", tam = { 1.6, 0.2, 0.9 }, pos = { 0, 0.55, -1.4 } },
+		{ n = "Casco", tam = { 2.26, 2.26, 2.26 }, pos = { 0, 0.42, 0.2 }, forma = "bola" },
+		{ n = "Visera", tam = { 1.7, 0.18, 1.0 }, pos = { 0, 0.62, -1.25 } },
 	},
 }
 Elenco.PELOS = PELOS

@@ -1,0 +1,202 @@
+[
+ {
+  "archivo": "efectos/pop.wav",
+  "tiempo": 0.047,
+  "volumen_db": -8
+ },
+ {
+  "archivo": "efectos/pop.wav",
+  "tiempo": 2.36,
+  "volumen_db": -14
+ },
+ {
+  "archivo": "efectos/pop.wav",
+  "tiempo": 4.48,
+  "volumen_db": -12
+ },
+ {
+  "archivo": "efectos/sube.wav",
+  "tiempo": 6.94,
+  "volumen_db": -8
+ },
+ {
+  "archivo": "efectos/baja.wav",
+  "tiempo": 8.305,
+  "volumen_db": -9
+ },
+ {
+  "archivo": "efectos/campana.wav",
+  "tiempo": 11.972,
+  "volumen_db": -9
+ },
+ {
+  "archivo": "efectos/bip.wav",
+  "tiempo": 15.488,
+  "volumen_db": -12
+ },
+ {
+  "archivo": "efectos/bip.wav",
+  "tiempo": 15.916,
+  "volumen_db": -12
+ },
+ {
+  "archivo": "efectos/bip.wav",
+  "tiempo": 16.344,
+  "volumen_db": -12
+ },
+ {
+  "archivo": "efectos/bip_doble.wav",
+  "tiempo": 17.446,
+  "volumen_db": -17
+ },
+ {
+  "archivo": "efectos/bip_doble.wav",
+  "tiempo": 18.184,
+  "volumen_db": -17
+ },
+ {
+  "archivo": "efectos/pop.wav",
+  "tiempo": 18.84,
+  "volumen_db": -13
+ },
+ {
+  "archivo": "efectos/campana.wav",
+  "tiempo": 25.28,
+  "volumen_db": -10
+ },
+ {
+  "archivo": "efectos/golpe.wav",
+  "tiempo": 26.7,
+  "volumen_db": -8
+ },
+ {
+  "archivo": "efectos/pop.wav",
+  "tiempo": 28.48,
+  "volumen_db": -12
+ },
+ {
+  "archivo": "efectos/pop.wav",
+  "tiempo": 31.82,
+  "volumen_db": -11
+ },
+ {
+  "archivo": "efectos/alarma.wav",
+  "tiempo": 37.18,
+  "volumen_db": -10
+ },
+ {
+  "archivo": "efectos/apagado.wav",
+  "tiempo": 38.626,
+  "volumen_db": -8
+ },
+ {
+  "archivo": "efectos/pop.wav",
+  "tiempo": 45.46,
+  "volumen_db": -9
+ },
+ {
+  "archivo": "efectos/blip_sube_baja.wav",
+  "tiempo": 48.364,
+  "volumen_db": -10
+ },
+ {
+  "archivo": "efectos/pop.wav",
+  "tiempo": 50.96,
+  "volumen_db": -10
+ },
+ {
+  "archivo": "efectos/triste.wav",
+  "tiempo": 52.2,
+  "volumen_db": -10
+ },
+ {
+  "archivo": "efectos/corneta.wav",
+  "tiempo": 52.935,
+  "volumen_db": -11
+ },
+ {
+  "archivo": "efectos/golpe.wav",
+  "tiempo": 55.72,
+  "volumen_db": -8
+ },
+ {
+  "archivo": "efectos/alarma.wav",
+  "tiempo": 56.72,
+  "volumen_db": -10
+ },
+ {
+  "archivo": "efectos/bip.wav",
+  "tiempo": 57.704,
+  "volumen_db": -13
+ },
+ {
+  "archivo": "efectos/bip.wav",
+  "tiempo": 58.324,
+  "volumen_db": -13
+ },
+ {
+  "archivo": "efectos/bip.wav",
+  "tiempo": 59.026,
+  "volumen_db": -13
+ },
+ {
+  "archivo": "efectos/bip.wav",
+  "tiempo": 59.644,
+  "volumen_db": -13
+ },
+ {
+  "archivo": "efectos/bip.wav",
+  "tiempo": 60.262,
+  "volumen_db": -13
+ },
+ {
+  "archivo": "efectos/revelacion.wav",
+  "tiempo": 62.62,
+  "volumen_db": -9
+ },
+ {
+  "archivo": "efectos/golpe.wav",
+  "tiempo": 64.88,
+  "volumen_db": -9
+ },
+ {
+  "archivo": "efectos/patada.wav",
+  "tiempo": 79.488,
+  "volumen_db": -7
+ },
+ {
+  "archivo": "efectos/alarma.wav",
+  "tiempo": 83.532,
+  "volumen_db": -14
+ },
+ {
+  "archivo": "efectos/explosion.wav",
+  "tiempo": 84.54,
+  "volumen_db": -4
+ },
+ {
+  "archivo": "efectos/chispazo.wav",
+  "tiempo": 86.654,
+  "volumen_db": -8
+ },
+ {
+  "archivo": "efectos/triste.wav",
+  "tiempo": 87.83,
+  "volumen_db": -12
+ },
+ {
+  "archivo": "efectos/logro.wav",
+  "tiempo": 89.18,
+  "volumen_db": -8
+ },
+ {
+  "archivo": "efectos/pop.wav",
+  "tiempo": 90.283,
+  "volumen_db": -12
+ },
+ {
+  "archivo": "efectos/lluvia.wav",
+  "tiempo": 73.1,
+  "volumen_db": -15
+ }
+]

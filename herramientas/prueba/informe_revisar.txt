@@ -4,14 +4,14 @@
 [APROBADO] Códec de video: h264 yuv420p (se espera h264 yuv420p)
 [APROBADO] Códec de audio: aac 48000 Hz, 2 canales (se espera aac)
 [APROBADO] Inicio rápido (+faststart): el índice va al comienzo del archivo
-[APROBADO] Duración: 75.62 s; el límite de Shorts es 180 s (fuera del rango habitual del formato, 90 a 160 s)
+[APROBADO] Duración: 93.87 s; el límite de Shorts es 180 s
 [APROBADO] Sonoridad integrada: -14.0 LUFS (objetivo -14, margen 1)
-[APROBADO] Pico real: -1.6 dBTP (máximo -1)
-[APROBADO] Cortes detectados: 48 cortes; plano medio 1.54 s, plano más largo 3.62 s (media máxima 2.5 s)
-[APROBADO] Cortes contra planos.json: 48 de 48 cortes previstos coinciden (desvío máximo 7 ms)
-[APROBADO] Palabras por minuto: 231 (288 palabras en 74.8 s; se espera de 220 a 240)
-[APROBADO] Voz dentro del video: la última palabra termina en 74.84 s y el video dura 75.62 s
+[APROBADO] Pico real: -1.5 dBTP (máximo -1)
+[APROBADO] Cortes detectados: 60 cortes; plano medio 1.54 s, plano más largo 2.52 s (media máxima 2.5 s)
+[APROBADO] Cortes contra planos.json: 60 de 60 cortes previstos coinciden (desvío máximo 7 ms)
+[APROBADO] Palabras por minuto: 231 (358 palabras en 93.1 s; se espera de 220 a 240)
+[APROBADO] Voz dentro del video: la última palabra termina en 93.10 s y el video dura 93.87 s
 [APROBADO] Fuente de los subtítulos: ffmpeg encontró la fuente pedida en la carpeta de fuentes
-[APROBADO] Subtítulos en zona segura: ocupan x de 110 a 967 e y de 408 a 534; zona segura x de 60 a 1020, y de 250 a 1536
+[APROBADO] Subtítulos en zona segura: ocupan x de 80 a 1003 e y de 408 a 534; zona segura x de 60 a 1020, y de 250 a 1536
 [APROBADO] Subtítulos en el tercio superior: el centro más bajo queda en y = 482 (el tercio superior llega hasta 640)
 RESULTADO: APROBADO

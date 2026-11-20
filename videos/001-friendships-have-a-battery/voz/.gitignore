@@ -1,0 +1,3 @@
+﻿# Audio pesado que no va al repositorio
+*.wav
+alt_*/*.wav
